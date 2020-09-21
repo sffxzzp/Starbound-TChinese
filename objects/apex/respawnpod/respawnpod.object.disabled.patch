@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一個有製造最新的城市機器人科技的工廠。"},
+{"op":"replace","path":"/shortdescription","value":"猿人重生艙"},
+{"op":"replace","path":"/apexDescription","value":"如此低效的設計；有著幾乎單條的生產線。"},
+{"op":"replace","path":"/avianDescription","value":"熱的氣流從通風口噴出。溫暖，但是骯髒。"},
+{"op":"replace","path":"/floranDescription","value":"什麼來了？"},
+{"op":"replace","path":"/glitchDescription","value":"敬畏。因此我的同胞被創造出來了。"},
+{"op":"replace","path":"/humanDescription","value":"新的機器人不停地被滾動的傳送帶托出來。"},
+{"op":"replace","path":"/hylotlDescription","value":"看起來水密性不好。"}]

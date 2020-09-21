@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這種遠端觸發的慣性抑制器可以讓目標暫時鎖在原地。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "眩暈地雷"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "兩個指頭所指向的人的巨集偉的畫。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "巨集偉的畫"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這種藝術作品會被科技發展部禁止的。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "如果是克魯西斯在裡面的話這畫就更好了。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "看！可以獵殺兩個人類！真是難得！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "問題。這是追尋知識的繪畫形式麼？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這確實是一種罕見的發現。這看起來是一大幅畫上的一片。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這幅畫描繪的是知識？鮫人毫無疑問對這感到欽佩。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這是幅畫著漂浮著互相指著的人的畫。我不明白。"}]

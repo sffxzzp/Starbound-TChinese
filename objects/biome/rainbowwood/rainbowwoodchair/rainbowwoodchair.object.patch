@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一張由彩虹木製成的椅子。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "彩虹木椅"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一張彩虹木椅，非常適合孩子。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一張漂亮的彩虹椅。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "椅椅椅子五顏六色的，就像葉族人一樣！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "滿意。這種椅子包含了合適數量的色彩。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一張外觀整潔優雅的椅子。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "彩虹木製椅子。充滿正面氣息，適合進行冥想。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一張彩虹木椅？看起來是個不差於任何地方的好座位。"}]

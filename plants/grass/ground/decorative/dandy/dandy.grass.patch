@@ -1,0 +1,4 @@
+[{ "op" : "replace", "path" : "/description", "value" : "蒲公英。許一個願望。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "蒲公英。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族渴望刺的時光。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "陳述。蒲公英。"}]

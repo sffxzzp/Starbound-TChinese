@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "香蕉和胡蘿蔔切成塊混合放進碗裡，這是猿人最愛吃的零食。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "幸運羹"}]

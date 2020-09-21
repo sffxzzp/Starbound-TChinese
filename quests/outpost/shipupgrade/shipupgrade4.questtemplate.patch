@@ -1,0 +1,6 @@
+[{"op": "replace","path": "/title","value": "^green;雄鷹級飛船升級"},
+{"op": "replace","path": "/text","value": "你有八名船員了！恭喜你已經有足夠資格取得雄鷹級飛船的執照！帶著八個^orange;升級模組^reset;^green;去見企鵝皮特^reset;來升級你的飛船吧。"},
+{"op": "replace","path": "/completionText","value": "你真是很幸運能在太空擁有如此多的空間！完成這次升級後你的飛船就能多出一些空閒房間了。"},
+{"op": "replace","path": "/scriptConfig/portraits/questComplete/title","value": "企鵝皮特"},
+{"op": "replace","path": "/scriptConfig/turnInDescription","value": "提供^orange;升級模組^reset;給位於^orange;前哨站的^reset;^orange;企鵝皮特^reset;。"},
+{"op": "replace","path": "/scriptConfig/conditions/0/description","value": "尋找^orange;<itemName>^reset;：^green;<current> / <required>^reset;"}]

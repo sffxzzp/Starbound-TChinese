@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這個吊燈是用熟鐵做的。看起來很貴。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "懸掛守衛"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這是令人不安的景象。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這感覺…不對。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族不喜歡這個。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "警報。這是幹什麼的？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "至少可以說，這給了我一種不祥的預感。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這東西，被鎖在這裡，是一個真正可悲的景象。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這讓我毛骨悚然。"}]

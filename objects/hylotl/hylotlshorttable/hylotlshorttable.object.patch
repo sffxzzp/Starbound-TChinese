@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個高度只適於跪坐的桌子。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "傳統矮桌"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一張小桌子。看起來不怎麼牢靠。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這桌子那脆弱的桌腿看起來隨時都能咔嚓地折斷。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "舊桌子太弱了，還不夠葉族人用來剁肉的。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "評論。踢一腳這桌子就會分崩離析。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這桌子很容易晃動。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "有了這樣的桌子，每一頓飯都將是愉快的體驗。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我所見過最低的桌子。"}]

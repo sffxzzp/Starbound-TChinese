@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "從儲存的納尼特中建立一輛紅色噴漆的跑車。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "紅色跑車控制器"}]

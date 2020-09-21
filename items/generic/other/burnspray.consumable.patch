@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "能讓你暫時抵抗火焰。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "防火噴霧劑"}]

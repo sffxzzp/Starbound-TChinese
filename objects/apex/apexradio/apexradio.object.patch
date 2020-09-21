@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "收音機開著卻沒聲音。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "標配收音機"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "家裡的這些收音機大多是科技發展部用來發通告用的。有段時間反抗者們設法開了一家非法廣播電臺。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這貌似是臺收音機。翼族人的收音機是用水晶共振原理製成的。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "遠距離擴擴擴音裝置。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "有趣。一臺收音機，現在收不到訊號。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "調頻旋鈕被鎖在了一個位置。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "寂靜…"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "它看上去不工作了。"}]

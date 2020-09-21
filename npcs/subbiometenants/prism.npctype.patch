@@ -1,0 +1,5 @@
+[{"op": "replace","path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title","value": "窗戶銷售員"},
+{"op": "replace","path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle","value": "出售窗戶材料"},
+{"op": "replace","path": "/scriptConfig/dialog/merchant/start/default/default","value": ["用一些優雅的窗戶來提升你的家的品質吧！","讓光線照進房屋－裝扇窗戶！","家裡有窗戶的人過的更幸福，這是真的！","我出售窗戶的材料，今天就造一個明亮的家！"]},
+{"op": "replace","path": "/scriptConfig/dialog/merchant/welcome/default/default","value": ["你來了！你想買一些窗戶材料麼？","太棒了，現在也許你想看看我的窗戶？","我們到了－你想在我這裡買點玻璃做窗戶麼？"]},
+{"op": "replace","path": "/scriptConfig/dialog/merchant/end/default/default","value": ["如果你需要更多的窗戶，你知道在哪能找到我！","讓陽光照進來屋裡吧－期待下次相見！","我希望你能對所買的窗戶感到滿意！","稍候我們再繼續做生意吧！"]}]

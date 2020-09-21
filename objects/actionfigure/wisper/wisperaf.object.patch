@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "標籤上寫著，\"有些人認為低語精靈迷失了它們的靈魂，夜晚中精靈的光芒會使探險家迷失方向。\""},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "低語精靈手辦"}]

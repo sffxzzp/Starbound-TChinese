@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一把堅固的金屬椅。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "基礎金屬椅"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一把沒什麼特點的金屬椅。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一把簡單的金屬椅。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "金屬椅。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "無趣。一把金屬椅。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一把金屬椅。沒什麼好說的。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一個缺乏靈感的椅子。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "簡約的金屬椅。"}]

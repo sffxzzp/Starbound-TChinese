@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "會長出酥脆的鳥喙果。鼻孔部是最好吃的地方。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "鳥喙果種子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "鳥喙果酥脆得不尋常，不完全讓人愉快。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "有個老民間故事講道翼族人在宴會上吃鳥喙果…我喜歡那個故事。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "鳥鳥鳥喙果很脆，不像其他的嘴嘴嘴巴那樣柔柔柔軟。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "哲學。是鳥喙果像鳥喙，還是鳥喙像鳥喙果？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這莊稼長得像翼族人的臉。有點嚇人。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "鳥喙果美味得驚人。我們只能設想鳥喙在美味方面比它來說要差得遠。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我才不會想去誤食一個真鳥喙。"}]

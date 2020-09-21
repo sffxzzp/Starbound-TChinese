@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這些是從天花板上伸出的小根鬚。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "根鬚"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "根鬚擠壓著穿過了天花板。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "從天花板中生長出來的根鬚。也許有一天這地方會被它們覆蓋。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "生長了許多年的根鬚。就像葉族人。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "細心。這些是從天花板上伸出的根鬚。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這些根鬚就像棕色的觸手。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這些根鬚究竟能延伸多遠呢？它們又是屬於什麼植物的呢？"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這就是條根鬚。"}]

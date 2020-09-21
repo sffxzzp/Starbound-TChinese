@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個瀝青做的電腦控制檯。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "瀝青控制檯"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "只要這控制檯能用，誰管它用什麼做的。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "現在需要找到一個不用觸碰就能操作它的方法。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人按下按鈕。讓事事事情發生！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "印象深刻。看起來瀝青在科技中的應用比電子人以前估計的要更為重要。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一個用瀝青做的控制檯。多麼巧妙。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "對自然物質的應用再一次被推到它的潛能極限上。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這是個控制檯。等等…它是用瀝青做的？"}]

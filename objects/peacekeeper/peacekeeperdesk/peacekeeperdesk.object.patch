@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個圓桌，通常在和平衛士空間站中發現。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "和平衛士桌"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這張桌子的大小合適。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "有人把這張桌子保養的很好！"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族可以站在桌子上獲得戰術優勢。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "這當然是一張圓桌…我不知道還能說什麼。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這張大桌子擦得非常乾淨。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這張圓桌看起來非常適合玩A牌。"}]

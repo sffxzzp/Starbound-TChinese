@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "會長出美味的胡蘿蔔，它們是被人千里迢迢從地球穿越群星帶來的。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "胡蘿蔔種子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "把胡蘿蔔煮了之後味道有點像香蕉…不過味道沒那麼好。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "樸實的胡蘿蔔。做湯不錯。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "有時候胡蘿蔔會長彎。這讓葉族人發笑。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "認可。胡蘿蔔脆脆的讓人愉快。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "胡蘿蔔。把它作為食物或插在雪人上都很完美。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "如果味道溫和，胡蘿蔔就是用途廣泛的蔬菜。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "平凡的胡蘿蔔。"}]

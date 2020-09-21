@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個適合圖書館或書桌的學習燈。非常好。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "學習燈"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這盞燈使我想起了我的學生時代。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我從未見過這麼奇特的燈。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "綠光讓讓讓葉族想睡覺。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "滿意。這燈在開啟的時候有機械的點選聲。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我現在需要的只是一本好書。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "不是出自鮫人的原始設計，但仍然有護眼供能。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "綠色的燈光很適合讀書。"}]

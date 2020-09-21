@@ -1,0 +1,11 @@
+[{ "op" : "replace", "path" : "/description", "value" : "提供特殊的熱量和良好的室外烹飪環境。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "奈米爐"},
+{ "op" : "replace", "path" : "/interactData/paneLayoutOverride/windowtitle/title", "value" : "奈米爐"},
+{ "op" : "replace", "path" : "/interactData/paneLayoutOverride/windowtitle/subtitle", "value" : "高科技野炊"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一種行動式環保野營爐。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個方便的野營爐。從此再也沒有碳足跡！"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人害怕爐爐爐子會燙到葉族人。葉族人還是會用它。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "讚賞。這爐子節省大量能源。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "太棒了，就像在未來野營一樣！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "花哨但實用的野營爐。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一個方便的小爐子，但是並不能比過真正的篝火。"}]

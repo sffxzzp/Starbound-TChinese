@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一份禮物！用紅紙包起來並用金絲帶裝飾！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "紅色禮包"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個禮包！這是給我的嗎？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我想知道這是給誰的禮物。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人想要禮物！能能能刺的一切東西！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "周到。禮物裡面的東西一直在躲著我。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "禮包！禮物！包裝紙！棒！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一個包裝精美的禮物。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "有人花費了大量的精力在包裝上。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這個主機執行一個叫《殭屍香蕉別墅》的遊戲。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "黃色街機遊戲機"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "《殭屍香蕉別墅》是個經典的猿人遊戲！在我小的時候它可把我嚇著了。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "《殭屍香蕉別墅》――你得要射殺所有的殭屍來保護別墅裡的香蕉。有趣的想法。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "為啥要保保保護噁心的香蕉？直接吃殭屍就好了！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "不安。《殭屍香蕉別墅》裡的這種生物在現實存在嗎？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "《殭屍香蕉別墅》，讓猿人將香蕉的防衛視為他們的最優先任務吧。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我理解保護自家住宅的做法，但我覺得《殭屍香蕉別墅》過度暴力了。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "《殭屍香蕉別墅》？說實話，我都對殭屍遊戲開始感到厭煩了。"}]

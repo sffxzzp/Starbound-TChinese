@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一盞家用的高高的木製燈。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "木落地燈"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個高大的木燈。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "電力驅動的木製高落地燈。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "高高的燈發發發出溫暖的光。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "滿意。簡約的落地燈。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "漂亮的落地燈。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "迷人的落地燈。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這盞燈真可愛。"}]

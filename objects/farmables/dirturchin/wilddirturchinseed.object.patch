@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "泥海膽柔軟潮溼，有些寡淡無味。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "泥海膽種子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "比起蔬菜來更像是便宜而普遍的雜草。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "如果沒什麼可吃的，那就吃泥海膽吧。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "泥海膽看起來像小小圓圓的仙人掌掌掌。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "無興趣。一種既沉悶，又普遍的植物。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "統計學證實，百分之九十三的人類有泥海膽恐懼症。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "為什麼還會有人吃這個，這超出了我的理解範圍。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "泥海膽沉悶得就像生長它們的泥土一樣。"}]

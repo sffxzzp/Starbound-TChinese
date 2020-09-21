@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "辦公室佈告欄"},
+{ "op" : "replace", "path" : "/description", "value" : "上面釘有紙的掛板。"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這個板上有各種各樣的小資訊。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一塊看起來不重要的資訊板。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "滿是彩色紙的木板。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "困惑。這塊板上有零散的資訊，可能對某人很重要。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這看起來是張貼提醒的好地方。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這些檔案的排列看起來很有藝術感。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我看來像是個告示牌。"}]

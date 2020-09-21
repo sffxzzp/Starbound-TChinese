@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "由鈦製成幷包裹保暖用的樹葉，這種頭部裝備能在長時間的狩獵中保護你。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "遊牧頭冠"}]

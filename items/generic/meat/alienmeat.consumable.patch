@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一塊奇怪又難嚼的外星生肉。或許我得先把這玩意弄熟了。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "生肉排"}]

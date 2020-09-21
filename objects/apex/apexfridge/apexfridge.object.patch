@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "冰箱，適合冷藏食物。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "標準配置冰箱"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "猿人很少能剩下食物。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個食物儲藏裝置。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉人喜喜喜歡冷藏食物。保持肉質新鮮，太太太棒了。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "決心。我定要將這個冰箱洗劫一空！"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一臺冰箱！冷藏食物之首選。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我們在海下不需要這種儀器。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這裡面冰冷的溫度能讓食物保鮮更長時間。"}]

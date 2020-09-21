@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個堅硬的鐵塊。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "鐵塊"},
+{ "op" : "replace", "path" : "/glitchdescription", "value" : "滿意。很高興能看到建築用的鐵。"},
+{ "op" : "replace", "path" : "/florandescription", "value" : "冰冷的金屬鐵方方方塊。"},
+{ "op" : "replace", "path" : "/novakiddescription", "value" : "這些方塊是由鐵製成的。"}]

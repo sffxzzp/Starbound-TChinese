@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "標籤上寫著，\"由阿斯拉·諾克斯製造和駕駛的實驗機甲套裝。\""},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "絕唱手辦"}]

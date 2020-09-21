@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這是對船舶部件的收藏。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "船廠垃圾"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "看上去是對船舶部件的收藏。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這是一堆船舶部件。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "船舶部部部件。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "有趣。一堆船舶部件。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這是一堆船舶部件。部分碎片看起來是戰鬥損毀產生的。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這是對船舶部件的收藏。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一堆搶救得來的船舶部件。"}]

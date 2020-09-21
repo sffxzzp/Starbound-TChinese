@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一盞漂亮的鐵質壁燈"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "古典燈"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "用於將光照在畫上。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這鑄鐵工藝超過了翼族矛匠的水準。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "沒有火在裡裡裡面燒燒。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "疑惑。設計和目標不相符。燈為火焰提供了氧氣，但是，這個裝置是完全用電力維持的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一個電燈。看起來是想做成火焰的樣子。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這個燈是設計來裝火的結果卻完全是通電的。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這燈很像是酒吧裡的東西。"}]

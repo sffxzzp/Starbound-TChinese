@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一份被包裹在汙穢的粘液泡沫裡的藍圖。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "藍圖泡"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一份被包裹在汙穢粘液裡的藍圖。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "某種藍圖被包在裡面。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "那裡面是是是藍圖？"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。它似乎包含一份藍圖。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "某種藍圖在這東西里面！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我覺得葉族人已經為他們的設計找到了適合的容器。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這東西看起來確實不實用。"}]

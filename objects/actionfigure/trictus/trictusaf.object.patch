@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "標籤上寫著，\"它靠向地下挖掘得到的少量水分兒存活。\""},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "虹冠掘株手辦"}]

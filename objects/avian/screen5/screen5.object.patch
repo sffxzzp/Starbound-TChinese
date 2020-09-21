@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這些是…腦電波？是的。我沒猜錯。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "腦部活動顯示屏"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這些看起來是腦電波…是從哪裡來的。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "腦電波。據說為翼族技術供能的水晶有著自我意識。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "波型線線線。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "觀察。這似乎是腦電波。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "腦電波？是誰的呢。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "看起來像是思維圖形。但這究竟是誰的？"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這些波形究竟意味著什麼？"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這個架子上擺放著一些物品。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "木質儲物架"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這個架子上擺著一些有用的物品。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "有些醫療用品擺在這個架子上。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "架子有好東西西西。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "驚訝。這有些有用的物件擺在架子上。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這個架子上擺滿了東西，但我敢打賭它還能塞更多。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這個架子上擺著些有用的物品。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我肯定能好好利用架子上的物品。"}]

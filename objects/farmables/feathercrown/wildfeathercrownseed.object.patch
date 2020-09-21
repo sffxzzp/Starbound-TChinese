@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "羽毛般的萌芽在羽冠花頂上飄蕩。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "羽冠花種子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "看上去像胡蘿蔔與翼族人的雜交種。至少可以說很少見。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "翼族中的美味。只有頂級菜式才會用上羽冠花。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "看看看上去像個鳥人，嚐嚐嚐起來像吃土。鳥人更更更好吃。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "哲思。可能終有一天，羽冠花會產生情感，然後一飛沖天。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "長羽毛的胡蘿蔔。不管是吃起來還是撓癢癢都很棒。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "羽毛在水下並不繁盛，羽冠花也一樣。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "有著羽毛般驚喜的水果。"}]

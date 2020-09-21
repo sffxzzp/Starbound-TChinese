@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一張大宣傳報，放在人人都能看見的地方。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "科技發展部宣傳報"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這張宣傳報的目的就是為了讓每個路人都看見它。是有關大猿人和科技發展部的資訊。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這張報紙大得足夠能在路過時看見，我想這才是重點。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人想知道有多少樹樹樹被砍伐來做這個紙質標標標誌。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "害怕。這張宣傳報的大標題和氣勢雄偉的照片，似乎是為了讓人們因為恐懼而順從。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這張宣傳報沒有多少能讓你思考的內容。更多的是關於大猿人和科技發展部的宣傳。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這張宣傳報可能開始看起來像是通知，但很明顯，這是恐嚇。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "如果這是一張懸賞海報我可能會更感興趣，但它不是。"}]

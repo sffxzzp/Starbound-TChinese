@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "百味果，有一百種不同味道的植物。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "百味果種子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "他們說這種東西有一百種不同味道。其中有香蕉味嗎？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "風味滿溢的植物。特別是種子很好吃。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "這這這水果風味濃郁。沒有一種味道吃吃吃起來像肉肉肉。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "困惑。這吃起來像…花椰菜。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "如果味道包括在內，這水果可以夠我過五十個五蔬果日。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "百味果是有很多味道的水果。它是海下的異國美食。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這水果味道太多了。沒法嚐出來任何一種。"}]

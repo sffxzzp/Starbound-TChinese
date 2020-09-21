@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這幅畫好像在講如何生火。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "原始的火焰畫"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這些是說明書嗎？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "那是煙還是火？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "年輕的葉族人按這這這方法學習點火。很多葉族人被燒傷了。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "擔心。這似乎是在介紹生火的步驟。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一張關於如何生火的富有教育意義的畫。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "葉族人教他們年輕的族人如何生火對鮫人來說也許很有利。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一幅展示瞭如何生火的畫。"}]

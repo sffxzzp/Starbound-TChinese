@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個鮫人的雕像，有著印斯茅斯長相。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "鮫人砂岩雕像"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一座鮫人雕像。藝術家完美把握住了鮫人的冷笑。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個石頭鮫人。她不以為然地注視著我。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "粘粘粘糊糊的魚雕雕雕像。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "批評。很顯然鮫人的生活缺乏時尚感。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一個暴躁的鮫人。雕刻的很精確。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一座莉莉仙雕像，她是鮫人的傳奇公主。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "某個鮫人的老舊沙雕像。"}]

@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個萌萌噠鼻子。應該是有趣的。其實不然。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "堵嘴鼻"}]

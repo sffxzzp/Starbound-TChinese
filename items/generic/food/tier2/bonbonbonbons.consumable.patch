@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "我明白了！錦上添花的唯一方法就是讓它變多。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "雙份跳跳糖"}]

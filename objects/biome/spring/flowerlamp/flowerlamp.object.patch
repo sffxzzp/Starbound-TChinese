@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一盞藍色花燈。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "懸掛花燈"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一盞優美宜人的燈。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這盞燈創造一個令人放鬆的氣氛。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "花花花朵是燈燈燈。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "輕鬆。電子人享受這花與燈的結合。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一盞置於花朵中的燈，太巧秒了！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一盞用藍色花朵製成的燈。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一盞漂亮的小燈。我喜歡它。"}]

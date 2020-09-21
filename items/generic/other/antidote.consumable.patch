@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "用來止毒。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "解毒劑"}]

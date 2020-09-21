@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個汙水管。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "外牆管道"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個功能性強卻不衛生的管道。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個汙水管，我不想讓我的羽毛沾到太多！"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "汙汙汙水管。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "觀察。一個汙水管。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一條管道。看起來有點…汙穢。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一條下水道管道。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "就是條管道。希望別有什麼小東西藏在裡面。"}]

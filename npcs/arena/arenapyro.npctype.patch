@@ -1,0 +1,7 @@
+[{"op": "replace","path": "/scriptConfig/dialog/attack/default/default","value": ["燃燒把！","在火焰面前顫抖吧！","你將灰飛煙滅！","你正面對著聖殿騎士煉獄的怒火！"]},
+{"op": "replace","path": "/scriptConfig/dialog/reattack/default/default","value": ["又一次，面對我的怒火吧！"]},
+{"op": "replace","path": "/scriptConfig/dialog/killedTarget/default/default","value": ["火焰帶來生命，且帶走生命！","掌控火焰者強大無比！","灰飛煙滅！"]},
+{"op": "replace","path": "/scriptConfig/dialog/lostTarget/default/default","value": ["我的火焰無處不在！"]},
+{"op": "replace","path": "/scriptConfig/dialog/outOfSight/default/default","value": ["躲藏沒有意義！"]},
+{"op": "replace","path": "/scriptConfig/dialog/cheerOn/default/default","value": ["前進！"]},
+{"op": "replace","path": "/scriptConfig/dialog/cantReach/default/default","value": ["你不可能逃脫我火焰的圍剿！"]}]

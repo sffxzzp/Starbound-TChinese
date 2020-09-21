@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "看上去很昂貴的木製辦公桌。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "木桌"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個堅實的木桌子。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個用來工作的桌子。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人不坐坐坐桌桌桌子！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "平靜。處理資料的地方。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一個漂亮的木製辦公桌。我沒有太多需要做的紙面上的工作。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一張完成寫作任務的桌子。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我沒多少要坐在桌子邊上的時間。"}]

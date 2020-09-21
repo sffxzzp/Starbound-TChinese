@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個帶著寵物的猿族的靜謐的畫。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "寵物畫"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "我們猿人喜歡黃鼠狼。他們比貓有個性多了！"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這種影象是為了崇拜這種動物？還是隻是擁有？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "一種毛茸茸的零零零食！葉族想把它從畫裡撕撕撕下來！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "印象深刻。這動物在畫這幅畫的時候肯定已經養了好久了。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這是個貂，還是白鼬？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這幅畫像與融入自然，或者至少，融入這個動物。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "對於一幅畫來說，真是個看起來有趣的寵物。"}]

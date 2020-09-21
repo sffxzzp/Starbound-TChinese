@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "沒有什麼會真的消失，只要我們還記得它。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "守護之花"}]

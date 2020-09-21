@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一塊高折射稜鏡。似乎有什麼東西在裡面。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "稜晶"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "那是隻企鵝嗎？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "有隻企鵝被包裹在這個晶體裡了。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "石頭裡有東西！葉族人想想想要打碎石頭！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "困惑。怎麼會有一隻企鵝在這個稜鏡裡面？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一隻驚呆(石化)的企鵝。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一隻稜鏡裡的企鵝。究竟應該從哪裡開始解開這個謎？"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "嘿，小傢伙。"}]

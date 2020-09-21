@@ -1,0 +1,5 @@
+[{"op": "replace","path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title","value": "萊西亞商人"},
+{"op": "replace","path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle","value": "出售太空傢俱！"},
+{"op": "replace","path": "/scriptConfig/dialog/merchant/tout/hylotl/default/0","value": "歡迎來萊西亞公司分部！"},
+{"op": "replace","path": "/scriptConfig/dialog/merchant/start/hylotl/default/0","value": "歡迎來萊西亞公司分部, 您需要點什麼？"},
+{"op": "replace","path": "/scriptConfig/dialog/merchant/end/hylotl/default/0","value": "請切記: “沒有萊西亞的人生沒有意義。”"}]

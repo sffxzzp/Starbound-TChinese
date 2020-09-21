@@ -1,0 +1,7 @@
+[{"op": "replace","path": "/scriptConfig/dialog/converse/default/default","value": ["嘿，老大！","我會守衛這裡的安全，不用擔心！","我正在巡邏！嗯，並不全是。但我至少在尋找壞人。","整個區域都在我的保護之下！老大，你不用擔心！"]},
+{"op": "replace","path": "/scriptConfig/dialog/converse/avian/default","value": ["這裡是軍官<selfname>！我來這裡是為了保護，也是為了服務。","沒有什麼比幫助當地社群更好的了，是不老大？","我正在留意危險。老闆，我會保證你的安全！"]},
+{"op": "replace","path": "/scriptConfig/dialog/converse/apex/default","value": ["只要這裡沒有麻煩，我就不需要用槍了。","維和人員的生活…比我一直以來生活的更安靜。","希望作為和平衛士可以讓我為宇宙帶來一些好處。"]},
+{"op": "replace","path": "/scriptConfig/dialog/converse/hylotl/default","value": ["我作為和平衛士的職責先於其他所有人。我相信你明白。","儘管我欽佩和平主義，但有些情況無法用言語來解決。","在這個宇宙中有許多不公正需要糾正。我有很多工作要做。"]},
+{"op": "replace","path": "/scriptConfig/dialog/converse/floran/default","value": ["葉族來幫忙！","葉族來這射壞傢伙夥夥。","葉族是來這裡幫忙的。"]},
+{"op": "replace","path": "/scriptConfig/dialog/converse/glitch/default","value": ["急切。野獸和惡棍都不會給這個地方帶來傷害！","英勇。我的目標很明確—任何來到這裡的惡人都會很快感到抱歉！","緊張。 我之前沒有做過野外工作—如果我失敗了怎麼辦？"]},
+{"op": "replace","path": "/scriptConfig/dialog/converse/novakid/default","value": ["你好，老大！我把自己發癢的手指放在手槍上，以防止麻煩的出現。","我在這裡維護和平。你沒有什麼可擔心的！","你好，老大！我希望你能遠離麻煩！開個玩笑，我知道你不會的。"]}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個小型的部族掛毯。看起來很柔軟！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "多彩小掛毯"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個掛毯。非常柔軟。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "折翼者掛毯所使用的面料需要先被處理得極其柔軟才行。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "軟軟軟得像花花花瓣。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "觸控。這面料經過了無數次軟化處理。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "感覺好像這面料被人苦心軟化處理過。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "舒適溫暖。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這掛毯極為柔軟。"}]

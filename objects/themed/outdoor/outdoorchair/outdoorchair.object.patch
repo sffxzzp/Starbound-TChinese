@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一張座椅，能經受惡劣天氣的考驗。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "戶外椅"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一把堅固的椅子。它看上去被製造得經久耐用。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一張戶外椅，我想知道它有多舒適？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "戶戶戶外椅。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "安逸。一張座椅，能經受惡劣天氣的考驗。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一張戶外椅。出門在外的良好座位。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "它沒有什麼格調，但是至少它很實用。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一把不錯的椅子。"}]

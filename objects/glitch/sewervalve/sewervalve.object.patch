@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個排汙閥。轉起來很有趣。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "排汙閥"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個閥門。按預期運作著。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個閥門。轉動正常。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "轉轉轉動著的輪子。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "取悅。這個閥門轉動著。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一個閥門。如果我轉動它會發生什麼事呢？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一個閥門。一個簡單卻高效的物品。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我想要轉動這裡的閥門來看看會發生什麼！"}]

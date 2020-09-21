@@ -1,0 +1,3 @@
+[{"op": "replace","path": "/paneLayout/beamToShip/caption","value": "傳送至飛船"},
+{"op": "replace","path": "/paneLayout/makeLeader/caption","value": "選為隊長"},
+{"op": "replace","path": "/paneLayout/removeFromTeam/caption","value": "移出隊伍"}]

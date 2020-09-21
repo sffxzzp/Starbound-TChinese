@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個基本的採礦鑽頭，必要時可以作為武器。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "鑽頭機甲臂"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一盞紙質吊燈。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "標配吊燈"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "眾所周知，這些吊燈很容易著火。然而它們的主人卻不被允許更換它們。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這燈是用紙罩著的。看起來不是很安全。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人覺得這燈像太太太陽一樣在在在燃燒。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "謹慎。紙面溫度過高。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一盞紙吊燈。但願它是安全的。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "鮫人也使用紙和火做的類似的燈。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一種吊在天花板上的紙燈。"}]

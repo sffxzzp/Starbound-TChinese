@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一尊猜測克魯西斯神可能的形象的雕像。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "克魯西斯蛇形雕像"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這座雕像的基座述說了一些關於翼族之神克魯西斯背後的神話。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這個蛇形的雕像可能是克魯西斯一種形態。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "這雕雕雕像看起來像是葉族人想要狩獵的大傢伙。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "害怕。這尊雕像描繪了克魯西斯神的威猛的蛇型狀態，以及有關他的故事。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這尊古老的雕像描繪了克魯西斯和他的故事。他看起來很長，像一條蛇。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這些文字訴說了克魯西斯堅定的意志。他的身軀長而彎曲，就像一條河流。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我不想和這條蛇發生糾紛…或著它是一隻鳥？"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個有三個分支的金燭臺。上面的蠟看起來根本不會融化。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "古典燭臺"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "底座看起來是純金，但是火焰是電子的。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "臘看起來並不會融化，火焰也不燙。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人害害害怕火焰。但是這這這火焰並並並不燙。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "反思。這火焰只是忽明忽暗的燈泡。這不會讓蠟燭變得有點假麼？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我覺得這些蠟燭只是些閃爍的燈泡。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "科技與工藝的結合。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "奇特的蠟燭，火焰居然是假的。"}]

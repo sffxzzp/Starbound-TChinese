@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "小型聚光燈"},
+{ "op" : "replace", "path" : "/description", "value" : "為了吸引人注意力的燈。"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這是盞小型聚光燈。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這是盞小型聚光燈。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "聚聚聚光燈。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "客觀。一盞聚光燈。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一盞非常普通的聚光燈。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一盞普通的聚光燈。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一盞聚光燈。"}]

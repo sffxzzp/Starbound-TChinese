@@ -1,0 +1,11 @@
+[{ "op" : "replace", "path" : "/interactData/paneLayoutOverride/windowtitle/title", "value" : "廚房灶臺"},
+{ "op" : "replace", "path" : "/interactData/paneLayoutOverride/windowtitle/subtitle", "value" : "舒適的家庭式烹飪"},
+{ "op" : "replace", "path" : "/description", "value" : "一個有著爐頂的堅固櫥櫃。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "廚房灶臺"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這個灶臺的表面不是很標準，但我喜歡它。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個簡陋但好用的灶臺。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "小小小房子的火火火爐。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "愉快。一個樸素的廚房裡井然有序的烹飪區。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "為一間舒適房子準備的一個可愛的小灶臺。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "水壺哼唱著怡人的曲調，邀我來做客。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "為一間舒適房子準備的烹飪區域。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個完美的小雪人。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "雪人"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個可愛的雪人。你今天過得好嗎？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個雪人。他看上去缺少了什麼。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人狩獵雪雪雪人。雪雪雪人並不在意。雪雪雪人塌了。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "嫉妒。電子人的身體有太多稜角，讓我難以做出一個精確的雪電子人。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一個雪人！踢掉它腦袋的誘惑…不斷湧現…"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這個雪雕像終有一天會融化，變成水迴歸它來的地方。它還有一個可愛的胡蘿蔔鼻子。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這是一個雪雕塑嗎？還是說有人在雪風暴裡站了太久？"}]

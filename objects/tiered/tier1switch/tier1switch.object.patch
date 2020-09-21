@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個堅固的鐵拉桿。非常適合拉動。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "鐵拉桿"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這個拉桿能用來做許多事情。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個實用的拉桿。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人拉動拉桿。搞出事事事！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "難忘。一個簡單的拉桿就能控制那麼多不同的機械。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一個拉桿。它就是等著去被拉動的。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一個拉桿。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一個拉桿，我想去拉動它！"}]

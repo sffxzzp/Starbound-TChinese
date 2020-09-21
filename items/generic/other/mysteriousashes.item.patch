@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這是垃圾袋的神秘內容的全部。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "神秘灰燼"}]

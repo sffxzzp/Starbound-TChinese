@@ -1,0 +1,6 @@
+[{"op": "replace","path": "/title","value": "大地守護團"},
+{"op": "replace","path": "/text","value": "死裡逃生的畢業典禮。"},
+{"op": "replace","path": "/completionText","value": "這麼多年的訓練終於沒有白費—你活著度過了畢業典禮"},
+{"op": "replace","path": "/scriptConfig/descriptions/graduate","value": "參加你的畢業典禮"},
+{"op": "replace","path": "/scriptConfig/descriptions/matterManipulator","value": "拿起物質槍"},
+{"op": "replace","path": "/scriptConfig/descriptions/escape","value": "逃出這場大災難"}]

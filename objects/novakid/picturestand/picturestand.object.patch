@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個新奇的牛仔照相板。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "照相板"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "如果這個支撐物的目的是為了營造一個有效的偽裝，那肯定是失敗了。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我站在這裡把臉往洞裡一伸就可以進行角色扮演了？多麼有趣！"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人搞不懂它。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "迷惑。這個東西是用來幹什麼的？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一個新奇的照相板？讓我把臉伸過去看看，然後某人就可以給我拍照了！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這並不是很有趣。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "咦嗬！如果我站在這後面去，我看上去就像一名神槍手！"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這是一個電子人貴族的雕像。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "電子人小雕像"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "我不確定為什麼會有人制造這個。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個迷人的小人。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "是是是玩偶嗎？"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "愉快。電子人服飾的完美再現。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一個迷人的小雕像。有一個綠色小絲絨披肩。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "工藝有些粗糙，但它本身就很迷人。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這小雕像看起來很花哨。"}]

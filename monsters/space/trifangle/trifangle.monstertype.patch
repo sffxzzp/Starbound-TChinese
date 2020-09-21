@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "三角尖"},
+{ "op" : "replace", "path" : "/description", "value" : "一個咄咄逼人的、尖尖的空間機器。他們確實有個性—個個都是獨一無二的憤怒。"}]

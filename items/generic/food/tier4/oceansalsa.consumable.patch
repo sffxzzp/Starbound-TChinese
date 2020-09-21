@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一罐用熱帶水果與海洋水果製成的清爽的辣調味汁。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "海洋辣調味汁"}]

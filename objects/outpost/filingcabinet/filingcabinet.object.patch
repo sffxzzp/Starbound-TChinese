@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "檔案櫃。已分類好。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "檔案櫃"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "用來存放檔案的櫃子。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "存放檔案的櫃子。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "裝滿資資資料的櫃子。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "著迷。一個被可能已經分類好的文件所填滿的檔案櫃。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "檔案櫃。或許我該偷看一下。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "簡約但很實用的儲物解決方案。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "組織文書工作的櫃子。"}]

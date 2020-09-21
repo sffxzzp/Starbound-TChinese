@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一張纏繞著藤蔓的木製桌子。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "藤蔓桌子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "藤蔓已經覆蓋了除了桌面以外的整張桌子。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這些植物看起來很安全，但我還是不想在上面吃東西。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人喜歡覆蓋植物的桌子子子。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "擔心。這些植物已經很久沒人照料了，它們完全覆蓋了這張桌子。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這張桌子看上去很漂亮，除了那些瘋狂生長的藤蔓。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這些植物讓這張桌子在很大程度上惡化了。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "到底是什麼亂七八糟的玩意在這張桌子上瘋長？"}]

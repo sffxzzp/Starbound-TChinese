@@ -1,0 +1,11 @@
+[{"op":"replace","path":"/interactData/paneLayoutOverride/windowtitle/title","value":"心型熔爐"},
+{"op":"replace","path":"/interactData/paneLayoutOverride/windowtitle/subtitle","value":"分享愛"},
+{ "op" : "replace", "path" : "/description", "value" : "一個用於製作贈送給關心之人禮物的熔爐。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "心型熔爐"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一張配備有製作節日裝飾的工具的桌子。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這個節日的桌子讓我傳播節日的歡樂。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族製作紅色的蝴蝴蝴蝶結。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "喜慶。我要製作最美味的水果糖。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我可以用這張桌子做出節日裝飾。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "用這張桌子，我能製作最通俗的節日裝飾。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這裡的這張桌子可以讓我製作節日用物品！"}]

@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "精煉日耀石礦主要可以在灼熱星系的行星上發現。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "精煉日耀石"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一張用葉子和樹根做成的傳統的床。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "沼澤床"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這張床和那些科技發展部大規模生產的傢俱相比，簡直是兩個世界的產物。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "睡在純天然的被褥中是個美妙的主意。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人睡睡睡在葉葉葉子和樹樹樹根裡。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "睏倦。我可以在這小睡一會兒。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我完全贊成與自然融為一體，但對這張床我還是抱有疑慮。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "如果這張床是用海藻做的，那它會更誘人一些。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "手工製作的床褥有一種特別強烈的魅力。"}]

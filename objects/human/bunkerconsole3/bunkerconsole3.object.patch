@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "看起來像是一個被人員備忘錄資訊佔滿的螢幕。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "小型控制檯"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "螢幕上有條資訊。“親愛的馬喬莉。請記得把貓放出去。愛你的戴維”有意思。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "螢幕上有條資訊。“昨天的毒性試驗的結果不明確。請安排更多的試驗體。克萊納醫生”好吧。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "呃呃呃…螢幕上有條高亮的資訊。“下班後買點雞蛋”。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好管閒事。螢幕上有條資訊。“讓我來向你解釋一下你為什麼是錯的…”郵件的內容接下來就陷入了莫名其妙的爭吵和咆哮之中。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "從該郵件的內容來看，某人成了著名的‘reply-all’醜聞的犧牲品。可憐的傢伙。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "從這些內容中可看出，人類在透過計算機進行爭論的時候，只是一頭扎進螢幕和鍵盤裡。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一臺個人計算機，我不是個喜歡窺探別人隱私的人。"}]

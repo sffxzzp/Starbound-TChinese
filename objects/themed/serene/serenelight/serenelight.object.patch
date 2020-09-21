@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一盞發光的寧靜燈。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "寧靜燈"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "奇怪的設計，儘管如此確實是個有用的光源。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "小小的一盞燈就發出了大量的光芒。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "即使開著好久了，燈摸著依依依然涼涼的。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "平靜。這盞燈發出了柔和的光芒。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一盞古怪的燈。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "所有的光源從它們自己的角度來看都有其獨到的美。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "外形古怪的一盞燈。"}]

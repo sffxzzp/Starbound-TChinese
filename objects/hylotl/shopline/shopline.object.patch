@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個標誌，指明瞭在哪裡排隊付款結賬。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "結帳臺標誌"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "我向來不喜歡排隊等候。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這個標誌指明瞭在哪裡排隊付款結賬。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "居然有人期望葉族人因為這個傻缺標誌就乖乖排隊嗎？"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "苦惱。我不喜歡排長隊。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "在太空裡還要排長隊結帳，哈？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這個標誌指出了在哪裡排隊付款結帳。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我是否該站在這排隊呢？為什麼我要乖乖排隊？"}]

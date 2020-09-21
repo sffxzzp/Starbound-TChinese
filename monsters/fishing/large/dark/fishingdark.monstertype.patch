@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "暗影寶石水母"},
+{ "op" : "replace", "path" : "/description", "value" : "它身體的大部分都是由腦質組成的，被一層厚厚的前端外殼保護著。"}]

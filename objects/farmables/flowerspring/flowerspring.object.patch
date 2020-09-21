@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一朵有甜甜香氣的春日花朵。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "春日花朵"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一朵春日的花。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一朵可愛的春日花朵。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人可以用用用這朵花讓衣服有不同的顏色色色。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "愉快。可愛的春日花朵。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "春日花朵，只有在溫度適宜時才會生長。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "雅之春花。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一把這樣的花瓣足夠我做染料了！"}]

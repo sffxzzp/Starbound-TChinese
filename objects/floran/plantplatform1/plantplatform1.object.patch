@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "用大型原木組裝成的施工平臺。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "大型木製腳手架"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這些原木被組裝起來支撐巨大的重量。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這些裝配看起來像是用來建造一個大型建築物的。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人站站站在巨大的平臺上，跳到毫無防防防備的敵人身上。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。葉族人是怎麼搬動這些巨大的原木的？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "如果我用它來做遊戲，將會是一個平臺遊戲。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一個結構非常堅固的施工平臺。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "許多原木的堆疊在一起使人能夠站在上面。"}]

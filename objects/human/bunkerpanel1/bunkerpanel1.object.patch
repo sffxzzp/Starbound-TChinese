@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這個面板似乎監測一些模糊的環境資料。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "環境資料面板"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這似乎是一個顯示區域性亞質子變化的面板。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "資料正被廣播至該螢幕，顯示許多測量結果。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人沒時間看這些小字字字。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "困惑。該面板正在展示非常小的環境變化。有什麼目的？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "有人在這個螢幕的幫助下做了很多模糊的資料分析。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "關於外部環境的資料。測量的變化水平微小。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我確信這是這些資料對於某些人肯定很有參考價值。反正和我沒關係。"}]

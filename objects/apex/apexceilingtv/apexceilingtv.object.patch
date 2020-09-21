@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個令人毛骨悚然的監視器. 一張臉以眼睛幾乎察覺不到的速度在螢幕上閃爍。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "閃爍吊頂電視"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "每個猿人家裡都有一臺這樣的電視，播的盡是些充斥著“教育意義”的節目。如果你看得足夠久，你也許能看到你自己…在看電視的樣子。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "翼族人的電視畫面還沒有達到如此高的清晰度。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "圖片盒子好好好閃啊。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "同情。這些生物甚至還不如電子人自由。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這宣傳真直接。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這些猿人和我一樣身處困境。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我不認為這上面是在播娛樂節目。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這種自動門是用某種防彈材料製成的。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "大氣密艙"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "氣閘。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "氣閘。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "這是是一個氣閘。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "欣賞。一個堅固的氣閘。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "氣閘。有用的！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一個基礎氣閘。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "看起來像一個氣閘。"}]

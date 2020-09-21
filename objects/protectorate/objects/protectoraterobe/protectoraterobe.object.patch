@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "先任大守護者的長袍。別緻！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "守護團長袍展示櫃"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這件長袍肯定是用昂貴的材料製作而成的。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "前任大守護者的長袍。看上去很舒適。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "大號的紅色長袍。看上去有點笨拙！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "細心。我們現任大守護者不穿像這樣的長袍。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一件很久以前大守護者穿過的老式長袍。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一件優雅的鮮紅色長袍。現代的守護者不穿這種款式。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "高貴階層才會穿戴的服裝。"}]

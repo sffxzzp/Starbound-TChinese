@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "荊棘手雷"},
+{ "op" : "replace", "path" : "/description", "value" : "可怕的是製作這個只要一些火藥粉和一個果實。"}]

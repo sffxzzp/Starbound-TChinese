@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一張從高折射玻璃裁下來的光滑的桌子。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "稜鏡桌"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "我擔心會在這麼幹淨的桌面上撒出點什麼。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這一片做工很好，確實。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人不能藏在桌子下面，桌子鎮是太太太令人分分分心了！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "激動。我可以在這上面放些好裝飾！"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這是張上等的用餐的桌子。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這張桌子裡閃耀著七色光。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我可以在這上面吃早飯，我就告訴你這麼多。"}]

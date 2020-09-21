@@ -1,0 +1,6 @@
+[{"op": "replace","path": "/gui/windowtitle/title","value": "武器升級臺"},
+{"op": "replace","path": "/gui/windowtitle/subtitle","value": "在這裡升級你的武器！"},
+{"op": "replace","path": "/gui/essenceCostDescription/value","value": "需要精華"},
+{"op": "replace","path": "/gui/btnUpgrade/caption","value": "升級"},
+{"op": "replace","path": "/gui/cancel/caption","value": "取消"},
+{"op": "replace","path": "/gui/emptyLabel/value","value": "你沒有任何可以升級的武器！"}]

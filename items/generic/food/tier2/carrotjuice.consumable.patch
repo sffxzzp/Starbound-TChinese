@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "液體形式的胡蘿蔔。令人驚訝的甜，不出所料的富含營養。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "胡蘿蔔汁"}]

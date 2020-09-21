@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一臺正在播報新聞的電視機。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "大堂電視"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一臺正在播放著詳實、公正的新聞的電視。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一臺掛在牆上的電視機。聲音被關掉了。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "電視節目中人們正在激烈地討論。沒聲音真是太糟了。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "感興趣。哦哇！渦輪鞋現在推出綠色和洋紅色兩種款式了。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "正在播放新聞頻道，但是聲音被關掉了。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一欄正在報道這顆星球上最新事態發展的新聞頻道。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一塊電視顯示屏。總是在播放同一個新聞頻道。"}]

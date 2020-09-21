@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個大型現代抽屜櫃。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "大型時尚抽屜櫃"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個笨重的抽屜櫃。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "相當大的抽屜櫃。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "大大大抽屜櫃櫃櫃，很適合用來藏東西。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "滿足。一個大抽屜櫃。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一個大抽屜櫃。終於，一個可以容納我所有衣服的地方！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一個大型抽屜櫃。平庸的設計感。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "儲存間總是有用的。"}]

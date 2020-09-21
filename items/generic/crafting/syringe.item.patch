@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這可以用來製造興奮劑。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "醫用注射器"}]

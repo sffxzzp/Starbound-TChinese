@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "用鐵製作出來的，這條精良而舒適的褲子的命名有點尷尬。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "水塘褲子"}]

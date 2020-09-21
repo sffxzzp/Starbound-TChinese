@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這似乎是一個翼族頭骨。完美的帽子！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "翼族頭骨面具"}]

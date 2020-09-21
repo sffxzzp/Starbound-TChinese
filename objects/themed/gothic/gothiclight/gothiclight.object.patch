@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "蠟燭的燈光，以最可怕的方式向外發散著。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "哥特式燭臺"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個精緻的哥特式臺座。頭骨的部分則是太令人遺憾了。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "沒有什麼地方比盛放頭骨的臺座更能述說主人的驕傲了。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人同同同樣也把那些砍砍砍下來的頭中最中意的放在臺座上。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "讚歎。一個很有價值的臺座。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這顯然是把他人放在臺座上的一種方法…"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一個非常有哥特風的臺子。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我在想有這樣一個玩意兒在你腦袋裡是啥感覺。"}]

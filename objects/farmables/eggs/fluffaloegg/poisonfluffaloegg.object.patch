@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "可以孵化出脆弱的毒系蓬蓬牛犢－發育完全後會成為毒液樣本的不錯來源。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "毒系蓬蓬牛蛋"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一枚“毒系蓬蓬牛蛋”。無論是蛋還是裡面的蓬蓬牛都不會毒害你。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這是一枚毒系蓬蓬牛蛋。毒系蓬蓬牛比聽起來要和善得多。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "大大的毒系蓬蓬牛蛋裡有小小的毒系蓬蓬牛。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "著迷。我希望小毒系蓬蓬牛能快點被孵出來。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一枚有毒的蛋！哦等等…一枚毒系蓬蓬牛蛋。聽起來好多了。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這枚特別明亮的蛋裡會孵出一隻毒系蓬蓬牛。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這是一隻毒系蓬蓬牛蛋。但是並沒有毒，只是裡面有隻大大的家畜。"}]

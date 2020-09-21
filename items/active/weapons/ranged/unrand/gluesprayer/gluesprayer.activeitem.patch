@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "噴出用於減緩敵人的粘性泡沫！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "噴膠機"}]

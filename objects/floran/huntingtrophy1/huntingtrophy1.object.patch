@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "裱著頭骨的圓形飾板。它的眼睛在盯著你…"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "裱著頭骨的圓盤"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一顆裱著的頭骨。很嚇人。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一顆頭顱，也許來自以前的某些獵物。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人喜歡展示示示獵獲的獵物。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "厭惡。這個頭被當作一種戰利品來展示。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "看著這件東西讓我心驚肉跳。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這真是一種對謀殺的骯髒炫耀手段。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我確信我會討厭和這位老兄一樣結束生命。"}]

@@ -1,0 +1,2 @@
+[{"op": "replace","path": "/scriptConfig/dialog/attack/default/default","value": ["攻擊！"]},
+{"op": "replace","path": "/scriptConfig/dialog/attack/human/default","value": ["你可從沒面對過像我這樣厲害的匪徒！","你可能以前和一些小混混戰鬥過，但我可不一樣！","你會帶著千倉百孔的身體離開這！","你竟敢來這裡挑戰我？你知道我是誰嗎？！"]}]

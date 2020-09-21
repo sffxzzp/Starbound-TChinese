@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個科技發展部的鎖櫃。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "實驗室鎖櫃"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "我想知道里面是否藏著什麼秘密。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "裡面會有值錢的東西嗎？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "三光光！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "興奮。裡面有好玩的東西？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一個實驗室鎖櫃。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "裡面可能會有些有用的東西。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一個鎖櫃。裡面會裝著什麼？"}]

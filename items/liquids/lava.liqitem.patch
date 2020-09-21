@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "岩漿"},
+{ "op" : "replace", "path" : "/description", "value" : "一單位冒泡、熾熱的岩漿。"}]

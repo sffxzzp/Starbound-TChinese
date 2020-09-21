@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個垃圾桶。根本就是一堆垃圾。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "垃圾桶"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個垃圾桶。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個用來裝扔掉的東西的容器。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "垃垃垃圾日！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。一個電子人夥計…或者說是一個垃圾桶。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一個垃圾桶。無論何地它們都是如此有用。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一個處理垃圾的容器。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一點用沒有，就是個垃圾桶。"}]

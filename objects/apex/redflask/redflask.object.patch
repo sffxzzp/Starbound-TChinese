@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個裝滿紅色液體的燒瓶。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "紅色燒瓶"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "聞起來甜甜的。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這個混合物聞起來味道不錯，但光是氣味是無法引誘到我的。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "聞起來甜甜甜甜的液體。葉族人更喜歡開開開胃的食物。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "懷疑。沒有活性成分。可能是安慰劑。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這聞起來像橘味可樂。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這香甜醉人的氣息。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "紅色風味。"}]

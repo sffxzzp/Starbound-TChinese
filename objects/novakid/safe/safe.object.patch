@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個小小的、堅固的鋼鐵保險箱。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "保險箱"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個保險箱。可以輕易沉入水底。為更高的安全性而設計。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "就算它可以讓東西更加安全，為什麼你會需要它呢？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "一個保保保險箱。讓珍寶遠遠遠離他他他人的魔手。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "自信。這是一個實用的保險箱。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我可以用這個來保證東西的…安全。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一個保險箱。對於阻擋不速之客很有用。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這個可以阻止這些小生物偷走我的戰利品！"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一滴汙穢的粘液泡沫。呸！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "粘液泡"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一團腐臭的粘液。我到底應該如何儲存它？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一大團粘液，這東西為什麼會存在呢？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "像樹樹樹液。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "厭惡。一大團汙穢的黏液。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一塊巨大的凝膠。我有點想捅破它。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "如果你也有兩棲動物的面板，就會知道處理粘液泡是多麼難受。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我覺得這東西會派上用場的。"}]

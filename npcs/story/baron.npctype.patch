@@ -1,0 +1,7 @@
+[{"op": "replace","path": "/npcname","value": "拜隆"},
+{"op": "replace","path": "/scriptConfig/dialog/baron/start/default/default","value": ["友善。你好，陌生人！歡迎光臨我的城堡！","我一直在等待著你的到來…從你穿過大門的那一刻開始！哈哈哈！","注意。那是什麼？你有個請求？我後面那件東西？哦，那個啊…"]},
+{"op": "replace","path": "/scriptConfig/dialog/baron/showRelic/default/default","value": ["沒錯，我在若干年前找到了它。你不能拿走它；它很漂亮，我也很喜歡它。","傲慢。好啦！再見吧，陌生人！"]},
+{"op": "replace","path": "/scriptConfig/dialog/baron/alerted/default/default","value": ["警覺。你聽到了嗎？","那些穿斗篷的混混！又回來了！這都第四次了！","決定。這樣，我們來做筆交易；你幫我擺脫掉這些可惡的邪教徒的話，我就把這個閃亮的飾品給你。"]},
+{"op": "replace","path": "/scriptConfig/dialog/baron/finalWaveComplete/default/default","value": ["難忘。真是出色的表現！我還懷疑我又要遭受一次他們的舊地重遊呢…唔，你讓我想起了我風華正茂的時候。","你當然已經贏得了你的飾品！","震驚。天上那東西是什麼？！","無語。…"]},
+{"op": "replace","path": "/scriptConfig/dialog/baron/missionComplete/default/default","value": ["鼓舞。帶上這個神器，也帶上我吧。","我有個你能用的傳送門。我會和你一起過去，我覺得這筆交易需要梳理一下。","沉思。而且，這裡太無聊了。"]},
+{"op": "replace","path": "/scriptConfig/dialog/baron/beamOut/default/default","value": ["振奮。向著偉大的未知出發！"]}]

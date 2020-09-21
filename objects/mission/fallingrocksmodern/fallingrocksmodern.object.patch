@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個落石的警告標誌。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "落石警告標誌"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這個標誌在明顯在警告“落石危險”！"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個落石警告標誌。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "一個不不不穩定的落落落石標標標誌。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "擔心。也許這代表這個地方是不安全的？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一個落石，為什麼就沒有一個洞穴能安全一次？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "也許作者試圖透過這個警告他人。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "最好要提防前方的落石。"}]

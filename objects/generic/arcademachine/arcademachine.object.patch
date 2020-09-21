@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一臺老式街機。這一臺正在執行一個叫“超級特拉爾加衝擊波２”的遊戲。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "街機"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這是一個名為超級特拉爾加衝擊波２的太空對戰模擬遊戲。我很高興從來沒遇到過真正的飛船大戰。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "超級特拉爾加衝擊波２滿滿的都是在星際引發戰爭的故事。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "嘭嘭嘭！葉族人在超級特拉爾加衝擊波２中擊墜了所有的飛飛飛船。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。超級特拉爾加衝擊波２最高積分玩家的縮寫是“ＣＦ”。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "超級特拉爾加衝擊波２！這是個傳統的彈藥地獄遊戲。我很高興我不用在現實中去射擊別的飛船！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "在超級特拉爾加衝擊波２中，你將在小行星和敵方飛船中爆破潛行以求得生存。太可怕了。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這是個叫超級特拉爾加衝擊波２的遊戲。沒有什麼比永恆不變的優良太空槍戰更棒的了。"}]

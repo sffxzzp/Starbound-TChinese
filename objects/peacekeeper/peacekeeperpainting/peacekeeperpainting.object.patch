@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一幅永恆的、朦朧的海灘日落的酷炫的畫。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "和平衛士畫"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這是一件令人愉快的藝術品。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "作為翼族，我總是喜歡對太陽的藝術描繪。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族看到有樹，葉族認可了。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "冷靜。這幅畫中的場景喚起了一種永恆的感覺。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "日落和棕櫚樹，粉紅色的。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "相當令人愉快的色彩漸變。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一個漂亮且永恆的場景，不是嗎？"}]

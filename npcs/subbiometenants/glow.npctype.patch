@@ -1,0 +1,5 @@
+[{"op": "replace","path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title","value": "燈具商人"},
+{"op": "replace","path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle","value": "出售各式各樣你所需的光源"},
+{"op": "replace","path": "/scriptConfig/dialog/merchant/start/default/default","value": ["照亮夜晚！用我的產品驅逐黑暗！","隧道盡頭有盞燈！而我就是賣這個的！","別害怕黑暗，照亮它們！","什麼？你需要一些裝飾用的燈？你來對地方了！","你的家需要一些漂亮的燈？哦，那當然！","我這兒出售燈具－別忘了這點！","不要讓黑暗阻止你實現夢想的腳步！","你家裡需要更亮一些麼？為什麼不買點燈？","有什麼比燈更酷的？當然沒有！"]},
+{"op": "replace","path": "/scriptConfig/dialog/merchant/welcome/default/default","value": ["歡迎來我的店鋪！你可以在這裡買一些漂亮的燈！","太好了－現在，你願意看看我儲藏的燈麼？","我們到了－你願意給你自己家裡添些燈具麼？"]},
+{"op": "replace","path": "/scriptConfig/dialog/merchant/end/default/default","value": ["當你需要燈的時候隨時來找我！","別害怕黑暗！當你需要燈的時候隨時來找我！","期待下一次交易！","和你做生意很高興！","如果你需要燈的話記得來逛逛！","如果你需要燈的話別忘記回來看看！","歡迎下次再來！"]}]

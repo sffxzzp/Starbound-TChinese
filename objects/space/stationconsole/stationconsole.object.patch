@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "小型終端，有一個緊湊的顯示屏。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "空間站控制檯"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這個緊湊的終端有一個小顯示屏。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這個終端不需要一堆按鈕，只是最基本的。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族想在這個控制檯按按鈕。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "感興趣。這個控制檯似乎是為特定的目的而設計的，沒有很多按鈕。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "帶有附加顯示屏的小型控制檯。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這個小控制檯只有它需要的按鈕，我確信它有明確的用途。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這個控制檯上有幾個小按鈕。"}]

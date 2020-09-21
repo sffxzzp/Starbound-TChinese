@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個適合葉族的機體，由葡萄和回收的機甲部件製造。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "魔像機體"}]

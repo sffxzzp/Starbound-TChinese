@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/apexDescription", "value" : "這塊銘牌很明顯在描述某種鮫人藝術。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個研究鮫人外形的課題…上面寫著V：女性的十項研究。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "銘牌上的文字字字很無聊。儘管它們閃閃發光光光。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "感興趣。這塊銘牌有關於藝術的名字和日期。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "上面寫著某些關於鮫人學的東西。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這塊小小的銘牌上寫著‘女性鮫人研究學’"},
+{ "op" : "replace", "path" : "/description", "value" : "女性鮫人的十項研究"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "銘牌"}]

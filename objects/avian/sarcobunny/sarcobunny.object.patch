@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "帶你的兔子一起去來世有問題嗎？"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "兔子石棺"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "為什麼這個木乃伊石棺是兔子的形狀？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個給罪人和異教徒使用的木乃伊石棺。裡面的翼族人將在來世失去翅膀。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "長耳耳耳朵，死得久。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "觀察。儘管這個木乃伊石棺的外形設計如此，裡面躺著的依然是翼族人。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一個兔子形狀的木乃伊石棺！真可愛！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這木乃伊石棺上的水晶看起來把石棺封死了。在石棺關上的那一刻，裡面的人是活著嗎？"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一個翼族木乃伊石棺。但為什麼是兔子形狀的？"}]

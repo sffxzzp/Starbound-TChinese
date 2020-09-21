@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "古代平臺"},
+{ "op" : "replace", "path" : "/description", "value" : "一種由制石科技製造的古老平臺。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "困惑。這種古老平臺中所蘊含的科技令我費解。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "用奇奇奇怪的科技製造的平臺。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "看起來製作這種平臺使用了一些奇怪的科技。"}]

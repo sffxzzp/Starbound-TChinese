@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "可以發射三組遠端制導導彈的重型機甲臂。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "制導導彈機甲臂"}]

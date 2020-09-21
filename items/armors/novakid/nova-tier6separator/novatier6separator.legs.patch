@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "牧馬人之褲，為硬漢牧馬人而生。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "牧馬人褲子"}]

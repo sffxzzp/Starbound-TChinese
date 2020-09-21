@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "小心！電弧！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "觸電警告標誌"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "天知道科技發展部在研究時耗多少電，常常整個的猿人村落都會斷電。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這看起來是個警告。要變天了？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "電會生火。葉族人怕火。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "謹慎。即使是電子人的迴路也擋不住一股強大電流的衝擊。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "高電壓！我最好小心點"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "當鮫人剛從海里誕生的時候，就有很多因電流產生的不幸。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "觸電警告標誌。我看最好還是小心點。"}]

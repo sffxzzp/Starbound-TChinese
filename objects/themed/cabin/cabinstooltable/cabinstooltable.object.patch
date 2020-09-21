@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個小型的、三條桌腿的木桌。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "小木屋凳子桌"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "如果是金屬製作的，它會更堅固。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個相當不錯的小桌子。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族自自自己可能忘扔哪了。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "高興。這個小桌子可以有用的東西放在上面。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "小木桌。它所需要的是一本書，或是一盞燈。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這張小桌子看起來像半成品。也許一桶油漆會有幫助。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我想用醇打這樣的東西。"}]

@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "只有足夠身份的人才能穿。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "畫素英雄褲子"}]

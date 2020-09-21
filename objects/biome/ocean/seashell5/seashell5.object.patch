@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個貝殼！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "貝殼"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "貝殼裡有時會有寶藏。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "貝殼是自然界真正的寶藏。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "貝殼可以打打打碎！裡面有什麼呢？"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "傷感。打碎貝殼是一個恥辱。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這貝殼曾經是一個外星生物的家。現在，它裡面有個畫素！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一個貝殼，對我們所有人來說都是來自海洋的反思。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "只要它們變成畫素，我不介意打碎幾個貝殼。"}]

@@ -1,0 +1,7 @@
+[{"op": "replace","path": "/scriptConfig/dialog/merchant/start/default/default","value": ["嗯，你需要什麼？","有什麼吸引你的麼？","我們來交易吧！","看看吧！","我們賣的貨物都是最好的。","我知道我這裡有一些對你有用的東西。"]},
+{"op": "replace","path": "/scriptConfig/dialog/merchant/start/avian/default","value": ["嗯，你需要什麼？","有什麼吸引你的麼？","我們來交易吧！","看看吧！","我們賣的貨物都是最好的。","我知道我這裡有一些對你有用的東西。"]},
+{"op": "replace","path": "/scriptConfig/dialog/merchant/end/default/default","value": ["當你需要更多補給時來找我們吧！","如果你還需要什麼，就來找我！","如果你有畫素，我們就有你需要的一切。"]},
+{"op": "replace","path": "/scriptConfig/dialog/merchant/end/avian/default","value": ["當你需要更多補給時來找我們吧！","如果你還需要什麼，就來找我！","如果你有畫素，我們就有你需要的一切。"]},
+{"op": "replace","path": "/scriptConfig/dialog/merchant/follow/default/default","value": ["來交易的嗎？跟我來。","想買些東西嗎？我可以幫助你，跟我來。","啊，你要買東西，是嗎？這邊走。"]},
+{"op": "replace","path": "/scriptConfig/dialog/merchant/welcome/default/default","value": ["到這裡來！","那麼，你要買些什麼呢？","請進！"]},
+{"op": "replace","path": "/scriptConfig/dialog/merchant/tout/default/default","value": ["想買點東西？我能為您提供服務。","如果你想買什麼東西的話，找我好了！"]}]

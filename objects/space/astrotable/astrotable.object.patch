@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個堅實的、裝在地板上的工作表面。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "天文桌"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "工業用的桌子。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這張桌子上有條條紋。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "只是是金屬桌。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "冷漠。這張桌子不起眼。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這張桌子是固定在地板上的，否則我想它可能翻倒。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "安裝在地板上的金屬桌子。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "用金屬做的小桌子。"}]

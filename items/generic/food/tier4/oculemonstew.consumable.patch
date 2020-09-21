@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一碗眼球菜與肉末燉成的濃郁的、有些黏糊糊的湯。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "燉眼球菜"}]

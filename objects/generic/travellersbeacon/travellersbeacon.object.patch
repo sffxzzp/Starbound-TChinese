@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個業餘旅行者用於記錄地質資訊的機器。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "旅行者儀表"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個記錄了地質資料的粗製濫造的裝置。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這個裝置能將克魯西斯的神諭傳遍星海麼？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "燈和移動的資料。無聊！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "迷人。這個裝置用於測量當地大氣水平。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這種劣質機器顯然正在記錄有關這個星球的資訊。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一臺構造粗劣的機器。鮫人收集類似資訊的話會探索自然。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這麼些個小玩意是幹什麼用的？"}]

@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "珊瑚啁啾魚"},
+{ "op" : "replace", "path" : "/description", "value" : "它感到幸福的時候會唧唧直叫。它把自己當成是一隻鳥了嗎？"}]

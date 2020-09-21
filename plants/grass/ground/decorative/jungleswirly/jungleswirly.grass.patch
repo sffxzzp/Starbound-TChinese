@@ -1,0 +1,4 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個奇異的叢林花。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "叢林花。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "花讓葉族想起家的感覺。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "陳述。花原產於熱帶叢林。"}]

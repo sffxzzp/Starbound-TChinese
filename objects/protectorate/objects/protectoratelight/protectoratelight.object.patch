@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這盞熒光燈也有過風光的日子。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "壞掉的熒光燈"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "燈光無力地閃爍著。也許它還能搶救一下。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這盞燈幾乎完全損壞了。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "閃爍著的燈光在嗡嗡作響。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "難過。這盞熒光燈幾乎完全故障了。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一盞壞掉的燈，微微地閃著光。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這盞燈看起來並沒有在正常運作。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這盞破裂的燈閃爍的亮度甚至不及一根蠟燭。"}]

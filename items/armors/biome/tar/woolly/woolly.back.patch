@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這條毛茸茸的尾巴不會對保持平衡起什麼幫助，但是會讓你看起來有點兒像只長毛象！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "史前毛絨尾巴"}]

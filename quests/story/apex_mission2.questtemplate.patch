@@ -1,0 +1,6 @@
+[{"op": "replace","path": "/title","value": "取得猿人神器"},
+{"op": "replace","path": "/text","value": "我擔心^orange;猿人神器^reset;已被放置在^orange;科技發展部的據點^reset;裡。進入那裡可不是一件簡單的事，親愛的。到那裡請^green;千萬小心^reset;，科技發展部是很兇狠殘忍的。"},
+{"op": "replace","path": "/completionText","value": "我很高興我們的組織正在茁壯成長。我們不斷地在聚集盟友，共同奮鬥。就如同一個新的大地守護團…"},
+{"op": "replace","path": "/scriptConfig/missionRadioMessage/text","value": "我已接收到了^orange;科技發展部據點^reset;的座標。^green;使用艦載計算機^reset;前往目的地。"},
+{"op": "replace","path": "/scriptConfig/descriptions/artifact","value": "在^orange;科技發展部的據點^reset;裡找到^orange;神器^reset;"},
+{"op": "replace","path": "/scriptConfig/descriptions/turnIn","value": "返回^orange;方舟^reset;向^orange;艾絲特^reset;彙報"}]

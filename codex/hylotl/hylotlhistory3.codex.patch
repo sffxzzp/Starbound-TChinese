@@ -1,0 +1,15 @@
+[{"op": "replace","path": "/title","value": "和平的陷落"},
+{"op": "replace","path": "/description","value": "一首古老的鮫人詩。"},
+{"op": "replace","path": "/contentPages","value": [
+"我們讚頌和平
+不起烽火 不事刀兵
+而葉族至
+
+唯于波濤下奮起
+書本豈勝烈火
+殘垣可有全
+
+他們或不曾記
+予吾輩以末路
+和永不忘卻"
+]}]

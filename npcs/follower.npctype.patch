@@ -1,0 +1,5 @@
+[{"op": "replace","path": "/scriptConfig/dialog/follower/attack/default/default","value": ["甭擔心，我來搞定。","這是什麼怪物！？"]},
+{"op": "replace","path": "/scriptConfig/dialog/follower/join/default/default","value": ["你好冒險家，我能加入嗎？","你很強壯，現在我們是同伴了。"]},
+{"op": "replace","path": "/scriptConfig/dialog/follower/returnFromCombat/default/default","value": ["打了個痛快！","唷！你幹得不錯…"]},
+{"op": "replace","path": "/scriptConfig/dialog/follower/wait/default/default","value": ["我會等在這兒。"]},
+{"op": "replace","path": "/scriptConfig/dialog/follower/returnFromWait/default/default","value": ["你回來了！"]}]

@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這件護腿有點僵硬，但看起來確實挺像機器人的。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "冒險家護脛"}]

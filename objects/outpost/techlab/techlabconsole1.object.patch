@@ -1,0 +1,11 @@
+[{ "op" : "replace", "path" : "/description", "value" : "用這個互動介面來購買科技控制檯。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "科技控制檯櫃機"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "我能在這買科技控制檯。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我能在這買科技控制檯。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "這臺機器會出售售售很有用的科技控制檯。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "滿意。能從這臺櫃機買到科技控制檯。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "出售科技控制檯的科技控制檯。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "某種商店，出售科技控制檯。很有用的小玩意兒。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我能在這買科技控制檯。"},
+{ "op" : "replace", "path" : "/interactData/paneLayoutOverride/windowtitle/title", "value" : "科技控制檯櫃機"},
+{ "op" : "replace", "path" : "/interactData/paneLayoutOverride/windowtitle/subtitle", "value" : "^#b9b5b2;出售科技控制檯"}]

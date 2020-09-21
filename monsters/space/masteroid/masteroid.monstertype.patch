@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "分裂者（小）"},
+{ "op" : "replace", "path" : "/description", "value" : "受到傷害時會破壞自身並且分裂自己的意識的硼基生物。"}]

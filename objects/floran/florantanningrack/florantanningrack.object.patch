@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "動物的毛皮在這兩塊大骨頭之間拉伸並陰乾。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "原始鞣製架"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這是一個鞣製架，或者是葉族人的某種畫架？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "葉族人用來處理皮革的裝置。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人處處處理皮革的地方。骨頭將皮革緊緊地撐開。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "疑惑。這個架子是用來展示獸皮的嗎？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我認為這是用來鞣製皮革的。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這就是葉族人鞣製皮革的方法。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "某種被拉扯開的獸皮。"}]

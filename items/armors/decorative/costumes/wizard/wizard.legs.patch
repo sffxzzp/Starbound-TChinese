@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "看起來像一件浴衣，但它是屬於一個非常厲害的法師的。法師們都很愛洗澡嗎？"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "法師長袍"}]

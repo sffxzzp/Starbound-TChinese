@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一副描繪一輛牛車的奇怪畫作。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "開拓者之牛車"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這幅畫似乎是一輛被動物拉著的綠色篷車。我搞不明白。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我不太確定這幅畫想表達什麼。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人看看看不懂這幅畫。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "迷惑。我不太確定為什麼這幅畫是綠色的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這似乎是一個關於牛車的畫，除此之外它是綠色的。我搞不太懂。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我不能解析這副有趣的畫作到底想表達什麼。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這是一副怪畫，我得承認。"}]

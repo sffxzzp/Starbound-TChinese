@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "當你睡著的時候他會看著你！他知道你會什麼時候醒來！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "噴氣包驅動聖誕老人像"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個非常快樂的老人。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "有那麼一會，我以為這尊雕像是一個真人。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "聖聖聖誕老人？"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "驚嚇。我差點以為這個快樂的老人是真實存在的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "哦你好,聖－－哦…這是假的。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "他看起來好快樂。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這個老頭看上去肯定有什麼高興的事。"}]

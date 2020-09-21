@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "用來撥弄燒著的木炭或者點燃的物品的工具。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "壁爐工具"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "照管火焰的工具。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "尖銳的棍子。它是用來幹什麼的呢？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "這這這些是武武武器嗎？"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "滿意。用來照料燃燒物的一套工具。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我認為這是可以用在壁爐上的工具。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這些工具是用來幹嘛的呢？"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "金屬工具，可以保持火焰。"}]

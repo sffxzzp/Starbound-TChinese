@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個堅固的自動門，能夠在激烈的星際環境中生存下來。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "工業門"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這扇門也許能抵擋小行星的風暴。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這扇門不是很漂亮，但它堅固耐用。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族可以用足夠大的矛打破門。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "細心。根據這扇門是如何設計的，我斷定它是為功能而設計的，而不是為了美觀。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "門上的紅燈和危險條紋真的增加了其工業外觀。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "雖然這門是非常強，它缺乏傳統的鮫人手工視覺風格。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我認為這隻需要幾把手槍就能打破這扇大門。"}]

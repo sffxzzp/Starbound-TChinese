@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "雷克斯"},
+{ "op" : "replace", "path" : "/description", "value" : "這條狗對它的主人無比忠誠。它喜歡被人擁抱和按摩腹部！"}]

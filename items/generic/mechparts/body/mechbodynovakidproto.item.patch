@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個前開式的機體原型，為星之子飛行員設計。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "元帥機體-零式"}]

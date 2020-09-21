@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個顯眼的高溫警告標誌。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "鑄造標誌"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個表示高溫或者火的標誌。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "嗯哦！我最好留意這個標誌，不然就會燒焦我的羽毛。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人隨時隨地都警惕著火。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。一個暗示附近有火的警示標誌。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "高溫危險。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這個牌子上的火焰符號表示極端高溫。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "預防高溫危害。"}]

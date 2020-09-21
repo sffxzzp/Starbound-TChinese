@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一段古老得不可思議的訊息。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "古代飾板"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "可能這遺蹟是一段訊息之類的吧？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "當我考慮這東西可能有多古老時，我的羽毛都戰慄了。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人看不懂這這這東西。無趣！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "困惑。我無法對這遺蹟的含義進行語法分析。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "又古老又恐怖的符文，正是我喜歡的那種。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一段古老的訊息。這些符文像河流一般流動，盤旋。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這些扭曲的文字中的一些看起來很眼熟。"}]

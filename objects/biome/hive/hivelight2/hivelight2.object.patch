@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一種不祥的光由蜂巢發出。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "小蜂巢燈"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這光令我感到不安。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這光某方面有病。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族眼睛疼，如果葉族看看看著這光。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "分析。這光是由某種有機液體提供能量。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這令我脖子後的汗毛都豎起來了。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這根本是可愛的光芒。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這光有什麼能量在內？我不喜歡它。"}]

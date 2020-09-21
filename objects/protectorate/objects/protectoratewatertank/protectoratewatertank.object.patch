@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個來自守護團學院的水箱。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "守護團水箱"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這個水箱壞掉了。它的水都漏到下面的房間裡了。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個壞掉的水箱。水肯定都漏到下面的房間裡了。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "水箱好像像像壞了。葉族人估計水在下面的房間裡。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "細心。一個損壞的水箱。我相信水一定在下面的房間裡。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這個水箱壞了！水一定已經透過屋頂漏到下面房間裡了。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一個損壞的水箱。想必水已經漏到下面的房間裡了。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這個水箱不能正常運作了。水一定都滲透到下面的房間裡了。"}]

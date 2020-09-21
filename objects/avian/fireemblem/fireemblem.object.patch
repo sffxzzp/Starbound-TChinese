@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這個徽章象徵著火焰那狂野與破壞的特性。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "翼族火焰徽章"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個用來警示火焰的符號。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個傳統的火焰符號。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "火火火焰！葉族人最最最厭惡的東西。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "注意。一個警示前方有火焰的符號。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這個符號肯定意味著火焰。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一個捲曲的火焰符號，它通常提示了前方將有火焰。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "看起來像是火焰，我最好小心行動。"}]

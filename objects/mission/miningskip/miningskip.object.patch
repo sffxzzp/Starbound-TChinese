@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個裝滿碎石的大型金屬翻鬥。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "礦業翻鬥"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個刷上油漆的大型翻鬥，裝滿了碎石和泥土。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個醜陋的金屬容器，裝滿了碎石並漆成了紅色。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人想要在這個紅色盒子上睡睡睡覺。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "細心。這個容器似乎是用來裝不需要的碎石的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一個大型翻鬥，裝滿了碎石和泥土。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一個醜陋的金屬容器，裝滿了垃圾材料。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一個傾瀉不想要的零碎東西的地方。"}]

@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "金礦在大多數星球的地底深處可以找到。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "金錠"}]

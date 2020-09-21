@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "夜寐香甜，浮於粘液。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "粘液床"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一張粘液床。看起來很可疑。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我要在羽毛上沾上粘液？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "黏黏黏糊糊！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "謹慎。粘液可能會導致生鏽。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "它由粘液製成。我希望睡在上面的時候我還能夠呼吸。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一個粘液床。它能供我安眠？"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一團像張床的粘液？感覺值得一試。"}]

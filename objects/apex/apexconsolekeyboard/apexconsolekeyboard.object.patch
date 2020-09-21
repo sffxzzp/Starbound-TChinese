@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "我想知道這些按鈕都是幹嘛的…"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "控制檯鍵盤"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個包含了所有26個猿人字母的鍵盤。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個有許多按鍵的裝置，每個鍵上有一個外星符號。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "愚愚愚蠢的科技。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。只有26個符號？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "並非一個傳統的鍵盤…但是我認出了這裡面不少的字母。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "鮫人的文字如流水。猿人的文字如石頭。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一個鍵盤。打字用的。"}]

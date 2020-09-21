@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個不錯的由蒸汽驅動的大型鐘錶盤。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "蒸汽鐘表盤"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個令人印象深刻的鐘。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個巨大的鐘。你肯定不會注意不到它。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "現在葉族人知知知道準確的時間了。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "懷疑。這個鍾真的能顯示正確的時間嗎？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "什麼東西有一雙手卻無法鼓掌？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一個更大的鐘並不會給你更多的時間。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一個巨大的鐘。你肯定不會注意不到它。"}]

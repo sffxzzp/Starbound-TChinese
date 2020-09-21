@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "某種地板裝飾，裡面盤旋著蛙卵。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "地板裝飾"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "裡面有青蛙仔。那就挺噁心了。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "裡面有青蛙仔浮動著，誰想把這玩意拿出來展示？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人能看見青蛙仔在裡面遊。葉族人可以吃了他們嗎？"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。這看來是一個有著青蛙仔的球體。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "哇哦，裡面有青蛙仔在這個球裡面遊哦。把它弄個粉碎的慾望根本駕馭不住。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我能看見那些珍貴的青蛙仔在裡面遊動。這是對鮫人生活的讚歌。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "在這個球裡面遊的是青蛙仔嗎？"}]

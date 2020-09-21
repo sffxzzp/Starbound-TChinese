@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一盞電能壁燈。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "沙龍燈"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這盞燈發出的光溫暖而舒適。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這個鐵製品的工藝超過了翼族的矛匠。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "裡面沒有火在燒。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "困惑。儘管這盞燈顯然是以可燃氣體為燃料設計的，但實際上卻是電力供能。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一盞電燈。火焰燈的外形設計。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這燈似乎是為了生火而設計的容器，但卻是完全電能驅動的。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一個很好的老式壁燈，儘管不是由火焰驅動。"}]

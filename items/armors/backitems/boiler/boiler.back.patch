@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個由運動提供能量的便攜鍋爐。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "便攜鍋爐"}]

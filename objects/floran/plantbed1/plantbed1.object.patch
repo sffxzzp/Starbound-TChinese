@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一張葉族人監獄的床鋪。它的根鬚在地上蔓延。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "植物床鋪"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一張監獄的床鋪。總比睡在地上好一點。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "用植物做成的監獄床鋪。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人的罪犯擁有基基基本的床鋪鋪鋪。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "厭惡。這張床鋪是用植物做的，上面爬著許多蟲子。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這張床鋪看上去沒多大的用處。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "看上去像是這些植物長成了床鋪的樣子。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "看上去像是張用植物做成的睡覺用的墊子。"}]

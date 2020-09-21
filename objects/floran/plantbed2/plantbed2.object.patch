@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一張可以掛在牆上的葉族人監獄床"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "植物壁床"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這張基本的床鋪可以被掛在牆上。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一張用藤蔓吊著的監獄床。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "這張監獄床用堅堅堅韌的藤蔓蔓蔓掛起來。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "難忘。這床的設計使它可以被掛在牆上。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這床看上去很不舒服, 就它被懸掛離地面來說。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這張葉族人的床看上去屬於監獄用品。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一張用植物製作的監獄壁床。"}]

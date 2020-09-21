@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "塗鴉，作者似乎有些不爽。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "塗鴉"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "我想知道塗鴉裡面說的是誰。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "可憐的作者。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人確確確信這人曾經回來過。這是一個開心的故故故事，可能吧。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "沉思。也許作者應該關心一下他們的願望是什麼。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "看起來像從恐怖電影裡出來的東西。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "在這個世界上你永遠不要指望任何人。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "戲劇性。"}]

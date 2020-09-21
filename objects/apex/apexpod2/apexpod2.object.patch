@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "艙體是空的。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "空生命維持艙"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "謝天謝地艙體是空的。這就是科技發展部嘗試把我們變回原始狀態的方法麼？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這絕對是黑科技…"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "這這這機器不自然。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "專注。這機器像是用來嘗試改變猿人DNA的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這看起來不太妙。我總感覺有什麼東西會突然跳出來。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這個機器在以一種無法長久維持的方法嘗試改變DNA。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我才不會靠近那玩意兒。"}]

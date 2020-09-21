@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一張肉做的桌子。適合肉食動物。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "血肉桌子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "誰會選擇在這裡吃飯？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "多麼不尋常的桌子。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族意外的刺刺刺中了桌子。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "反感。有人居然會坐在這吃飯。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我覺得這是我看到不尋常的事情中的巔峰之作。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "唉呦。 真的嗎？"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "想像一下在這桌上吃牛扒。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "水桶裡有個洞。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "中世紀水桶"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個木製水桶。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我認為是用來盛水的。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "有有有用的小水桶。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "謙遜。電子人用木桶從水井和溪流裡打水。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "你能在井裡找到這種水桶。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "是否有人用這個木桶來取水？我無法想象一個缺水的世界裡生命是如何生存的。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一個普通的水桶。"}]

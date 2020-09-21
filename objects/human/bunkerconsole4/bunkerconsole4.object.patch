@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "充斥著各種頂級機密任務資料的螢幕…無聊。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "寬屏控制檯"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "顯然這個星球將會爆炸。我認為這是個錯誤的警報。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個小隊被派去奪取一個被詛咒的工藝品。他們再也沒有回來。可能他們只是被調往了次要崗位？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "打獵…聚會會會…葉族人也有狩獵聚會會會。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "擔心。看起來這臺控制器的上一個使用者瘋了。這裡有很多令人擔憂的資訊。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "哦，秘密資料。原來政府以前一直在監視我們！沒人知道嗎？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這裡有一份詳細的計劃書，關於把這個星球的海水全部排光的恐怖計劃。謝天謝地，這個計劃被否決了。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這有一份禁止月球步行的請願書，計劃書的前面是一份洋蔥湯的烹飪方法…"}]

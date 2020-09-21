@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這種裝置看起來似乎是透過掃描眼球來驗證個人資訊。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "眼球掃描器"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這裝置好像不能識別猿人的眼球。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "用來掃描人類眼球的裝置，但意義何在?"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "機器想要掃描描描眼球。葉族人拒絕絕絕！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "思考。透過正確的校準，機器人的眼球可以騙過掃描器。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一臺眼球掃描器。有人把墨水塗在了目鏡周圍。噢，搞笑的傢伙。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一臺眼球掃描器。這種裝置對我們鮫人來說有些棘手，我們的腦袋形狀不合適。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一個眼球掃描器？不知道我是否可以被掃描。"}]

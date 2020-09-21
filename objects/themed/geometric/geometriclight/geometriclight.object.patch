@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一盞發光的幾何燈。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "幾何燈"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個精心製作的光源。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "即使是最黑暗的房間這盞實用的燈也可以照亮它。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "對葉族人來說是安安安全的燈光。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "愉快。一盞強大的燈。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一盞精緻、堅固的燈"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一個有用的光源。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這道光將會非常有用。"}]

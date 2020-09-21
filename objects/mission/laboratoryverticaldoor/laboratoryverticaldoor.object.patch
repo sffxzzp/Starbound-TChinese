@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個時尚的橫向艙門，完美的秘密實驗室。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "實驗室艙門"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這個艙門看起來像是科技發展部設計的。它令我不寒而慄。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "構造精密的艙門。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人不不不喜歡有光澤的艙艙艙門。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "挑剔。這個艙門是用光滑的白色金屬製成的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這扇門開啟的時候會分成三部分。非常整齊。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一個非常簡潔的艙門，開啟的時候會分成三部分。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一個艙門。我敢打賭在科學實驗室裡會非常有用。"}]

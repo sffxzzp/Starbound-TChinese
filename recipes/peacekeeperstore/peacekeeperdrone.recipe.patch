@@ -1,0 +1,4 @@
+[{"op": "replace","path": "/output/parameters/shortdescription","value": "和平衛士無人機"},
+{"op": "replace","path": "/output/parameters/description","value": "可部署的自動化無人機，用於發射爆炸性彈藥。"},
+{"op": "replace","path": "/output/parameters/tooltipFields/subtitle","value": "和平衛士無人機"},
+{"op": "replace","path": "/output/parameters/pets/0/name","value": "無人機"}]

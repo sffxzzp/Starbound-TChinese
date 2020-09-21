@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個潮溼的舊寶箱，是用木頭和鐵做的。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "舊寶箱"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個看起來挺舊的寶箱。我想知道里面有什麼？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這個寶箱也許看起來很舊，但它裝的東西可能會很有價值。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "非常舊的寶寶寶箱，也許藏藏藏著寶物。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "興奮。一個看起來挺舊的寶箱，希望裡面的東西是有用的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "發現一個寶箱總是讓人興奮。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這個看起來挺舊的寶箱可能藏有寶物。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這個舊寶箱經歷過更輝煌的時光。"}]

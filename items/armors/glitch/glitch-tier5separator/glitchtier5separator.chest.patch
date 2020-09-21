@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "由維奧合金製成，依靠強大的裝甲來保護強健的心靈。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "聖騎士胸甲"}]

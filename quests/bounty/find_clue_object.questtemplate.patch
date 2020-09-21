@@ -1,0 +1,7 @@
+[{"op": "replace","path": "/title","value": "^orange;殺死賞金目標"},
+{"op": "replace","path": "/text","value": "找到賞金目標位置的線索"},
+{"op": "replace","path": "/completionText","value": "你找到了一條線索。它指向何處？"},
+{"op": "replace","path": "/scriptConfig/objectives/findWorldStage","value": ["^orange;前往^green;%s^reset;"]},
+{"op": "replace","path": "/scriptConfig/objectives/findClueObjectStage","value": ["在星球上^orange;搜尋^reset;目標的特徵","^orange;尋找^reset;線索"]},
+{"op": "replace","path": "/scriptConfig/generatedText/text/prev","value": ["^green;<coordinate.name>^reset;：\n電腦記錄告訴我<bounty.name>在<next.coordinate.preposition><next.coordinate.name>。\n\n","^green;<coordinate.name>^reset;：\n我的大師級駭客技巧指引我到<next.coordinate.name>。\n\n","^green;<coordinate.name>^reset;：\n我的高階駭客技巧指引我到<next.coordinate.name>。\n\n","^green;<coordinate.name>^reset;：\n駭入罪犯的安全資料庫給了我\"<next.coordinate.name>\"的位置。\n\n"]},
+{"op": "replace","path": "/scriptConfig/generatedText/text/default","value": ["^orange;<bounty.name>^reset;在<coordinate.name>被最後目擊。\n\n","^orange;<bounty.name>^reset;最近於<coordinate.name>被看見。\n\n","^orange;<bounty.name>^reset;的線索在<coordinate.name>開始逐漸失效。\n\n"]}]

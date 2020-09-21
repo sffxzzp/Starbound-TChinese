@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這扇門很結實，可以長期使用。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "竹門"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "用竹子編織成的門。比看起來要堅固一些。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "用來製作這扇門的植物摸起來和石頭一樣堅硬。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人的竹子像鋼一樣堅堅堅硬。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "驚訝。這扇門是用有機材料製作的，但它如同鋼鐵一般堅固。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這扇門有著的如同竹節一般的細縫，我可以透過縫隙看穿這扇門！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "葉族人似乎能把大自然改變成他們喜歡的樣子。不簡單。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "好竹子，自然界的鋼鐵。"}]

@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這個資料光碟包含音訊檔案。我應該聽聽！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "音訊資料光碟"}]

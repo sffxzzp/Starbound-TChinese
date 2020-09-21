@@ -1,0 +1,4 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一盞輸出訊號指示燈。指示出某物是否處於啟用狀態。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "指示燈"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "一盞輸出訊號指示燈。指示示示出某物物物是否處於啟用狀態。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "客觀。一盞輸出訊號指示燈。指示出某物是否處於啟用狀態。"}]

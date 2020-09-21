@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "指示牌上寫著“危險”。等等，這些人怎麼知道我的中間名字的？"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "水平危險指示牌"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這上面寫著危險，但卻沒指出究竟有什麼危險…"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "附近有什麼危險的東西。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人面對危險放聲大笑，哈哈！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "勇敢。這個指示牌與其說是警告倒不如說更像是挑戰。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "附近有什麼危險的東西嗎，還是說這些指示牌本身就是危險的?它們的邊緣看起來相當鋒利啊…"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一個表達清晰的花哨標誌。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這裡的唯一的危險就是我本身。"}]

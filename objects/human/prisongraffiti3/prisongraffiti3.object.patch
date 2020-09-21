@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "塗鴉，一個嚴厲的警告，無視它吧。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "塗鴉"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "“在你還有機會的時候離開這兒吧”。我怎麼知道最後截止時間是什麼時候？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我想這一定是在逗我。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人懷疑疑是否寫這個的人已經逃走了。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "警覺。一個嚴厲的警告。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "噢，別逗我了。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "也許我該聽它的話。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一些某人的建議，我會記在心裡的。"}]

@@ -1,0 +1,12 @@
+[{"op": "replace","path": "/converse/default/default","value": ["威脅。不要嘗試轉移全視騎士的視線！","切實。全視騎士幫助那些幫助過我們的人。","邪惡。我們會回報給予我們家的人，只要機會合適…","出神。眼睛的符號象徵永恆凝視。","恐嚇。沒人能逃出全視騎士的視線！"]},
+{"op": "replace","path": "/severe/default/default","value": ["生氣。我在這看到個麻煩！","失望。難道你看不到這個麻煩嗎？"]},
+{"op": "replace","path": "/final/default/default","value": ["恐嚇。不尊重全視騎士可不是明智之舉！","威脅。也許你以為你的褻瀆行為還沒有被發現…"]},
+{"op": "replace","path": "/beacon/default/default","value": ["尊敬。需要我的服務嗎？","耐心。你是否需要全視騎士的幫助？","觀察。我看到你需要我的存在。"]},
+{"op": "replace","path": "/rent/default/default","value": ["欣賞。你幫助了我，全視騎士總是會慷慨地回報你的！","感激。這是一個感激的象徵，作為送給我一個房子的回禮。"]},
+{"op": "replace","path": "/reattack/default/default","value": ["緊逼。我看到你了！","細心。我窺探到敵人在逼近！","恐嚇。你無法逃出我的視線！","敵意。看著你自己敗在我手中吧！","威脅。我又看到我們目標了！"]},
+{"op": "replace","path": "/attack/default/default","value": ["威脅。我看到你了！","敏銳。我偵查到一個正在靠近的敵人！ ","恐嚇。你逃不出我的視線！","敵視。瞧仔細了你是如何敗在我手中的！","威脅。我已經看到下一個目標了！"]},
+{"op": "replace","path": "/killedTarget/default/default","value": ["滿意。一場可以接受的戰鬥。","愉悅。這場長槍比武滿足了我的戰鬥欲。暫時的。","不悅，我本可以更快解決那個…"]},
+{"op": "replace","path": "/lostTarget/default/default","value": ["失望。我讓我們的敵人逃掉了…暫時的。","驚訝。他們是怎麼躲開了我的視線的？！"]},
+{"op": "replace","path": "/outOfSight/default/default","value": ["驚訝。他們是如何逃開我的永恆凝視的！？","震驚。他們躲開了我的視線？"]},
+{"op": "replace","path": "/cantReach/default/default","value": ["沮喪。這個膽小的敵人不敢和我正面交手。","生氣。我們的敵人是個膽小鬼，他沒膽子正面進攻！"]},
+{"op": "replace","path": "/cheerOn/default/default","value": ["沉思。也許我做一個旁觀者就夠了。","支援。我將見證這場勝利！","支援。我將見證我們的敵人的敗北！"]}]

@@ -1,0 +1,2 @@
+[{"op": "replace","path": "/scriptConfig/dialog/converse/default/default","value": ["好奇。你花了多久把這些藏品擺放好？","驚訝。我們兩個種族之間的文化差異讓人震驚。"]},
+{"op": "replace","path": "/scriptConfig/dialog/converse/glitch/default","value": ["好奇。你花了多久把這些藏品擺放好？","驚訝。我們兩個種族之間的文化差異讓人震驚。"]}]

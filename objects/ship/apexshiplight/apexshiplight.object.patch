@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一盞普通的船燈。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "船燈"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這種燈在飛船上很常見。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一盞明亮的燈。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "船燈晃瞎了葉葉葉族人的眼。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "欽佩。這個照明燈具產生的光甚於熱。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一盞明亮的燈。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一盞明亮的燈。創設出了一種平和的氛圍。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "那是一個明亮的燈泡。"}]

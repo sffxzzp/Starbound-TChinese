@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "裝備和定製您的個人機甲！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "機甲裝配站"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "有了這個裝配站，我就可以把部件組裝成一套機甲。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這個裝配站是用於組裝大型機甲載具的。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "野豬可以用這個裝配站做大機甲。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "驚訝。這種先進的裝配站是被設計用來製造機甲套裝。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這個裝配站是用於建造和舾裝機甲套裝的。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這個終端可用於定製和裝備機甲載具。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這個裝配站可以讓我以任意我喜歡的方式組裝一個機甲。"}]

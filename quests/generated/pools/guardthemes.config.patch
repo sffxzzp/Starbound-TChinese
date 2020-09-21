@@ -1,0 +1,5 @@
+[{"op": "replace","path": "/0/1","value": [{"tag": "human","name": "人類(human)"},
+{"tag": "floran","name": "葉族人(floran)"},
+{"tag": "apex","name": "猿人(apex)"},
+{"tag": "glitch","name": "電子人(glitch)"},
+{"tag": "avian","name": "翼族(avian)"}]}]

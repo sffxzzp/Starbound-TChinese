@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "似乎畫著一位大人物。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "人物洞穴壁畫"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "描繪的是某種儀式或者典禮嗎？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這個巨大的人物是誰，他閃耀的就像太陽一樣。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "連葉族人都不不不明白這代代代表的是什麼。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "害怕。這幅壁畫上的東西令我感到不可思議。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這幅畫上有一個巨大的人，看起來像太陽一樣。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "也許是藝術家想透過這幅畫來激勵觀眾。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這裡他媽的到底在幹什麼？"}]

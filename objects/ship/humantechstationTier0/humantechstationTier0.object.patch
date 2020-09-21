@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "艦載人工智慧視窗，或簡寫作S.A.I.L。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "S.A.I.L"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "當它正常執行時，我能和SAIL交流。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "重啟這個科技站應該就能使我和SAIL交流了。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人修復這這這個面板來使飛船重新運作！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "煩惱。我首先需要重啟這個基站才能和SAIL交流。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "如果我能重啟這個系統，SAIL就能再次上線！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這個控制檯使我能和SAIL交流。但我先要重啟它。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "是時候重啟它來讓我和SAIL交流了。"}]

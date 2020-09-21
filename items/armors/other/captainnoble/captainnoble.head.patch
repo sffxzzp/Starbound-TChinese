@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "僅為諾布林隊長打造—不是你能穿的！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "諾布林隊長頭盔"}]

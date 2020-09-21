@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "標籤上寫著，\"在嚴寒中它可以用厚厚的絨毛來取暖。\""},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "絨山羊手辦"}]

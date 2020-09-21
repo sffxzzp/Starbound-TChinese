@@ -1,0 +1,10 @@
+[{ "op" : "replace", "path" : "/description", "value" : "用於展示中型化石的展覽櫃"},
+{ "op" : "replace", "path" : "/subtitle", "value" : "展示化石"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "中型化石展覽櫃"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個展覽櫃，用於展覽化石。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個化石展覽櫃。雖然沒有完整的化石進行展覽。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "化化化石展覽櫃真真真不錯。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "有趣。一個化石將在這展覽。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "沒有一個完整的化石進行展覽，有點小傷感。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "如果這有放置一個化石展覽，我會更感興趣。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "看上去不錯。有一個完整的化石會看上去更好…"}]

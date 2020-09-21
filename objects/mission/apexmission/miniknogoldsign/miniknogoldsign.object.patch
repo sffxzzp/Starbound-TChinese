@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個老舊的科技知識部標誌。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "科技知識部標誌"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "知識部？這裡…這裡是科技發展部的前身？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個多麼有趣的標誌。只有我想知道它到底有多舊了嗎？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人不不不太喜歡老東西。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "欣賞。這個銀色和灰色的搭配是多麼有趣啊。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "跟這個標誌有關的東西讓我有些緊張。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這些字真醜。如果我有一支筆…"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我覺得這一發現對某些人有重大意義…"}]

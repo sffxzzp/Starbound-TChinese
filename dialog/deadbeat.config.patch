@@ -1,0 +1,7 @@
+[{"op": "replace","path": "/reattack/default/default","value": ["都出來玩吧！","你來到了這個宇宙的錯誤的一邊！","這是我們的地盤！","你不可能那麼容易跑掉的！","歡迎回到瘋房子！","看看我找到誰了！","我看見你了！你這次可跑不掉了！","你沒法離開這裡了！"]},
+{"op": "replace","path": "/attack/default/default","value": ["都出來玩吧！","你來到了這個宇宙的錯誤的一邊！","這是我們的地盤！","歡迎來到瘋房子！","哈哈哈哈哈！","看看我找到誰了！","我看見你了！你跑不掉了！","你沒法離開這裡了！"]},
+{"op": "replace","path": "/killedTarget/default/default","value": ["又一個戰利品收藏！","今天倒黴的是你！","有本事就回來讓我再殺你一次！","不值一提！"]},
+{"op": "replace","path": "/lostTarget/default/default","value": ["夾著你的尾巴逃跑吧！","他們去哪了！？"]},
+{"op": "replace","path": "/outOfSight/default/default","value": ["回來，膽小鬼！","回這兒來！"]},
+{"op": "replace","path": "/cantReach/default/default","value": ["回這來打啊！","來跟我面對面，你這膽小鬼！"]},
+{"op": "replace","path": "/cheerOn/default/default","value": ["撕碎他們！","讓他們見識見識我們是怎麼對付入侵者的！","戰鬥！戰鬥！"]}]

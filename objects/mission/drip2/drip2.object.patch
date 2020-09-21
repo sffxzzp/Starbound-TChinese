@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "有酸液從這個地方滴下來。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "酸液源頭"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個召喚玩家機甲的傳送平臺。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "機甲平臺"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這個平臺將召喚一個機甲。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "用於部署機甲的遠端傳送平臺。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "這個傳送器將召喚一套機甲。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "瞭然。這是一種特殊的傳送器，用來召喚機甲。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這個傳送器會召喚一個機甲。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這個平臺將傳送一套機甲。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這是一個為機甲傳送設計的平臺。"}]

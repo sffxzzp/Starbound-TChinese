@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一張很常見的餐桌。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "餐桌"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "桌子。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一張常見的桌子。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "一個無聊的桌子。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "客觀。一張普通的桌子。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一張普通的桌子。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一張沒有玻璃和其它材料裝飾的桌子。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一個普通的桌子。"}]

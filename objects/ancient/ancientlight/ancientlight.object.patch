@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一盞壁燈。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "古代壁燈"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "是什麼為這盞燈供能瞭如此長的時間？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我倒期望著這麼大的壁燈應該更亮一些。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "巨大，難看，並且非常老舊的燈。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "無趣。一盞又大又難看的燈。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這盞燈可能已經亮了上千年了。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這盞燈沒什麼特殊的。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這燈發出了溫暖的光輝。"}]

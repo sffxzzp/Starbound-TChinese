@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "塗鴉上寫著“回去”。這意味著：一切都要從零開始了。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "塗鴉"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "在我走進死衚衕的時候我會回頭的。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這個塗鴉是如此的固執己見。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "不要告訴葉族人怎麼去做一件事！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "挑釁。就不。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這個塗鴉怎麼會知道你要去哪兒？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "真是難伺候。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "已經沒有回頭路了。"}]

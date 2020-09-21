@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "常被用於淺水游泳。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "呼吸管"}]

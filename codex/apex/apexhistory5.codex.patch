@@ -1,0 +1,13 @@
+[{"op": "replace","path": "/title","value": "反對者在我們身邊！"},
+{"op": "replace","path": "/description","value": "科技發展部釋出給猿人民眾的一份公告。"},
+{"op": "replace","path": "/contentPages","value": [
+"^red;譴責反叛者的謊言！^white;
+
+反科技發展部叛黨的險惡存在，意味著^red;破壞我們的生活！^white;
+
+如果你懷疑你的同事、朋友或家人是一個反叛者，^red;現在就通知你當地的科技發展部代表！^white;
+
+謀反^red;判處死刑！^white;
+
+永遠記住：^red;大猿人正在看著你！^white;"
+]}]

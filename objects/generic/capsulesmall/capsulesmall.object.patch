@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "可被打破的小型膠囊。想知道里面有什麼。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "小型膠囊"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個膠囊。通常包含補給。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個膠囊。有什麼東西在裡面，我想知道是什麼…"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "把它砸砸砸開來！拿走裡裡裡面的好東西！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "破壞。把膠囊打破的慾望難以遏制。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "裡面有什麼東西。我可以把它開啟。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "有時暴力可以獲得回報。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這個膠囊可以成為完美的練習靶子。"}]

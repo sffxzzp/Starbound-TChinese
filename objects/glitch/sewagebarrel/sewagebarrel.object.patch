@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一桶汙水。可以肯定水裡有毒。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "汙水桶"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "自我提醒：桶裡的水在發光，千萬別喝。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "汙染。真是太遺憾了。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "這是綠手指倒的。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "果斷。最好不要試著解析這個桶。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "在地球上，傾倒汙水是要被罰款的。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "還好這汙水沒被倒進海里。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我對這桶裡面有什麼一點都不感興趣。"}]

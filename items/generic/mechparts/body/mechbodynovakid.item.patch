@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個獨特的星之子風格機體，為不知疲倦的老飛行員製造。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "元帥機體"}]

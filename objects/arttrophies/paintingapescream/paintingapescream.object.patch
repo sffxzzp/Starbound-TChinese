@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個關於尖叫猿族的令人困惑的畫。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "吼猴畫"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這是另一種科技發展部的偽裝麼？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這就是不知道克魯西斯的感覺。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族從每個獵物身上都能看看看到這種表情！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "緊張。這個猿人繪畫令人不安。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "好吧，這絕對不是原畫。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這個猿人應該更加冷靜。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這猿人崩潰了。"}]

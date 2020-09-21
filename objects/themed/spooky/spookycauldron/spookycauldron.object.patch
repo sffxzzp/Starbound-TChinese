@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "冒著泡的坩堝，大到足夠你放一整個人進去。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "幽靈坩堝"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "也許看上去不是個好主意，但我不介意坐進去。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我想知道如果我坐在裡面太久會不會變成豪華套餐？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人不想變成蔬蔬蔬菜湯。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "提問。我坐在裡面多久才能生鏽？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "看起來坐在裡面會覺得癢。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "聞起來有些古怪，但坐在裡面真的讓人感到放鬆。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "把它當成浴缸還有點小。"}]

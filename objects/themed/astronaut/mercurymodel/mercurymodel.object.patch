@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個精緻的水星模型，太陽系的最小的行星。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "水星模型"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "水星在太陽系屬第一顆行星，引力被太陽鎖定，導致極長的白晝。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "水星，太陽系中的第一顆行星。來自一位名叫古地球商業之神稱為赫爾墨斯。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "太陽系繫系中的小小小行星。最接近太陽，荒荒荒涼的可怕。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "驚奇。水星一天的時間幾乎是59個地球日，它的時間長度約為88個地球日。。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這是太陽系中最小的行星，也是最接近太陽的行星。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "水星。除了作為一個太陽系的行星，也許出名是因為幾十年前一件最有名的採礦事故。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "水星雖小，卻是太陽系中的小淘氣。"}]

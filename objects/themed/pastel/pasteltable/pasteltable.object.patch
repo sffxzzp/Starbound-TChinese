@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一張帶有花卉桌布的亮色調桌子。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "粉彩桌"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這張桌子有著一張十分討人喜歡的桌布。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我喜歡這張桌子上的花卉桌布！"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人喜喜喜歡有花的桌子。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "觀察。這張桌子被塗上了各種柔和的顏色。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這張桌布上的花卉是手工縫製的。多麼勤勉！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "多麼精心裝飾的一張桌子。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這確實是一張很漂亮的桌子。"}]

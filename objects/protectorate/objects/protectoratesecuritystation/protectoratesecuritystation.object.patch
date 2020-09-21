@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "來自守護團學院的安檢機器。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "守護團安檢機器"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "全面的安全措施。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這臺機器能掃描行李。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "掃掃掃描包裹並檢查裡裡裡面的機器。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "不適。金屬探測器對電子人來說會是一場噩夢。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一臺安檢機器。我可沒時間搞這個。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一臺侵犯個人隱私的機器。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "包裹掃描器。我今天就要略過它了。"}]

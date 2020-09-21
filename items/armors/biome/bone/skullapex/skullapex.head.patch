@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個猿族頭骨。也許是其他人捐贈給科學事業的？"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "猿族頭骨面具"}]

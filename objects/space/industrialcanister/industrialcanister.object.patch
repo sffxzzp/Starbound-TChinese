@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一種密封的金屬罐，可以用來儲存危險液體。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "工業罐"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這種罐似乎是輸送揮發性物質的理想容器。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "多麼奇怪的罐子—我想知道里面裝的是什麼？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "黃色管道。裡面可能有東西。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "善於觀察。透過一個簡短的分析得出結論，這個罐子是用來安全儲存有價值的液體的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這個罐開啟時發出的聲音是相當令人滿意的。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "多麼奇怪的儲物容器。也許它是用來儲存燃料的？"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這是一個大的石油桶嗎？長得奇怪的油桶，我這麼對自己說。"}]

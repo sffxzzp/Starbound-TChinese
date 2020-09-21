@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "帶有地板安裝支架的現代金屬櫥櫃。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "天文櫃"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這些儲物櫃長這樣是有原因的。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這個櫥櫃有點不合我的品味，但我喜歡它。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "櫥櫃櫃可以容納各種東西。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "印象深刻。這個小櫃子有很高的儲藏容量。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這個櫃子讓我想起了什麼。不能把我的手指放在上面。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我很喜歡這個櫃子的設計。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一個足夠好的儲物櫃，可以堆放任何你需要的東西。"}]

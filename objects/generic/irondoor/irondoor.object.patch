@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "由交叉的刀鋒組成的門。看上去它們可以被取下來。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "刀鋒之門"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一扇險惡的鐵門。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這扇門看上去像被設計成要阻擋什麼東西出去…或進來。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人喜歡扎扎扎人的門，葉族人嘭嘭嘭地關上了門。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "羨慕。這扇好門適合用於堡壘，或者類似的建築。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這讓我回想起了探索舊城堡的日子。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "什麼樣的野蠻人會造出利刃做的門來？"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這個尖銳的門嚇唬不了什麼人。"}]

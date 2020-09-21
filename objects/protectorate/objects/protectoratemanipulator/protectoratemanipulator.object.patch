@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一把物質槍的複製品。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "守護團物質槍"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這把物質槍的複製品非常精密。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "物質槍。一種強力的工具。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "物質槍。葉族人迫不及待想要得到一個！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "讚賞。物質槍是一種強力的工具。這把只是一個複製品。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我馬上就可以擁有我自己的物質槍了！這讓我心潮澎湃。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "物質槍是對守護者來說是一種標誌性的工具。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "今天的畢業典禮上我將獲得屬於我自己的那把物質槍。這真是意義重大的一天。"}]

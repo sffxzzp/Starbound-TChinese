@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這個裝置是用來速凍物質的。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "低溫衝擊波"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這個裝置射出的光束讓人冷到骨子裡。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一臺冷凍機械裝置。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "冰也能變得很危危危險。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "小心。這是一臺高強度冷凍裝置。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "注意這寒冷的衝擊波。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "冰，水最致命的形態。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這個低溫衝擊波能凍掉銅猴子的爪子。"}]

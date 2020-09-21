@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "傳聞戴上頭盔之人可聽見來自過去的低語。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "炎魔之王頭盔"}]

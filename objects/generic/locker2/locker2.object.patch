@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "有一扇寬金屬門的儲物櫃。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "扁儲物櫃"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個儲存用儲物櫃。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個金屬盒子，大概是用來存放的。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "儲儲儲物櫃。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "客觀。可以在牆上存放少量東西。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這個儲物櫃沒有鎖…"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "有用的儲物櫃。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這個儲物櫃事實上並沒有上鎖。"}]

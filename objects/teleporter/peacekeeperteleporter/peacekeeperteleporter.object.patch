@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這個傳送器應該會把你送回和平衛士總部。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "和平衛士傳送器"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這個傳送器會把我送回和平衛士總部。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這會把我送回和平衛士空間站。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "這會把我帶回和平衛士總部。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "細心。這是一個設計用於直接傳送到和平衛士總部的傳送器。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一種設計用於直接傳送到和平衛士總部的傳送器。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這個傳送器會把我傳送回和平衛士基地。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這臺傳送器會帶我回到和平衛士中間。"}]

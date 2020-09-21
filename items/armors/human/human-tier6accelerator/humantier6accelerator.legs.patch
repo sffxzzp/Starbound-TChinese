@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這件護腿裡的精巧電路可以計算你行走的步數…為什麼呢？…為什麼不呢？"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "探索者護腿"}]

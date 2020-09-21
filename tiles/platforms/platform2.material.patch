@@ -1,0 +1,4 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "木製平臺"},
+{ "op" : "replace", "path" : "/description", "value" : "一個不起眼的木平臺。"},
+{ "op" : "replace", "path" : "/glitchdescription", "value" : "客觀。一種木製平臺。"},
+{ "op" : "replace", "path" : "/florandescription", "value" : "平平平臺。"}]

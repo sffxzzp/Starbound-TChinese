@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一條胡蘿蔔麵包。老實說，這就是麵包形狀的蛋糕。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "胡蘿蔔麵包"}]

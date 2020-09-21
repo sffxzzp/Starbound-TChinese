@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這種展示用斧頭看起來很鋒利。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "展示用斧頭"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一對裝飾用斧頭。鋒利度足矣，尚可使用。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "看起來很兇殘的斧頭。斧刃看起來確實很鋒利。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "傻傻傻缺！斧斧斧頭不是為了掛在牆上而存在的。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "自誇。這把鋒利的斧子是電子人的藝術傑作。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "兩把鋒利的短斧。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "鮫人在電子人的武器中也看到了藝術價值。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "時髦的展示物。沒什麼可以比得上一把古老忠誠的好斧子。"}]

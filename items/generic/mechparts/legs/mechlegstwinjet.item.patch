@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "有一個額外的噴氣推進器平衡效能的機甲腿。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "雙子噴射機甲腿"}]

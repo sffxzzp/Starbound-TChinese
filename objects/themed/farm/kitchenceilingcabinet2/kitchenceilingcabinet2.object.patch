@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一種小型的壁裝式廚房櫃。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "小型廚房壁櫥"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這個櫥櫃看起來是經過精心手工製作的。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這個樸素的櫥櫃是一件高雅低調的產物。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人會將這個櫥櫃塞滿美美美味的食物！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "滿意。一個精心製作的廚房儲存系統。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一個製作精巧的櫥櫃，就像在祖母家裡一樣。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這個櫃子的簡單的外表掩飾了其精湛的工藝。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一種在鄉村民間十分實用的便利櫥櫃。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這個主機執行一個叫《酷酷巫師島》的遊戲。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "紅色街機遊戲機"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這個遊戲叫《酷酷巫師島》。我想是要統治這個住滿了炫酷巫師的島。有意思…"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "在《酷酷巫師島》，我統治住著酷酷巫師們島嶼的夢想將會成真。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "《酷酷巫師島》裡的巫師用手手手就能點燃東西！葉族人怎樣才能學會這個個個法術呢？"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "有趣。不小心點的話，我會把一整天光陰都花在這上。10分我給9分。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "在《酷酷巫師島》，你是一個炫酷巫師島的巫師島主。這個遊戲以前在地球特別流行。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "在我年輕時《酷酷巫師島》是我最喜歡的遊戲。我喜歡裝點裡面的島嶼。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "在《酷酷巫師島》當島主的確特別耗時。我對這種責任可沒什麼耐心。"}]

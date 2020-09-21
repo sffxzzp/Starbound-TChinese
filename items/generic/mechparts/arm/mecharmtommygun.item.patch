@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "沒有人知道這種衝鋒槍機甲臂何以得名。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "湯米槍機甲臂"}]

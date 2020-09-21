@@ -1,0 +1,6 @@
+[{"op": "replace","path": "/title","value": "獲取葉族人神器"},
+{"op": "replace","path": "/text","value": "你手頭上的線索指示出^orange;葉族神器^reset;被珍藏在^orange;狩獵聚會洞穴^reset;中。根據我的發現，你需要^green;完成一場儀式狩獵來取得它^reset;。我已經將航行座標傳送給你了。小心，親愛的。"},
+{"op": "replace","path": "/completionText","value": "漂亮，你做的很棒！現在進度已經完成六分之一了，親愛的。可別小瞧這件事。而且現在我們有^orange;努魯^reset;來幫我們了。"},
+{"op": "replace","path": "/scriptConfig/missionRadioMessage/text","value": "我已經收到^orange;狩獵聚會洞穴^reset;的航行座標了。^green;請透過任務介面^reset;前往目的地。"},
+{"op": "replace","path": "/scriptConfig/descriptions/artifact","value": "在^green;狩獵區域^reset;中^orange;尋找神器^reset;"},
+{"op": "replace","path": "/scriptConfig/descriptions/turnIn","value": "返回^green;方舟廢墟^reset;並交給 ^orange;艾絲特^reset;"}]

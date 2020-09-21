@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "用大型原木組裝成的施工平臺。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "大型木製層架"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這些堆疊的原木像是用來輔助施工的。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這些平臺像是設計來支撐施工人員的。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人用來施工的層架。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "擔心。這個粗製的平臺可能分分鐘解體。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這個大型層架看上去可以支撐巨大的重量。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這像是一個臨時的結構，準備被拆卸搬走。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這些原木組成了一個漂亮又堅固的平臺。"}]

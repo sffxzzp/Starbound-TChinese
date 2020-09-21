@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一張石頭凳子。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "石頭凳子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "看起來座在上面並不舒服。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "它看起來像是直接從野外帶回來的。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人至至至少會在上面鋪一些青苔。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "沉思。區別石塊和凳子的分界線在哪裡？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "僅僅是看著它就覺得屁股好疼。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一個用石頭製成的簡單凳子。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我想它是用來讓人座的。"}]

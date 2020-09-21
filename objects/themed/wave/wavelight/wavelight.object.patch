@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一盞中空的圓形燈。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "波浪燈"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一盞燈泡又大又圓的檯燈。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我的手可以穿過燈上的這個圓孔。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "你可以把手伸進這個奇怪檯燈的孔裡面。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "輕鬆一盞溫暖的，現代的燈。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一盞藍色的，現代的燈。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一個現代風格的光源。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "天黑後這會很有用。"}]

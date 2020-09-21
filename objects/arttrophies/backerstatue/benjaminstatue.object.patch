@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個獻給本傑明“馬特里翁”杜斯特的雕像。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "本傑明杜斯特的雕像"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "銘牌上說“獻給本傑明“馬特里翁”杜斯特的雕像”。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人覺覺覺既然得他被刻成雕像那肯定是做了什麼很重要的事。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "細心。這個銘牌上說，這是獻給偉大的本傑明-馬特里翁-杜斯特的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "銘牌上說“獻給本傑明“馬特里翁”杜斯特的雕像”。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "據說偉人的雕像都是由在他們有生之年被扔的石頭做成的。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "銘牌上說“獻給本傑明“馬特里翁”杜斯特的雕像”。"}]

@@ -1,0 +1,4 @@
+[{"op": "replace","path": "/description","value": "這把槍內含一團蠢蠢欲動的變異外星蠕蟲。"},
+{"op": "replace","path": "/shortdescription","value": "外星蠕蟲槍"},
+{"op": "replace","path": "/altAbility/name","value": "蠕蟲爆發"},
+{"op": "replace","path": "/upgradeParameters/shortdescription","value": "外星蠕蟲槍^yellow;^reset;"}]

@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "標籤上寫著，\"它由彈性物質組成。\""},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "葛利普手辦"}]

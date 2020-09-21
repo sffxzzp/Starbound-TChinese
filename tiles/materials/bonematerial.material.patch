@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一批緊緊湊在一起的骨頭。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "骨塊"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "驚悚。不同來源的骨頭都擠在了一起。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "骨骨骨頭！"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一堆骨頭。會有誰需要它們！"}]

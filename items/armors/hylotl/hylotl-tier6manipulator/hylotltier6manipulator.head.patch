@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這頂頭盔旨在讓穿戴者在黑暗的海洋深處也能得到保護，是陸上生物夢寐以求的東西。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "無光頭盔"}]

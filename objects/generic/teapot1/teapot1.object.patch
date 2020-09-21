@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "茶會上完美的茶壺。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "茶壺"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個茶壺。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個有著鼻子的大杯子。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "奇奇奇怪的有長長鼻子的生物雕塑。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "觀察。它有著罕見的粉紅色調。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一個漂亮的茶壺。真令人欣慰。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一種伺服器具。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "所以你把些葉子捅進一壺水裡然後…就這麼喝了？"}]

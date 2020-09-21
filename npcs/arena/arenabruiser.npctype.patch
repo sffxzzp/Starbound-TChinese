@@ -1,0 +1,7 @@
+[{"op": "replace","path": "/scriptConfig/dialog/attack/default/default","value": ["準備好被碾碎吧！"]},
+{"op": "replace","path": "/scriptConfig/dialog/reattack/default/default","value": ["這次我會終結你！"]},
+{"op": "replace","path": "/scriptConfig/dialog/killedTarget/default/default","value": ["你很弱，而我很強！","你根本不配與我們戰鬥！"]},
+{"op": "replace","path": "/scriptConfig/dialog/lostTarget/default/default","value": ["你不可能躲過我！"]},
+{"op": "replace","path": "/scriptConfig/dialog/outOfSight/default/default","value": ["無路可逃！"]},
+{"op": "replace","path": "/scriptConfig/dialog/cheerOn/default/default","value": ["當我們聯合起來，無人能敵！"]},
+{"op": "replace","path": "/scriptConfig/dialog/cantReach/default/default","value": ["靠近點！","我要抓到你！"]}]

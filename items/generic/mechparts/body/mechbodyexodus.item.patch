@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個由合成腦組織網操作的強大機體。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "出埃及記機體"}]

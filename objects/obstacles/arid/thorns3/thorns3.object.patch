@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "最好不要到這裡面…"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "荊棘"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "十分尖銳的。我最好避開它。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "如果我能飛就好了。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "不是葉族人朋友的植物。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "小心。這個看起來很危險。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "非常尖銳的荊棘。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這個看起來很致命。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這個看起來非常鋒利，我要儘快離開這裡！"}]

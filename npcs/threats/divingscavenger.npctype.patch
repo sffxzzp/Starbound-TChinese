@@ -1,0 +1,2 @@
+[{"op": "replace","path": "/scriptConfig/dialog/attack/default/default","value": ["進攻！"]},
+{"op": "replace","path": "/scriptConfig/dialog/attack/hylotl/default","value": ["敵方潛艇艇員！抓住他們！","這是我們的海洋—你們將會後悔來這！","這片海洋是我們的！","我希望你已經準備好埋葬在大海之中！","當我們幹掉你以後，你將會同這些魚一樣長眠於此！","你不可能打敗我們！我們統治著這片海洋！"]}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個陰沉的木門。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "哥特式房門"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這扇門看起來很舊，或者至少它是被做成看去來很舊的樣子。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我喜歡色彩更自然一些的傢俱。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人不喜歡怪怪怪異的門。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "細心。這扇門看起來很古老也很重要。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "把這放在地牢裡會很合適，但出現在其他地方可就不那麼協調了。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這扇門有一股詩意的憂鬱氣息。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這扇門讓我毛骨悚然。"}]

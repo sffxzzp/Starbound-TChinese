@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "召喚屬於你自己的警衛！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "警衛生成器"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "我可以用這個來讓我獲得更多的保護而免受科技發展部的干擾。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "有了警衛，克魯西斯才不敢動我。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人能夠保護自自自己！但是有更多的警衛就不會受傷！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "滿意。人多力量大。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我一直想要有一個隨從。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "警衛可以幫我傳播和平。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個有華麗雕刻的書架。只裝有一部分書籍。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "毀壞的小型奢華書架"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這是一個相當華麗的舊書架。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個華麗的書架。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人早就把書架砸砸砸掉了。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "嫉妒。這個書架挺是華美的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "華麗的書架有華麗的書。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一個傳統的書架，它當然是有著奢華雕刻的。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一個填滿了書的書架。"}]

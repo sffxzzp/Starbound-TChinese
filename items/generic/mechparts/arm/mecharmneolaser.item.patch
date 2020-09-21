@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "為和平衛士設計的遠端光束武器。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "NEO鐳射機甲臂"}]

@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "炸彈"},
+{ "op" : "replace", "path" : "/description", "value" : "一個將東西炸掉的極好的解決方案。你投擲它的時候可要小心！"}]

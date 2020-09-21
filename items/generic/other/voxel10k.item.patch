@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "由10000個畫素壓縮而來。可以重新解壓縮取回部分消耗掉的畫素。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "10K 畫素塊"}]

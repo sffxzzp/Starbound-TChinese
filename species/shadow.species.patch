@@ -1,0 +1,4 @@
+[{"op": "replace","path": "/charGenTextLabels","value": ["膚色","髮型","上衣","褲子","內褲顏色","髮色","上衣顏色","褲子顏色","陰影","人物性格"]},
+{"op": "replace","path": "/charCreationTooltip/title","value": "陰影"},
+{"op": "replace","path": "/charCreationTooltip/subTitle","value": "只有這些人知道…"},
+{"op": "replace","path": "/charCreationTooltip/description","value": "我不知道這裡該寫什麼"}]

@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "皮製帶子，幾乎不能提供實質防護。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "落魄皮帶"}]

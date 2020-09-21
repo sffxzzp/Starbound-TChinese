@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "普通的下衣，柔軟而且防水。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "傳統褲子"}]

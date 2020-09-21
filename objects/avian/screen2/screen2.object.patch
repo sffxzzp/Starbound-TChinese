@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這是一艘處於星球軌道上的太空飛船。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "飛船顯示屏"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一艘大型在軌飛船。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "翼族人曾在追蹤記錄他們在宇宙中的行動。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "一艘大船船船和一顆大星球。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "觀察。這看起來是處在一顆相當大型星球的軌道上的一艘飛船。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一艘飛船圍著一顆星球轉啊轉。盯著他看讓我覺得頭暈。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "看起來是一艘令人印象深刻的飛船正在進入星球軌道。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一艘太空飛船在繞著星球轉。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這扇門是用防彈材料做的。它有一條貫穿它的複合軌。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "軌道氣密門"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個帶軌道的氣密門。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個氣密門，有軌道貫穿而過。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "這是是一個帶軌道的氣密門。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "欣賞。一個堅固的氣密門，並有軌道貫穿而過。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "氣密門，帶有軌道，有用！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "軌道系統的基礎氣密門。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "看起來像有軌道從中穿過的氣密門。"}]

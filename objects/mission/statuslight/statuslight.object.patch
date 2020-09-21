@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一盞指示開關狀態的燈。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "狀態指示燈"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這盞燈指示著開關的狀態。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "當亮藍燈時，開關是開啟的。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "藍燈意味著開開開關是開啟的。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "敏銳。一盞指示著處於啟用狀態開關的藍燈。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "當亮藍燈時，開關是啟用的。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一盞指示著開關狀態的燈。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "當開關被開啟時，指示燈發出藍色光。"}]

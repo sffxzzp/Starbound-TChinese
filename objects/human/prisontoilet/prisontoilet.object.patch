@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "看來某人經歷了暴風驟雨的一夜。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "骯髒的廁所"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "我們猿人曾經在像這樣可怕的環境裡呆過。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我不要呆在這裡。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "噁心！好惡心的座位位位。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "厭惡。我沒話說了。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "除了用漂白劑和凝固汽油之外沒有別的辦法。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我這輩子還沒見過對基本衛生條件都如此漠視的傢伙。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "沒有人喜歡清潔廁所但這個髒得已經超出我的忍耐極限了。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一張帶有床頭板的舒適木頭床。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "木床"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一張簡約的木頭床，漂亮又舒適。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個木製的床架和一張舒適的床墊。汝復何求？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人很少能夠睡睡睡在這這這麼棒的床上。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "昏昏欲睡。我現在電量不足。這張床看起來很誘人。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "你的基本而舒適的床。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "閉目養神的好地方。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "可以小睡一覺的不錯地方。"}]

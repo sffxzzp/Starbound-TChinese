@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個漂亮的執行臺。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "執行臺"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這個執行臺十分光滑。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個非常堅固的執行臺。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "一張好到能葉族切肉的桌子。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "批准。一個完美的執行臺。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一個很酷的執行臺。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一個甚至超越了鮫人工藝的桌子。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "有這個桌子，我可以舉辦一些非常棒的派對。"}]

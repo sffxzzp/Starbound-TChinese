@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "用來宣傳守護者畢業典禮儀式的傳單。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "畢業的傳單"}]

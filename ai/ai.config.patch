@@ -1,0 +1,30 @@
+[
+{"op": "replace","path": "/noCrewSpeech/text","value": 
+"^#6f6f6f;$ crew
+^cyan;> 你是這艘飛船唯一的在籍船員。
+> 招聘更多的船員將能提高執行效率。"
+},
+{"op": "replace","path": "/noMissionsSpeech/text","value": 
+"^#6f6f6f;$ missions
+^cyan;> 當前沒有可用的任務座標。"
+},
+{"op": "replace","path": "/shipStatus/0/text","value": "> Zzz... Zzz... Zzz..."},
+{"op": "replace","path": "/shipStatus/1/text","value": 
+"^#6f6f6f;$ status
+^cyan;> 飛船推進器當前離線。
+> 飛船傳送系統執行正常。
+> ^green;當前只能抵達下面這個星球。"
+},
+{"op": "replace","path": "/shipStatus/2/text","value": 
+"^#6f6f6f;$ status
+^cyan;> 飛船推進器已上線。
+> 飛船傳送系統執行正常。
+> ^green;可抵達該星系內所有的行星。"
+},
+{"op": "replace","path": "/shipStatus/3/text","value": 
+"^#6f6f6f;$ status -f
+^cyan;> 飛船推進器已上線。
+> FTL引擎已上線。
+> 飛船傳送系統執行正常。
+> ^green;可抵達整個宇宙。"}
+]

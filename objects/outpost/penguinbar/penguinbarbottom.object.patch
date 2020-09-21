@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "適合企鵝的吧檯。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "企鵝吧檯"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這個吧檯肯定經歷過繁榮的日子。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這個吧檯曾看起來不錯。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "這這這個吧檯使用廉價的木材製作的。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "冷漠。這個吧檯到處是劃痕還很髒。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這個吧檯和剛來時一樣便宜。但它增添了很多個性！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這吧檯如此糟糕的造型使我驚訝於它還沒有散架。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這個吧檯不會越來越糟，它被好好愛護著！"}]

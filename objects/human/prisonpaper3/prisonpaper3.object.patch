@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "囚犯#2162研究團隊針對那些不能正常閱讀的囚犯的研究。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "事件備忘錄"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "看起來這些囚犯被允許接受一些教育，這是科技發展部明令禁止的。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個犯罪學研究的飛躍式進步。能看到囚犯努力改造是極好的。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人讀書少，葉族人不理理理解這這這種事。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "樂觀。在關押犯人的同時讓他們學習一技之長，這種概念我覺得很積極。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一個犯罪學研究的飛躍式進步。假如進監獄可以接受教育，那還要學校幹什麼。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一張研究團隊的海報。鼓勵囚犯學習是所有文明都應該做的事。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "罪犯管理科學的一次飛躍。"}]

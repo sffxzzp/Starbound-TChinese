@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一副刑枷。中世紀時代的一種刑罰方式。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "中世紀刑枷"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一套刑枷。科技發展部都還沒發現的一種少有的侮辱人格的刑具。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "看起來像某種束縛裝置。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "木傢伙上有有有股討厭的水果味兒。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "受驚。你絕對不會想被鎖進這裡面。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "如果你告訴我這種刑枷只是一個好玩的笑話，那它就是…一個笑料。我很幽默吧。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "用來束縛犯人當你向他扔爛水果時。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "用來鎖住歹徒的刑枷。"}]

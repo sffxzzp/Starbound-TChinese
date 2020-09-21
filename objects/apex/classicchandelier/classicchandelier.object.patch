@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這盞枝形吊燈是用精鐵製成的。它看起來價格不菲。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "古典吊燈"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一盞漂亮的古典吊燈。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一套非常迷人的燈具。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "即使葉族人都能一一一眼看出其中古古古典的味道。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "欽佩。這些看起來很像電子人的吊燈，但是更高階。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一盞電子吊燈。非常漂亮。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "可能其他人比我想象的要高雅。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我喜歡這盞燈。能掛在酒吧裡就再好不過了。"}]

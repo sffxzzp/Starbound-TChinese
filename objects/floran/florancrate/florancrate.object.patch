@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個用未經加工的骨頭和木頭製作的板條箱。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "原始板條箱"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個用骨頭和木頭做出來的簡單板條箱。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個用骨頭和木頭做出來的簡單的板條箱。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人用多多多餘的骨頭和木頭來裝裝裝東西。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。在這個不起眼的板條箱能有多大機率裝著值錢的東西？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "骨制的稜角讓它可以在地上方便地移動。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我不敢想象葉族人往裡面放了什麼東西。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我幾乎不想知道里面放著什麼東西。幾乎不。"}]

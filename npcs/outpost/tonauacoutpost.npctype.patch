@@ -1,0 +1,3 @@
+[{"op": "replace","path": "/npcname","value": "圖南瓦克"},
+{"op": "replace","path": "/scriptConfig/dialog/converse/default/default","value": ["多麼偉大的遠古遺蹟…我毫不懷疑是克魯西斯造就的這些遺蹟。"]},
+{"op": "replace","path": "/scriptConfig/dialog/bless/default/default","value": ["克魯西斯說過，“讓那兒作為為我而戰的勇士的賞賜！”","阿沃斯經典 81章1節6行 — “這些遵循克魯西斯腳步的人比其他種族更加優越。”","來，接受我的祝福！","這個地方看起來甚至比君主寺還要年代久遠！來，接收一下祝福吧！"]}]

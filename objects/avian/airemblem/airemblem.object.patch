@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這一徽章象徵著大氣那自由和流動的特性。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "翼族大氣徽章"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "代表大氣的翼族徽章。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "那是翼族天空徽章，這我怎麼可能會忘記。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "柔軟的曲線線線代表大氣元素。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "博學。我相信這個徽章是翼族大氣徽章。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我猜這個徽章代表著大氣或者是風。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一個相當粗糙的、用來象徵大氣元素的裝飾物。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "看起來是一個搖搖欲墜的翼族風之雕飾。"}]

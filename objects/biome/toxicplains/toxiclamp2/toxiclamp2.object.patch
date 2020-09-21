@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一朵和燈有著相同功能的花。和向日葵很像、但並不是向日葵。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "懸掛毒素燈"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "對一盞燈來說，這還真是富有魅力的做法。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "開啟開關後，這朵花發出了空靈的光輝。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人喜歡植物。特別是能發出安安安全火光的植物。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "觀察。這盞燈看起來完全是由太陽能驅動的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一朵用電的花。哈。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "對於燈而言這是一個有趣的創意。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一盞漂亮的燈。"}]

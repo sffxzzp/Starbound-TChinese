@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "電子人貴族經常穿這種風格的褲子。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "貴族褲子"}]

@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "當你遇到一顆十分寒冷的星球的時候十分有用。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "雪步兵胸甲"}]

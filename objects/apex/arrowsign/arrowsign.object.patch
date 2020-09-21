@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "我大概應該走那邊。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "箭頭標誌"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "我已經習慣於不跟著箭頭走了。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個箭頭。不知道它會指引我去哪兒。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "箭頭算個球！葉族人想想想去哪兒就去哪兒！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "分析。是正確方向的機率為25%。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "它不告訴我這是去哪兒的又如何？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "有時候，欲進則須先退。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "無意義的箭頭。"}]

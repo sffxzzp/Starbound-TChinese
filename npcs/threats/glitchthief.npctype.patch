@@ -1,0 +1,2 @@
+[{"op": "replace","path": "/scriptConfig/dialog/attack/default/default","value": ["進攻！"]},
+{"op": "replace","path": "/scriptConfig/dialog/attack/glitch/default","value": ["恐嚇。你不會想惹上我們的！","急切。你看上去要損失不少畫素了！","好鬥。你瞅啥？","興奮。快看—一個送上來被搶劫的！","急切。讓我們一起開始搶劫吧。"]}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這個導航信標標誌著著陸艙的位置。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "著陸信標"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這標誌著機甲著陸艙的位置。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這個標記意味著有一個用於機甲進入空間海灣。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "信標顯示機甲可以進入空間的位置。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "見多識廣。這種型別的信標在追蹤機甲載具可以停靠的時候很有用。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一個標記告訴飛行員在哪裡降落他們的機甲套裝。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這個信標用來標記空機甲港灣。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這個信標是用來標記在哪兒停靠你的機甲。"}]

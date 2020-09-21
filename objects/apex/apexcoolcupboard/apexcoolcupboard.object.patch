@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這個櫥櫃很清爽，但是看起來不結實。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "酷酷噠櫥櫃"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "我打賭這櫃子裡藏著骷髏。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這裡面有什麼東西麼？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "儲儲儲儲物櫃。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。可以往裡存放東西。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一個外表光鮮的櫥櫃。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我應當檢視下里面有什麼。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "讓我們看看裡面有什麼。"}]

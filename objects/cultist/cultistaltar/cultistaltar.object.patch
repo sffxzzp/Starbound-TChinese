@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一座邪教祭壇。祭祀的是原始的邪惡崇拜。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "邪教祭壇"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一座奇怪的祭壇。這裡祭祀的是什麼？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這不是克魯西斯的祭壇，這是可以肯定的。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族聞到血味。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "擔心。這座祭壇似乎被用於一些邪惡的儀式。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "令人毛骨悚然的祭壇。只是看著就令我不安。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一個黑暗和可怕的存在潛伏在這裡。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這座黑暗的祭壇詭異且令人不安。"}]

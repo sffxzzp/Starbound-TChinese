@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個象徵著家的古老符文。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "家符文"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個用於表達家的古老符文。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個代表家的古老符文。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "代代代表家的符文。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "疑惑。一個代表著家的符文，但是家是什麼？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "人們是用這個符文代表家，還是用來區分他們的家？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "人們可以疑問家的內容到底能不能被真的定義。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這個代表家，對我來說，家是心居住的地方。"}]

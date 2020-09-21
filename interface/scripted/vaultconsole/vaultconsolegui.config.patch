@@ -1,0 +1,3 @@
+[{"op": "replace","path": "/gui/windowtitle/title","value": "庇護所大門控制檯"},
+{"op": "replace","path": "/gui/windowtitle/subtitle","value": "使用庇護所之鑰啟用"},
+{"op": "replace","path": "/gui/costDescription/value","value": "庇護所之鑰"}]

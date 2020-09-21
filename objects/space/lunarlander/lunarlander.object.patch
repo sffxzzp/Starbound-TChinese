@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "早期太空旅行的傳奇證明。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "月球登陸器"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "我認為這可能是一個副本，這樣的登陸器已經長時間沒用了。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "提醒我們，每一個旅程都始於一小步…"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "這個登陸艙還沒一個小屋大。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "吃驚。人類竟然相信這些原始的太空艙能在太空中使用。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "他們不會像過去那樣再製作它們。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "看著這個，能提醒我們已經在太空探索方面走了多遠。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我看過有比這個舊登陸器空間更大的廁所。"}]

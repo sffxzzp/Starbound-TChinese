@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個漂亮的花圃。當心蜜蜂！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "花圃"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個被悉心照顧的花圃。少有的讓猿人開心的東西之一。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一種讓人不適的甜味氣息瀰漫在空氣中。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人曾藏在花叢裡，跳出來，給吐舌娃一個驚驚驚喜。吐舌娃不開心。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "敬佩。一個種的相當好的花圃。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一個花圃。最好還是留給那些園藝能手來處理吧。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一個非常幼稚的花圃。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一個花圃。真是蹊蹺。"}]

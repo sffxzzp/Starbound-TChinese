@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這裡曾經是一個整潔的攤位。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "休業的泰拉市場"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "奇怪的貨運箱――它看上去不像只用來儲物。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "有棵樹從儲物木箱的頂部長出來了！"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人喜喜喜歡這個樹箱。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "吸引。看上去有些人把這木箱改造成了商店。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "看上去有些人正在搬進這個巨大的貨運箱。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "似乎有棵樹長穿了這個木箱。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "有人把這個木箱變成一個商店麼？"}]

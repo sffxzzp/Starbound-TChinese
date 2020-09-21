@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "你這迷人的燈光！我的眼睛都挪不開了。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "熔岩燈"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "迷人的燈光。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這種燈不斷地挑逗我去注視它。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "這這這盞燈還活著嗎？它的內部有東西在流動！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "冷靜。這裡面的液體以一種迷人的姿態運動。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "讓我想起了曾經做的一個噩夢。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "燈內液體的搖曳讓我想起了家鄉。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這種燈給我的感覺。很奇特。"}]

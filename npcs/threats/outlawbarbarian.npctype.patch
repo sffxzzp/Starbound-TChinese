@@ -1,0 +1,2 @@
+[{"op": "replace","path": "/scriptConfig/dialog/attack/default/default","value": ["進攻！"]},
+{"op": "replace","path": "/scriptConfig/dialog/attack/floran/default","value": ["葉族人準備好再獵殺一一一些！","你要在這與葉族人打架？葉族人很興奮！","準備好被刺刺刺穿！","葉族人是所有獵人裡最有本本本事的！"]}]

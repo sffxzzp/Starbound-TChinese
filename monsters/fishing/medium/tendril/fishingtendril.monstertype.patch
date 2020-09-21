@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "血手"},
+{ "op" : "replace", "path" : "/description", "value" : "這種奇怪的生物不只是一個單一的實體，而是一組互相獨立的共生生物。"}]

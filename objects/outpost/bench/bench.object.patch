@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "基本的長凳。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "長凳"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "樸素的長凳。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "長凳。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "座座座位。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "客觀。一條長凳。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "長凳。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "簡單樸素的長凳。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "休息疲累雙腿的樸素之處。"}]

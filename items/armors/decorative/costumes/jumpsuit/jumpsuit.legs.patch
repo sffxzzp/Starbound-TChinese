@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "有一個標籤，上面寫著：“來自13區”。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "跳傘褲子"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "考究自動化的標牌工藝平版印刷工。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "EASEL"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "我可以在這列印各種標牌。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "在這裡我能製作和列印標牌。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "多少詞是很多詞？三。三個詞詞詞。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "驚奇。古登堡機器人會對這個玩意兒感到驚訝。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我可以在這特製一個標誌！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "標牌是用來傳意和開導的。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "如果我不是這麼急著冒險的話，我就能製作各式標牌。"}]

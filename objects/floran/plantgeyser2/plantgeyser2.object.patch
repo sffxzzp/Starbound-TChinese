@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個小型間歇泉，被藤蔓覆蓋了。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "小型間歇泉"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這個小型間歇泉似乎不活躍了。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "沒有一點蒸汽從這小型間歇泉裡散發出來，所以我估計它停止活動了。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "植植植物從這個小型間歇泉中汲汲汲取能量。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "自信。沒有跡象表明這間歇泉會噴發。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "植物已經覆蓋了這個小間歇泉。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這小型間歇泉似乎停止了，但我還是離他遠點好。"},
+{ "op" : "replace", "path" : "/novaDescription", "value" : "我不認為這個小型間歇泉會給我帶來什麼麻煩。"}]

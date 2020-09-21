@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "通常能在鑄造廠看到這種設計的電梯。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "長工業電梯"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個堅固的電梯。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "解決多層次廠房問題的最簡方案。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "電梯上上上上下下下。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "無趣。一個平淡無奇的電梯。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一個用以上下層移動的電梯。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一個工業級電梯。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "某種電梯，還挺有用的！"}]

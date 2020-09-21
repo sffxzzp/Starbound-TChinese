@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "標準的守護團學生雙層床。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "守護團雙層床"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這種床設計很簡單。然而躺上去卻難以置信的舒服。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "如同孵化巢一樣柔軟。要不是我趕時間，我寧願再小睡一會兒。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人昏昏欲睡睡睡，但必須得趕路以免錯過畢業典禮！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "疲倦。我不介意睡個回籠覺，但我想我該趕赴畢業典禮了。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我已經熬過了無數個聽宿友打鼾的漫漫長夜。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一張標準守護團雙層床。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一張優質的守護團雙層床。我希望可以回去躺在我的床上。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個用來展示你的財寶的基座。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "中世紀基座"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個用於展示誘人珍寶的基座。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "看起來像是某種特別的桌子。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "小小的木桌上蓋著熠熠生輝的桌布。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "引誘。這個基座是用來展示珍貴的藝術品的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "它看起來是一個展示用基座。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一個用來展示奇珍異寶的地方。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一個高貴的展示臺。"}]

@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "銅礦常見於大多星球的淺表層。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "銅錠"}]

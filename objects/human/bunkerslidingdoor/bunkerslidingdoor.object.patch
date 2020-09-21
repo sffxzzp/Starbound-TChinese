@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這種拉門讓我感覺好像置身於科幻遊戲裡面…"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "現代化拉門"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個拉門，真讓人興奮。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一些文明相信，如果你沒有靈魂，這些門是不會有反應的。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "一個鬼鬼祟祟的滑滑滑動門。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "著迷。這些門的開關方式有某種不可抗拒的魔力。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "有一次，我像這樣跑向一道門，它卻沒有及時開啟，然後…你懂的。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一道光滑的拉門。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我一直喜歡這種造型的滑動門。"}]

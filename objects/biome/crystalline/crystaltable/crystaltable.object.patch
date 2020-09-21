@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一張由水晶製成的桌子。跟名貴的食物絕配。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "水晶桌子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一張由水晶製作的桌子。精彩。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一張漂亮的水晶桌子。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人可以在水晶上切切切，也不會造造成刀痕。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "妒忌。這桌子是怎樣保持如此閃亮的？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "坐在這張桌讓我感覺很像皇家。神奇的莊嚴感。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這桌的表面閃閃發光就像平靜的湖面。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "兩合一功能，桌子與鏡子並用。"}]

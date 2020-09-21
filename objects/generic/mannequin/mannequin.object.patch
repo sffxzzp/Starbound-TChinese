@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "展示並方便裝備護甲套裝！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "人體模特"}]

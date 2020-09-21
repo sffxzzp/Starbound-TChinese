@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一小坨肉質的灌木，粘糊糊的。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "血肉叢"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一坨怪誕的灌木。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我不想我花園裡有這東西。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族覺得葉族人應該戳戳戳灌木。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "不舒服。這灌木太噁心了。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這是灌木還是腫瘤？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "有時大自然會排斥我。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這只是一般的可怕。"}]

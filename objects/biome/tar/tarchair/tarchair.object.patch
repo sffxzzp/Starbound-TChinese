@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一張粘粘的瀝青椅子。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "瀝青椅"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這看起來就是張普通的椅子，不過不知怎麼的，我就是沒法對其放下戒心。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "坐在這樣的椅子上肯定會讓你失去一些尾羽。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人最好坐坐坐在地上而不是坐在這粘粘粘乎乎的椅子上。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "不滿。不舒適的座椅體驗並不能讓人放鬆。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "多麼差強人意的座位啊。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "任何不想讓你離開的椅子都只會拖你後腿。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這張椅子有一個粘粘的表面。這絕對是錯的。"}]

@@ -1,0 +1,3 @@
+[{"op": "replace","path": "/npcname","value": "艾絲特"},
+{"op": "replace","path": "/scriptConfig/dialog/converse/default/default","value": ["當你需要我的時候我都在這兒，親愛的。特別是當你需要薄荷硬糖的時候。"]},
+{"op": "replace","path": "/scriptConfig/dialog/arkOpened/default/default","value": ["方舟開啟了！你知道什麼在等待著我們，親愛的。"]}]

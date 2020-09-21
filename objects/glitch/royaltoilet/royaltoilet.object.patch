@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "…另一型別的王座。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "皇家馬桶"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "黃金馬桶真的有必要嗎？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "連上個廁所也是如此奢侈。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "亮閃閃的金水碗。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "審判。鋪張浪費的玩意兒。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "用黃金做馬桶似乎有點過了。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "可怕的浪費。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一個金馬桶，在我看來確實是浪費金錢。"}]

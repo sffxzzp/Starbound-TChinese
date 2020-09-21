@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "上面印著一些褪色的罪犯照片的海報。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "和平衛士寬海報"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這張海報提供了當地犯罪組織的資訊。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這張海報展示了一些最近看到的罪犯的照片。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族對牆紙不感興趣。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。這張海報顯示了一些迄今為止一直在逃避正義的罪犯。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "經典的“通緝”海報。顯然有一些當地的犯罪分子在逃亡，這並不好！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "嗯-看來和平衛士目前正在追蹤一些當地的逃避了正義審判的罪犯。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這張海報上說現在有一些真正的混蛋在逃亡。"}]

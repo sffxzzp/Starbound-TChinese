@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "它曾經是最經典的掛旗。現在它有些破爛了。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "破爛的經典掛旗"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這張漂亮的掛旗發生了什麼？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "是有什麼人把它毀壞了嗎？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "破舊的掛旗。不是那麼柔柔柔軟了。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "失望。它曾經一定是個很漂亮的掛旗。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "有著暴力的撕毀痕跡。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這張老掛旗過去有一段好時光。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "可惜。這張老掛旗過去有一段好時光。"}]

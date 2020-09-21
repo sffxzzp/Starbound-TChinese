@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個全息的古老神話場景。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "古代全息圖"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這一幕顯示出一個將怪物推向漩渦的影像。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這表明兩個強大力量之間的某種災難性的戰鬥。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "一個關於戰鬥的老照片！需要多刺刺。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。右邊的生物是在被推入漩渦嗎？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "情節扣人心絃。懸念讓我要瘋。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我想知道這是一個歷史還是個神話故事？"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這表明有人與骯髒的眼睛怪爭吵。"}]

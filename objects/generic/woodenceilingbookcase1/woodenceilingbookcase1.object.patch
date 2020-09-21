@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個堅固的懸掛式書架。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "牆掛書架"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個掛在牆上的書架。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個為節省空間而造的書架。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "牆式小小小書架。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "興奮。一個牆掛式書櫃，多迷人啊。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一個漂亮的木頭書架。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這些書被懸掛在牆上來節省空間。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這是個偉大的節省空間的點子。"}]

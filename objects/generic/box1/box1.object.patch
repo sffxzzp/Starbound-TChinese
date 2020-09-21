@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個小木箱。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "木箱"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個簡單的小木箱。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "木製的箱子。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "一個用製成條的新鮮鮮鮮的樹材打造的箱子。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "滿意。這個木箱很簡單，但是很有用。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "用小木板製成的箱子。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一個木箱。用途很大，但是不怎麼漂亮。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一個看上去一般般的木製箱子。"}]

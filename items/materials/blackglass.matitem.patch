@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一塊深色的玻璃板。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "黑色玻璃"},
+{ "op" : "replace", "path" : "/glitchdescription", "value" : "感興趣。這種玻璃的顏色是如此的深，都幾乎不透明瞭。"},
+{ "op" : "replace", "path" : "/florandescription", "value" : "葉族人可以躲在這種深色玻璃璃璃後面。"},
+{ "op" : "replace", "path" : "/novakiddescription", "value" : "這玻璃顏色夠深，陽光也基本透不過來了。"}]

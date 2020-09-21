@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "上面沒放任何東西。每個頻道都是大猿人的圖片。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "大猿人電視"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "大猿人從未在大猿人電視上露面過。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "貌似用這臺裝置什麼也做不了。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "沒用用用的機器。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "留心。這臺裝置可以接收上千個不同的頻道，但是它們看起來都一樣。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "它的眼睛剛剛動了麼？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這唯一的大猿人圖片看上去是假的。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一個生物正在螢幕上盯著我。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個外觀普通的廁所！謝天謝地！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "簡陋的廁所"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個小小的廁所。看起來完全不衛生。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "用來排洩的地方。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "閃亮光潔的地方用來做難難聞聞聞的事情。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "冷漠。廁所。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "廁所。總是那麼受人歡迎。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "簡陋的廁所。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "只是一個簡單的廁所。不是那麼富有魅力，但是不可或缺。"}]

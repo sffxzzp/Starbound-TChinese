@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這個小櫃子的上佈滿了雕刻圖案。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "小型雕刻櫃子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個櫃子。看起來它是由物主們自行裝飾的。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "裝飾傢俱是在折翼者中最流行的愛好。這個櫃子看起來為此承受了許多磨難。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人看看看到了許多裝飾失誤的痕跡。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "觀察。這些裝飾似乎是多人合作的成果。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "看起來曾有一些人裝飾這個櫃子裝飾得很開心。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "裝飾這個櫃子似乎成了快樂的源泉。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這是個裝飾得很差勁的櫃子。"}]

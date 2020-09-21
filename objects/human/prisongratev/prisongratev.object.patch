@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "生鏽的金屬格柵，看起來是用來通風的。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "垂直金屬格柵"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "生鏽的金屬格柵。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "金屬製的格柵，生鏽了。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "格柵。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。敏捷的電子人可以從這裡穿過去。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我一直想從這裡爬過通風口。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一個通風口。保養的不是很好。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一個通風口。不確定是否還能工作。可以確定的是這裡悶死了。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "充滿了誘人的操作杆，但我還是不要管它了。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "標準控制檯"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個命令控制檯，不清楚是幹什麼的。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "亂擺弄的話好像很危險。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "一臺充滿按鈕鈕鈕和控制桿杆杆的機器，看著很誘人，但是葉族人最好不要亂動這個東西…"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "細心。控制檯的操作杆越多，胡來的時候就越危險。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我想這個可能是用來開啟艙門的。或者是讓什麼東西爆炸的。反正，這玩意兒肯定是用來做什麼事情的"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "千萬…不要…拉…操作杆…"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "誰知道這些按鈕和操作杆是幹什麼用的。我絞盡腦汁也沒能理解。"}]

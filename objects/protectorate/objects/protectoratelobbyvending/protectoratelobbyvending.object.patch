@@ -1,0 +1,11 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一臺守護團大堂的自動販賣機。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "守護團自動販賣機"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這臺動販賣機出售過飲料與零食。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "你能在這臺自動販賣機買到能量飲料。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "能量飲飲飲料在葉族人認真備備備考時很有幫助！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "失望。這種能量飲料對電子人沒什麼用。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "噢我的天。我已經喝了太多能量飲料了。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一臺供應含糖飲料和零食的自動販賣機。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這種能量飲料能讓你一整晚都精神煥發。喪心病狂，我跟你們說。"},
+{"op":"replace","path":"/interactData/paneLayoutOverride/windowtitle/title","value":"販賣機"},
+{"op":"replace","path":"/interactData/paneLayoutOverride/windowtitle/subtitle","value":"好吃的零食"}]

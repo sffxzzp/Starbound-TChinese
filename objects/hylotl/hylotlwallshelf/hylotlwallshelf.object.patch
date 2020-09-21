@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個用來放東西的藍色架子。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "藍色牆架"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個牆架。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個簡單的牆架。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "無聊的架子。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "無趣。一個架子。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "是一個牆架。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "用來放各種玩意的藍色牆架。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一個藍色牆架。"}]

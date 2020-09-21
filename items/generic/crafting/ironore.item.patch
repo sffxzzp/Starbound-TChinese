@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "鐵礦石。可用於冶煉。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "鐵礦石"}]

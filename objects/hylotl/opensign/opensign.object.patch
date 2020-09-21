@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個標著“open”的霓虹燈。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "Open霓虹燈"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個明亮的“open”霓虹燈標誌。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個“open”標誌。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "這這這裡是開張的嗎？"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "冷淡。一個“open”標誌。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一個“open”霓虹燈標誌。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一個指示這地方是否開放的標誌。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一個“open”標誌。"}]

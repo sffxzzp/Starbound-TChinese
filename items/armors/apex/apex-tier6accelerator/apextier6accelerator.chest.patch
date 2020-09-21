@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這件幾乎堅不可摧的盔甲能讓脖子、臂關節和腹部靈活運動,使穿戴者在戰鬥中更加敏捷。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "滲透者胸甲"}]

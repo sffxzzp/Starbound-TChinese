@@ -1,0 +1,11 @@
+[{ "op" : "replace", "path" : "/description", "value" : "出售假冒的飛船執照的地方。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "企鵝灣"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "可疑的鳥兒們和他們的黑市商品。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這企鵝讓我好緊張。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "鬆鬆鬆軟酥脆的企鵝和他們要出出出售的貨物！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "滑稽。這群小企鵝是走私者。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我感覺我走進了黑幫電影。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "粗鄙有罪的鳥兒。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "吵鬧粗野的鳥兒售賣危險的玩意兒，就像我這樣。"},
+{ "op" : "replace", "path" : "/interactData/paneLayoutOverride/windowtitle/title", "value" : "企鵝灣"},
+{ "op" : "replace", "path" : "/interactData/paneLayoutOverride/windowtitle/subtitle", "value" : "100%合法的飛船執照"}]

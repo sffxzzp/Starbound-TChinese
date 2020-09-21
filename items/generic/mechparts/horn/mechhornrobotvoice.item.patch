@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "給你的機甲一個爆炸聲來嚇退敵人。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "機器人語音機甲角"}]

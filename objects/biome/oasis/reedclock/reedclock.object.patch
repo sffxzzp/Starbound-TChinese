@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個有鏤空滴答聲的蘆葦鍾。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "蘆葦掛鐘"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "滴答的鐘聲如此舒緩。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "無盡的滴答聲讓我氣得發毛。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "蘆葦鍾發發發出舒緩的滴答聲。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "惱怒。這滴答聲永不停止。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一個可愛的時鐘，可惜只有單調的滴答聲。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "平緩而又單調的滴答聲。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這樣的聲音會讓任何一個人失去理智。"}]

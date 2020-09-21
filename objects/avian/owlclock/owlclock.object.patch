@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "滴，噠，滴，噠。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "貓頭鷹掛鐘"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個可愛的掛鐘，它的眼睛在移動。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "折翼者喜歡享受創造的樂趣。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "鳥人的鐘有一雙鬼鬼鬼鬼祟祟的眼眼眼睛。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "逗樂。這雙眼睛每過一秒就動一下。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "多可愛的掛鐘。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "看到這個計時器很難不讓人發出會心的笑容。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一個貓頭鷹形狀的鐘。它有點可愛。"}]

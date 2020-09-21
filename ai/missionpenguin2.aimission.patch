@@ -1,0 +1,3 @@
+[{"op": "replace","path": "/speciesText/default/buttonText","value": "武器試驗場"},
+{"op": "replace","path": "/speciesText/default/repeatButtonText","value": "重新挑戰武器試驗場副本"},
+{"op": "replace","path": "/speciesText/default/selectSpeech/text","value": "企鵝科學家阿卡基博士需要你來幫助他測試一款新武器。"}]

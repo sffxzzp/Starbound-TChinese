@@ -1,0 +1,4 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個充滿活力的火焰花。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "火焰花。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "如火的花讓葉族感到困惑。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "陳述。火焰花。"}]

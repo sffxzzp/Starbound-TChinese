@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "它很漂亮，但有很強放射性。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "鈽礦"}]

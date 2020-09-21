@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "FTL修理工具"},
+{ "op" : "replace", "path" : "/description", "value" : "你可以用這個工具完全修好飛船上的FTL引擎！"}]

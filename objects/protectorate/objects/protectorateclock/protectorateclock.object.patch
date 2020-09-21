@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "我真的、真的要遲到了！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "守護團時鐘"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "我真的該馬上趕到大禮堂了。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我真的睡得像死豬一樣。我要趕緊的了！"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "時間在在在一秒一秒過去。葉族人要加加加快速度了。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "緊張。我真的該馬上動身了。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "哇，已經這個點了？我得趕緊了。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我不敢相信已經這麼遲了！"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "畢業儀式不會為任何人推遲。我得趕緊了。"}]

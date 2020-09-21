@@ -1,0 +1,6 @@
+[{"op": "replace","path": "/scriptConfig/crew/role/name","value": "清潔工"},
+{"op": "replace","path": "/scriptConfig/crew/role/field","value": "清潔"},
+{"op": "replace","path": "/scriptConfig/dialog/crewmember/roleDescription/default/default","value": ["我是<selfname>…這裡的清潔工。","我名叫<selfname>…是一名清潔工。"]},
+{"op": "replace","path": "/scriptConfig/dialog/crewmember/roleDescription/floran/default","value": ["葉族人名叫<selfname>……葉族人的工作是掃掃掃。太髒啦。","葉族人名叫<selfname>。是一名清潔工。"]},
+{"op": "replace","path": "/scriptConfig/dialog/crewmember/roleDescription/glitch/default","value": ["無聊。我是<selfname>…這裡的清潔工。","膩味。工作就是工作，但是這實在…"]},
+{"op": "replace","path": "/scriptConfig/dialog/crewmember/roleDescription/novakid/default","value": ["當地板滿是灰塵的時候，總需要一個人去清掃它。事情就是這樣。","我是<selfname>，這裡的清潔工。我會做任何我在這裡能做到的事情。"]}]

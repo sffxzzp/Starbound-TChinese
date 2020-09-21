@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "帶有食物用具影象的標誌，指示食物站。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "食品站標誌"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這個標誌是用來表示基礎食物的。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這個標誌表示食物站。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族不需要花哨的工具來吃東西。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "見多識廣。這個符號的影象是用來表示食物站的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "標示食物站的標誌。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這樣的標誌通常意味著附近有一個食品站。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "估計這個標誌意味著附近有一個食品站。"}]

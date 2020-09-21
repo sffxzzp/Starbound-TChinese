@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "為地球所有生命提供能源的黃矮星―太陽的精細模型。這個模型甚至也在放出光芒。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "太陽模型"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "太陽。太陽系的核心。它屬於在全部主序星中佔比為7。6%的黃矮星。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "太陽系中心的恆星。它和我的家園星系裡雙星系統中的其中一顆恆星差不了多少。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "太太太陽。儘管地球毀滅了，但太太太陽依依依然光芒四射。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "悲傷。何時我才能再次親眼見到太陽。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "家中星系的恆星，太陽。我永遠不會忘記地球上的日落美景…"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "太陽系中心的恆星，一個G類主序星。在公認的星際標準中，太陽的質量也被用作計算其他天體質量的標準計量單位。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "要是回到在學院裡的那段日子，我可以整整凝視太陽幾個小時不停歇。我會想念那段時光的。"}]

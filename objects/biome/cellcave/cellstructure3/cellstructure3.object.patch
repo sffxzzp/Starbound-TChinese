@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個混亂而奇怪的細胞。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "細胞結構"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個奇怪的顯示。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個顯示。 這讓我想起能量晶體。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "特特特別外貌的東西西西。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "分析。這個細胞結構看起來像個改進過的猿人。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這讓我想起了物理課。還是生物？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "當科學遇見藝術。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "巨型細胞？是誰把這些留在這？"}]

@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "很少有東西能刺穿這用日曜石強化過的護脛。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "滲透者護脛"}]

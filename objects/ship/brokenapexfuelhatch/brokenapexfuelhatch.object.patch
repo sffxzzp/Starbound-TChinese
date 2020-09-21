@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個損壞的FTL燃料倉。它無法運作！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "損壞的FTL燃料倉"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "將燃料轉變為自由。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "讓我們裝滿它然後去摘星星吧！"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "讓我我我們裝滿它！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "激動。裝滿後，我們就可以參觀其他星球。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "燃料倉。我能裝滿它然後開始我的探索。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "燃料是探索之旅的命根子。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "FTL燃料裝灌進這裡！當它被修好後…"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這是個完美的通用物品，大概有點過於完美了。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "完美通用物品"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這件物品好像有點問題。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我以前從未遇到過如此完美勻稱的東西。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "很不自然的完美立方。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "不安。一件沒有物理缺陷的物品。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "是什麼樣這個完美的立方體立方如此特別的？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這個立方展現了幾何之完美。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "沒什麼好說的。完美太無聊了！"}]

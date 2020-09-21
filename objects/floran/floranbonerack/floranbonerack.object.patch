@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "架子上有三根未經加工的骨頭。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "骨頭架子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "擺在這裡的骨頭好像是工具。但是它們的用途是什麼？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這些是武器？工具？還是戰利品？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "這些骨骨骨頭是用來打磨磨磨其它骨頭的。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "難忘。這些骨頭曾經應該被當作一種工具來使用。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這些骨頭是武器還是工具？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "把骨頭當作工具，這讓我難以接受。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這樣展示骨頭讓我感到驚恐。"}]

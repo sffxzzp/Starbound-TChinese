@@ -1,0 +1,2 @@
+[{"op": "replace","path": "/scriptConfig/dialog/attack/default/default","value": ["攻擊！"]},
+{"op": "replace","path": "/scriptConfig/dialog/attack/glitch/default","value": ["恐嚇。這是我的城堡！你來到這裡就要付出代價！","驕傲。你不是我的對手，連我自己的騎士都懼我三分！","憤怒。你認為你可以在這裡隨意拿取東西的嗎？！"]}]

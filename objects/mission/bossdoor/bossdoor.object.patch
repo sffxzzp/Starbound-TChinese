@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個只能單向透過的引力場。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "一方通行"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這扇古老的門看起來只能從一個方向透過。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這扇門只會讓我向前進－我將無法透過它回來。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "這扇古老的門不讓葉族人走回頭路。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "擔心。這扇門只能從一個方向進入，無法使用它回去。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這扇門可以建立一個單向的力場。這表明進入了的人無法透過同樣的方式回來…"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這扇門可以建立一個僅能從一側透過的力場。一個不能透過它回去的力場。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一旦我走進這扇古老的門，就不能回頭了。"}]

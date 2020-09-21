@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "在進行戰略選擇、舉辦會議和吃零食作戰的時候最理想的桌子。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "大型金屬桌"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一張帶有警示標記的桌子。可能在提醒你小心你的腳趾。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我個人覺得我不會在家裡使用這樣的桌子。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "金屬桌子堅硬硬而且牢固固。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "細心。這是一張金屬桌子。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一張工業風格的桌子。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "醜出天際的桌子。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "用金屬做的桌子。"}]

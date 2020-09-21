@@ -1,0 +1,11 @@
+[{ "op" : "replace", "path" : "/description", "value" : "家族企業。出售製造所需的精煉礦物。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "熊熊礦業"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "那是隻熊…在賣礦？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這家店可以讓你不需要親自去挖一些重要的礦物。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人想打敗商店毛茸茸的野獸！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "吸引。這家店可以讓我不需要去挖礦麼？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "熊！和商店！棒極了。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我還從未見過如此…毛髮濃密的店員。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這家店的特色就和運營它的大家族一樣多。"},
+{ "op" : "replace", "path" : "/interactData/paneLayoutOverride/windowtitle/title", "value" : "熊熊礦業"},
+{ "op" : "replace", "path" : "/interactData/paneLayoutOverride/windowtitle/subtitle", "value" : "出售製造用礦物"}]

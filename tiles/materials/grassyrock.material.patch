@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/description", "value" : "長滿草的粗糙的石頭。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "長草的岩石"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "細心。這石頭的縫隙中長著草。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "長長長草的石石石頭。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一些長了草的石頭。"}]

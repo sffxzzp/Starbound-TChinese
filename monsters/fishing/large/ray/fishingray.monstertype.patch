@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "帝王"},
+{ "op" : "replace", "path" : "/description", "value" : "它平滑的面板被一層隔熱的帝合金外衣覆蓋著。"}]

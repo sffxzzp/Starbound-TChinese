@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個發光的晶體被當成燈來使用。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "水晶燈"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這燈建立一個平靜的氣氛。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這晶體散發出縹緲的光芒。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "誰會在在在意為何水晶會發光光光？它做做做成一盞漂亮的燈。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "關注。這種光是由一種未知的能源供應出來的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一個會發光的晶體。這就像魔術一樣。也許我也可以成為一位巫師！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這水晶的輝光令人既舒緩又振奮，造成一個很困惑的體驗。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這水晶的光芒就像冬天時的滿月。"}]

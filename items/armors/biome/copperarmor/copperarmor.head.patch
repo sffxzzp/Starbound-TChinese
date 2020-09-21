@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一副堅固的銅製護目鏡。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "銅製護目鏡"}]

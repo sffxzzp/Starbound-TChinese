@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這只是一個支撐梁。小心你的頭！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "金屬支撐梁"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個支撐梁。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個金屬支撐物。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "支支支撐。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "冷漠。一個支撐梁。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "金屬梁。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "金屬支撐梁。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一個支撐梁。"}]

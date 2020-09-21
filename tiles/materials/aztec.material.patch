@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "符文磚"},
+{ "op" : "replace", "path" : "/description", "value" : "石頭上佈滿小符號。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "著迷。我不知道這些符號意味著什麼。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人無法理解符符符號。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一些看起來挺老舊的符號。"}]

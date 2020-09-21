@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "光滑的金屬長椅。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "空間站長椅"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這長椅上的條紋色彩的裝飾得很雅緻。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "長椅最易於與朋友分享。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "長椅提供戰術掩護。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "細心。可以與盟友坐在一起的長椅。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "它是長椅，還是隻是一把寬椅子？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "令人愉快的長椅。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我可以在這上面躺下，但可能不太禮貌…"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一臺老舊的全息投影儀。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "全息投影儀"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這臺老舊的裝置被用於短距離傳輸全息影像。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這個裝置啟用後，可以超時空傳輸奇妙的動態影象。令人印象深刻。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "有時金屬的玩意兒也也也能顯示動態的影象。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "感興趣，這個裝置可以在短距離之內傳輸全息投影。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這臺投影儀過去被用來短距離傳輸冰藍色全息圖。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "古老的鮫人裝置可以讓圖書館中的工作人員進行近距離溝通。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這個金屬大塊頭並沒有給我多少迴應。"}]

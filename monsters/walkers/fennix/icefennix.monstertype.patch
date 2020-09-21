@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "冰菲狐"},
+{ "op" : "replace", "path" : "/description", "value" : "它在追著自己尾巴玩時偶爾也會一不小心凍結自身。"}]

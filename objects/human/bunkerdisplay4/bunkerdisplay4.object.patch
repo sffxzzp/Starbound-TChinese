@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一顆死星…"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "異常顯示器"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個全息影像的天體。看起來好像很重要的樣子。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這裡的球體看起來好像是天體，但有跡象表明這是人造的。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "無聊的全息球體。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "恐懼。經掃描顯示這個東西是…不…不可能。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "哇偶，這是月球？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這個球體發著冰冷的光。它散發出的冷漠氣息讓我不寒而慄。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "看上去像月球，給我的感覺像是一個寒冷的冬夜。"}]

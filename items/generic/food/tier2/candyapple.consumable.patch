@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個蘋果所有的營養成分都被晶瑩剔透的糖衣包住了。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "蘋果糖"}]

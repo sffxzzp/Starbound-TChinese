@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一根原木，坐著很舒服。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "原木長凳"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這根原木的高度正好適合坐下。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一根古老的原木，似乎可以用來當作長凳來坐。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "誰需要豪華的椅子子子？坐坐坐在原木上就好了。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "驚訝。簡單的原木製成了一條實用的長凳。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這是一根原木。是的我喜歡它。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "大多數我坐過的原木都是那些漂浮在水面上的。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "看起來坐著很舒適，很適合圍坐在篝火旁。"}]

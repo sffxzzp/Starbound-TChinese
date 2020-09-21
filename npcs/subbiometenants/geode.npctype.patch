@@ -1,0 +1,5 @@
+[{"op": "replace","path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title","value": "地質材料商人"},
+{"op": "replace","path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle","value": "出售建築用地質材料！"},
+{"op": "replace","path": "/scriptConfig/dialog/merchant/start/default/default","value": ["友好。你想要一些石頭嗎？我有很多！","沮喪。沒人想買我的石頭…但也許你會？","渴望。也許你會對我的石頭感興趣？"]},
+{"op": "replace","path": "/scriptConfig/dialog/merchant/welcome/default/default","value": ["很高興。你真的來我的店了？多麼美妙！","興奮。你真的想買石頭？","歡迎。你來這，是想買一些石頭嗎？"]},
+{"op": "replace","path": "/scriptConfig/dialog/merchant/end/default/default","value": ["絕望。請儘快回來。我需要更多的顧客！"]}]

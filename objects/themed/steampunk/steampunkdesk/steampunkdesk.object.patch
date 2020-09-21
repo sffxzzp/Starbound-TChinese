@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一張金屬桌，上面堆著奇怪的裝置。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "蒸汽朋克桌子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這看起來是一張適合剛出道的瘋狂科學家使用的桌子。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我不知道桌子上的東西是幹嘛的。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人從這這這個盒子裡聞聞聞到了焦臭臭臭味…"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "關心。桌子上好像有一個金屬腦袋。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這張桌子上的機器人頭在盯著我。這是種毛骨悚然的感覺。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這張桌子上的工具沒有一件是我用過的匠人工具…"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這套傢俱有古怪。"}]

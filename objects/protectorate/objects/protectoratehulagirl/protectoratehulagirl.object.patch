@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個翩翩起舞的草裙舞女孩。阿羅哈！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "守護團草裙舞女孩"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這個隨舞搖擺的人好像在彈奏著尤克裡裡琴。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這名跳舞的姑娘穿著一條草裙。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "俗氣的人類玩具具具…"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "著迷。搖擺的舞姿令人心馳神往。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "阿羅哈！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這讓我想起了銀白的沙灘和湛藍的海洋。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "看，她在彈奏著她小小的尤克裡裡琴。"}]

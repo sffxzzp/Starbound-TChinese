@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "軍用頭盔，主要由駭翼的船員使用。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "企鵝頭盔"}]

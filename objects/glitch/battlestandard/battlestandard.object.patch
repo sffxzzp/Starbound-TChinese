@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一面以紋章裝飾的格子旗。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "戰旗"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "我想知道這面軍旗見證了多少戰爭。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一面色彩鮮豔的旗幟。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人喜喜喜歡花花綠綠的旗子。它看起來很花哨。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "卓見。一面電子人戰旗。它們被插在硝煙瀰漫的戰場上。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一面戰場旗幟。如今已很少見。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一面旗幟。它看起來可以被扛到某處並作為一個標記放置。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這面旗幟對於某些人可能別有意味。"}]

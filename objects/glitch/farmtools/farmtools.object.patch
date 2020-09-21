@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "用來完成各種繁重農活的鏟子、耙子和掃帚。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "耕作工具"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "依靠照料農田來過日子的人所需要的工具。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個放著各種工具的架子。但我只認出來一把鏟子。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "用來處置植植植物的工工工具。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "懷念。很多普通的電子人都過著農民的生活。而這些是他們用來工作的工具。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "耕作工具。但是地球上的農業基本上都是自動化的。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "鮫人在海底是不需要用到這些工具的。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "耕作工具。什麼都不能阻止你的雙手變髒！"}]

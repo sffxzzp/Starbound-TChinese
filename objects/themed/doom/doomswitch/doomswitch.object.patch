@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "毀滅控制檯。你要小心操作它-它在看著。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "毀滅控制檯"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這個控制檯提供了一個很大程度的操縱提供。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個慰問。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族按鍵。讓麻煩發生！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "深刻。一個控制檯可以同時控制這麼多不同的操控。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一個控制檯。必鬚髮揮原有的作用。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一個來自管理的慰問。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我只需要按下那個按鈕。"}]

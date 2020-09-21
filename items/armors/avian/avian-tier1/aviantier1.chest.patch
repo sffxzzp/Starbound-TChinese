@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一件帶著鐵護肩的胸甲，胸部染成了紅色。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "雛鳥胸甲"}]

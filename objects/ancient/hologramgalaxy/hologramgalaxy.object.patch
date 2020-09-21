@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "呈現了一個星系的全息投影。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "古代全息投影"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這全息投影描繪了一個星系之類的東西。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "行星圍繞著太陽。這是哪一個太陽系呢？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "行星星星的圖片！掠奪的好目標！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "激動。這全息投影讓我想在群星間航行。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "宇宙真美！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我很好奇這星體的全息投影是如何製作的。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這些星體-它們和我的家鄉實在太像了…"}]

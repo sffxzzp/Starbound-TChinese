@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一塊高折射稜鏡。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "稜晶"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "光線透過這塊稜鏡的時候折射了。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這塊晶體將光折射成好看的形態。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "色彩從這塊石頭中迸迸迸發出來。這讓葉族人很好奇。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "大惑不解。我覺得這些稜鏡石相當迷人。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這些岩石對這場令人印象深刻的燈光秀負責。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "稜鏡是自然界一個真正的奇蹟。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我喜歡一場好燈光秀！"}]

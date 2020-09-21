@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個能被開啟或者關閉的小巧的開關。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "迷你貼牆開關"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個開關。它能觸發一些東西。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這個開關一定會觸發一些東西。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "電閘閘閘！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "驚訝。這個小小的開關看上去並沒有那麼強大。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我納悶我能來回扳動這個開關多少次。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一個基本的開關。它能用來觸發一些東西。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我能扳動這個開關！"}]

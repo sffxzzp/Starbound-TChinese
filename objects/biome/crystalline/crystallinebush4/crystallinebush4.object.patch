@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個沉積而成的晶體。豐有光澤。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "結晶體"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這些晶體十分漂亮。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一堆閃亮的晶體。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "豐光澤，尖尖的石石石頭。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "煩躁。踩在晶體上會割花我的漆油。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "哦，這真美。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這些晶體讓我想起了冷凍了的珊瑚。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "閃閃發光的晶體。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "翼族水晶科技打造的漂亮的燈。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "翼族燈"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這盞燈不用電也能發出明亮的光。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "水晶燈永遠不會熄滅。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "燈光讓葉族人想起了紅色的夕夕夕陽。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "觀察。 這盞燈本身就是它的能量來源。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這盞燈發出的光讓人感到不祥。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "鮫人可以在水下大量應用這種水晶科技。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一個發光水晶。它怎麼能發光的？"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "太陽系中的一個行星―金星的精細模型。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "金星模型"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "金星全身都覆蓋著充滿二氧化硫的雲團，並且長期以來都是太陽系最炎熱的行星。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "金星維納斯。以古地球羅馬神話中的愛情與美麗之神命名。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "太陽系八大行星中的第二位，金金金星。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "魅力。金星有著天然的溫室氣體，這讓它的地表溫度變得非常高。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "金星是太陽系第二行星。曾經有人提過在地球毀滅前把金星地球化的設想。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "金星是地球的鄰居，卻因極端的條件而毫無生機。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "金星。當它穿行與星星之間時，你可以在地球上用裸眼看到它。我好懷念那段時光…"}]

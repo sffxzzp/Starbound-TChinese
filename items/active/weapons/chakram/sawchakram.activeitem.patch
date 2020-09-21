@@ -1,0 +1,3 @@
+[{ "op" : "replace", "path" : "/description", "value" : "遵循聖律的伐木僧們最喜歡的武器。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "環鋸"},
+{"op": "replace","path": "/upgradeParameters/shortdescription","value": "環鋸^yellow;^reset;"}]

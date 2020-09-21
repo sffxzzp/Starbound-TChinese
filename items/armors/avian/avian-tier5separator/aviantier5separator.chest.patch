@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "鍍上維奧合金的胸甲使得它在常規武器前幾乎堅不可摧。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "鳳凰胸甲"}]

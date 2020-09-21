@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一張水晶椅。跟帝王絕配。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "水晶椅"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一張非常豪氣的水晶椅子。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這水晶椅充滿異國風情而且很誘人。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人可以用椅子來砸砸砸其他生物。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "公正。儘管這些水晶是如何的常見，但在這椅子上的還有可能是假的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這椅子看起來會很值錢。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一張美麗，閃閃發光的椅子。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我應該要戴上水晶皇冠再坐上去嗎？"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "看起來這個櫃子曾經塞滿了醫療藥品－但現在沒有了。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "損壞的供應櫃"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個壞的供應櫃。有人洗劫了這裡。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "從外觀上看，這個櫃子曾經用來裝過藥品。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "破損的，空空如也的櫃子。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "細心。可以檢測到碘的痕跡。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "還有什麼比看到一個被洗劫的醫療櫃更令人沮喪的事了麼？事實上有，額，被觸手怪大卸八塊。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "對這個櫃子的保護措施應該更徹底。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "偷竊藥物相當的低劣。"}]

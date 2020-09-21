@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "有互動敘事遊戲的街機遊戲機。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "美麗的嘗試！機器"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個色彩鮮豔的街機遊戲，這是什麼遊戲？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這臺明亮的街機上的遊戲似乎可以讓人放鬆。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "這臺街機像花一樣鮮豔。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "困惑。這類遊戲的目標不明確。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這個漂亮的機器上有一個流行的鮫人遊戲。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這是一個經典，每個鮫人都知道所有的結局。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這個遊戲機看起來真漂亮。"}]

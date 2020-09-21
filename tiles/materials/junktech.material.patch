@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "科技垃圾"},
+{ "op" : "replace", "path" : "/description", "value" : "沒用的廢鐵，大多數是過時的科技殘留物。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "感興趣。這些廢棄的垃圾中包含著各種各樣的科學技術。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "科技的垃圾圾圾。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一堆搗碎的科技殘留物組成的磚塊。"}]

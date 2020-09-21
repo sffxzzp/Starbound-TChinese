@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個設計來關押葉族人囚犯的懸掛籠子。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "懸掛木籠子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個堅固的懸掛囚籠。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個令人印象深刻的籠子。它被掛在了牆上。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人可以踢破這這這樣的籠子。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "難忘。這個籠子堅固得足以被懸掛起來。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這個籠子沒有多少活動的空間。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我確信葉族人囚犯很難逃脫這個籠子。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一個被懸掛起來的牢固的籠子。"}]

@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一種矽板，可用於製作電子產品。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "矽板"}]

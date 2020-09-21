@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "有一個腦子在罐子裡，正在做白日夢。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "罐子中的腦子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這是個猿人的腦子…"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這腦子真大。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "多多多汁的~醃大腦。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "嫉妒。一個真正的腦子.."},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "那個是…腦子？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "真是愚蠢，居然相信心智可以被束縛在一個罐子裡。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一個裝在罐子裡的大腦？我感到有點反胃。"}]

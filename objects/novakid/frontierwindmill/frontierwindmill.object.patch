@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個用黃銅、木頭和紅銅製作的風車，順著風向轉動。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "開拓者風車"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這個簡單的風車會隨著風向轉動。一個有用的導向標。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這個風車的螺旋葉片會告訴我現在的風向！"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人想知道這些轉動的葉片是否可以成為有效的武器…"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "細心。這個風車的螺旋葉片會告訴我現在的風向。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這個老玩意兒有著順著風向轉動的葉片。好樣的！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這些轉動的葉片告知我現在正在吹什麼風。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這個風車可以幫你計算出風的角度和力量。"}]

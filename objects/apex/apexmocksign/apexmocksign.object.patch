@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一張被毀容了的大猿人海報。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "反抗標誌"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "看起來有人不太喜歡大猿人。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一張被毀容了的大猿人海報。乾的漂亮！"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人發現猴子很有趣！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "搞笑。這張大猿人海報被人毀容了。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "看起來有人不怕科技發展部。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "即使是鎮壓時期，猿人依然會抽時間去塗改海報。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "給大猿人海報毀容需要膽量。我打賭有人為此付出了代價。"}]

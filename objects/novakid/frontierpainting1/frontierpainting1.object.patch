@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一幅詳盡描繪美麗風景的畫作。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "開拓者之平原"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這與其說是一幅畫不如說是如畫的風景。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一幅描繪美麗風景的畫。我很樂意到那裡去旅遊！"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人看看看到了一個小小的世界。葉族人進不去。葉族人很沮沮沮喪。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "啟發。多麼美麗的風景啊。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "如此美麗的一道風光！我想知道創作它的靈感從何而來？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這幅畫幾乎到達了鮫人的藝術標準了。我特別喜歡畫裡的那條小河。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這真是幅不錯的畫。"}]

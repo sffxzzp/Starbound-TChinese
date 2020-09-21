@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "把蘆葦做成箱子。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "蘆葦箱"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "我很欣賞這創意。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個可以當做鳥巢的箱子。我的羽毛感到了這些蘆葦條的震顫。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人很熟熟熟悉這樣的箱子。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "解析。這些蘆葦的張力決定了它們不適合作為箱子的材料。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這是某種很好的編織物。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "對鮫人來說，蘆葦一直有充足的來源。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "用某種奇特編織技術製成的蘆葦箱子。"}]

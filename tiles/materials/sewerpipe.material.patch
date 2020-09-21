@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "排水管"},
+{ "op" : "replace", "path" : "/description", "value" : "用於傳輸汙物的排水管。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "厭惡。這些管道可真是汙穢，我壓根不想看見裡面有些什麼。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "臭臭的下水水水水管。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "看上去很骯髒的下水管。"}]

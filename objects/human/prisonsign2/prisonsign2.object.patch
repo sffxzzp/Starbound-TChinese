@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "標誌上寫著“食堂”。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "食堂標誌"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "食堂，也許這裡有吃的。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "指向餐廳的標誌。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "石塘？葉族人不不不明白。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "客觀。食堂的標誌。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "參觀食堂內部的想法讓我感到很恐慌。我不知道為什麼，無法解釋。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "為什麼人類只給一個凌亂的房間貼上標籤而不去把它收拾乾淨？也許是我弄錯了。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一個食堂？原來犯人也需要食物。"}]

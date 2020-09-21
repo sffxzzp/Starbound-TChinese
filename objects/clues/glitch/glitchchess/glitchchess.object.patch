@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這個象棋盤上有棋子。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "主題象棋桌"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "國際象棋是一種策略遊戲，很少有人能精通。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "有人花費了很多精力來保養這副棋。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "太多棋棋棋子對葉族人來說太分散了！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "悵惘。我懷念我玩象棋的時光。這些棋子都是精心製作的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這些棋子看起來像是為顧客專門定製的。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "有些人正試圖利用這些棋子來重現棋局。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我完全搞不懂這個遊戲。"}]

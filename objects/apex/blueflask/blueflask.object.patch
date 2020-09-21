@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個裝滿藍色液體的燒瓶。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "藍色燒瓶"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "只有老天知道這種藥劑帶來了多少的苦難。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一瓶藍色藥劑？ 絕不是什麼好東西。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "好好好難聞。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "啟發。藍色的！"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這聞起來…不像是能入口的東西。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這混合物看起來有毒。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "藍色的東西向來就沒有一樣是正常的。"}]

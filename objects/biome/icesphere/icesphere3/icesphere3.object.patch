@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一個小冰球，在融化前敲碎它！"},
+{"op":"replace","path":"/shortdescription","value":"小冰球"},
+{"op":"replace","path":"/apexDescription","value":"一個完美的圓形球冰。"},
+{"op":"replace","path":"/avianDescription","value":"一個透明的冰球，就像水晶。"},
+{"op":"replace","path":"/floranDescription","value":"葉族粉碎冰球。"},
+{"op":"replace","path":"/glitchDescription","value":"自然。小冰球。"},
+{"op":"replace","path":"/humanDescription","value":"它就像一個冰凍泡泡。"},
+{"op":"replace","path":"/hylotlDescription","value":"一個被及時凍住的球體。"}]

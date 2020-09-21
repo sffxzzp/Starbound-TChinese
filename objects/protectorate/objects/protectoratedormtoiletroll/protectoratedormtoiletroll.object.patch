@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個捲紙架。希望紙還沒用完！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "守護團捲紙架"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個捲紙架。最近剛換過。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "優質的廁紙！如此柔軟。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "捲紙架快要空空空了！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "同情。捲紙架做著一份不體面的工作。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "最恐怖的事莫過於捲紙架裡面沒有紙！幸運的是，這個還有。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一個捲紙架。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一個還剩了一大截紙的捲紙架。"}]

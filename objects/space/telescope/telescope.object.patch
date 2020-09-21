@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "科學望遠鏡，非常適合觀察星星。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "天文望遠鏡"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這個大望遠鏡可以讓我看到遠處的物體。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "專門用來觀察星星的望遠鏡。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "望遠鏡讓葉族仔細看星星。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "興奮。這臺望遠鏡是檢驗遠方星星的完美工具。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這個大望遠鏡是專門為看星星而特別設計的。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "像這樣的望遠鏡上的鏡子必須精確定位。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一個大的望遠鏡，看星星用的。"}]

@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "原力石，美麗光滑閃亮的三角形。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "原力石礦"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這種堅固的箱子由火山材料製成。其內部熱量升騰。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "火山箱子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "看起來實用，其實有點不切實際。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我認為這個加熱的容器並沒有什麼用。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "摸這個箱箱箱子的時候會燙傷葉族人嗎？"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "警惕。這箱子很堅固但可能很燙。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這箱子由火山材料製成。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "任何放進這個箱子裡的東西都需要耐得住高溫。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這個箱子溫暖得可以當作烤箱。"}]

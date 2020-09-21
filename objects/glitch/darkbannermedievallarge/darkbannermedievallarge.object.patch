@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一面編織成深色的旗幟。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "大型深色電子人旗幟"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "旗幟上面的深色調讓旗幟看起來更加不詳。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這面旗幟有著精細的鍍銅描邊。多棒的細節啊！"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "這這這面旗幟暗得就就就像影子。葉族人想想想藏在它下邊。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "擔心。這面旗幟往往都表示附近充滿著敵意…"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這面編織成黑色的旗幟很努力地釋放敵意。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "讓人遺憾的是這麼一面不錯的旗幟竟然選擇瞭如此陰沉的顏色。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這面旗幟暗得就像放了一週的凝結油塊。"}]

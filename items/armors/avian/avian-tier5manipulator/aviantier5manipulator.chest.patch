@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這件菲洛合金鎖子甲在護身的同時也非常透氣。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "火烈鳥鎖甲"}]

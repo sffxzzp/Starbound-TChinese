@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "某種用於單獨拘禁的裝置，是吧？"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "單人束縛裝置"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這個裝置看起來比其它東西要安全。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "被困在那麼小的空間裡讓人感覺生不如死，即使這玩意兒有一面是著地的。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "把壞蛋關在裡面面面的小房子。但是這會使壞人重新變好嗎？"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "謹慎。這個拘禁間的力量，會使囚犯軟弱無力。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這個小單間是用來對付最危險的罪犯的，那些殺手、竊賊和亂穿馬路的人…"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一種囚禁犯人的野蠻方式。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這的確是一個很小的隔間。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一副特大號國際象棋棋具裡的白“騎士”。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "石制白騎士"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "棋具的一個部件。但在科技發展部是不允許玩棋類遊戲的。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "某種裝飾用的雕像？也許吧。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "奇奇奇怪的雕像。這這這是什麼？"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "懷念。電子人貴族自年幼時就開始學習下國際象棋，在露天的大型棋盤上。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一個巨大的國際象棋部件。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這看起來像是一個大型遊戲的部件。鮫人樂於接受各種棋盤類遊戲。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "無論這是什麼遊戲，它都看起來非常無聊。"}]

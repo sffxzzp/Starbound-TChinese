@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個象徵著生命的古老符文。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "生命符文"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這是代表生命本身的古老符文。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這個符文代表著生命的本質。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "一個古老的符號，象象象徵著生命。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "樂觀。一個代表著生命美德的古老符文。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "顯然，這是一個代表生命的古老符文。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一個古代標誌，用一個簡單的符號代表了所有生命。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一個代表了所有生命的符文，對於這麼個小符文來說立意真高。"}]

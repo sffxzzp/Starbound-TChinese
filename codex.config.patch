@@ -1,0 +1,2 @@
+[{"op": "replace","path": "/messages/alreadyKnown","value": "已獲得過的書籍。"},
+{"op": "replace","path": "/messages/learned","value": "書籍已新增到圖書館中！"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一張上方散發出巨量光熱的燈的床。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "鑄造床"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一張用燈加熱的床。彷彿是它的溫度仍不足以用來鑄造。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一種人工光熱床，躺在上面會感覺置身於滿滿的陽光下。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "有燈的床好暖和，這對葉族人的面板很很很好。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "嫉妒。電子人沒法像那些有血有肉的人一樣享受加熱床的美妙之處。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "它就像是個日光浴床，只是躺那裡會非常非常熱。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一張加熱床。鑄造工人必須在高溫下努力工作，這對鮫族人是無法忍受的折磨。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一張燈加熱的床。躺在上面感覺就像正午時躺在太陽下一樣。"}]

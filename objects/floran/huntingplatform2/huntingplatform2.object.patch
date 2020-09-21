@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個凸起的平臺。別被卡在下面了。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "斜坡平臺"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這個平臺的結構看上去十分牢固。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個寬平臺，我在想它的用途是什麼。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "一個用用用來站站站在上面的葉族人大平臺。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "難忘。儘管材料很普通，這個平臺製作得十分不錯。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這個平臺像臺階一樣向上延伸。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一個凸起的木質平臺。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "對我來說幾乎就像是一個舞臺。"}]

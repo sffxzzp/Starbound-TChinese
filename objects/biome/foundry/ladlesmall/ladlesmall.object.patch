@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個充滿冒著泡的熔融液體的高高的容器。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "小型鋼包爐"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這個容器中的熔融液體在隱隱發光。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這容器裡含有高溫融化後的液體。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "滾燙液體起泡泡泡還發發發光。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "感興趣。這個容器是如何承受內部液體的溫度水平的？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "來自這裡面的液體的熱輻射非常極端。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這容器裡裝著熔融液體。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這裡面的液體釋放出龐大的熱量。"}]

@@ -1,0 +1,6 @@
+[{"op": "replace","path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title","value": "花盆售貨員"},
+{"op": "replace","path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle","value": "出售裝飾用盆栽"},
+{"op": "replace","path": "/scriptConfig/dialog/merchant/start/default/default","value": ["你想要買些花嗎？","你看起來像一個需要花的人！","我們來交易吧！我有許多盆栽！"]},
+{"op": "replace","path": "/scriptConfig/dialog/merchant/end/default/default","value": ["如果還想買花的話回來找我！","交易愉快－如果還想買花的話回來找我！","如果你喜歡盆栽的話記得回來！","如果你還想要花，你知道到哪裡找我。"]},
+{"op": "replace","path": "/scriptConfig/dialog/merchant/follow/default/default","value": ["你想買一些花嗎？跟我走！","你想買點花嗎？","跟我來我的商店－你可以來買一些花.","你想看看我的盆栽花嗎？跟我來。"]},
+{"op": "replace","path": "/scriptConfig/dialog/merchant/welcome/default/default","value": ["現在我們能交易啦！","我們到了！隨便看看，找找你喜歡的東西！","那，你願意買一些盆栽嗎？"]}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這根古代火把溫和地閃爍著。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "古代火把"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一根古代火把，我很好奇它為何仍舊在發光。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一根古代火把。是什麼為這根古老的火把供能了這麼長時間呢？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "一根燃燒著的，非常古老的火把。很危險。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "機警。一根已經燃燒了很一段很長，以致於無法估計的時間的古老火把。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一根古代火把。我很好奇它已經持續發光多久了。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一根古代火把。它的年齡和能源都是未解之謎。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一根照亮了周圍的古代火把。它已經持續發光多久了？"}]

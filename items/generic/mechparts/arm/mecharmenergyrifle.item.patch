@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一種製造精良的機甲手臂，能發射類似於純能量的物體的光束。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "能量步槍機甲臂"}]

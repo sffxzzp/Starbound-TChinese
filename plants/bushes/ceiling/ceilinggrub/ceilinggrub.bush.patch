@@ -1,0 +1,4 @@
+[{ "op" : "replace", "path" : "/description", "value" : "某種邪惡的蟲子。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "某種邪惡的蟲子。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "蠕動的蟲子。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "陳述。未知形式的蟲子。"}]

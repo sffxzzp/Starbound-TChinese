@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個布制骷髏面具。以最詭異的方式隱藏你的臉。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "骷髏面具"}]

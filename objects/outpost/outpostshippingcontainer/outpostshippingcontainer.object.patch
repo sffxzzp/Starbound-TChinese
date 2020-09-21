@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "集裝箱。但裡面可能沒有船。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "大型集裝箱"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "大型集裝箱。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "大型集裝箱。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "這這這是個大型集裝箱。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "吸引。集裝箱――什麼都有可能在裡面。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "集裝箱。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "用來裝形形色色的物品的集裝箱。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我會用這個裝載各種型別的貨物。"}]

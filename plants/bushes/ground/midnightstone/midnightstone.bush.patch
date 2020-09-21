@@ -1,0 +1,4 @@
+[{"op": "replace","path": "/description","value": "這些石頭是被咆哮的風塑造而成的…"},
+{"op": "replace","path": "/shortdescription","value": "風化的石頭"},
+{"op": "replace","path": "/floranDescription","value": "石石石頭。"},
+{"op": "replace","path": "/glitchDescription","value": "觀察。咆哮的風塑造了這些石頭。"}]

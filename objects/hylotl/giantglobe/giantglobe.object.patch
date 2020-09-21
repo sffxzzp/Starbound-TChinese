@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "鮫人母星的一個大型銅製雕塑。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "星球模型"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一定是鮫人母星的模型。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "鮫人母星的模型，是嗎？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "蠢蠢蠢魚人的星球。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。這是鮫人的母星嗎？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "看起來像是鮫人母星的大型雕塑。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "啊，是家啊。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一個我所不認識的星球。"}]

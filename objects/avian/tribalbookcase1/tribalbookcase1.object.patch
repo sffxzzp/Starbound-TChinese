@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "手工製作、非常漂亮，這個書櫃是精雕細刻的。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "大型雕刻書櫃"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這個書櫃似乎是某人愛好的產物。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "折翼者在全宇宙中收集書籍。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "嘶嘶嘶，書書書籍，浪浪浪費時間。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "客觀說明。這個書櫃看起來是自制的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "看起來似乎這個書櫃是一時興起才做出來的。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "雖然手法有些業餘，這個書櫃還是很迷人。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這些書籍似乎來自全宇宙。"}]

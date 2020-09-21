@@ -1,0 +1,7 @@
+[{"op": "replace","path": "/title","value": "^orange;最後的疆界"},
+{"op": "replace","path": "/text","value": "風聲在我耳邊輕語那些你所做的事—你冒了很大的險，年輕人。但仍然有些門等著你去開啟。如果你願意^green;開啟那分散在群星間的^orange;古代星門^green;的話^white;，^green;我可以賣一些^orange;鑰匙^green;給你^white;。"},
+{"op": "replace","path": "/completionText","value": "我到達了一個^orange;古代庇護所^white;！我很好奇這些廢墟隱藏了哪些秘密？我想我應該先看看周圍…"},
+{"op": "replace","path": "/scriptConfig/portraits/questStarted/title","value": "交易者"},
+{"op": "replace","path": "/scriptConfig/objectiveLists/obtainKey/0/0","value": "需要從神秘的商人那獲取一把^orange;庇護所之鑰^reset;"},
+{"op": "replace","path": "/scriptConfig/objectiveLists/enterVault/0/0","value": "從神秘的商人那獲取一把庇護所之鑰"},
+{"op": "replace","path": "/scriptConfig/objectiveLists/enterVault/1/0","value": "進入一個僻靜的^orange;古代大門^reset;"}]

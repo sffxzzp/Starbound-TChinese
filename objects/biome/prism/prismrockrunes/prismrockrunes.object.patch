@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一塊裡面銘刻著符文的高折射稜鏡。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "稜晶"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這稜鏡似乎有符文刻在裡面。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這個稜鏡裡有符文。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "有人颳了些符文在這個石頭裡。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。這塊稜鏡有符文刻進去了。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我不知道為什麼這個水晶裡有符文。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這塊稜鏡具有相當古老神秘的符文刻在裡面。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這些符文發生了什麼？"}]

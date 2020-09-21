@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個被半埋在地上的生鏽齒輪。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "地板齒輪"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這個齒輪可能曾經有某種用途，但現在看起來只是個裝飾而已。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這個舊齒輪現在看起來更像是裝飾物而不是機械了。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人想想想知道金屬輪子是否鋒鋒鋒利。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "困惑。這東西本該轉動嗎？還是說它只是個裝飾？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這個齒輪看起來真是炫酷―我好奇它是否能真的轉起來？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "毫無疑問，這個舊齒輪已經好多年都沒有轉動過了。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "就算上了潤滑油也不能再讓這個老傢伙重新動起來了。"}]

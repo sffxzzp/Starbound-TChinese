@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "用骨頭捆綁製成的柵欄。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "歪斜的骨制柵欄"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "骨頭的處理方式使得這個柵欄相當牢固。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "多麼恐怖。沒有任何翼族人會這麼使用骨頭。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "用來製作安安安全的柵欄的堅硬硬硬的骨頭。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "難忘。用骨頭來加固柵欄並不容易。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這柵欄使用了許多巨大的骨頭製成。相當堅固。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "看到骨頭被這樣利用，讓人很不舒服。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一些骨頭被綁在一起做成了柵欄。"}]

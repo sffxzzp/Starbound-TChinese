@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這種護脛是由一種神秘金屬製成的。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "神秘護脛"}]

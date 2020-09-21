@@ -1,0 +1,7 @@
+[{"op": "replace","path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title","value": "自然主義商人"},
+{"op": "replace","path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle","value": "賣植物、種子和更多東西"},
+{"op": "replace","path": "/scriptConfig/dialog/merchant/start/default/default","value": ["我讓大家重新認識大自然。傳播愛心！","向著有機！傳播美麗！","你好，朋友！你有興趣向整個宇宙傳播自然之美麼？"]},
+{"op": "replace","path": "/scriptConfig/dialog/merchant/start/floran/default","value": ["葉族傳播自然。賣賣賣植物。","你想要自然？葉族賣種子和植植植物。","葉族想要要要畫素素素,能給種種種子。"]},
+{"op": "replace","path": "/scriptConfig/dialog/merchant/end/default/default","value": ["歡迎下次光臨！","再來啊。","你的畫素在這裡總是受歡迎的。","和你做生意很榮幸！","感謝來訪小店。","很榮幸見到你！","有機會再做交易。"]},
+{"op": "replace","path": "/scriptConfig/dialog/merchant/end/hylotl/default","value": ["我希望你對這次交易感到滿意。","我希望你找到你想找的東西了。","願你前路光明。","保持心靈和精神的堅強。"]},
+{"op": "replace","path": "/scriptConfig/dialog/merchant/end/floran/default","value": ["葉族人總是很高興能賣賣賣給你更多！","記得早早早點回來買更多的植物！","葉族人喜歡買賣賣賣。","葉族人對交交交易很滿意。"]}]

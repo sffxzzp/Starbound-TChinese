@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "我覺得我在這兒不受歡迎…"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "企鵝限定標誌"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "我覺得我在這兒不受歡迎…"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "有些鳥類總是幻想著他們比別人高貴。我厭惡這種趾氣高揚的態度。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "小小的搖擺著走的鳥鳥鳥不能阻止葉族人闖進這裡！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "不安。我覺得我在這兒不受歡迎…"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我覺得我在這兒不受歡迎…"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我覺得我在這兒不受歡迎…"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "別試著阻止我，小傢伙。"}]

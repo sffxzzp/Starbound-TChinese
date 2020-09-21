@@ -1,0 +1,4 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個能在一段設定好的時間內保持啟用狀態的計時器。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "倒數計時器"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "一個能在一段設設設定好的時間內保持持持啟用狀態的計時器。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "難忘。一個能在一段設定好的時間內保持啟用狀態的計時器。"}]

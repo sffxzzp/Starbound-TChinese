@@ -1,0 +1,4 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個惡劣的眼球花。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "一個惡劣的眼球花。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族凝視著深淵。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "厭惡。一個邪惡的眼睛。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這些展示的寶劍一旦落入壞人之手將掀起腥風血雨。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "寶劍展示架"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "兩把鋒利的展覽劍。猿人一般更喜愛用匕首。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "削鐵如泥的裝飾寶劍。翼族人更愛長矛。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "鋒利的寶寶寶劍。葉族人更喜歡掄大錘！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "入迷。一個鋒利寶劍的展示架。電子人的首選武器便是寬刃劍。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "兩把吹毛刃斷的長劍。人類戰士用斧頭更順手。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一對鋒利長劍。比起其他武器鮫人更傾向於使用短劍。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一對放置在展示架上的寶劍。可能是贗品。"}]

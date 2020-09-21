@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個用粘土製成的易碎的甕。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "小甕"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個小甕，我懷疑它能裝多少東西。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "某種甕。不及翼族人陵墓中的那些甕那般優雅。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "打碎碎碎所有的甕甕甕。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "哲思。這甕是半滿的，還是半空的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "有一種方法可以馬上知道里面放了什麼。打碎它。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一個製作精良的甕，打碎它簡直讓人感到慚愧。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這甕馬上要被我打碎了。"}]

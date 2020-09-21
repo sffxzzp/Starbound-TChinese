@@ -1,0 +1,3 @@
+[{ "op" : "replace", "path" : "/description", "value" : "環刃大師能抓住它而不傷及手指。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "環刃"},
+{"op": "replace","path": "/upgradeParameters/shortdescription","value": "環刃^yellow;^reset;"}]

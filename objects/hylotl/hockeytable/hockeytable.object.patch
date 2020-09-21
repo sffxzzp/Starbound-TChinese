@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個經典桌上冰球檯。第一個得到十分的人贏！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "桌上冰球檯"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "桌上冰球？看起來挺有趣！"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "某種有冰球的桌上游戲。應該很有趣…"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "在這個愚愚愚蠢的桌上游戲上葉族人能打倒所有人。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "決心。我將精通這個桌上游戲。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "桌上冰球！我小時候對這個很在行…"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "要想在桌上冰球贏，必須得有極好的反射能力。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "桌上冰球？是一種場地遊戲嗎？"}]

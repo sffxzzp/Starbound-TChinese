@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個由木條捆綁而成的小箱子。它的安全性值得懷疑。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "原始小箱子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這個箱子好像是用木棍捆綁而成的。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "比起容量，這個箱子的安全性根本沒法看。我感覺用手都可以把它拆開。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人在箱子裡存存存放很多讓人興奮的東西。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "冷漠。感覺直接把這箱子弄壞都比開啟它來得更快。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一個由樹枝和一些乾燥的藤條妥當製成的箱子。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這個箱子會隨著時間慢慢腐壞，顯露出其中的儲物。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這箱子壓根就沒有真正的開關鎖，它毫無安全性可言。"}]

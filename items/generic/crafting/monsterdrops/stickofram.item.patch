@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個典型的通用計算機晶片。可以用於製作。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "記憶體條"}]

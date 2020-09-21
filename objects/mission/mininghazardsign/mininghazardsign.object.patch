@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個金屬牌子，上面寫著“危險！”。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "礦業危險標誌"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個寫著“危險”標誌的牌子。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "該標誌警告著某種危險。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "不管這上面說什麼,葉族人才不管。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "擔憂。危險？哪裡？！"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這個標誌關注著我的安全。多麼心思縝密。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一個標誌，提醒人們一些可以避免的附近的危險。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我根本不介意這點麻煩事。"}]

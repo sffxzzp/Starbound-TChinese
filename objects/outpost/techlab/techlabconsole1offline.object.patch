@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "離線的科技控制檯櫃機。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "科技控制檯櫃機"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "很有用的科技，前提是它正常運作…"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "多可惜，這個控制檯離線了。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "閃光光光和嘟嘟叫說明這機器現現現在沒有工作。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "困惑。科技能變得極其複雜。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我真的想按一遍所有的按鈕。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這些科技都多麼誘人。只可惜現在控制檯離線了。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "多麼滑稽可笑的科技！"}]

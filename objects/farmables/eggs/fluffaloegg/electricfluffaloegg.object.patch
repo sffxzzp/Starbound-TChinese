@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "可以孵化出脆弱的電系蓬蓬牛犢－發育完全後會成為靜電細胞的不錯來源。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "電系蓬蓬牛蛋"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這是枚電系蓬蓬牛蛋。會孵出溫順的電系蓬蓬牛。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這是枚電系蓬蓬牛蛋。成年電系蓬蓬牛會產出靜電細胞。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "電系蓬蓬牛蛋！也租人喜歡電系蓬蓬牛－它們的絨毛有靜靜靜電。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "忙碌。我在想小電系蓬蓬牛是否會很快孵出來？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這是枚電系蓬蓬牛蛋。電系蓬蓬牛都是真正可愛的寶貝。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一枚電系蓬蓬牛蛋。電系蓬蓬牛是溫和的生物。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一枚電系蓬蓬牛蛋！你可以從成年個體身上獲取靜電細胞。"}]

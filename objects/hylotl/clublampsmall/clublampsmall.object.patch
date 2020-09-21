@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "俱樂部燈"},
+{ "op" : "replace", "path" : "/description", "value" : "這盞燈發出一種微弱的背景藍光。"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "只要再有個噴霧機就能讓這裡真的有夜店景象了。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我很好奇什麼晶體能夠發出藍光？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "一個藍色的燈。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "無趣。這是個藍燈。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "環境燈光能夠控制氛圍。什麼氛圍？不確定。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "只是一個藍色環境燈。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一盞藍燈。能夠控制氛圍。"}]

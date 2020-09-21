@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "放置一個帶有軌道的自走式平臺。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "複合軌道平臺"}]

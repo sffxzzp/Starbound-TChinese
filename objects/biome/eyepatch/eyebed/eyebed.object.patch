@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一張佈滿眼球的床，睡在上面的人基本都會做惡夢。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "眼球床"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這床讓我渾身起雞皮疙瘩。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個有點不祥預感的床。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人安安安睡在這。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。這些眼在注視著你還是隻是普通的看著你？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這看起來像是在鬼屋裡找到的東西。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "庸俗粗糙的製作。死了都不在這裡睡覺。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一張全視之床。為什麼會有人想要這張床？"}]

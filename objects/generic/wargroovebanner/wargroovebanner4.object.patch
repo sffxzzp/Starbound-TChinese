@@ -1,0 +1,9 @@
+[{"op": "replace", "path": "/description", "value": "來自遙遠的葉族國家的部落綠色旗幟。"},
+{"op": "replace", "path": "/shortdescription", "value": "葉族旗幟"},
+{"op": "replace", "path": "/apexDescription", "value": "這似乎是某種葉族部落的旗幟。"},
+{"op": "replace", "path": "/avianDescription", "value": "雖然這條橫幅做得很好，但我相信它應該是葉族做的。"},
+{"op": "replace", "path": "/floranDescription", "value": "葉族當然可以從中認出出出葉族的手藝！"},
+{"op": "replace", "path": "/glitchDescription", "value": "好奇。我想知道這旗子來自哪個王國？"},
+{"op": "replace", "path": "/humanDescription", "value": "我想知道這個旗幟是從哪裡來的？我覺得是葉族做的。"},
+{"op": "replace", "path": "/hylotlDescription", "value": "是葉族做的嗎？它看起來粗糙且毫無生氣。"},
+{"op": "replace", "path": "/novakidDescription", "value": "似乎代表著一些國家。"}]

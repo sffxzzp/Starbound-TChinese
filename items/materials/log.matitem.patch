@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/description", "value" : "原木。對基礎建築結構很有幫助。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "原木"},
+{ "op" : "replace", "path" : "/glitchdescription", "value" : "難忘。這些原木能夠緊密組合在一起，是特別實用的建築材料。"},
+{ "op" : "replace", "path" : "/florandescription", "value" : "葉族人喜喜喜歡原木牆壁壁壁。"},
+{ "op" : "replace", "path" : "/novakiddescription", "value" : "我在小木屋裡常見到這樣橫放的原木。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "為運送太空貨物而設計的運輸箱。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "空間站箱"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這個板條箱看起來很堅固，裡面有相當大的儲藏空間。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這個金屬箱可以很安全地裝東西。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "這個金屬板條箱是用來運載太空用品的。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "細心。這種簡單的工業條板箱是為太空運輸而設計的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一個工業外觀的運輸箱，我在飛船和空間站裡見過。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我不知道這些標記意味著什麼，但很明顯這個板條箱是為運輸太空貨物而設計的。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一個金屬箱，為了儲存太空貨物而製作。"}]

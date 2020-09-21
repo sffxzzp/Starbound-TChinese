@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "它正聒噪地播著大猿人NO.1專輯《叢林之戀》中放蕩的旋律。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "有問題的標準唱片機"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這個唱片傳聞包含了潛意識的資訊。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這機器發出很多尖銳的不堪入耳的噪音。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族是鼓和節奏的大師，但是猿人第二厲害。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "關注。這音樂毫無章法，卻暗藏資訊。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "是這個在這裡冒充音樂麼？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "壓迫之音。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一個播放音樂的裝置。"}]

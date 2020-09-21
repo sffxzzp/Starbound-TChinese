@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這件胸甲可以承受海洋深處的高壓，以及其他的東西。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "無光胸甲"}]

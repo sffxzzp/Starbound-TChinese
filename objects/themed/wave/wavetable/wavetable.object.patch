@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一張非常硬的波浪桌子"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "波浪桌"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這張波浪桌非常時髦。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一張非常耐用的波浪桌。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "足夠讓葉族人在上面切切切肉的好桌子。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "讚許。做工精良的一張桌子。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一張很酷的波浪桌。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "不符合我通常的風格的桌子，但是這相當引人注目。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一張舊的藍色好桌子。"}]

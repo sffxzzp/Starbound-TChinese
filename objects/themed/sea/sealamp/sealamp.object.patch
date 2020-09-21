@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "提供光源的可愛海貝。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "海貝燈"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這種燈來自海洋。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這燈實際上就是一個巨大的海貝。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "甜甜甜美的燈。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "驚訝。一個貝殼用電在發光。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我在想這種燈能不能在水下使用。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一盞迷人的燈。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "假如你喜歡此類東西的話。這是一盞漂亮的燈。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一盞高大的木質立式檯燈。燈罩用小圓點花紋裝飾。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "標配立式檯燈"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "標準樣式。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一盞立式檯燈。我想知道它怎麼工作的？上面又沒有水晶。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "高臺燈，光亮亮。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "滿意。有光亮就有安全感。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一盞明亮的立式檯燈。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這個檯燈可以照亮亮一個很大的房間。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這是一盞高大的立式檯燈。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一些鮮活且黏糊糊的…"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "觸手"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這令人不安。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "好惡心。它是活的？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "看起來黏黏黏糊糊的。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "不適。這看起來是某種活體組織。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "啐。這什麼鬼東西。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一些令人徹底排斥的有機結構。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我不確定它是什麼東西。我也不想知道。"}]

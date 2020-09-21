@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這些鐐銬的其中之一看起來有點可疑…"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "壁式鐐銬"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "其中一個鐐銬詭異地晃動著。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "有一個鐐銬看起來是假的。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人感覺這個鎖鏈圈套很可疑疑疑！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "懷疑。其中有一個鐐銬不是鐵做的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "其中一個鐐銬的位置比另一個稍微低一些。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "其中一個鐐銬的位置比另一個稍微高一些。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "其中一個鐐銬看起來很古怪。"}]

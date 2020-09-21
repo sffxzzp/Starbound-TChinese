@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一種危險的粉末，對於製造炸爆炸物很有用。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "揮發性粉末"}]

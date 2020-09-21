@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個華麗的頭飾，表示這個葉族人是他們部落的綠手指。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "綠手指頭飾"}]

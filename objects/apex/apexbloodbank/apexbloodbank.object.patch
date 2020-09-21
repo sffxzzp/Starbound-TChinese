@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "裡面放著裝滿各種血型血的玻璃容器。我希望他們沒有抽乾他們的血。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "血庫"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個血庫。很多猿人去獻血之後就再也沒有回來。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "占星師們相信血裡面蘊藏著魔力。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "一個自動販賣機！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。這些血是用來幹嘛的？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "有些容器上有標記，上面都標著“失敗品”。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "鮫人們相信血就應該呆在身體裡。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我從未見過如此多的血。"}]

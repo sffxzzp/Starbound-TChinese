@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "騙我一次，是我的恥辱。騙我兩次，送你這頂帽子。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "小丑帽"}]

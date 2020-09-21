@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "很多人都覺得由風鈴引起的鐘聲十分柔和。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "風鈴"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這風鈴能夠營造氣氛。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個有很好聽的鐘聲的風鈴。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "風吹吹吹起暗影鈴形成動聽的聲聲聲音。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "欣慰。這宜人的鐘聲就像春天的氣息。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這風鈴的鐘聲某方面來說令我不寒而慄。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這怪異的風鈴產生空靈的聲音。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "甜美動聽的風鈴。"}]

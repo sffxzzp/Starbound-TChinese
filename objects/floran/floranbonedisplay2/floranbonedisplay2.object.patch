@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這骨頭上銘刻了許多葉族人原始的傳說。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "骸骨雕刻品"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這骨頭上刻著許多葉族人狩獵的傳說。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "骨頭上記錄了一個有關狩獵的英雄故事。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人一旦在狩獵中戰死，他最後一戰的事事事蹟將被記錄在骨頭上以作紀念。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "不安。骨頭上記載了狩獵的故事。看起來一個葉族人被殺死了。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這些標記在講述一個很棒的狩獵故事。這骨頭是來自他們殺死的獵物的嗎？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這些標記記載著至少有一個葉族人在捕殺這個可憐的生物時死掉了。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "讓我震驚的是居然有人會收藏這樣的東西。上面的標記描述了一些關於狩獵的事。"}]

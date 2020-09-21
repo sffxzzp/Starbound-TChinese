@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這燈是為了照亮某種展示品的。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "破碎展示燈"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "也許它只是需要換一個新燈泡。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "如果它還亮著會照亮什麼呢？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "某個人已經砸爛了這盞燈。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "驚駭。多麼悲慘的景象，這燈迫切需要更換一個燈泡。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這燈壞了，誰有備用燈泡？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "真可惜，某人應該在它造成意外之前把它修好。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "像逝去的火焰般閃爍著。"}]

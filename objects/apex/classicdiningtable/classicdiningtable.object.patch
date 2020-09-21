@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "給你用來發表在臺面上的宣告的。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "經典餐桌"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "對於猿人的日常標準而言簡直奢華。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我從未見過這麼大的桌子。翼人都是獨自進餐的。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "大餐餐餐！一個足夠放得下許多食物的桌子。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "懷舊。電子人會在這樣的桌子上舉行宴會。屆時到處將是鶯歌燕舞，還會有一個綵衣小丑為大家歡笑。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "好一個餐桌。它看起來還是嶄新的呢，從未用過似的。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "鮫人認為一個餐桌在餐會開始前就應該擺滿美味佳餚。在這兒餐會可能永遠沒法開始。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這個桌子可大了！不過它的形狀不太適合打牌。"}]

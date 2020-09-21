@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "X標明瞭地點。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "藏寶圖"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一張地圖。我想知道在有X標記的地方會找到什麼。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "藏寶圖在折翼者的市場裡很常見。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "也也也許寶寶寶藏是巨巨巨大的牛牛牛排。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "自信。這張地圖的可信度非常低。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我一直想踏上尋找被埋藏寶藏的旅途。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "尋寶探險在等著我！"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這勾起了我的探險慾望！"}]

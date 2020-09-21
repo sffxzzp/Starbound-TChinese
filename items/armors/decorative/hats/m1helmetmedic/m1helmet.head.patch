@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "特勤隊配發的標準軍用頭盔。這是軍醫專用款。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "M1軍醫頭盔"}]

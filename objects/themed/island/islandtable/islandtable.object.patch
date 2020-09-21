@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這張桌子的底部刻了一張較為嚴峻的面孔。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "海島桌子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這張桌子有些太富有表情了。我喜歡淳樸一點的裝飾。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這張桌子完全由木頭製成。我很欣賞這一點。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "桌子有有有張憤怒的臉。葉族人對此印象深深深刻。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "焦慮。這張熱帶桌子的底部有著一張表情豐富的臉。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "有人親手將這張臉刻了上去。那真是太可愛了。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這張桌子比較前衛。為何當初不做一張保守一點的桌子？"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "為什麼鄉下人總喜歡把一張原本很好的桌子給弄得那麼醜？"}]

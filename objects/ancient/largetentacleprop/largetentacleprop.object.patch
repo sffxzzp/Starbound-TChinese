@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一根巨大的石質觸手。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "巨大的觸手雕像"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這是個巨大的…觸手？它的大部分都被埋住了。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這裡突出了一根觸手。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "這是是是啥啥啥？"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "驚訝。一根巨大的石質觸手出現了。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一根巨大的觸手！它連線到了什麼東西上嗎？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一根巨大的石質觸手出現了！"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一根巨大的觸手。"}]

@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "火焰發射出純能量的光束！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "聖弓"}]

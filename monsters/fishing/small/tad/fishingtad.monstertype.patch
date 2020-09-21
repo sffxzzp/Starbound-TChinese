@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "硫化魚"},
+{ "op" : "replace", "path" : "/description", "value" : "它的身體無休止地進行著化學反應以推動它向前。"}]

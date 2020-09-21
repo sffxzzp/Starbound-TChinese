@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "按鈕。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "牆面按鈕"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "吸引人的按鈕。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "用來按的按鈕。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人喜喜喜歡按按鈕。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "激動。按鈕！"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "真吸引人…"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "按鈕。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "想按一下。"}]

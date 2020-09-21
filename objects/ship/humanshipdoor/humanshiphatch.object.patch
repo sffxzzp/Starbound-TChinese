@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "適用於宇宙飛船的艙門。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "人類飛船艙口"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這樣的艙口設計在船上很常見。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "宇宙飛船艙口。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "飛船艙門。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "見多識廣。標準飛船艙口。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "宇宙飛船艙口。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "基本的飛船艙口。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一個艙口，你會在飛船上找到的那種。"}]

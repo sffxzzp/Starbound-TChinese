@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一種最初用來切割冰的充能電鋸。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "新電鋸機甲臂"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "紅色的閃光燈…這通常是不好的。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "警示燈"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這看起來像一個警報或警告。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我忘記關這個警燈了麼？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "閃光讓葉族感到愉愉愉快。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "擔心。紅色的閃光在一百萬不同文化中都是警報或警告。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "呃哦，這是什麼意思呢？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "此警報乃不祥之兆。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這玩意弄出來了多大的災難啊！"}]

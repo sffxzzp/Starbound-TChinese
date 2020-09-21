@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "在完全生鏽的油桶裡燃燒的一團火。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "桶火"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個燃燒的油桶。我認為這不是官方監獄裡面的取暖用具。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "離它太近的話會燒焦我的羽毛。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人會讓手指遠離這燃燒的玩意…"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "不適。這看起來像在一個燃燒的電子人。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "啊，古老的臨時燃燒桶，經典之作。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "儘管外觀很簡陋，但在金屬桶裡點火給人某種啟發。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一個熱量來源。一個原始的加熱裝置。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個碗。看起來不是很乾淨。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "中世紀碗"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個簡陋、骯髒的碗。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "似乎是用這個來吃飯的。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "對於葉族人的胃口來說，這碗太小小小了。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "客觀。一個簡陋的碗。可能是黏土製成的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一個小碗，感覺好像是黏土的。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "電子人到底用這碗吃了什麼，我很感興趣…"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一個簡單的碗，為簡單的一餐。"}]

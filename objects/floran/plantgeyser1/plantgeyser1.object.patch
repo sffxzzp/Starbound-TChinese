@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個大型間歇泉，被植被覆蓋了。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "大型間歇泉"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這個大型間歇泉是危險的，但它似乎不活躍了。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這個間歇泉看起來停止活動了，但是你永遠也不能確定。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "植植植物從這個大型間歇泉中獲得能量。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "擔憂。如果這個間歇泉爆發了是否會對我造成傷害？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這看上去像個覆蓋著藤蔓的迷你火山。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "為了安全著想，我要遠離這玩意。"},
+{ "op" : "replace", "path" : "/novaDescription", "value" : "這個大間歇泉看起來沒那麼危險。"}]

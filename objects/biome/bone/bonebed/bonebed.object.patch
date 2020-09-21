@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一張棺木床。在死者間最為流行。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "骨棺床"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這床看起來小而且幽閉。它還有個蓋子！"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "睡在這張床上將會是非常的不快。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人不熟悉棺棺棺材。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "驚嚇。這床的樣式是以棺材製作的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "也許宇宙吸血鬼會用這床。然而真的有宇宙吸血鬼？我希望有！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這床有些東西會讓我感到恐怖。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "其中一個奇特的睡覺盒子。"}]

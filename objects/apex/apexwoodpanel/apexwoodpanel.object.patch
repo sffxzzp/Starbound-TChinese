@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這就是塊牆板。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "標配牆板"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個木頭嵌板。在很多猿人家都有。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這後面蓋著什麼？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "無意意意義的裝飾。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "無感。無意義的木頭嵌板。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我打賭你可以在這後面藏一個麥克風。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這單純只是裝飾用的還是說另有玄機？"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這木頭和一角商店賣的靴子一樣薄。"}]

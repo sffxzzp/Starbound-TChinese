@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一種廉價的機甲手臂，可以發射一輪過熱的鉛。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "熱槍機甲臂"}]

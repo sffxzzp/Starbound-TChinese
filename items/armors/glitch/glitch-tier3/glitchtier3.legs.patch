@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "騎士的護脛保護著他的腿。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "騎士護脛"}]

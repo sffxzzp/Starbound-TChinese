@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "門上有令人愉悅的花環。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "巨型花瓣門"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "木門配上溫馨的花圈。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "把花環放這裡讓人們感到賓至如歸。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族使用花圈作為標標記秘秘秘密狩獵俱樂部。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "宣告。一扇有花圈的門。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "多麼歡快的大門。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這門的設計為了讓人們感到賓至如歸。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一扇給歡迎人的家用的漂亮的門。就像漂亮的笑容在一張友好的面孔上。"}]

@@ -1,0 +1,2 @@
+[{"op": "replace","path": "/scriptConfig/dialog/attack/default/default","value": ["攻擊！"]},
+{"op": "replace","path": "/scriptConfig/dialog/attack/glitch/default","value": ["恐嚇。我要把你切成碎片！","挑釁。你是為了看我出洋相的嗎？","興奮。我要試試我的新斧頭！","無畏。我已經打敗了很多像你這樣的人。"]}]

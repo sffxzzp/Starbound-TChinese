@@ -1,0 +1,3 @@
+[{"op": "replace","path": "/title","value": "^green;最後的收藏品"},
+{"op": "replace","path": "/text","value": "博物館已經完成得差不多了，但是我還需要最後一個展品來完成鮫人區。能請你^green;帶給我一個^orange;傳統鳴鑼^white;嗎？它們在鮫人生活的地方非常常見，不論村莊還是城市。"},
+{"op": "replace","path": "/completionText","value": "感謝你所做的一切—我的收集終於完成了，我的博物館也準備好開放了！我希望每個人都喜歡它。我希望努魯喜歡它…^green;你可以透過^orange;2站傳送商店^green;旁的^orange;傳送門^green;來參觀博物館^white;。"}]

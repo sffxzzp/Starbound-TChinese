@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這個徽章象徵著大地那強大和堅韌的特性。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "翼族大地徽章"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個代表大地的翼族徽章。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "大地徽章，陵墓中常見的符號。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "這徽章看起來像是一個矛尖，但它代代代表大地。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "著迷。看起來這是大地徽章。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一些三角形。它代表大地。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一個符號形式呈現的大地元素的象徵。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我打賭這是象徵大地的翼族徽章。"}]

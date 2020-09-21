@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一張堅實的石床，上面鋪有一堆乾草。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "守護者之巢"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一張鋪滿了乾草的石床。看起來相當不舒適。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個守護者的巢。守護者們保衛著翼族神聖的土地。他們是虔誠的狂戰士。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "鳥人有著乾草窩。葉族人用著類類類似的床被。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "擔憂。這張床的人體工程學設計考慮欠佳。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一張石床。上面的乾草提供微不足道的舒適性。石頭摸起來也很冰涼。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "要在石頭上睡覺，你必須要硬如磐石。戰士用的床。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這堆乾草並沒有使這張床變得更舒適。"}]

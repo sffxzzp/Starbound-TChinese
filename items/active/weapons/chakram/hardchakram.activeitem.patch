@@ -1,0 +1,3 @@
+[{ "op" : "replace", "path" : "/description", "value" : "堅固，沉重，而殘忍地有效。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "硬環刃"},
+{"op": "replace","path": "/upgradeParameters/shortdescription","value": "硬環刃^yellow;^reset;"}]

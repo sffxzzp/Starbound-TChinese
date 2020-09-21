@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這條麵包在烘焙的時候已經把蘑菇弄進去了。贊！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "蘑菇麵包"}]

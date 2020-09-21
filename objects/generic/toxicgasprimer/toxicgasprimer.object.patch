@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個樹根。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "樹根"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "某種樹根。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個樹根。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "樹根根根。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "客觀。一個平凡的樹根。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "沒錯。一個樹根。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一個樹根。"}]

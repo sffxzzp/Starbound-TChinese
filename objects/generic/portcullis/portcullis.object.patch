@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "由結實的耐鋼製作的吊門。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "耐鋼吊門"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "看起來這種耐鋼門是從上面開啟的。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這門是由結實的耐鋼鍛造的。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "沉重的金屬條條條做的門。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "得意。電子人做的吊門要比這大得多。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我討厭在它關閉時被卡在下面。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "結實的耐鋼。實用超過外觀。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這是那種你可以在它關閉時從底下溜過去的門，如果你足夠聰明的話！"}]

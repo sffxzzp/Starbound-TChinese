@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個銅製牆架。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "銅製牆架"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這是個銅製牆架。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個裝好了的銅牆架。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "掛起來的金屬牆架。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "細心。這個牆架是銅製的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這是用銅打造的牆架。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "有著基本設計的銅牆架。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "有個銅架子被掛在牆上。"}]

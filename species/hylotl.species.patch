@@ -1,0 +1,3 @@
+[{"op": "replace","path": "/charGenTextLabels","value": ["膚色","魚鰭","上衣","褲子","腹部顏色","魚鰭顏色","上衣顏色","褲子顏色","鮫人","人物性格"]},
+{"op": "replace","path": "/charCreationTooltip/title","value": "鮫人"},
+{"op": "replace","path": "/charCreationTooltip/description","value": "崇尚和平的鮫人重視先祖傳統，並喜好欣賞藝術。原居住在陸地上的他們由於好善的性情而容易成為葉族的獵物，遂被趕至他們如今繁榮生息的海波之下。"}]

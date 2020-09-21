@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "軍團士兵的護脛――他們堅持讓人們把這個叫做半裙。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "軍團士兵護脛"}]

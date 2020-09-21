@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "微型導彈發射器，由科技發展部的頂級科學家開發。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "科技發展部發射器"}]

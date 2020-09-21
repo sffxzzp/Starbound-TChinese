@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個能發射集束式小型遠端地雷的機甲臂。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "集束地雷機甲臂"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "閃爍的燈光營造了驚悚的氣氛。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "損壞的小型照明燈"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "科技發展部就用這樣的聚光燈來強迫人們說話。這個似乎已經損壞了。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個煩人的，刺眼的燈。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "閃爍的燈光讓葉族人緊緊張張張。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "懊惱。有人應該修好它。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一盞閃爍的燈！再多一些這樣的燈我們就能開個午夜派對了！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一盞破損的燈，我懷疑它很快會被替代。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一個閃爍不停的燈，讓人煩躁。"}]

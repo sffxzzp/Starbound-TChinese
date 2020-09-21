@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "…控制檯中之劍？"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "刀鋒控制檯"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這些劍被當成了槓桿。我在想它們會啟用什麼？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "利用損壞武器的明智之舉。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人拉動了劍。劍讓燈嗡嗡作響。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "印象深刻。一把寶劍可以有很多用途，甚至在它們磨鈍之後。這裡，它們被當作了槓桿。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我在拉動槓桿和擔心割到自己的手之間猶豫不決。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這樣的設施會成為邁向和平的一步嗎？或者說它們是暴力的威脅？"}]

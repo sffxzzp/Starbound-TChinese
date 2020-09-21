@@ -1,0 +1,2 @@
+[{"op":"replace","path":"/gui/windowtitle/title","value":"圖架"},
+{"op":"replace","path":"/gui/windowtitle/subtitle","value":"^#b9b5b2;優雅的自動註冊技術平臺"}]

@@ -1,0 +1,3 @@
+[{ "op" : "replace", "path" : "/description", "value" : "有傳說雲，這烈焰附著之劍是由墮落天使所打造的。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "炎嵐之怒"},
+{"op": "replace","path": "/upgradeParameters/shortdescription","value": "炎嵐之怒^yellow;^reset;"}]

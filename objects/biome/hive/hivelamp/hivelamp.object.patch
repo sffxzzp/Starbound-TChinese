@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個有著像蜂巢一樣的結構的奇怪的燈。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "蜂巢燈"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "我很好奇這燈裡的光源是生物的還是電氣的。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這個燈可能是用發光的昆蟲電亮的嗎？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "蜂巢一樣的東西正正正像火一樣發光。葉族人迷惑了。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "疑惑。是什麼讓這燈發光的？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我不確定我能不能找到電線…所以是什麼讓這燈發光的？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "平靜的自然發光和它怪誕的設計不一致。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我完全不明白這舊燈是怎麼電亮的…"}]

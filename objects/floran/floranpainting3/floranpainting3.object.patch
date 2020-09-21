@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這好像是一張統計圖表。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "原始的圖表畫"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一張沒有標籤的統計圖表。上面倒有很多的記號。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一張像是用來計數的圖表。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人用紙記錄殺殺殺掉的生物。葉族人的記憶不太好。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "冷漠。一個以十進位制為基礎的系統。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一張古老的統計圖表。我有時候也會用到這些。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一張統計圖表。我希望這些標記與殺戮沒關係。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "某種形式的圖表，可能是獵殺的記錄。"}]

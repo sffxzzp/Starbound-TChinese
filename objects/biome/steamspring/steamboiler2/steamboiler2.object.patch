@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個長長的金屬鍋爐，用來將冷水轉化成蒸汽。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "中型蒸汽鍋爐"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "它看起來幾乎就是一個巨大的試管。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我猜它不停製造蒸汽是為了達成某種目的。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人對這這這東西有這這這麼燙而驚驚驚訝。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "印象深刻。儘管頂端部分看起來很重，它還是設法保持住了直立的狀態。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "就算以最低的標準來說，相比現在的科技、這個蒸汽鍋爐來看也已經非常過時了…"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我不覺得鮫人會做這麼乏味的東西。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "把一個這樣的東西裝到火車上，然後我們就可以給自己找很多樂趣了。"}]

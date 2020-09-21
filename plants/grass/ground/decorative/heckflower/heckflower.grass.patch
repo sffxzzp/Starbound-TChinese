@@ -1,0 +1,4 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個極壞的、鮮美的花。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "見鬼的花"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "美味的花。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "厭惡。一個由肉做的花。"}]

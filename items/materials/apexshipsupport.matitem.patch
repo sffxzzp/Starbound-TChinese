@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一種用於飛船施工的牆壁支架。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "飛船支撐塊"},
+{ "op" : "replace", "path" : "/glitchdescription", "value" : "瞭解。像這樣的支架通常用於飛船的施工。"},
+{ "op" : "replace", "path" : "/florandescription", "value" : "飛船結結結構支支支架。"},
+{ "op" : "replace", "path" : "/novakiddescription", "value" : "為支撐起整個太空飛船量身定做的。"}]

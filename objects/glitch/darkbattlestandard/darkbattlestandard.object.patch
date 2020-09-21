@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一面編織著徽章的深色方格旗幟。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "深色軍旗"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "我想知道這個是不是用作標記領地的？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我想知道他選擇用深色調是不是為了讓旗幟看起來更加有威脅？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人很很很不不不喜歡旗幟。而且這條旗幟的顏色令人厭煩。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "擔心。在電子人裡邊用這些顏色來編織旗幟的人往往都不是什麼好人。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一條用致鬱的顏色編織成的旗幟，而且可以放置在任何地方。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "看到這種單調乏味的顏色我就知道這條旗幟不是鮫人做的。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這條旗幟暗成這樣，會讓民眾好奇這是不是一種警告的訊號。"}]

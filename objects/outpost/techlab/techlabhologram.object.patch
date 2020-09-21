@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "科研所全息圖。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "科研所互動介面"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "科技卡的全息圖。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "全息科技卡。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "漂浮的巨大科技卡的圖案。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "驚訝。渲染成全息圖的巨大科技卡。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "巨大的科技卡全息圖。我能直走穿過去！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "描繪出科技卡的全息圖。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一些科技晶片小玩意兒的全息圖。"}]

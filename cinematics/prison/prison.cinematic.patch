@@ -1,0 +1,6 @@
+[{"op": "add","path": "/panels/5/fontSize","value": 12.5},
+{"op": "replace","path": "/panels/5/text","value": "我們將諾克斯鎖在了某個她再也不能造成麻煩的地方。\n結案了，夥伴。"},
+{"op": "add","path": "/panels/6/fontSize","value": 12.5},
+{"op": "replace","path": "/panels/6/text","value": "你知道嗎，當我們把她帶進來的時候，她並不多話…"},
+{"op": "add","path": "/panels/7/fontSize","value": 12.5},
+{"op": "replace","path": "/panels/7/text","value": "但她的眼神表達了她究竟有多麼懺悔。"}]

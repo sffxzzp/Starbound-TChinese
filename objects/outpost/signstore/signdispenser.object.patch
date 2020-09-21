@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "標牌就是從這製造出來的。或許我可以放一個進去？"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "EASEL櫃機"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "有一臺掃描器和一臺印表機。非常有用。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這機器可以掃描和列印標牌。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "列印標標標牌，掃描標牌。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "觀察。打印出來的標牌出現在這裡，這裡也可以拿來掃描標牌。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這就是個印表機和掃描器！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "打印出的標牌在這，這裡也可以拿來掃描標牌。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這裡是標牌打印出來的地方。你也可以在這裡掃描。"}]

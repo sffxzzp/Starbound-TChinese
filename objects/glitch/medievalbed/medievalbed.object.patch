@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "鋪著絲綢床單的堅固的床。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "中世紀床"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "床很硬，但床單有著絲滑的質感。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "床單摸起來輕薄柔軟。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人享受這床的柔柔柔滑的觸感。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "愉快。電子人的床單傾向於絲滑柔軟，這樣我們的金屬外殼才不會磨破它。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "簡陋的床上鋪著絲綢床單。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "不錯的絲綢床單。鮫人能夠充分利用絲綢。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "優質的床單不一定意味這是一張優質的床。"}]

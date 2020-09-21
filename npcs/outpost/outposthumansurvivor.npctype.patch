@@ -1,0 +1,3 @@
+[{"op": "replace","path": "/scriptConfig/dialog/converse/default/default","value": ["當地球四分五裂的時候我堪堪逃出來。我很幸運能到這。"]},
+{"op": "replace","path": "/scriptConfig/dialog/converse/human/default","value": ["當地球四分五裂的時候我堪堪逃出來。我很幸運能到這。"]},
+{"op": "replace","path": "/scriptConfig/dialog/converse/human/human","value": ["所有的，分散在全宇宙的人類…我們該怎麼辦？"]}]

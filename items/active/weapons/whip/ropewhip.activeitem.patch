@@ -1,0 +1,3 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一根用繩子做成的鞭子。出擊！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "繩鞭"},
+{"op": "replace","path": "/upgradeParameters/shortdescription","value": "繩鞭^yellow;^reset;"}]

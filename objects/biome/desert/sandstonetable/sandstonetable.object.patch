@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一張砂岩製作的桌子，別把水灑在上面了。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "砂岩桌子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一張砂岩製作的桌子。食物吃起來都有是沙子。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "粗糙的桌子。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族用它切切切東西。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "描述。一張砂岩製作的桌子。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一個堅固粗糙的桌子。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "粗糙的砂岩桌子。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一張砂岩桌。在上面吃東西食物都會有沙的！"}]

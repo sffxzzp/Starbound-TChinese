@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "科學證明粉碎馬鈴薯可以讓它們美味5倍。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "土豆泥"}]

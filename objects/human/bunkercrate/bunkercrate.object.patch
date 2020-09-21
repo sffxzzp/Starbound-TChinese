@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個金屬板條箱。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "金屬板條箱"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "金屬板條箱。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "金屬做的板條箱。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "金屬盒子子子。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "客觀。一個金屬箱子。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "大的金屬板條箱。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "看起來很沉的金屬板條箱。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這是一個金屬儲物箱。"}]

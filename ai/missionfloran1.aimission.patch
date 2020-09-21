@@ -1,0 +1,3 @@
+[{"op": "replace","path": "/speciesText/default/buttonText","value": "狩獵聚會洞穴"},
+{"op": "replace","path": "/speciesText/default/repeatButtonText","value": "重新挑戰狩獵聚會洞穴副本"},
+{"op": "replace","path": "/speciesText/default/selectSpeech/text","value": "艾絲特的研究表明葉族人的神器可能就在這裡。"}]

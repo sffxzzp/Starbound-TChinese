@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個空的氧氣罐。除了作為配件以外沒有別的用處。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "氧氣罐"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一塊高折射稜鏡。似乎有什麼東西在裡面。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "稜晶"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "似乎有一個人形物體在晶體裡。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "某人，或某種東西，被困這個稜鏡裡了。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "裡裡裡面是什麼？還活著嗎？"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "嚇壞了。似乎有一個人在這個稜鏡裡。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "有一個人在裡面。這是一個稜鏡監獄！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一個不祥的黑影存在於這個晶體中。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "如果我沒看錯的話，有一個傢伙在那裡面！"}]

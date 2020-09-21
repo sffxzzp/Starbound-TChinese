@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一面用舊的壁掛旗，噴上了隕日邪教的徽章。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "邪教旗幟"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這個邪教旗幟製作得很粗糙—可能是因為缺乏技能或資源？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這個橫幅散發出一種非常危險的感覺。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "壁掛旗很破。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "無感。製作這條橫幅的裁縫顯然是不熟練的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "做這個的人可能需要一些藝術課程。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這旗幟缺乏藝術性這一點實在令人震驚。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這是一幅醜陋的旗幟。"}]

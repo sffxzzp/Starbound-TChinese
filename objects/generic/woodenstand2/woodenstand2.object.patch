@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個堅實的寬木架。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "寬木架"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個大型的木架。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "由雕刻過的木料製成的堅固製品。或許用於展示物品。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "這個木樁樁樁是做什麼用的？"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "愉快。用來展示物品的物品。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一個小小的展示用架子。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一個底座，用來展示藝術品。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一個架子…用來幹些什麼的。"}]

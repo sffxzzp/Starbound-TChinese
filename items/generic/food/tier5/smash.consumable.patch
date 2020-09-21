@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個著名的電子人廚師試圖模仿製作土豆泥。他只成功了…一點。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "粉碎"}]

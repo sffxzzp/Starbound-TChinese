@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個非常強大的熔火之心。可用於製作金屬工藝製品站！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "熔火之心"}]

@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "毒氣草"},
+{ "op" : "replace", "path" : "/description", "value" : "長時間暴露在它的刺激性氣體中會將你擊倒。"}]

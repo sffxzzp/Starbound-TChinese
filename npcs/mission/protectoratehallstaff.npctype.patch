@@ -1,0 +1,2 @@
+[{"op": "replace","path": "/scriptConfig/dialog/speak/default/default","value": ["你真是趕在最後一刻啊，<entityname>。請趕在儀式開始之前儘快進去。"]},
+{"op": "replace","path": "/scriptConfig/dialog/converse/default/default","value": ["儀式現在馬上就要開始了。","麗達波茜婭是一個充滿榮光的偉大守護者。她真的相信我們可以讓這個宇宙保持和平。","守護者的一生不會一直一帆風順，但是請記住，你是偉大事業中的一份子。"]}]

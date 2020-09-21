@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這個鍾肯定能夠發出巨大的聲音。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "巨大的鐘"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個巨大的鐘。這個肯定能夠敲得很響。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個巨大的鐘。我想知道它的聲音是什麼樣子的。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "大鐘發發發出大大大聲音！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "害怕。這個鐘的聲音象徵著危險。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一個巨大的鐘。敲響它的慾望好強烈啊。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "鐘的聲音是大部分鮫人從未聽到過的聲音。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我敢打賭我們能夠在很遠的地方聽到這個鐘敲響時的聲音。"}]

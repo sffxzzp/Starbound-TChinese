@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這個馬桶看起來並不防漏。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "原始馬桶"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "看起來這是某種隨便的馬桶。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "很難想象葉族人要使用浴室。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人不不不需要別緻的馬馬馬桶。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "生疑。這個馬桶的設計壓根不能使它保持乾淨。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一個馬桶。它看起來並不乾淨。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我很驚訝以葉族人的文明水平竟然能造廁所。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這個馬桶很適合放在戶外廁所裡。"}]

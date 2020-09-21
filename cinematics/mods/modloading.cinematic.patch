@@ -1,0 +1,5 @@
+[{"op": "replace","path": "/panels/2/text","value": "正在更新MOD"},
+{"op": "replace","path": "/panels/3/text","value": "哇噢，你有好多Mod需要更新呀，是吧？"},
+{"op": "replace","path": "/panels/4/text","value": "還需要一段時間。也許你該先去喝杯茶什麼的。"},
+{"op": "replace","path": "/panels/5/text","value": "出去散步一會再回來如何？"},
+{"op": "replace","path": "/panels/6/text","value": "別問我什麼時候能好，我只是隻兔子。"}]

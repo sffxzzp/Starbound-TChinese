@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "帶刺的木棍，也許是為了讓你看起來像某些猛獸？"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "掠奪披風"}]

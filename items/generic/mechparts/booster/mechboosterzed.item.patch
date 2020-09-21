@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "快速的中距離推進器，形狀像字母Z。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "Zed機甲推進器"}]

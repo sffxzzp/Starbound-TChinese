@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "蟲形胸甲，加裝了一對額外的上肢。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "幼蟲胸甲"}]

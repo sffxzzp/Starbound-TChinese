@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這雙護脛的作響將纏環於你敵人的噩夢之中。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "末日領主護脛"}]

@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個可以背在身後的閃耀水晶。非常時尚。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "水晶揹包"}]

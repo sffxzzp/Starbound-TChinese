@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/description", "value" : "銘牌上寫著“授予勇於挑戰自然之力之人。”。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "獵人獎盃"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人可以在閃閃閃亮的獎盃上看見倒影。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "感動。這個獎盃被精心製造以紀念被授予者。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這兒的獎盃閃亮的就像一把嶄新的六發式左輪手槍一樣。"}]

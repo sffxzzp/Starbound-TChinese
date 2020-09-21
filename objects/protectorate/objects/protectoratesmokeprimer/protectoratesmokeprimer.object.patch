@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "煙霧從這裡噴出。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "煙霧"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這些煙看起來來自附近的某處。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這些煙正慢慢滲入進我的羽毛裡！"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "這這這些煙擋了葉族人的路！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "困惑。這些煙必定有個來源。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這些煙一定是從某處飄來的。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "有煙無火？餘甚惑之。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我看見煙霧了，是有人燒開水沒關火麼？"}]

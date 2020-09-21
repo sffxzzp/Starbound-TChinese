@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "裝滿蘋果的籃子。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "蘋果籃"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "美味的紅蘋果富含營養。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "精緻的紅蘋果受太陽的祝福而成熟。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "全是素，不夠葷。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "認可。這些蘋果看起來是對稱的，沒有瑕疵。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "仔細檢查，他們是用蠟做的。挫敗。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一籃蘋果。雖然不像海蘋果那樣鹹，但還是不錯的。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "沒什麼能比得到一個閃亮的蘋果更好了。"}]

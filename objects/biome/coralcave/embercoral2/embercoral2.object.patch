@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "鬆脆的珊瑚。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "灰燼珊瑚"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "發出金色光芒的珊瑚。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "明亮而又可愛的珊瑚。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "真脆！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "貪婪。一個金色的珊瑚。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我不知道這珊瑚是不是熱到發光。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "其中一種美麗的珊瑚物種。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "它們就像海里的金子。"}]

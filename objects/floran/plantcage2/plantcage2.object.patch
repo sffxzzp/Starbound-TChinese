@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個堅固的小型木製葉族人監獄籠子。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "小型木籠子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個結構良好的籠子。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個小籠子，或許是用來關押葉族人罪犯的？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "這個籠子對對對於葉族人來說太小小小了。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "擔心。罪犯在這個籠子裡完全沒有活動的空間。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我真的也能擠得進這個籠子裡嗎？這裡面完全沒有多餘的活動空間。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "罪犯可能會被懲罰關在這狹小的籠子裡。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "沒有哪個夥計能夠在這個小籠子裡站起來。"}]

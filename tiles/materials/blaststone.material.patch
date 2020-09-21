@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/description", "value" : "在巨大熱量的爆破中所產生的尖銳石頭。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "高爐石塊"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "吃驚。高溫把礦物都融入到了高爐石塊中。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "這尖尖尖銳的石頭真堅固固固。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這些堅固的石頭很尖銳。"}]

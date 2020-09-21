@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一種黏糊糊、有分量的鮮豔的凝膠。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "凝膠塊"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "不適。我不喜歡凝膠抖動的樣子。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "搖晃抖動的凝膠。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一團黏糊糊的凝膠。"}]

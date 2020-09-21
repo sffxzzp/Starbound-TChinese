@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "鋒利的怪物爪。可以用於製作。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "鋒利的爪"}]

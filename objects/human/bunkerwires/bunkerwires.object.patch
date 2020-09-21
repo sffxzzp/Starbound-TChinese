@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這玩意兒只會招來一場電氣火災。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "線圈"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "電線。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "雜亂的電線。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "拖曳曳電線是危險的。葉族人以前前親身體驗過。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "小心。掃描顯示，導致電氣故障的機率有９８％。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這些天電纜線供不應求。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一堆亂七八糟的電線，不安全。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "線纜，他們將驅動附近的機器。"}]

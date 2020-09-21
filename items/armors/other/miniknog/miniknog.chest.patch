@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "忠誠的科技發展部士兵使用的量產型胸甲。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "科技發展部胸甲"}]

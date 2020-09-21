@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "廢料板"},
+{ "op" : "replace", "path" : "/description", "value" : "生鏽的廢金屬鑲板，嚴重失修。"},
+{ "op" : "replace", "path" : "/glitchdescription", "value" : "擔心。這種金屬表面看起來凹凸不平，生鏽了。"},
+{ "op" : "replace", "path" : "/florandescription", "value" : "金屬生生鏽了，葉族甚至都不會用它。"},
+{ "op" : "replace", "path" : "/novakiddescription", "value" : "這種金屬板只是一批生鏽的廢鐵。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一幅令人難忘的尖叫人物畫。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "尖叫的畫"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "無聲的尖叫…我的族人可以理解。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這就是不知道克魯西斯的感覺。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族在每個獵物的臉上都能看看看到這種情感！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "緊張。這個身影正不安且恐懼。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我想知道尖叫的人正在看什麼？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這幅畫如果平靜一點也許會更好。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "哇噢，這人看起來嚇壞了。他需要放鬆。"}]

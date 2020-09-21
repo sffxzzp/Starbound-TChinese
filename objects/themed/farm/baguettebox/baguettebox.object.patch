@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一盒新鮮，硬皮的麵包。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "麵包盒"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這些麵包顯然是手工製作的，一點都不像家裡那些所謂“麵包”。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "磨細的穀物仔細烘烤的麵包。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "缺乏品味的穀物。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "感傷。這麵包的質樸讓我想起了更簡單的生活。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我相信古老的地球上這些麵包被稱為‘法國長棍’。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "新鮮出爐的麵包在水下更令人不愉快。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "沒什麼能打敗新鮮的麵包。"}]

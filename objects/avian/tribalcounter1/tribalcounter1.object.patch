@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個光滑的烹飪臺。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "雕刻櫃檯"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個帶有烹飪臺的碗櫃。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "烹飪是折翼者極為享受的追求。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "這裡有有有吃的嗎。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "鑑定。碗櫃和烹飪臺的組合。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這是廚房用具。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "它的表面很適合用來準備食物。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一個用來烹飪和烘烤食物的場所。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "罐子裡的生物，真是異想天開。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "罐子裡的共生體"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "有個小生物在罐子裡。它們被頻繁地用於實驗。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個凝膠狀的小生物被困在罐子裡。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "傻傻傻傻的小果凍生物。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "同情。這個小共生體看上去有點…憂傷。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "嗷，這只是個罐子裡的小共生體。可憐的小東西。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我懷疑這個共生體比我還要喜歡呆在這個罐子裡。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "哦，泥海膽果凍！開玩笑的啦。"}]

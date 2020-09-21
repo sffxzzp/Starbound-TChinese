@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "鮫人“睡蓮”藝術字"},
+{ "op" : "replace", "path" : "/description", "value" : "裱好的書法字‘蓮葉’。"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "鮫人顯然把語言當做一門藝術重視著。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "除了鮫人外誰也看不懂這個。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "看著著著像捅捅捅的樣子。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "評論。鮫人怎麼不把‘傲慢’一詞裱裝起來呢。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "看起來像那種現代畫畫作。我不是它的發燒友。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這件完美之作令我不禁潸然淚下。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "看起來有人不小心把墨灑了。"}]

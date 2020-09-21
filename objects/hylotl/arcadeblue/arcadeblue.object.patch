@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這個主機執行一個叫《迷幻混戰競技場》的遊戲。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "藍色街機遊戲機"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "《迷幻混戰競技場》開拓了我的視界。我現在看什麼都感覺有些許不同。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "《迷幻混戰競技場》其實是令人放鬆的。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人本以為這個叫《迷幻混戰競技場》的遊戲會令人熱血沸騰，結果卻大失所望。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "評價。我給《迷幻混戰競技場》四分。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "你不會料到雖然它頂著《迷幻混戰競技場》這個名字但其實頗有深度。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我認為《迷幻混戰競技場》的核心是關於一個人慢慢成長的故事。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "《迷幻混戰競技場》？它根本不像競技場…"}]

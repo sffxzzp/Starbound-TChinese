@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一組製作粗糙的巖磚。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "巖磚"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "冷漠。這些就是用岩石簡單堆砌而成的磚塊。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "堆堆堆砌的巖巖岩石。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這一堆除了是岩石還能是啥。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "可憐的假人，我稱它為佛雷德！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "假人靶子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個塞滿稻草的假人。用來做戰鬥訓練。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個稻草人。它嚇不到我。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "大鐵人做的稻稻稻草人。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "回憶。一個訓練用假人。騎士們在它身上練習劍術。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "看起來像是某種訓練用假人。也許是練習劍術用的。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一個填滿稻草的人。也許某人用這個進行戰鬥訓練吧。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我能用槍射他，不過我猜這原本是為練習弓箭準備的。"}]

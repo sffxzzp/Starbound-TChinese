@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這種有著強大護肩的胸甲絕大部分時候是用來展示的。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "衛兵胸甲"}]

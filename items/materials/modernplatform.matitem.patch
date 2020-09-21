@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/description", "value" : "現代材料製作的平臺，摸起來很光滑。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "現代平臺"},
+{ "op" : "replace", "path" : "/glitchdescription", "value" : "滿足。這個光滑的現代平臺既堅固又有魅力。"},
+{ "op" : "replace", "path" : "/florandescription", "value" : "光溜溜的現代平臺臺臺。"},
+{ "op" : "replace", "path" : "/novakiddescription", "value" : "一些看起來很別緻的金屬平臺。"}]

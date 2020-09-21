@@ -1,0 +1,3 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一根粗大的腸子，可以伸展到令人驚訝的長度。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "腸鞭"},
+{"op": "replace","path": "/upgradeParameters/shortdescription","value": "腸鞭^yellow;^reset;"}]

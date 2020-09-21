@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一排鎖上的守護團儲物櫃。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "鎖上的守護團儲物櫃"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一排儲物櫃。它們被鎖上了。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "學生用的儲物櫃。它們被鎖上了。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "存放私人物品的櫃子子子。它們被鎖上了。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "無趣。鎖上的櫃子。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這些儲物櫃被鎖上了。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這些是學生用的儲物櫃。我的在別處。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這不是我的儲物櫃。我的在其他地方。"}]

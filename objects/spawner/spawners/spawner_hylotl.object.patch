@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "召喚屬於你自己的鮫人村民！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "鮫人生成器"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "召喚鮫人中。呃…或許等等吧。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我得注意不要過於頻繁的使用它。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人召召召喚魚人並用劍劍劍刺穿它！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "虛偽。把鮫人聚集起來真是太好了。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "嗯，我估計一個鮫人不會造成多大傷害…"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "多麼愉悅！我終於可以再次被自己的文化包圍了。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "多麼可愛的一朵花！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "守護團之花"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一朵粉紅色的可愛的花。我應該摘下來留作今天的紀念。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "多麼充滿生機和希望的一朵花。我應該將它摘下帶走！"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "嗨這位小朋友…或許葉族人可以將這朵花放在口口口袋裡保管！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "傷感。我應該摘下這朵花來留念我的畢業典禮。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "嗨小傢伙…或許我該帶上你留作畢業紀念？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "多麼美好的日子，多麼美好的一朵花。我應該帶走它嗎？"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我並不是那種多愁善感的型別…不過我想摘下這朵花留作今天的回憶。"}]

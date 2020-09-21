@@ -1,0 +1,8 @@
+[{"op": "replace","path": "/scriptConfig/dialog/hail/default/default","value": ["見到你真好！"]},
+{"op": "replace","path": "/scriptConfig/dialog/hail/avian/default","value": ["我希望保護這片土地的安全。","我喜歡這工作，我會見到許多有趣的人。","多麼安寧的一天。","保護人們的安全，是很有意義的一件事"]},
+{"op": "replace","path": "/scriptConfig/dialog/hail/apex/default","value": ["享受你的冒險嗎？","現在還真安靜呢，真是難得的放鬆機會。","不用擔心，這裡很安全。","該地區有很好的防護。"]},
+{"op": "replace","path": "/scriptConfig/dialog/hail/floran/default","value": ["葉族人很無聊，想想想要打架…","葉族人準備保護這裡的安安安全！","葉族人的這身衣服就是是是用來戰鬥的！","別擔心，葉族人會捅捅捅入侵者者者的。"]},
+{"op": "replace","path": "/scriptConfig/dialog/hail/glitch/default","value": ["保護。我將守護你，守護這個地方。","驕傲。對於保護東西我很有經驗。","警覺。我要確保該區安全不受敵對活動的影響。","睏倦。你覺得我能休息一下麼？現在很安寧，不是嗎？"]},
+{"op": "replace","path": "/scriptConfig/dialog/hail/human/default","value": ["我發誓我真的，真的沒偷懶！","夥計，看看我，工作開始時，保持警惕，而且不能睡覺。","我可以讓地區內沒有敵對勢力，就像吃一碟小菜一樣簡單。","我喜歡被僱作為一個保安. 它給了我大量時間思考。"]},
+{"op": "replace","path": "/scriptConfig/dialog/hail/hylotl/default","value": ["為保護他人生命而活，是一件很有品德的事。","我將確保你在這裡的時間這是安全的。","我在這是為了保護你，還有那些來這裡的正直的人。","我不會走神的。"]},
+{"op": "replace","path": "/scriptConfig/dialog/hail/novakid/default","value": ["你吼啊！", "雷猴！"]}]

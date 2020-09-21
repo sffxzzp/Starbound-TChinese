@@ -1,0 +1,4 @@
+[{ "op" : "replace", "path" : "/description", "value" : "科研所科學家商店。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "科研所商店"},
+{ "op" : "replace", "path" : "/interactData/paneLayoutOverride/windowtitle/title", "value" : "埃利奧特的儲備"},
+{ "op" : "replace", "path" : "/interactData/paneLayoutOverride/windowtitle/subtitle", "value" : "^#b9b5b2;出售科技安裝站"}]

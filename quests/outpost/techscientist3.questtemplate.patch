@@ -1,0 +1,4 @@
+[{"op": "replace","path": "/title","value": "^orange;跳躍的研發"},
+{"op": "replace","path": "/text","value": "我一直在完成一個全新的技術，它可以讓使用者在空中多跳一次，讓他們到達一個更高的高度！但很遺憾，我還需要一些素材去完成它。^green;你能給我帶^orange;10個銀錠^white;嗎？"},
+{"op": "replace","path": "/completionText","value": "了不起！把這些也融合進去的話，^orange;二段跳^white;就隨時可以測試了！你想幫忙的就來找我吧。"},
+{"op": "replace","path": "/scriptConfig/turnInDescription","value": "去^orange;前哨戰^reset;找^orange;埃利奧特^reset;"}]

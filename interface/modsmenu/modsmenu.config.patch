@@ -1,0 +1,7 @@
+[{"op": "replace","path": "/paneLayout/windowtitle/subtitle","value": "^#b9b5b2;當前已載入的資原始檔"},
+{"op": "replace","path": "/paneLayout/selectmodlabel/value","value": "選擇Mod"},
+{"op": "replace","path": "/paneLayout/lblDescription/value","value": "描述"},
+{"op": "replace","path": "/paneLayout/modauthorlabel/value","value": "作者"},
+{"op": "replace","path": "/paneLayout/modversionlabel/value","value": "版本"},
+{"op": "replace","path": "/paneLayout/linklabel/value","value": "開啟MOD主頁"},
+{"op": "replace","path": "/paneLayout/copylinklabel/value","value": "複製MOD主頁連結"}]

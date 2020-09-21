@@ -1,0 +1,11 @@
+[{ "op" : "replace", "path" : "/description", "value" : "滿足你所有的農業和地形改造需求！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "泰拉市場"},
+{ "op" : "replace", "path" : "/interactData/paneLayoutOverride/windowtitle/title", "value" : "泰拉市場"},
+{ "op" : "replace", "path" : "/interactData/paneLayoutOverride/windowtitle/subtitle", "value" : "^#b9b5b2;食物，農作物還有寵物物資"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "出售物資的農家店。高興。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "購買農業物資的最好的地方，沒有例外。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人在這能給寵物買禮禮禮物！也可以買別的…"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "滿足。買農業物資的好地方。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "恐怖商店？我已經開始顫抖了！誒等等，大地商店。好吧。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "購買農業物資的地方"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我總想退休到一個老農莊生活。"}]

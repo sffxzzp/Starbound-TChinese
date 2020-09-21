@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "人工大氣系統排氣口。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "天文氣孔"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "排氣管。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這似乎是某種排氣口。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "管子太小，葉族沒法藏裡面。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "細心。像這樣的排氣孔通常出現在宇宙船隻和空間站裡。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "似乎是排氣口。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我相信這是一種排氣口。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "把一些武器裝在通風口裡，它可能會成為一門像樣的大炮。"}]

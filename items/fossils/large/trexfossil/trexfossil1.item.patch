@@ -1,0 +1,4 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "霸王龍頭骨"},
+{ "op" : "replace", "path" : "/description", "value" : "霸王龍的頭骨化石。"},
+{ "op" : "replace", "path" : "/completeSetDescriptions/shortdescription", "value" : "霸王龍化石"},
+{ "op" : "replace", "path" : "/completeSetDescriptions/description", "value" : "恐龍原本是地球上的物種，後來因為狂熱的科學家們才散佈在整個宇宙之中。"}]

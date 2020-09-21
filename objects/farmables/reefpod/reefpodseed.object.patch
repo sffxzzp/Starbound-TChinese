@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "礁莢，嚐起來像加了海水的酥脆的冰沙。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "礁莢種子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "礁莢嚐起來又甜又鹹。不尋常但討人喜歡。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "美味可口。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "嘗起起起來像魚人。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "困惑。礁莢無疑是不尋常的。水果為什麼能是鹹的？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "礁莢又甜又鹹，口感酥脆。讓我想起了爆米花。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "礁莢的甜度恰好適合鮫人的味蕾。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "礁莢到底是鹹的還是甜的食物？我都不知道。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個帶有翅膀的骨罈，也許被認為可以將死者帶去來世。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "帶翅骨罈"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個帶有翅膀的骨罈。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這些骨罈是給那些在戰鬥中殘廢了的翼族人使用的。這個骨罈被期望能將死者帶入神國。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "帶翅翅翅膀的壺。壺可不不不會飛。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "觀察。這些翅膀一定有某種宗教意義。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我想這是一個帶有翅膀的骨罈。裝滿了骨灰。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我想知道，這雙翅膀會把死者帶到哪裡？"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一個帶有翅膀的骨罈。它會飛去哪裡？"}]

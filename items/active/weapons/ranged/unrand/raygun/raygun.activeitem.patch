@@ -1,0 +1,3 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個奇怪的武器，能發射振盪能量球體。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "射線槍"},
+{ "op" : "replace", "path" : "/upgradeParameters/shortdescription", "value" : "射線槍 ^yellow;^reset;"}]

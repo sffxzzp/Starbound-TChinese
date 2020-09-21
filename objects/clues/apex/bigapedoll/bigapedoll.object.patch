@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個有些可疑的大猿人玩偶。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "大猿人玩偶"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個做工精細的大猿人玩偶…等等，它的眼睛是個攝像頭？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這是個相當漂亮的玩偶，但我覺得那雙眼睛實際上是攝像頭…"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人懷懷懷疑玩偶。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "擔心。我認為這個玩偶實際上是某種間諜裝置。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這個玩偶的眼睛一直在閃爍…我敢肯定它就是一個間諜裝置。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這個玩偶的某些地方讓我感覺不舒服…我想是可能有攝像頭藏在它的眼睛裡。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這個玩偶的某些地方讓我感覺不舒服。"}]

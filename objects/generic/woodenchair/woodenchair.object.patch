@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個看起來不舒服的木椅。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "木椅"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個很簡約的木椅。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個粗糙的木椅。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "椅子需要要要墊子。這這這木頭太粗糙了。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "失望。坐起來不舒服。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我在這椅子上坐不長。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "幾乎沒有什麼讓這把椅子變得舒適的努力。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我是簡約木藝的粉絲。"}]

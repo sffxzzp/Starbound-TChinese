@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "USCM，哈？我可不想成為他們的囚犯。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "USCM流放地標誌"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "赤裸裸的展示了USCM的權威—不再像以前那樣意義繁多。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "那些來到這兒的人永遠都不會忘記這裡。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "一塊刻有短短的名字的石頭。現在葉族人想想要刻有葉族人名字字的石頭！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "擔憂。分析表明這塊石頭是從一個被詛咒的遠古墓地拿回來的。可能被詛咒了。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這個標誌的某些東西讓我不寒而慄，也許那是血跡吧。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "USCM，又跳出來刷存在感了。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這看上去像是一塊巨大的石頭。我確信它看上去很美。"}]

@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "如果你想要在自己身上模擬生長突變的話，就帶上這個。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "突變胸甲"}]

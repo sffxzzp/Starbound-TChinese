@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "厚厚的金屬鐵柵欄包圍著每一個監獄單間，越獄的機會看起來十分渺茫。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "監獄柵欄"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "堅固的金屬柵欄。不知何故，它們看起來非常好看。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這些柵欄看起來相當結實。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "堅固固固的柵欄。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "難忘。一套非常結實的柵欄。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "柵欄，無論我們在那一邊，我們不是都要站在柵欄的後面麼？現在，我有些頭疼。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "即使被困在一個籠子裡。思想依舊可以天馬行空。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "你需要一些強力的工具去突破這些柵欄。"}]

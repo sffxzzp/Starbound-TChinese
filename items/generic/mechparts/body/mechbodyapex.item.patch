@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一種高科技的猿族式樣的機體，由排氣式冷聚變反應堆驅動。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "帝國機體"}]

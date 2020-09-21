@@ -1,0 +1,3 @@
+[{"op": "replace","path": "/title","value": "^green;沉默武士"},
+{"op": "replace","path": "/text","value": "電子人真讓我著迷，他們生來就是最偉大的機器，但大多數電子人的思維程式都太過死板了。也許當你在遊歷某個電子人城堡時能為我的博物館^green;帶來一套^orange;展示用武裝盔甲^white;嗎？。"},
+{"op": "replace","path": "/completionText","value": "太棒了！我的博物館會成為這片星系最有教育意義的地方。謝謝你，這件東西太完美了。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個美麗的夜空的畫。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "抽象畫"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "猿族是否仍有創造如此美麗的才能？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這是酒精作用？永恆的天空。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族渴望再次看看看到叢林的天空。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "驚歎。這樣的展示給了電子人暗示，我們是有理性的生物。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "多麼美麗的一幅畫。這作畫就像讓顏色活過來了一樣。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "多麼藝術。這幅畫的作者將被鮫人尊敬。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "哇噢，畫上的旋渦讓我頭昏眼花。"}]

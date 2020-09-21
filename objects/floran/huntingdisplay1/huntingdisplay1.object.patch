@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一支裱在飾板上的葉族人長矛。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "飾板上的長矛"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一塊裱著裝飾性長矛的飾板。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一件用來展示的結實的武器。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人以他們的狩獵武器器器為豪。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "取悅。電子人經常將武器掛在牆上展示，但這支長矛是屬於葉族人的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一支長矛。它一定很重要所以被如此展示。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "葉族人又一次以他們的野蠻為榮。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "嗯，那柄長矛一定沒多大用處才被掛在那裡。"}]

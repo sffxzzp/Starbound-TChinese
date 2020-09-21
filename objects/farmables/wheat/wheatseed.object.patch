@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "小麥，一種有許多用途的主要作物。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "小麥種子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "未經處理的小麥令人討厭，但可以用來製作各種各樣的菜。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "小麥本身就很美味，或者做成麵包屑也不錯。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "有穗穗穗的小麥。葉族人以扯下小麥的穗穗穗為樂。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "沉思。我納悶是否小麥的所有可能用途都已經被發現。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "小麥，用來烘焙一些新鮮麵包正合適。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "在陸地上，小麥有許多用途。在水下，幾乎沒有用處。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "每當我看到小麥我就渴望有一個新鮮的麵包。"}]

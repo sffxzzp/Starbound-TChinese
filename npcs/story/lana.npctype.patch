@@ -1,0 +1,5 @@
+[{"op": "replace","path": "/npcname","value": "拉娜"},
+{"op": "replace","path": "/scriptConfig/dialog/lana/start/default/default","value": ["嘿！士兵！快，我們需要你進入地下通道！","哦。等等。你不是我們的一員。如果你在這兒加入我們的話，我們就能用得上你！我們需要地下偵查員！","我叫^orange;拉娜·布萊克^white;，如果你想和我一樣進入科技發展部要塞的話就從這裡下去吧。","使用隧道入口來為我們削弱他們的防禦——我在這方面很信任你。"]},
+{"op": "replace","path": "/scriptConfig/dialog/lana/mid/default/default","value": ["你做到了！很好…我受傷了…我需要你來完成我們開始做的事，去解決最終的防禦吧"]},
+{"op": "replace","path": "/scriptConfig/dialog/lana/end/default/default","value": ["幹得漂亮，士兵！由於你這一切都是值得的。因為你這個要塞土崩瓦解，而且…","…這是什麼？這個發光的東西可真是光彩奪目啊…","哦，這就是你來這兒的原因？…拿上它吧。","士兵，我願意幫助你，我認為你已經贏得了援助。我有你可能需要的技術。"]},
+{"op": "replace","path": "/scriptConfig/dialog/lana/teleporter/default/default","value": ["我們在另一邊再會！"]}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "命令之床。為了你生命中的睡眠。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "命令之床"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "宇宙中最舒適的床。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一旦你躺在上面，就永遠不想起床。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族趴趴趴到床上，忘記了驚驚驚心動魄的記憶。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "幸福。真的，沒有比這更好的床了。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "最有趣的是，直到我吃乳酪睡覺前，我依然躺在床上。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我驚訝得說不出這張床是多麼的舒適。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這是我睡過最好的床。"}]

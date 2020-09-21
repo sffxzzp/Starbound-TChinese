@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一扇強度超高又外觀華麗的門。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "豪華門"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這扇門很安全。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一扇非常堅固的門。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人藏在門後面。跳出來。捅捅捅！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "讚許。一扇實用的門。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一扇堅固的豪華門。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一扇結實的豪華門。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這是一扇炫酷的門。"}]

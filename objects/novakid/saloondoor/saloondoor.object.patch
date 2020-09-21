@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "晃動的沙龍門可以把那些討厭的風滾草擋在外面。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "沙龍門"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個猿人走進了一間酒吧…"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "就算再怎麼晃動，這扇可憐的門也非不起來。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "愚愚愚蠢晃晃晃動的東西當了葉族人的的的路。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "愉悅。這扇門的作用只是為了在有人透過時發出訊號。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這東西當窗戶比當門合格。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "當一個人在穿過這扇門之前，必須準備應付一場決鬥。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "步入這樣一扇門，你最好做好應對任何事情的準備。"}]

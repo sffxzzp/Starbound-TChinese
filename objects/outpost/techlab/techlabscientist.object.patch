@@ -1,0 +1,3 @@
+[{ "op" : "replace", "path" : "/description", "value" : "科研所科學家。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "科研所科學家"},
+{ "op" : "replace", "path" : "/chatOptions", "value" : ["抱歉，但我現在真的很忙。","我們在科技進步的最前沿。"]}]

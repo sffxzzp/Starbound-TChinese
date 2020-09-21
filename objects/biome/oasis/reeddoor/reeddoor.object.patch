@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個由木與蘆葦製成的門。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "蘆葦門"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個由木與蘆葦製成的門。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個由木與蘆葦製成的門。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "蘆葦門。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "端詳。一個由木與蘆葦製成的門。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一個由木與蘆葦製成的門。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一個由木與蘆葦製成的門。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一個由木與蘆葦製成的門。"}]

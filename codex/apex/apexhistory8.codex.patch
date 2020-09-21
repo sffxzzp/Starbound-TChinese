@@ -1,0 +1,13 @@
+[{"op": "replace","path": "/title","value": "猿人配給書"},
+{"op": "replace","path": "/description","value": "一本科技發展部規定下的猿人配給書。"},
+{"op": "replace","path": "/contentPages","value": [
+"科技發展部每日公民補給清單
+
+認證營養膏 x 1
+認證瓶裝水 x 1
+果皮日報 x 1
+
+報告反叛者活動資訊可換取額外奢侈品
+
+大猿人正在看著你！"
+]}]

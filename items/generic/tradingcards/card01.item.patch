@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一種來自銀河的交易卡。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "交易卡 #01"}]

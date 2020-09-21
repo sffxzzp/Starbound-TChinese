@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "讓我們看看化石裡面的是什麼！放下來然後砸開它！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "化石艙"}]

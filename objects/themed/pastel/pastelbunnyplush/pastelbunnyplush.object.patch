@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個散發著香味的粉紅色的兔子毛絨玩具。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "粉彩兔毛絨玩具"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這個可愛的毛絨玩有著玫瑰花香。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這個可愛的毛絨玩具的確有著玫瑰的芳香。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "小小的東西聞起來像玫玫玫瑰。葉族人稱稱稱讚它。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "迷戀。這個毛絨玩具可愛的無藥可救。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這個粉紅色的兔子玩具可愛得讓我想要打它一拳。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這個毛絨玩具聞起來實際上很像玫瑰。不錯的品味。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這難道不是世上最可愛的東西了嗎？"}]

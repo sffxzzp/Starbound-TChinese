@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一塊鑲有和平衛士徽章的金色壁飾。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "和平衛士徽章"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這個徽章擦的很亮。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這個擦亮的徽章像太陽！"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "對葉族來說太亮了。葉族不信。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "印象深刻。有人把這個徽章擦亮了。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "多麼巨大的徽章啊。看起來很正式。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "多麼精緻的盾牌啊。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這個徽章擦得很亮。"}]

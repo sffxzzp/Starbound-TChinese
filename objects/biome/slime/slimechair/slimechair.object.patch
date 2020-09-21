@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個粘稠的黏糊糊的座位。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "粘液椅"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這椅子太荒謬了。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我會沉入這椅子中嗎？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "超級愚愚愚蠢的椅子。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "著迷。雖然製作材料令我厭惡，但是它的曲線非常養眼。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這東西有什麼用，我可以把它當做椅子嗎？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一旦忍受住這種令人難受的質感，這種粘液椅子還是很舒服的。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我不是很確信這是個椅子。"}]

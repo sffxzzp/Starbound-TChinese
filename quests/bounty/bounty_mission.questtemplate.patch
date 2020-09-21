@@ -1,0 +1,7 @@
+[{"op": "replace","path": "/scriptConfig/objectives/findWorldStage","value": ["前往%s"]},
+{"op": "replace","path": "/scriptConfig/objectives/missionTeleportStage","value": ["在星球上^orange;搜尋^green;目標的特徵^reset;","^orange;尋找^reset;線索"]},
+{"op": "replace","path": "/scriptConfig/objectives/missionBountyStage","value": ["^orange;逮捕^reset;^green;<bounty.name>^reset;"]},
+{"op": "replace","path": "/scriptConfig/generatedText/text/prev","value": ["我在<prev.coordinate.preposition><prev.coordinate.name>的發現，讓我認為<bounty.name>在<coordinate.name>。"]},
+{"op": "replace","path": "/scriptConfig/generatedText/text/default","value": ["<bounty.name>最近曾出現在<coordinate.name>。"]},
+{"op": "replace","path": "/scriptConfig/generatedText/complete/default","value": ["<bounty.name>的案子解決得漂亮，搭檔！今天正義得到了伸張。\n\n什麼時候順路來和平衛士空間站來領取賞金吧！","你逮捕了<bounty.name>？幹得漂亮，搭檔！宇宙現在更加安全了一點。\n\n什麼時候順路來和平衛士空間站來領取賞金吧！"]},
+{"op": "replace","path": "/scriptConfig/generatedText/failure/escape","value": ["你讓他們跑了！？我得說，你這次可算不上個稱職的和平衛士了，搭檔！"]}]

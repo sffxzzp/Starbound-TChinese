@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "濺射型熒光藥劑"},
+{ "op" : "replace", "path" : "/description", "value" : "要有光，還得快。"}]

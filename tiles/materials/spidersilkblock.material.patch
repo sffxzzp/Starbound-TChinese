@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個由蜘蛛網緊緊結合在一起的硬塊。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "蜘蛛絲"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "難忘。整個材料都是有機的！大自然總能給我們留下深刻的印象。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "粘粘粘粘的蜘蜘蛛網。葉族人認認為蜘蜘蜘蛛是一位很棒的獵人！"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一坨看起來很詭異的蜘蛛網。"}]

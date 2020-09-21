@@ -1,0 +1,11 @@
+[
+  { "op" : "replace", "path" : "/title", "value" : 
+	"^orange;像鳥兒一樣自由"
+  },
+  { "op" : "replace", "path" : "/text", "value" : 
+    "現在我能去這個太陽系中的其他星球了，^green;時候後考慮如何修復我的超光速驅動了, ^orange;SAIL可能知道該怎麼做。"
+  },
+  { "op" : "replace", "path" : "/completionText", "value" : 
+    "成功了！我終於能訪問其他星系了！"
+  }
+]

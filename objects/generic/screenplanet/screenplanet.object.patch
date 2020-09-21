@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "我真希望我能在天體地理學課上下過功夫。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "星球監視器"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "螢幕上顯示著一個行星的資訊。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這是哪個星球？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "一堆堆堆無聊的字字字元。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "得意。我的內部感測器顯得這個螢幕上的資訊過時了。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "看上去像是這個星球…有一堆文字呢。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這是關於星球地理的詳細資訊。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這個螢幕正向我顯示著我們所在的這個星球的資訊。"}]

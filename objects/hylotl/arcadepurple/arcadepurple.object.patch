@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這個主機執行一個叫《尖叫時尚探員》的遊戲。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "紫色街機遊戲機"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這個遊戲叫《尖叫時尚探員》。它的內容…我永遠也忘不掉。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這是一個叫《尖叫時尚探員》的懸疑遊戲。為什麼他們在尖叫？那就是所謂的懸疑嗎？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "這個遊戲叫《尖叫時尚探員》。葉族人喜歡歡歡這個遊戲。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "不適。這個叫《尖叫時尚探員》的遊戲讓我很不安。10分我給6分。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "那些時尚探員都有如《尖叫時尚探員》中的那樣恐怖嗎？時尚探員到底是什麼啦？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "有傳言說《尖叫時尚探員》是對一起真實案件的藝術化重述。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "那個時尚探員的確尖叫了不少。我是應該找出其中緣由嗎？"}]

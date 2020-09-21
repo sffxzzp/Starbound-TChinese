@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/description", "value" : "在深空前哨站裡常見的輕型平臺。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "前哨站平臺"},
+{ "op" : "replace", "path" : "/glitchdescription", "value" : "著迷。這些平臺非常輕，易於攜帶。"},
+{ "op" : "replace", "path" : "/florandescription", "value" : "就是是是另外一種金屬平臺。"},
+{ "op" : "replace", "path" : "/novakiddescription", "value" : "看起來很奇怪的金屬平臺。"}]

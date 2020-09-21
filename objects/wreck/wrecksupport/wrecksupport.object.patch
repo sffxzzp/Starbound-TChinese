@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個生鏽的金屬支架。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "破舊的支架"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "我不確定這個還能支撐多少的重量。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我希望它不再支撐著任何東西。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "現在金屬不是很堅堅堅固。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "焦慮。這支架在結構上看上去並不完好。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這看起來不像能支撐任何重量。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "作為承重結構，它已經不能用了。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我不指望這能支撐任何東西。"}]

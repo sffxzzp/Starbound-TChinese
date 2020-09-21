@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "電絨山羊"},
+{ "op" : "replace", "path" : "/description", "value" : "它厚實的外套讓它可以在最寒冷的氣候條件下保持溫暖。"}]

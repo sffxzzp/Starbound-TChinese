@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "書堆"},
+{ "op" : "replace", "path" : "/description", "value" : "一堆塵封的史冊，全都是些關於龍和騎士的傳說。"},
+{ "op" : "replace", "path" : "/glitchdescription", "value" : "被逗樂。這些書裡面有許多精彩的故事。"},
+{ "op" : "replace", "path" : "/florandescription", "value" : "書書書裡找不到偉大大大之處。"},
+{ "op" : "replace", "path" : "/novakiddescription", "value" : "一些佈滿灰塵的書。誰不愛聽一個好故事呢？"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個木質支座是手工雕刻的電燈。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "小木屋檯燈"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "我猜這盞燈的曲線形狀是用來吸引人的。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "比較漂亮的燈。如果它的形狀像鳥兒一樣那就更好了。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人更喜歡歡歡發光植植植物。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "混亂。如果這是木製的，它是怎麼亮起來的？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我猜這是一個做成復古款式的現代電燈。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這看起來像是對自然資源的浪費。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "雖然我更願意用煤氣燈，不過這種也行。"}]

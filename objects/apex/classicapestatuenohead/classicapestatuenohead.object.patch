@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "無頭大猿人雕塑。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "無頭大猿人雕像"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "我們的光榮偉大的無頭腦領袖…"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個用於鼓舞群族驕傲的塑像？它看起來遭到了破壞。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉人喜歡沒腦袋的猴子。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "難忘。如此毀壞這座雕像可不容易。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這個雕像看起來缺了點什麼…"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "不必要的權力展示。似乎某個同意這個觀點的人毀壞了這個雕像。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一個大型的高大無首猿人雕像。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一種臥式椅子，像船長椅上的太空梭。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "彈射椅"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "模擬人類初次太空旅行的行為相當有趣。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "據我所知，這個位置在起飛過程中是最舒適的。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "在透過宇宇宇宙的時候躺著別有一番樂趣。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "著迷。在旅途中躺在上面是個機智的主意。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "多麼偉大的主意。它仍然保持著這樣的設計。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "在這個位置上駕駛飛船的可笑想法是鮫人想到的。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這把椅子使躺著工作有了新的意義。"}]

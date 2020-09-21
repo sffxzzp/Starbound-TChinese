@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這個耐鋼電梯會完成任務的。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "長耐鋼電梯"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個堅固的電梯。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "在多層設施間穿行最簡便的方法。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "上上上下下的電梯。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "無聊。平常無奇的電梯。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "用來在多層間上上下下的電梯。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "井井有條的耐鋼電梯。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "某種電梯，它很有用！"}]

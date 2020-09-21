@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個優質木頭和絲綢製成的漂亮的床。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "古典床"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這是科技發展部的人睡覺的床麼？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "自打離開鳥巢，第一次見到這麼舒服的床。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "德德德芙，盡享絲絲絲滑。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "舒服。這床讓我的感測器充滿了美妙的感覺。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "哇哦，太舒服了！我都想要現在睡覺了。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "做工相當精細，但還是和鮫人的工藝沒法比。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "誰會需要這樣毛茸茸的花哨的床？雖然看上去確實相當舒適。"}]

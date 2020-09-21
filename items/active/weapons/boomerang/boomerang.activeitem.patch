@@ -1,0 +1,3 @@
+[{ "op" : "replace", "path" : "/description", "value" : "最先進的微推進器保證它總是能夠返回。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "飛鏢"},
+{"op": "replace","path": "/upgradeParameters/shortdescription","value": "飛鏢^yellow;^reset;"}]

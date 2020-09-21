@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個可愛的普通病毒球玩偶。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "病毒球玩偶"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "如果把它貼在我的頭上，它會吸收我的生命嗎？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "儘管它們的絨毛玩具很開愛，但在野外卻十分危險。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "惱人的生生生物。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "憂慮。如果把它貼在我的頭上，它會吸收我的生命嗎？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我從來沒注意到病毒球會這麼可愛！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "作為一種危險的生物，它們長得還蠻可愛的。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我覺得這是個可愛的小傢伙。"}]

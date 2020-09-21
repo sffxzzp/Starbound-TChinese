@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "常見的鳥類頭飾，裝飾著華麗的鈦羽。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "鵪鶉頭飾"}]

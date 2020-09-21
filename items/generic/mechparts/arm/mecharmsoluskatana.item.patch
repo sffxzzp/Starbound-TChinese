@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一種強大的機甲武器，專為阿斯拉·諾克斯的\"絕唱\"機甲打造。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "單手武士刀機甲臂"}]

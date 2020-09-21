@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "為高效率砍伐設計。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "NPC斧"}]

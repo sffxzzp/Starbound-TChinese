@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "看起來不是那麼鼓舞人心。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "動員令"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "如果這是科技發展部的海報，那下面丟失的文字就是“拒絕的話你不會被處決”。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "翼族人向克魯西斯祈禱以求得安寧。我們可不需要這種愚蠢的動員令。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "這張動員令損壞了。葉族人看到這張東西后感到熱血沸騰騰。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "沮喪。要猜出丟失的文字會讓我困擾一整天。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "對於有人在上面亂寫亂畫的行為我一點都不驚訝。這是人類的劣習之一。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我們大鮫人不需要動員令來幫助我們達到‘禪’的境界。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "上面寫著保持冷靜和什麼？我想我永遠都不會知道了。"}]

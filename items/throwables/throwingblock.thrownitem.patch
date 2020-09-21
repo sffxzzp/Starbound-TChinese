@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "投擲方塊"},
+{ "op" : "replace", "path" : "/description", "value" : "一個可以投擲的方塊！"}]

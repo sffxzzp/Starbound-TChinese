@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這個祭壇上雕刻著一位生有翅膀的神。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "翼族禱告祭壇"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個祭壇，上面有著一位長有翅膀的翼族人的複雜雕刻。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這個祭壇上雕刻著克魯西斯。觀星者們用它與克魯西斯溝通，讓他將死者引導進神國。獻祭也通常是在這裡完成的。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "石石石頭桌子雕刻著石石石頭鳥人。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "困惑。這個祭壇看起來有某種我無法理解的宗教目的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一座雕刻著翼族人的祭壇。也許這是他們的神？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這般虔誠的信仰不會帶來進步。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "看起來是某種古老的祭壇。上面刻滿了東西。"}]

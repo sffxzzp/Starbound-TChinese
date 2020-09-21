@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "破碎的培養艙，裡面被幹泥覆蓋…是有某種東西打破它跑出了來了嗎？"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "破舊的培養艙"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "有什麼東西…掙脫出來？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "不詳的預兆。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "打碎打碎打碎…阿歐。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "煩擾。跡象顯示有東西從這個機器中逃出。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "上帝啊，這讓我想起“異形大戰鐵血戰士”了。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "有一種粘糊糊的綠色物質在破碎的玻璃上…"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我不太想觸控那個培養倉。"}]

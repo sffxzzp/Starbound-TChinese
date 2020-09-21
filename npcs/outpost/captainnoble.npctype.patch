@@ -1,0 +1,3 @@
+[{"op": "replace","path": "/npcname","value": "諾布林隊長"},
+{"op": "replace","path": "/identity/name","value": "諾布林隊長"},
+{"op": "add","path": "/scriptConfig/dialog/converse/default/default","value": ["你吼啊，軍官<entityname>！像往常一樣努力作戰嗎？","雷猴，軍官<entityname>！你的工作處理的如何？","永遠昂首挺胸，軍官<entityname>！"]}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "我確信這裡能打到水…"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "水井篷"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個帶水桶的水井篷。看起來很方便。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這個手柄看起來是用來升降水桶的。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "大鐵人建了帶水桶的小房房房子。大鐵人愛水桶。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "不滿意。電子人的村莊用這樣的水井為全村提供水源，但通常水是髒的或是被汙染的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一口可愛的小水井。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "對於我來說要在一個連水都要從桶裡撈上來的世界裡生存是很痛苦的。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一個經典的取水方法，最好確保我不會掉下去。"}]

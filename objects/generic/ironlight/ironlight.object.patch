@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這是一盞燈，還是一把劍？大概都是吧。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "刀鋒之燈"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一把發光的不尋常的劍。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "奇怪。這把劍是用來作燈而不是當武器的。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "鋒鋒鋒利的燈，切開了暗影。葉族人很急躁。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "實用。這盞燈既可以當作燈也可以當作武器。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "照明用的劍。我在走哥特風的時候會有這樣的東西。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一把被再利用為室內照明的武器。我贊成。"}]

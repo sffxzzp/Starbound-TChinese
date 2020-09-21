@@ -1,0 +1,3 @@
+[{"op": "replace","path": "/activeCrewLimit/text","value": "跟隨你的船員數量已經達到了上限。請先解散隊伍中的船員再以其他船員接替。"},
+{"op": "replace","path": "/crewLimit/text","value": "你的飛船已經不能容納更多船員。請擴大你的飛船，或者透過飛船終端解僱一些船員。"},
+{"op": "replace","path": "/gainedCrewMember/text","value": "你獲得了你的第一名船員！在飛船終端可以檢視其狀態和進行管理。"}]

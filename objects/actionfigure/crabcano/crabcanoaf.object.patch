@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "標籤上寫著，\"它總是很緊張，在最輕微的對峙中也會迅猛橫行。\""},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "乖離蟹手辦"}]

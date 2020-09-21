@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "由視神經編織而成的襯衫。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "眼球衫"}]

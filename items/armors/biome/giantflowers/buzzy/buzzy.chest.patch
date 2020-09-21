@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一件毛絨絨的條紋衫。聞起來有淡淡的蜜糖香氣。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "嗡嗡襯衫"}]

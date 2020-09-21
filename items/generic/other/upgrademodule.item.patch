@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這些模組可以用來給船或者工具升級。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "升級模組"}]

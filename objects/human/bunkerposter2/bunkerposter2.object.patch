@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "沒必要心煩。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "安撫令"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "大猿人？在這裡？為什麼人類會有這樣的海報？你在逗我麼？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這張海報的宣傳風格看起來好像大猿人。人類與猿人難道有什麼聯絡？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人不確定定定為什麼猿人會在這海報報上，又或許這只是一個毛茸茸的人類？"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "懷疑。我想知道，為什麼人類會有大猿人的海報？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這上面的漫畫人物看起來好熟悉。等等…這不是大猿人嗎？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一張人類海報，一個猿族惡棍。真是稀奇。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一個猿族人。他在告訴我不要沮喪。"}]

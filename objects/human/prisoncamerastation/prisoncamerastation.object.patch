@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一套監視器，由安全攝像頭提供影象，當心後面有鬼哦。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "安保攝像站"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "我確信我從其中一個螢幕裡看到有人在角落裡消失了。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我感覺自己像個偷窺狂。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "好多多多螢幕。都是一樣的無聊聊。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "檢查。我確信其中一個攝像頭在不停地巡視。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這些螢幕中的一個正在播放我盯著螢幕的囧樣兒。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "多好的入侵裝置啊。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一個窺探裝置。"}]

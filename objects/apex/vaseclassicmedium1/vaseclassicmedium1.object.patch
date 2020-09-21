@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "裝飾性的花瓶。看起來挺易碎的。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "精緻的花瓶"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "我覺得我聽見裡面有東西。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "翼族經常在罐子裡存些飾品。說不定其他人也會這麼做。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "打打打碎它再把裡面的東西扯出來！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "衝動。我相信這裡面有些東西。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我一直想摔一個這樣的東西。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "破壞這麼一個珍貴的東西讓人覺得丟臉。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "對我來說，罐子就是罐子，無論新舊。"}]

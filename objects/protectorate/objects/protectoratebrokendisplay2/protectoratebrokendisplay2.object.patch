@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個破碎的展示臺。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "破碎的守護團展示臺"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這個展示臺已經被砸得粉碎了。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這個展示臺被徹底地毀壞了。多麼悲劇！"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "破碎的桌子…"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "悲傷。噢不！這些寶貴的展示臺已經無法修復了。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一個破碎的展示用桌子…"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "看到這個太讓人憂傷了。我晚上會做關於它的噩夢的。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我簡直不敢相信自己的眼睛…"}]

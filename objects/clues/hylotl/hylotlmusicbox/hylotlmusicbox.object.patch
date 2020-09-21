@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個複雜的手工音樂盒。它的旋律舒緩。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "裝飾音樂盒"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個手工音樂盒，得到了最好的保養。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "看起來這個音樂盒對某人有很特別的意義。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "閃閃發亮的音樂盒演演演奏音樂。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "高興。這個盒子被設計為演奏簡單的曲子。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這個小音樂盒給人一種舒緩平靜的感覺。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "簡單而美麗－這一切都體現了鮫人的價值觀。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這個小木盒子演奏起美麗的曲子。"}]

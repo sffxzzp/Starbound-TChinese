@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一張眼球製作的桌子，不適合穿裙子時使用。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "眼球桌子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "我不喜歡桌子可以研究我的腳。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "坐在這裡吃飯使人有充分的優勢。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人坐坐坐在桌子下和眼睛分分分享肉。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "觀察。這眼睛可以讓桌子轉動。也許可以分享邊上的菜。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這可怕的桌子很適合用於萬聖節派對。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "過分裝飾的桌子。眼睛沒能增加啥亮點。工匠被衝昏頭了吧。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這眼睛比我的肚子還要大。"}]

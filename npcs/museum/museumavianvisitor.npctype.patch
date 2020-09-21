@@ -1,0 +1,2 @@
+[{"op": "replace","path": "/scriptConfig/dialog/converse/default/default","value": ["這是讓人終生難忘的收藏！我很好奇是誰弄到了這些藏品？"]},
+{"op": "replace","path": "/scriptConfig/dialog/converse/avian/default","value": ["這是讓人印象深刻的收藏！我很好奇是誰弄到了這些藏品？"]}]

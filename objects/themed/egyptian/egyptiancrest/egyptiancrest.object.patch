@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "帶有彩色翅膀的裝飾性王冠。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "埃及王冠"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "強烈大膽的顏色—我喜歡。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這不是翼族風格，但真的很吸引我！"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "巨大的翅膀—像這樣的鳥意味著一場偉大的狩獵。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "細心。這些不是真正的翅膀，而是一個精細的藝術描繪。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "帶有豐富顏色的翅膀的王冠。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這王冠很有力量，很醒目。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "認為這是藝術—在我看來像個大翅膀。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個華麗的黑曜石書架。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "大型黑曜石書架"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這個書架被設計成可以保護所裝物品的樣子。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "翼族人不會收集很多書。他們所擁有的書是神聖不可侵犯的。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "堅堅堅固的書架。但葉族人就是不明白。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "細心。翼族人似乎非常重視他們的書籍。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這個書架被做成跟坦克一樣牢固。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "所有的書都是值得受到保護的。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這是一個堅固的書架。讓我印象深刻。"}]

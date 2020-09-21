@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個全是卡片的索引。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "卡片引索。"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "維護這個東西是多麼艱苦的一件事。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "有些人一定很喜歡書。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "好好好多小紙片。幹啥的？"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "取悅。電子人不需要小卡片上的圖書館索引。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我的心飛向了維護這古董的圖書管理員。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "鮫人學者的光榮的紀念碑。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "群星在上，這玩意究竟做什麼用的？"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一副完整的肋骨。死去不是很久。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "骸骨堆"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這些骨頭就是要被打碎。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "塵歸塵，土歸土。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人粉碎碎碎骨頭。一整天。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "興奮。一個飛踢很有可能把這些骨頭變成一堆粉末。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "如果他們真的死了，砸這些骨頭也不能傷害到他們。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "粉碎的骨頭是噁心。我擔心我可能不小心踢到它，因為我要走過去。這不可避免的。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這些乾燥又多塵的骨頭，只渴望一發妙射球。"}]

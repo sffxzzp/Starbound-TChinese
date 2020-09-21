@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "為在太空戰鬥的科技發展部士兵制作的機體。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "科技發展部機體"}]

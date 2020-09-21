@@ -1,0 +1,3 @@
+[{"op": "replace","path": "/speciesText/default/buttonText","value": "拜隆先生的城堡"},
+{"op": "replace","path": "/speciesText/default/repeatButtonText","value": "重新挑戰拜隆先生的城堡副本"},
+{"op": "replace","path": "/speciesText/default/selectSpeech/text","value": "電子人神器似乎屬於某個擁有一座坐落於一個可愛的星球上的城堡的人。"}]

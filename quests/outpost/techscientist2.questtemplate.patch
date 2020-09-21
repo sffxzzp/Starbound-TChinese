@@ -1,0 +1,6 @@
+[{"op": "replace","path": "/title","value": "^orange;衝刺者"},
+{"op": "replace","path": "/text","value": "我的^orange;能量猛衝技術^white;在量產之前必須要來個測試，你願意試試^green;用這個原型穿過透過我設計的^orange;障礙測試房^white;嗎？^green;你準備好就來找我吧^white;，到時候我會傳送你過去。"},
+{"op": "replace","path": "/completionText","value": "簡直完美！這個^orange;能量猛衝技術^white;表現得十分出色！來，為表達我對你的感謝，拿一個去吧。另外我也有其他的技術原型需要測試，有空多過來看看。"},
+{"op": "replace","path": "/scriptConfig/descriptions/enterInstance","value": "與^orange;埃利奧特^reset;對話，並進入^orange;障礙測試房^reset;"},
+{"op": "replace","path": "/scriptConfig/descriptions/findGoal","value": "完成^orange;衝刺技術的測試^reset;"},
+{"op": "replace","path": "/scriptConfig/descriptions/turnIn","value": "回^orange;前哨站^reset;，與^orange;埃利奧特^reset;交談"}]

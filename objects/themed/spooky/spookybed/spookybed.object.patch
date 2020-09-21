@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這張奇特的舊床散發著一股令人不安的氣息。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "幽靈床"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "看到這張床我總是禁不住產生不安的感覺…"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這張床不對勁，我能感覺得到…"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人睡睡睡在這裡感覺很緊緊緊張…"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "緊張。這個傢俱充斥著滿滿的惡意。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "當你因恐懼而感到涼徹心底的清醒時，還可能睡得著嗎？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "在這樣的床上睡覺就要有赴死的覺悟。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "床下藏著什麼東西嗎？"}]

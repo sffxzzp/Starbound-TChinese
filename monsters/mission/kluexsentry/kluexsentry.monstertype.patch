@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "克魯西斯哨兵"},
+{ "op" : "replace", "path" : "/description", "value" : "一個被古代科技賦予生命的石制神廟守護者。"}]

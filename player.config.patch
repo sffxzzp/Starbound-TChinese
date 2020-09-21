@@ -1,0 +1,4 @@
+[{"op": "replace","path": "/blueprintUnlock","value": "^green;學會了製作：<ItemName>。"},
+{"op": "replace","path": "/blueprintAlreadyKnown","value": "已經學過如何製作<ItemName>。"},
+{"op": "replace","path": "/collectableUnlock","value": "^green;<collectable>^white;已新增到^blue;<collection>^reset;收藏庫"},
+{"op": "replace","path": "/companionsConfig/recruitDescription","value": "^cyan;> 名稱：^white;<name>\n^cyan;> 工作：^white; <role>\n^cyan;> 等級：^white; <rank>\n^cyan;> 狀態：^white; <status>"}]

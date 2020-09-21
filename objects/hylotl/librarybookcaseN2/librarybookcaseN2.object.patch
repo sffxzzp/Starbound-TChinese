@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個裝滿書籍的較大書架。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "奢華書櫃"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個標準、奢華的圖書館書架。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個裝滿了書籍的舊書架。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "書書書。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "滿足。有許多像這樣的書。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一個結實的書架。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一個詩歌和散文分別排列的書架。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一個填滿了書的書架。"}]

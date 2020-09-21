@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個蘑菇塑造的箱子。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "蘑菇箱子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "你能很容易的把箱子拿起帶走。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個蘑菇箱子。很容易開啟。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人戰利品箱。葉族人發現東東東西。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "分析。開啟箱子將釋放無形的孢子。其長期影響不可知。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一個可愛又迷人的蘑菇箱子。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "對箱子來說這是個荒謬的主意。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這箱子看起來像一個可愛的小蘑菇。"}]

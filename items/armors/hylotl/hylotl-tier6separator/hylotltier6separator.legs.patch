@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這件護脛用純日曜石加工而成，看起來就跟穿戴者一樣精神。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "弱光護脛"}]

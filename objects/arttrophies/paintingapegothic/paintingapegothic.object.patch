@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一對猿人夫婦的肖像。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "哥特式猿族畫"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這對猿族夫婦看起來…很空虛。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這些面孔就是那些生活中沒有克魯西斯的人。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "如果猿族有個大刺刺刺叉的話怎麼可能會難難難過呢？"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "印象深刻。這對猿族夫婦穿著很超前。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我不記得有這種經典的繪畫特色是畫猿族的。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這裡描繪著不安的情緒。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一對猿人農民穿得跟人類一樣。奇怪。"}]

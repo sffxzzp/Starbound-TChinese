@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "小岩石"},
+{ "op" : "replace", "path" : "/description", "value" : "由於它的大頭與身體的不協調比例，它不能跑得太遠。"}]

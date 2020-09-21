@@ -1,0 +1,4 @@
+[{"op": "replace","path": "/gui/windowtitle/title","value": "空間站控制檯"},
+{"op": "replace","path": "/gui/windowtitle/subtitle","value": "控制你的空間站系統"},
+{"op": "replace","path": "/gui/lblGravity/value","value": "重力"},
+{"op": "replace","path": "/gui/lblHideExpansionSlots/value","value": "隱藏擴充套件槽"}]

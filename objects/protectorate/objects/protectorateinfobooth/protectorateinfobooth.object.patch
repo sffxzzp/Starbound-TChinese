@@ -1,0 +1,10 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個可靠的資訊來源。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "資訊亭"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "就算我迷路了，我也可以諮詢資訊亭的小姐尋求協助。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "麻美，資訊亭的小姐，超級樂於助人。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "資訊亭小姐儘管是個黏糊糊糊的鮫人，仍然是位友善又樂於助人的女士。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "讚賞。資訊亭的麻美小姐又可愛又熱心腸。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "資訊亭的小姐總是有一些實用的經驗之談。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "在我還是一個懵懵懂懂的新生時，資訊亭的麻美小姐毫不厭煩地為我提供了長期的幫助。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "每當我需要一些友好的幫助時，我都會來這裡。"},
+{ "op" : "replace", "path" : "/chatOptions", "value" : ["歡迎來到大地守護團！和我交談，我會為你提供一些便利的提示。","按下^#71f2f6;[I]^white;來開啟你的物品欄。","按下^#71f2f6;[Q]^white;能讓你丟掉你手頭上的物品！","按下^#71f2f6;[N]^white;切換到檢視模式來檢視物品。","按住^#71f2f6;[Ctrl]^white;來周圍移動你的攝像機，再按一下就復位！","時刻聆聽SAIL的話，你的私人AI助手！","按下^#71f2f6;[Enter]^white;再次檢視SAIL資訊並與隊友聊天。","如果你不知道接下來該幹什麼，就按下^#71f2f6;[J]^white;來檢視你的任務面板。","敲擊^#71f2f6;[空格鍵]^white;來跳躍，按住則可以跳得更高！","我因資訊豐富而被大家所熟識！","按住^#71f2f6;[S]^white;可以下蹲！","按下^#71f2f6;[Q]^white;來丟掉你當前的物品。","使用^#71f2f6;[方向鍵]^white;可以讓你用表情來交流。","記得按下^#71f2f6;[Esc]^white;檢查設定選單以瞭解更多的操作說明！"]}]

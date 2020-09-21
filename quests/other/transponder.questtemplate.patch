@@ -1,0 +1,3 @@
+[{"op": "replace","path": "/title","value": "^orange;你自己的空間站"},
+{"op": "replace","path": "/text","value": "你想部署你自己的空間站嗎？我可以為你製造你自己的^orange;空間站應答器^white;，所需要的只一點資源！\n只要拿^green;50個^orange;鈦錠^white;、^green;50個^orange;金錠^white;、^green;50個^orange;銀錠^white;以及^green;1000個^orange;畫素^green;給我或者其他應答器供應商^white;就行了！"},
+{"op": "replace","path": "/completionText","value": "這是你自己的^orange;空間站應答器^white;！^green;在你的飛船上使用^white;以在當前星系部署一個空間站！"}]

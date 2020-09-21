@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這扇門使用難以置信的堅硬的材料製成，並且是密不透風的。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "月球防爆門"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這扇門是堅固且密不透風的。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一扇以奇怪的角度開啟的門。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "這扇門看起來很重，葉族人不想被壓壓壓扁。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "感興趣。這扇門的門口似乎是傾斜的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "看起來這扇門可以讓在裡面的東西出不去，或者進不來。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這扇門的門口是傾斜的。也許是為了提醒我們應該從不同的角度去看事情。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這好像是一個正常的防爆門，但門口卻是傾斜的。"}]

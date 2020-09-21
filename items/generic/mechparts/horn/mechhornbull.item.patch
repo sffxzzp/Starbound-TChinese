@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "當你可以成為公牛的時候，為什麼僅抓著公牛的角（雙關：喇叭）？"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "公牛機甲喇叭"}]

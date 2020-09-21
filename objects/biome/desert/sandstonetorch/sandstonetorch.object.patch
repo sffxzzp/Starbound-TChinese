@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這個火把跳動著柔和的光。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "砂岩火把"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個火把。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個燃燒中的火把。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "一個燃燒的火把。危險。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "描述。一個普通火把。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一個普通的砂岩火把。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這是一個普通的火把"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這是一個在閃爍的火把。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這貌似是一個獻“身”科學的科學家。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "猿人科學家塑像"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這個科學家死於嘗試改變自己的基因。他被當作所有其它猿人的楷模。科技發展部說這是一個猿人可以獲得的最高榮譽。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個科學家。觀星者時常警告我們關於藏在科學裡面的危險。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "愚愚愚蠢的猿人把身體奉獻給了科學，浪浪浪費了多多多好一塊肉。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "質疑。那個科學家“把身體獻給了科學”？可能他是別無選擇吧？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "顯然那個傢伙把身體獻給了他的事業。高尚還是愚蠢？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "自我犧牲被鮫人視為一種榮譽，前提那是為一份正當事業做出的犧牲。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一個自我犧牲者的雕像。他是自願的嗎？"}]

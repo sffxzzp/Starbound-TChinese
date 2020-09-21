@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一輛壞了的坦克。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "破坦克"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一輛壞了的軍用坦克。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一輛奇怪的載具，似乎被破壞了。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "一一一個金屬盒子。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "警覺。一輛壞了的坦克。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一輛坦克，壞掉了。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一輛軍用載具，我不認為它還能用。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這八九不離十是一輛車。短期內它哪都去不了。"}]

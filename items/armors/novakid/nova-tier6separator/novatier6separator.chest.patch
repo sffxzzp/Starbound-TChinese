@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這件加固過的胸甲可以承受一隻絨山羊的重量。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "牧馬人胸甲"}]

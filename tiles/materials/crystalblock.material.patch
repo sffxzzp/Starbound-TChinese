@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一種由水晶構成的閃閃發光的方塊。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "水晶塊"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "平靜。這個水晶塊有著使人鎮靜的外觀。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "用水水水晶製成的閃閃閃耀的方塊。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這方塊裡的水晶實實在在的。"}]

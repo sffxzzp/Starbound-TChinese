@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "張貼對臭名昭著罪犯賞金的佈告欄！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "賞金板"}]

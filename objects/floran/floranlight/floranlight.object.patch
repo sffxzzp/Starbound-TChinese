@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "莢子裡發出天然的綠光。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "藤壁燈"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一盞詭異的綠燈。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我想知道你們是怎麼控制這些植物燈長在哪裡的。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人的壁燈吸吸吸收太陽的能量。日落之後再緩慢慢慢地釋放出來。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "難忘。這些莢子好像被嚴格地控制了生長。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "綠色的光讓我有點不舒服。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這些燈除了自然之外沒有別的特點。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這些燈很整齊地長在牆壁上。"}]

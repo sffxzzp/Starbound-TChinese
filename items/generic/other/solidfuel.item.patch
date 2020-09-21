@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "開採於衛星的不穩定的晶狀物質，可用來當作引擎燃料。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "能源結晶"}]

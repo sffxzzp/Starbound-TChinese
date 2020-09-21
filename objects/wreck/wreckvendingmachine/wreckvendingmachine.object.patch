@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這個自動售貨機是空的，我猜船員們肯定喜歡蘇打水。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "破舊的自動售貨機"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一箇舊的自動售貨機。任何留在裡頭的食物在很久之前都變質了。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我認為從這個自動售貨機買零食不是明智之舉。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "這個自動售貨機聞聞聞起來有股變質食物的味道。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "驚呆。這個自動售貨機聞起來真噁心。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一箇舊的自動售貨機！變質的食物！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "令人作嘔的氣味來自於裡面變質的食物。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我不會吃任何那裡的東西。"}]

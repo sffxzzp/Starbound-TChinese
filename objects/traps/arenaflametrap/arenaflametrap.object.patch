@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這陷阱能噴出一道點燃敵人的火焰。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "競技場火焰陷阱"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "這些火火火焰讓敵敵敵人更強大！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "驚慌。這些火焰能增強敵人的攻擊力。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "最好避開這些火焰，它們讓敵人變得更強了。"}]

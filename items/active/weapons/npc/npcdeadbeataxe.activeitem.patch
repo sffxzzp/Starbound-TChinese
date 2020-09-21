@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個握柄已經彎曲的平凡斧頭。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "NPC負債人斧"}]

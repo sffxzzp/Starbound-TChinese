@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個發光的球體。看起來裡面有可以存放東西的空間。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "發光球體"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這種植物在發出一種令人不舒服的綠光。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一株發光的植物，球體內是空的。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "球體燈燈燈同時也是一個不錯的容器器器。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "驚訝。這球體完全是一個令人難忘的自然光源。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這小球中存放不了多少東西。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這球體發出的光美得讓人難以忘懷。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "它看起來不咋的，但你永遠不知道里面藏著什麼。"}]

@@ -1,0 +1,6 @@
+[{"op": "replace","path": "/title","value": "^green;不正當的神鷹級飛船升級"},
+{"op": "replace","path": "/text","value": "這張飛船執照是…正當的，大概吧。帶^orange;十個升級模組^green;給企鵝皮特^white;來升級你的飛船。"},
+{"op": "replace","path": "/completionText","value": "我會讓企鵝們完成尼的飛船的最終升級。謝謝尼嘚光顧。"},
+{"op": "replace","path": "/scriptConfig/portraits/questComplete/title","value": "企鵝皮特"},
+{"op": "replace","path": "/scriptConfig/turnInDescription","value": "將^orange;升級模組^reset;送到^orange;前哨站^reset;的^orange;企鵝皮特^reset;那裡。"},
+{"op": "replace","path": "/scriptConfig/conditions/0/description","value": "找到^orange;<itemName>^reset;：^green;<current> / <required>^reset;"}]

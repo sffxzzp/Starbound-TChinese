@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個可以啟動鑄造機械的開關。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "鑄造開關"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個工業機械的開關。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "在廢棄的鑄造廠裡玩弄開關可不是個好想法。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "機械的開開開關。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "客觀。一個工業機械的開關。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "就是某種機械的開關。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這個開關油膩膩的。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一個看著就很笨重的機械開關。"}]

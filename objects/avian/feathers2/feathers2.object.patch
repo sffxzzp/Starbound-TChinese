@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "擺放得像花朵一樣的華麗多彩的羽毛。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "多彩羽毛束"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這是從什麼鳥類身上弄的？這麼大的羽毛不可能是翼族人身上的。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "翼族人使用色彩豔麗的鳥類的翅膀上落下的羽毛裝飾神廟。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人也用羽羽羽毛裝飾。葉族人把羽羽羽毛當作戰利品。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。這些羽毛是從哪種生物身上得來的？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這些羽毛一定是來自於一隻巨大的鳥。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這些羽毛的美麗是毋庸置疑的。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這些羽毛看起來真漂亮。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "作為一種不挑剔的植物，瓦特果在任何環境下都能容易生長。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "瓦特果種子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "瓦特果是一種容易種植的作物。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "瓦特果真是難以啄穿。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "瓦特特特果對葉族人來說真是適合用來吃或踢。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "細心。瓦特果的外皮幾乎和我的一樣硬。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "看著一個瓦特果讓我感到有點怪異。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "瓦特果是堅硬的、不活躍的植物，這有利於它們在惡劣的條件下茁壯生長。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "要我看出像瓦特果這樣的作物有什麼用處真是太難了。"}]

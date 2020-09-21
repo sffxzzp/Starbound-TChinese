@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一塊光滑的金屬牆面板。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "牆板"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "難忘。這些可拆卸的面板又光滑又牢固。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "金屬面板打打打造光滑滑滑的牆壁。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一塊金屬造的面板。"}]

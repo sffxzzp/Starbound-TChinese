@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "終端。可能有用。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "基礎終端"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "某種終端。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "終端。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "嘟嘟叫的終端。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "冷漠。終端。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "終端。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "互動終端。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "僅僅是終端，可能連線到了什麼東西。"}]

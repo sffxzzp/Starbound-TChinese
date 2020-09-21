@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "吸引蠶蛾。蠶生產真絲！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "蠶房"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這個能用來收集真絲纖維，只要你等上足夠長的時間。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我能用這個來收集真絲纖維。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "蠢蠢蠢蛾子，把珍珍珍貴的真絲絲絲纖維留下來。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "自豪。電子人養殖蠶蛾以製作最好的絲綢。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "如此別緻的材料，竟出自於這些小小的蠶蛾，這難道不奇怪麼？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我能用這個收集紡織絲綢所需的真絲纖維，一種最奢侈的材料。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "絲綢對我來說好像有些花俏，但我能賣了它！"}]

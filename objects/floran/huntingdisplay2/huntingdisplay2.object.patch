@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一塊空的飾板。這裡本該放著什麼？"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "空飾板"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "也許這塊飾板在等待一顆頭顱。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一塊等待著戰利品的飾板。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "用來展示葉族人武武武器的狩獵飾板。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "疑惑。這塊飾板的樣子不同尋常，也許是用來展示一把步槍或者一支長矛的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "看上去像是一塊空的狩獵飾板, 可能用來展示一把步槍或一支長矛。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我不敢設想將來某一天這裡會展示什麼東西。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這塊飾板似乎正好可以用來掛上一把步槍。"}]

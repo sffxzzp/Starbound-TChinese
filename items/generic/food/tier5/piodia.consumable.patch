@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "披薩的一個變種，有更多的銅的味道。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "黑暗料理批薩"}]

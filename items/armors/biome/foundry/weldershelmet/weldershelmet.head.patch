@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "當你做焊接工作時，它會提供充分的隔熱保護。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "焊接工之盔"}]

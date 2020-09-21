@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "光管照明燈，用於宇宙飛船。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "船燈"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "燈。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "燈。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "明亮的燈燈燈。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "觀察。燈。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "燈。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "燈。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "就是一些燈。"}]

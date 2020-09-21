@@ -1,0 +1,3 @@
+[{"op": "replace","path": "/title","value": "^green;獵人的臉"},
+{"op": "replace","path": "/text","value": "嗯，看起來葉族人其實對博物館並不感興趣；之前我對努魯談起我的計劃時她問我啥是“薄霧館”…^green;如果你能幫我從葉族村莊或狩獵場帶一個^orange;葉族雕像^white;來，這可能會讓努魯覺得博物館更吸引人一點？"},
+{"op": "replace","path": "/completionText","value": "他還拿著矛—努魯一定會喜歡這個！真不知該怎麼謝你。"}]

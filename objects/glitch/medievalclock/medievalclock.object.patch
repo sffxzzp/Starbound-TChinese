@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個小擺鐘。它雖然滴答作響但指標卻沒有絲毫移動。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "中世紀掛鐘"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個小小的時鐘。鐘擺安靜地晃著。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "它看上去是一種確定時間的裝置。翼族人只需利用太陽就能確定時間。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "嘀，嗒，嘀，嗒。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "同情。這個鐘的時間從來都沒變過。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一個漂亮的小擺鐘。鐘擺雖然在搖擺但時間卻沒有變化"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這個鐘錶似乎壞了，儘管鐘擺仍在晃動…"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這個鐘的時間從未變過。"}]

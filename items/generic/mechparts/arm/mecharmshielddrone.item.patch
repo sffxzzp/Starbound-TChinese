@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "啟動一個可以投射防禦能量盾的無人機。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "護盾無人機機甲臂"}]

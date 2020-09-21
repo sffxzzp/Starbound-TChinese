@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一張歷代大守護者的肖像畫。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "大守護者肖像畫"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這位以往的大守護者可能比他看起來要老多了。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這位年事已高的大守護者的老眼中閃爍著青春的氣息。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "有更多皺紋的胖子。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "平靜。這位大守護者佈滿皺紋的眼裡閃爍著友善的目光。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這位大守護者看起來很年邁了，但他眼中還放出著友善的年輕小夥子般的火花。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這位大守護者已到耄耋之年，但他的眼睛仍透露出年輕人的精神。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這老傢伙身上還殘留著年輕人的痕跡。"}]

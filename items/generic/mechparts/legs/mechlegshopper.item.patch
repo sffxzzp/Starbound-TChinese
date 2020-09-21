@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "為跳躍而設計的一組中等質量的機甲腿。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "料斗機甲腿"}]

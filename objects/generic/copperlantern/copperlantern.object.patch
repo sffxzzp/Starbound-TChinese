@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一盞銅製油提燈。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "銅製油提燈"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一盞以油作為燃料的銅提燈。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "燃料讓這盞提燈保持明亮。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "火焰吞吞吞噬裡面面面的液體。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "觀察。這盞提燈裡面有油。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一盞簡易的銅提燈。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這盞提燈裡的燃料在海里可燒不起來。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一盞銅製的提燈。"}]

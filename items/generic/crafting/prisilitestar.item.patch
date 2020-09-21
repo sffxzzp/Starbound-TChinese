@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這是一個精簡稜鏡之星！銀河系中最棘手一些的東西！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "精簡的稜鏡之星"}]

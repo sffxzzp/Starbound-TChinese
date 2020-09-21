@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "標籤上寫著，\"在暴風雨中，它會依附在樹木上從而不被吹走。\""},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "爆炸瓦斯手辦"}]

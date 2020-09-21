@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這次USCM又代表什麼？"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "USCM標誌"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "USCM的宣傳標誌，一個解散的人類軍事力量。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這塊區域顯然曾經有人類的軍隊存在。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "愚蠢蠢蠢的公示標記。葉葉葉族人會更加謹慎慎地隱藏好自己。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "思考。人類的軍事戰術中涉及了很多虛張聲勢的策略。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "USCM，嗯？這些傢伙不太喜歡大地守護團。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "人類的軍事力量顯然讓他們有了一些存在感。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我沒有聽說過這些人，但是根據這個標誌的狀態，他們已經消亡了有一段時間。"}]

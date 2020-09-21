@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "為可愛寵物而造的可愛狗舍。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "狗舍"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "對猿人來說，這是間奢侈的房子。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "為某隻生物準備的某種小房子。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人躲在房子裡直到生物回來，然後捅捅捅上去！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "快樂。這間狗舍可以給可愛的機器狗做窩。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一間狗舍。現在我只需要有隻可以住進去的狗。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這間簡陋的屋子聞起來一股淋溼的狗的味道。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一間寵物狗舍！邊上有點歪歪曲曲的，但是誰會抱怨呢？"}]

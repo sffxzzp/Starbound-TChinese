@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一副粗糙的木製棺材。幸運的是，沒有人在裡面！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "開拓者棺材"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這副棺材也許並不是最漂亮的，但我想美學在你死後並沒有什麼用。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "傳統的翼族文化會將死者埋葬在比這好得多的棺材裡面。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "這這這個盒子正好可以藏進去。葉族人可以用它來埋埋埋伏…"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "關注。如果你一不小心被鎖進這裡面會怎麼樣呢？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "觸控這個讓我感覺自己被紮了根刺。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這東西是用來埋葬死者的？多麼…糟糕。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這東西給我一種病態的感覺。"}]

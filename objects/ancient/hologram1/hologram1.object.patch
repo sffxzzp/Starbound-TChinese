@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個全息的古老神話場景。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "古代全息圖"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這個全息圖看起來在描述一個古代的影像和行星。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這種描繪方式讓我想起翼神。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "發光的圖片人正在幫助行星。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "觀察。這一幕顯示出一個被保護的行星。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "古代壁畫經常模糊而神秘…"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "全息圖是一種美麗且神秘的對物體的表述方式。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這個老照片顯示出一些奇怪的影像。"}]

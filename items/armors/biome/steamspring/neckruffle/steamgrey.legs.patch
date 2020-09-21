@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這條褲子內縫有內襯，以提供額外的防護及溫暖。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "灰色保暖褲子"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "最好的自動防衛炮臺。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "高科技炮臺"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "隨時準備開火！"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "為了避開炮臺的視線我必須疾走如風。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "這麼亮的激激鐳射。不想被他們看看看見。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "堅定。絕不能淪為他們的靶子。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "自動防衛炮臺。不是什麼好東西。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "讓人想到一些長久的統治。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "冷血無情的自動防衛炮臺。"}]

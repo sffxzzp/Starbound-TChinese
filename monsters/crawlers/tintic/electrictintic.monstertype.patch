@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "電馬口鐵蜘蛛"},
+{ "op" : "replace", "path" : "/description", "value" : "它看上去不需要進食和睡眠…它是一臺機器嗎？"}]

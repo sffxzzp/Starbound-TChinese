@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "從天花板上拉下來的一塊皮革。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "皮革支架"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一小塊拉伸開的皮革。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "看起來像是一塊拉長的皮。我不知道它是幹什麼用的。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人把皮皮皮革掛起來製造出舒服的氣氣氣味。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "疑惑。一塊展開的皮。是用來裝飾的嗎？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "看起來像是一塊展開的皮革。它散發著皮革特有的味道。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "裝飾用的皮…"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "如果我沒有搞錯的話，這看上去像是拉伸開的皮革。"}]

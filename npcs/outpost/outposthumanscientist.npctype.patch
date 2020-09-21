@@ -1,0 +1,3 @@
+[{"op": "replace","path": "/scriptConfig/dialog/converse/default/default","value": ["摧毀地球的東西可能還會襲擊其他世界。我們必須制定一些反擊的手段！"]},
+{"op": "replace","path": "/scriptConfig/dialog/converse/human/default","value": ["摧毀地球的東西可能還會襲擊其他世界。我們必須制定一些反擊的手段！"]},
+{"op": "replace","path": "/scriptConfig/dialog/converse/human/human","value": ["一個倖存者夥伴！你不會恰巧知道有哪些可以對我研究產生幫助的科學家吧？"]}]

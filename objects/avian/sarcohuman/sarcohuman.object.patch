@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "眾所周知、翼族嘗試著把他們的人類同伴一起帶到來世。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "人類木乃伊石棺"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個木乃伊石棺。它是人類形狀的。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "最早的一批探索星空的翼族人與人類結下了深厚的友誼。這是一個把人類也帶去神國的嘗試，以便他們也能獲得翅膀。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "人類的氣氣氣味兒。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "觀察。這木乃伊石棺裡裝著一個人類。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這是人類？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這不是裝著翼族人的木乃伊石棺。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一個人類形狀的木乃伊石棺。裡面是人類的屍體嗎？"}]

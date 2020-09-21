@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這條被鱗片覆蓋的褲子有為腳準備的爪子。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "瀉湖褲子"}]

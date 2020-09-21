@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一種最先進的突擊步槍，為在極端環境中使用而改進。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "等離子突擊步槍"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "大地守護團裡能找到的一條長凳。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "守護團長凳"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一條不錯又實用的長凳。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一條可以坐在上面的長凳。不幸的是，我現在沒空在此逗留。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "一條看起來坐上去會很舒服的長凳。要是葉族人有這個時間就好好好了。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "細心。這是一條用金屬製成的長凳。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一條可以容納好幾個人的長凳。至少三人！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一條寬長凳。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "如果我有時間放鬆下我的雙腿，我就會在這長凳上坐一下。然而我沒空。"}]

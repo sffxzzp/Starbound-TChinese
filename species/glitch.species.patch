@@ -1,0 +1,3 @@
+[{"op": "replace","path": "/charGenTextLabels","value": ["噴漆顏色","頭形","上衣","褲子","燈光顏色","細節顏色","上衣顏色","褲子顏色","電子人","人物性格"]},
+{"op": "replace","path": "/charCreationTooltip/title","value": "電子人"},
+{"op": "replace","path": "/charCreationTooltip/description","value": "電子人是被造出來用以模擬一個文明的。程式中的一個錯誤讓他們在模擬的初期就停止了，所以時至今日還沒有什麼能動搖他們那中世紀的信仰及價值觀。"}]

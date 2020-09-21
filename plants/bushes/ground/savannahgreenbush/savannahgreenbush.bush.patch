@@ -1,0 +1,4 @@
+[{ "op" : "replace", "path" : "/description", "value" : "乾燥的草原灌木。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "脆弱、乾燥的灌木。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "乾燥的灌木。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "陳述。脆弱、乾燥的灌木。"}]

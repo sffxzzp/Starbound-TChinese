@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個控制執行臺。如此精緻，你尊重它，就不要幫助它。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "控制執行臺"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這個控制檯提供了一個很大程度的控制需求。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個高效的控制檯與一個略大的全息介面。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族按下按鈕。使麻煩發生！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "深刻。一個控制檯可以同時控制這麼多不同的機械。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一個控制檯，不玩玩嗎？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這個控制檯有一個圓滑和時尚的設計。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這東西肯定是個有用的，我只想利用它。"}]

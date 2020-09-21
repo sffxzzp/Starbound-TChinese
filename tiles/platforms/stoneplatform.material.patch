@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "石制平臺"},
+{ "op" : "replace", "path" : "/description", "value" : "用石頭雕刻出來的平臺。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "難忘。這平臺使用堅固的石頭雕刻出來的。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "雕成平平平臺的石石石頭。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "要雕刻這些石頭平臺一定花了很長時間。"}]

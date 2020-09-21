@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "可可豆可以用來釀造美味的飲料。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "可可種子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "可可因提供能量的特質而廣受歡迎。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "可可豆看上去是個誘人的禮物，但是苦極了。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "可可使葉族人保持持持清醒。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "沉重。電子人不知道這些苦豆子有什麼好用途。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "可可，人類所知最為神氣活現的植物。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "看破其苦澀的口感後會發現，可可是種很有用的物資。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "可可聞起來不錯，不過我沒發現喝這玩意有什麼有益的副作用。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "曾經，一副這樣的東西可以驅動整艘船。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "損壞的發電機"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這發電機曾可以在工作時會發出大量的電。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個大型發電機。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "奇奇奇怪的壞機器。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "失望。一個損壞的發電機。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "看上去是一艘船的電力裝置。 但現在不能從這獲得一丁點汽油。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這曾經是一個強大的發電機。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這發電機在損壞前一定噴出了一大堆汽油。"}]

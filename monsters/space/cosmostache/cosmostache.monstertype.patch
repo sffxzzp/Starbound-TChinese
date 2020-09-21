@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "宇宙胡"},
+{ "op" : "replace", "path" : "/description", "value" : "一種易怒的生物機械生物。鬍子越長，年齡越大。"}]

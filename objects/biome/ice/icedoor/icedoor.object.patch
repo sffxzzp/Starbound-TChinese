@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一扇冰做的門，不要一直抓著把手不放！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "寒冰門"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一扇冰做的門，我能看到我的倒影。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "站在這扇門太久使我顫抖。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族沒看看看到門，直直的向它跑去。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "分析。這冰是分層的，令到這門很難打破。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一個凍住的門。摸上去好冷。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這冰冷的門是製作的很好。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "是誰的主意去造這些可熔的傢俱？我猜是真的傢俱太貴？"}]

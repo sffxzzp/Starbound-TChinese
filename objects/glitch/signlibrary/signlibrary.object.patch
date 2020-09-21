@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一塊圖書館招牌。一條通往知識寶庫的康莊大道！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "圖書館招牌"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這棟建築肯定是一座圖書館。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一本書？這裡應該是一座圖書館。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "讀書書書的地方。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "愉快。圖書館的招牌。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一塊圖書館招牌。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "嗯，一塊熟悉的圖書館招牌。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "書。這兒應該是圖書館。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個銅製的堅固存貨箱。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "銅箱子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個堅固的銅存貨箱。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個銅製的存貨箱。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "金屬做的堅堅堅固箱子。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "滿意。這箱子的設計很傳統，但是是用銅製造的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一個銅箱子。我敢打賭這箱子不裝任何東西都很重。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一個用銅打造的堅固箱子。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我估計這個箱子堅固得足以裝任何東西。"}]

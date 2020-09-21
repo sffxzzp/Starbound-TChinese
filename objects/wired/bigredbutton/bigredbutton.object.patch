@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "超級想…按下…去！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "紅色大按鈕"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "站到這上面或許會觸發某些事情。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個巨大的紅色按鈕。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "絕絕絕對要按下這個按鈕！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "牴觸。腦海裡滿是想按下按鈕的衝動。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我怎能不去按下這個按鈕呢？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我能理解那些透露出渴望按下按鈕之情的人。但是你一定要學會控制自己，駕馭你自己的慾望。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "嗯我就要按下這個按鈕了！"}]

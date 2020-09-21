@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個美麗的紅色晶洞。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "紅色晶洞樣本"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "晶洞是種迷人的岩石形態！"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個波光粼粼的晶洞，真漂亮！"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "真漂亮，閃閃閃閃發亮的石頭。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "開心。啊哈，可愛的晶洞。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "無趣的外表下是迷人的內在。就和我一樣！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "晶洞內潛藏著可愛的秘密。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這石頭內部有另一種東西。"}]

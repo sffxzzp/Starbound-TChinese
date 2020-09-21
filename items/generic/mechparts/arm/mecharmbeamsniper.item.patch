@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一種以恆星能驅動的，能發出高速移動光束的機甲臂。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "光束狙擊手機甲臂"}]

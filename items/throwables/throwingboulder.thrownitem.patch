@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "可投擲的巨石"},
+{ "op" : "replace", "path" : "/description", "value" : "在戰鬥中很有用，或者只是拿來顯擺的。"}]

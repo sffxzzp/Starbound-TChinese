@@ -1,0 +1,2 @@
+[{"op": "replace","path": "/bookmarkName","value": "前哨站—方舟遺蹟"},
+{"op": "replace","path": "/destinations/0/name","value": "傳送至飛船"}]

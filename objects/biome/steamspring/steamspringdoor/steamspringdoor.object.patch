@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一扇使用銅管框架的結實木門。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "蒸汽彈簧門"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "我好奇這扇門裡的銅管是否能讓它變得更堅固？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "門上的銅管確實讓這扇門變得與眾不同。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人想想想知道這扇門是否具有戰術用用用途？"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "滿意。一扇看起來很堅固的門。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這扇門真的需要它上面的那些銅管嗎？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一扇可以接受的門，上面有某種銅管結構。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這正是那種我認為能在警長家看見的門。"}]

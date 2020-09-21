@@ -1,0 +1,9 @@
+[{"op": "replace","path": "/title","value": "規飯"},
+{"op": "replace","path": "/description","value": "葉族狩獵規範"},
+{"op": "replace","path": "/contentPages","value": [
+"狩獵的規飯：
+
+湊別的葉族人
+殺大的獵物
+贏下閃閃的戰利品"
+]}]

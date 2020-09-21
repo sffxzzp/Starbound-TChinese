@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個儲物櫃。何不存點東西進去？"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "飛船儲物櫃"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "翼人儲物櫃。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個儲物櫃，儲藏很多有用的東西。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "儲儲儲物櫃。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "冷淡。翼人儲物櫃。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一個翼人儲物櫃。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "儲藏。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一個儲物櫃，用來放東西。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "藍色霓虹燈標誌"},
+{ "op" : "replace", "path" : "/description", "value" : "上面寫的好像是‘氣泡’…"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個寫著‘氣泡’的標誌。那很不錯啊，我覺得。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我甚至猶豫是否要去其所指的方向。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "嗡嗡響的標標標誌吵到葉族人了。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "挖苦。一個簡單地寫著‘氣泡’的標誌。多麼有用啊！"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我覺得這個標誌更多地只是裝飾用罷。我不明白這樣能推廣啥。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "氣泡。美麗而藏含生命的珠子浮向遼闊的穹頂。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "有人真的很喜歡泡泡。"}]

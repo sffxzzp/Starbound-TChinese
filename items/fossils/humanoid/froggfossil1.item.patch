@@ -1,0 +1,4 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個蛙人的頭骨化石。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "蛙人頭骨"},
+{ "op" : "replace", "path" : "/completeSetDescriptions/shortdescription", "value" : "蛙人化石"},
+{ "op" : "replace", "path" : "/completeSetDescriptions/description", "value" : "一個很好的蛙人化石例子。"}]

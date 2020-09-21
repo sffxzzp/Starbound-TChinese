@@ -1,0 +1,3 @@
+[{"op": "replace","path": "/scriptConfig/dialog/converse/default/default","value": ["自誇。比起你們在這裡所見到的玩意兒，我們電子人已經熟悉修理更復雜的機械。"]},
+{"op": "replace","path": "/scriptConfig/dialog/converse/glitch/default","value": ["自誇。比起你們在這裡所見到的玩意兒，我們電子人已經熟悉修理更復雜的機械。"]},
+{"op": "replace","path": "/scriptConfig/dialog/converse/glitch/glitch","value": ["友好。你修東西的水平如何？"]}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "海報"},
+{ "op" : "replace", "path" : "/description", "value" : "一張復古的海報。"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一張印著我從沒看過的電影的復古海報。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這是一張極具戲劇性的電影海報。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "太太太空飛船電影！葉族人看看看過五次了。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "無聊。人們還在關注這部老電影？就我個人所言，我沒喜歡過。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "嗯，這部老電影。很經典。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一張印著老電影宣傳的海報。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我從沒看過這部電影，但這張海報看起來還挺酷。"}]

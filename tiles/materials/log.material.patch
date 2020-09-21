@@ -1,0 +1,5 @@
+[{"op": "replace","path": "/shortdescription","value": "原木"},
+{"op": "replace","path": "/description","value": "一塊原木。適合建一些結構簡單的東西。"},
+{"op": "replace","path": "/glitchDescription","value": "難忘。這些原木能夠緊密組合在一起，且是特別實用的建築材料。"},
+{"op": "replace","path": "/floranDescription","value": "葉族人喜喜喜歡原木牆壁壁壁。"},
+{"op": "replace","path": "/novakidDescription","value": "小屋裡不常見到這樣子橫放的原木。"}]

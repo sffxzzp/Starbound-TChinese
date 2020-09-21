@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "自這些噴氣孔中釋放的氣體能增加你的身體力量。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "強韌氣體噴射器"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這機器好像能透過讓氣體接觸人體來增幅力量。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這氣體有著刺激性的味道，它讓我感覺不可思議的精力充沛。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "氣氣氣體讓葉族人感覺很強壯！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "懷疑。這氣體好像有著增強力量的效能。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "只要一點點這種氣體，就足以讓我變得很強壯。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一種能夠增強你的身體和意志的惡臭氣體。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這種氣體好像能夠增強我的力量。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "可以孵化出脆弱的冰系蓬蓬牛犢－發育完全後會成為低溫提取物的不錯來源。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "冰系蓬蓬牛蛋"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "蛋裡有個冰系蓬蓬牛。當他長大的時候會產出低溫提取物。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一枚冰系蓬蓬牛蛋。冰系蓬蓬牛是一種家畜――會產出低溫提取物。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "裡裡裡面有個毛茸茸的冰系蓬蓬牛寶寶！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "著迷。蛋裡有隻冰系蓬蓬牛！這種毛茸茸的可愛家畜會產出低溫提取物。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一枚冷冰冰的蛋－裡面有隻冰系蓬蓬牛！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "卵中的牛犢總有一天會長大成為一隻成年冰系蓬蓬牛。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這枚蛋裡有一隻冰系蓬蓬牛。這種生物會讓你手頭有點緊，但是會在產出時回報你。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "有點電子人超現實主義。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "畫素的永恆"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一幅奇怪的畫。它看起來像在描述了時間的死亡。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這好像描述了熔化有問題的時間閱讀器的選擇。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族不理解解解奇奇奇怪的畫。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "推理。我認為電子人在潛意識中已經意識到他們的狀況。也許那種意識就是這幅畫想表達的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "融化的時鐘。為什麼電子人會畫這個？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "超現實主義藝術。要是能問問藝術家本人就好了。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "能讓這些表都熔化，這一定很熱。"}]

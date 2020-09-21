@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個‘與’邏輯閘。需要所有的輸入同時為‘1’才能運作。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "鑄造與門"}]

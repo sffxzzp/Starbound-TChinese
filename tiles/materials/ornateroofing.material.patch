@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/description", "value" : "傳統風格的華麗的屋頂。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "華麗的屋頂"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "難忘。這些屋頂彷彿在演奏著一首結構之曲。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "華麗的屋頂真真真好看。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我過去不常見過這種，不過好看的屋頂看起來都差不多。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "請你裝作是這個驚悚棺木裡的亡靈食屍鬼！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "哥特式床"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "科技發展部肯定會認為埋葬屍體是一種浪費…"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "被埋葬在這種東西里面是不會平息克魯西斯的憤怒的。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "這是是是用來埋那些超好好好吃的肉塊的嗎？"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "不適。這個棺木床給我一種不祥的預感。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "哈，這種地方擺著一個這種東西一點都不奇怪。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "鮫人比較不願意住在這種令人毛骨悚然的東西里。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "讓我感覺自己正處於殯儀館中，或類似的其他地方。"}]

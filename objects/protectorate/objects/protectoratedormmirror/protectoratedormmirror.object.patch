@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "來自守護團學院的浴室鏡。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "守護團浴室鏡"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個配備鏡子的洗手盆。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這是個洗手盆。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "用來洗手或是用來飛飛飛濺的淨水。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "羨慕。有一些學生在這裡刷牙。我則有時在這擦亮我的下巴。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我沒空刷牙了！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "有時我來這裡就只是開啟水龍頭。聆聽那平緩人心的水流聲。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一個配了個鏡子的洗手盆。"}]

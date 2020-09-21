@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "它看起來像是古代萬聖節的糖果，但每個糖中間確實都有玉米。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "糖果玉米"}]

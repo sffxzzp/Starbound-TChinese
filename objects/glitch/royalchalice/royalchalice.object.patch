@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "皇家酒杯，皇家嘴喝皇家酒。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "皇家酒杯"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個金酒杯。杯底兒還有一滴酒。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個沉重的金盃。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人用骨頭做酒杯，肉味兒的。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "羨慕。一個純金酒杯。皇室貴族的奢侈餐具。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "閃亮的金色酒杯。可能很值錢。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "不必要的奢侈。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "金子是用來花的，不是拿來做成酒杯的。"}]

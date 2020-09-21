@@ -1,0 +1,3 @@
+[{"op":"replace","path":"/title","value":"^green;我可以的！"},
+{"op":"replace","path":"/text","value":"為了種植東西，我需要保持土壤溼潤。我應該^orange;製作一個木製噴壺^white;。"},
+{"op":"replace","path":"/completionText","value":"很好！用這個水壺和一個鋤頭我就可以準備開始種田了！"}]

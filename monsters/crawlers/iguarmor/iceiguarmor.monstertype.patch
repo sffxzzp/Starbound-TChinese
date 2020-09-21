@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "冰武裝蜥蜴"},
+{ "op" : "replace", "path" : "/description", "value" : "武裝蜥蜴並不是一種攻擊性很強的生物，但是它尾巴上的刺可以造成可觀的傷害。"}]

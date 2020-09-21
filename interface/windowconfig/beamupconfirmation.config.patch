@@ -1,0 +1,5 @@
+[{"op": "replace","path": "/title","value": "退出任務"},
+{"op": "replace","path": "/subtitle","value": "傳送回你的飛船"},
+{"op": "replace","path": "/message","value": "離開這個任務將重設你在這個區域的進度。你確定要開始傳送？"},
+{"op": "replace","path": "/okCaption","value": "確認"},
+{"op": "replace","path": "/cancelCaption","value": "取消"}]

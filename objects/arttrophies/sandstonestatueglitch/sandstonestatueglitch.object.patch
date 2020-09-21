@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個電子人雕像，它沒有任何知覺。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "電子人砂岩雕像"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個電子人。這些傢伙在我看來長得都一樣。"},
+{ "op" : "replace", "path" : "/genericDescription", "value" : "一個電子人雕像。我懷疑這是不是個很重要的人。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "石石石頭做的機器人。葉族人覺得機器人看起來真蠢蠢蠢。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "描述。這座雕像描繪了在自我意識開始改變自己前的第一代電子人模型。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我一直想要一個電子人助理。這個雕像是第二想要的。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一個電子人。 他們的人造面容會永遠這麼難看。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "那麼誰會計劃並製作一個砂岩做的金屬人？"}]

@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "標籤上寫著，\"儘管表現的很友好，但與其他皮普金的交流是很少見的。\""},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "皮普金手辦"}]

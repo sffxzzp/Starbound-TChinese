@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "願我們永遠遵從他的旨意。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "大猿人十字繡"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "十字繡是少數幾個猿人允許擁有的愛好之一。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "靈巧的手指才能創造出這些。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人對編織很在行。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "沉思。猿人做這些東西幹嘛？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我真心希望猿人們不是被逼著做這些的。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "猿人們在祈求保佑他們什麼？我很好奇。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這個需要花時間做點犧牲才能做得出來。"}]

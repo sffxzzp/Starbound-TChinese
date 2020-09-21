@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個微微閃爍的神秘有機火炬。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "有機火炬"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個由有機物質製成的火炬。莫名其妙！"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個用看起來活著的材料做成的壁掛光源。這究竟是怎麼做到的？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "神神神秘的肉肉燈。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "驚慌。一個火炬怎麼可能是活著的，像這樣？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這火炬是怎麼製作的？究竟是什麼材料做出來的？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這火炬看起來充滿生命力，到底是如何變成這樣呢？"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我並不想仔細探究這種壁燈。它看起來莫名其妙地還活著！"}]

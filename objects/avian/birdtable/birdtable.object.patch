@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一張典型翼族風格的石桌。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "寺廟桌"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一張石桌。裝飾著圖案和雕刻。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "神廟的守衛們在這張桌子上吃飯。上面的雕刻表達了對克魯西斯的恩賜的感激之情。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "桌子上滿是鳥人雕刻。桌面留有食物的汙汙汙漬。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "觀察。桌子上沾著各種食物的殘渣。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一張石桌，根據它的磨損痕跡來判斷，這也許是一張餐桌。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "桌子上的雕刻很精美，但令人傷心的是它沒有被好好照料。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一張石桌。我估計要移動它可並不容易。"}]

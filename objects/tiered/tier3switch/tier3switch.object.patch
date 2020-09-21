@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個鈦制的控制檯。按下所有的按鈕！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "鈦控制檯"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這個控制檯提供了很大程度的控制。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個好用的控制檯。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人按下按鈕。搞出事事事！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "難忘。一個簡單的控制檯就能同時控制那麼多不同的機械。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一個控制檯。就是為了玩弄它而準備。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一個控制檯。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "某種控制檯，我就只會去按下幾個按鈕…"}]

@@ -1,0 +1,1 @@
+[{"op": "replace","path": "/scriptConfig/generatedText/text/default","value": ["我們需要你去<coordinate.name>， 逮捕一些幹些小偷小摸的勾當的傢伙，他叫做^orange;<bounty.name>^reset;。\n\n他們規模並不大，所以應該不會給你帶來太多麻煩。\n\n—獎勵—\n抓獲：^yellow;<rewards.money>^reset;畫素，+<rewards.rank>等級"]}]

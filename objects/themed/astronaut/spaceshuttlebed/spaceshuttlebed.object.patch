@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "該床的設計是源於一箇舊的太空梭。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "太空梭床"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "要是駕駛這個飛船去遊覽太空，心中總會隱隱不安。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "人類歷史的一小部分。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "人類類類用這些來翱翔。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "驕傲。人類創造了一個多麼漫長的科技道路。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這是一個很好的歷史記憶，以讓我們永遠記住我們的發源地。當然，太空梭外貌的床也是一個不錯的主意。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "鮫人早期有自己的太空旅行設施。只是我們不整理他們的床。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "好了，看這兒。一個古老的傑作。"}]

@@ -1,0 +1,4 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個怪誕的觸手。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "一個怪誕的觸手。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "可疑的手臂。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "嚇壞了。一個怪誕的觸手。"}]

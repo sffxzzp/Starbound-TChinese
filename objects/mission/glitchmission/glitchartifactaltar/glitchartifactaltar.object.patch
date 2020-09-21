@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "它看起來像是用來放什麼重要的東西的。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "電子人神器祭壇"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "裝滿熔融液體的密封罐子。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "小型熔岩罐"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這罐子噴出煙雲。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這罐子裡全是滾燙的液體。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "罐子裝裝裝著燃熔岩。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "高興。這種罐子散發來自內部熔岩液的溫暖。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這種罐子被設計用於利用內部熔岩的能量。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "有毒雲自罐中來。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這種罐子正在噴出煙雲。"}]

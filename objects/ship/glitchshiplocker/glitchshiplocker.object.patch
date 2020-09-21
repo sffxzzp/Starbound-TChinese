@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個儲物櫃。何不存點東西進去？"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "飛船儲物櫃"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "電子人儲物櫃。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "飛船的儲物櫃。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "電子人在這儲儲儲存貨物。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "滿意。很不錯的電子人儲物櫃。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "存放貴重物品的好地方。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這讓我想起了一句古老的鮫人格言：“勿忘藏物之處。”"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一個儲物櫃，用來放東西。"}]

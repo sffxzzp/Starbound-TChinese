@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一坨生鏽的灌木，小心它們那銳利的邊緣。"},
+{"op":"replace","path":"/shortdescription","value":"生鏽的灌木"},
+{"op":"replace","path":"/apexDescription","value":"這灌木叢被鐵鏽覆蓋。"},
+{"op":"replace","path":"/avianDescription","value":"一坨被腐蝕的生鏽灌木。"},
+{"op":"replace","path":"/floranDescription","value":"葉族不喜歡發臭的生鏽灌木。"},
+{"op":"replace","path":"/glitchDescription","value":"（緊張）鐵鏽讓我感到頭暈。"},
+{"op":"replace","path":"/humanDescription","value":"一坨生鏽的灌木。現在我能看到一切。"},
+{"op":"replace","path":"/hylotlDescription","value":"這個灌木生鏽了且不好去觀察。"}]

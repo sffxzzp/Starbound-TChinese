@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "帶有內建監視器的辦公桌。看起來好像有人曾在這裡寫一些編碼。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "金屬辦公桌"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這張辦公桌有一個內建監視器。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這個監視器讓辦公桌看起來好像長了一雙眼睛。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "帶屏屏螢幕的桌子子子。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "諷刺。這種內建電子產品的品質經常比同類的獨立部件要更低劣，當然電子人的除外。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "顯示器被鑲嵌在了桌子裡。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "內建的監視器，一個結合技術性與舒適性的智慧結晶。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一塊螢幕固定在了桌子上。"}]

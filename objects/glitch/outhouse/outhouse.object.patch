@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個廁所！盡情享受吧！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "廁所"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個廁所。我想我需要上個廁所。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個破舊的廁所。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人喜歡又臭又小的房子。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "嫌棄。這個建築含有不可估量數量的細菌。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "你過去喜歡在音樂節的時候找廁所。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一個奇醜無比的廁所。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我有一種這不僅僅只是一個廁所的感覺。"}]

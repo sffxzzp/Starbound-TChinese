@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個街燈，有三倍的亮度。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "三頭街燈"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個巨集偉的街燈。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "在暗巷裡這個再合適不過了。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "就像空中有三個月月月亮一樣亮。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "感激。我很感激這裡有額外的照明。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "三個燈有必要嗎？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "三盞燈，令人想起神話中九頭蛇的三個頭。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "幸運數字3。"}]

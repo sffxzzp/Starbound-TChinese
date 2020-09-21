@@ -1,0 +1,3 @@
+[{"op": "replace","path": "/charGenTextLabels","value": ["膚色","枝葉","上衣","褲子","葉子顏色","花的顏色","上衣顏色","褲子顏色","葉族","人物性格"]},
+{"op": "replace","path": "/charCreationTooltip/title","value": "葉族"},
+{"op": "replace","path": "/charCreationTooltip/description","value": "別被他們和平的外表所欺騙！整個宇宙都知道葉族具有攻擊性，是肉食性的獵人。而自身沒有創造性，他們習慣於從他們攻擊的人那偷取並適應新技術。"}]

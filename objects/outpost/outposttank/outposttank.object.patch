@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "不知道拿去幹什麼的罐子。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "大型金屬罐"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "神秘的罐子。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我想知道罐子裡有什麼。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人想知道罐子裡可能有什麼。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "困惑。我不清楚罐子裡儲存了什麼。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "奇怪的罐子。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "難看的罐子。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "罐子。但是我不知道里面可能有什麼。"}]

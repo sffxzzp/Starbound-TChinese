@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "標籤上寫著：“一臺實驗用的企鵝機甲，揮舞著裝有火焰噴射器的手臂和氣動拳頭。”"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "激鬥機甲MK I手辦"}]

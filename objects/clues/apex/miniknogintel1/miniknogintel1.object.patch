@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一塊迴圈顯示科技發展部據點資訊的螢幕。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "科技發展部資訊屏"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這塊顯示器顯示各種關於科技發展部據點的資訊。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這塊螢幕顯示了一些關於猿人政治據點的資訊。這是大猿人的臉嗎？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "顯示字字字和圖圖圖片的玻璃。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "著迷。這塊螢幕迴圈顯示猿人軍事基地的資訊。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這塊螢幕迴圈顯示大量科技發展部的資訊－它還有一張大猿人的大臉！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這塊螢幕的冷藍字描述了科技發展部的寶貴資訊。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這塊螢幕上有一些軍事情報和一顆行星。很齊整。"}]

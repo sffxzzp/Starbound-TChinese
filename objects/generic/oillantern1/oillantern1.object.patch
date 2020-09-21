@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一盞漂亮的油燈。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "油燈"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一盞以油作為燃料的燈。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "燃料使火焰燃燒。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "火焰吞吞吞噬裡裡裡面的液體。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "滿足。燈裡面有油。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一盞漂亮的油燈。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這燈裡面的燃料不會在海中燃燒。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一盞漂亮的油燈。"}]

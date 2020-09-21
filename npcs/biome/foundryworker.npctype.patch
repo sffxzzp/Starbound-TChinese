@@ -1,0 +1,4 @@
+[{"op": "replace","path": "/scriptConfig/dialog/converse/default/default","value": ["這裡太熱了，我護目鏡上佈滿水汽！","這裡的樹木全是一種可再生有機金屬礦！對鑄造廠來說這地方多棒！","你不喜歡這的氣味麼？這味道就像烤焦的吐司。"]},
+{"op": "replace","path": "/scriptConfig/dialog/converse/apex/default","value": ["這鑄造廠對居住來說太熱了，但是比活在科技發展部的統治下強多了。","我希望大猿人不會找到這。","這星球對我們這種毛皮生物甚至更熱。"]},
+{"op": "replace","path": "/scriptConfig/dialog/converse/avian/default","value": ["在這地方工作我的羽毛都快燒焦了…","這溫度！我快烤熟了。","只有最吃苦耐勞的工人才能忍受在這種星球上工作。"]},
+{"op": "replace","path": "/scriptConfig/dialog/converse/glitch/default","value": ["筋疲力盡。鑄造工作是艱苦的工作！","勞累。我一直在這努力工作。我幾乎達到熔點！","熱切。電子人的工作永遠做不完！","疲勞。我的輪班還沒結束！"]}]

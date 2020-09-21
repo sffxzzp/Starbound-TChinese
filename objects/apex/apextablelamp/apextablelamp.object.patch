@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這個奇怪的燈發出淡淡的綠光。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "綠色燈柱艙"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這些燈是科技發展部在我小時候發放的。很多猿人家裡都有。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這個裝置發著不自然的綠光。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "綠光讓葉族回憶起了家鄉。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "留心。這個物體看起來會從附近的有機生命體上搜集生物資訊。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "作為一盞燈這玩意兒太重了。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我相信照明不是這個裝置的真實用途。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一盞怪怪的綠燈。"}]

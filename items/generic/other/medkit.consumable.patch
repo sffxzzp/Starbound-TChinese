@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "在10秒內恢復100點生命值，同時能治癒絕大部分負面狀態。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "醫療包"}]

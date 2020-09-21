@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一種分發原料的吊艙。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "分發艙"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這個吊艙分發可以用來製作的材料。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "免費的鍛造材料。不錯。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "這機器對著葉族人吐出鍛造材料。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。一個提供免費材料的機器！"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這就像一個扭蛋機，但十分有用！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一個提供基本材料的吊艙。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個‘異或’邏輯閘。當其中只有一個是‘1’的時候會輸出訊號。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "鑄造異或門"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個‘異或’邏輯閘。當其中只有一個是‘1’的時候會輸出訊號。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個‘異或’邏輯閘。當其中只有一個是‘1’的時候會輸出訊號。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "一個‘異或’邏邏邏輯閘。當其中只有一個是‘1’的時候會輸出訊號。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "牢記。一個‘異或’邏輯閘。當其中只有一個是‘1’的時候會輸出訊號。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一個‘異或’邏輯閘。當其中只有一個是‘1’的時候會輸出訊號。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一個‘異或’邏輯閘。當其中只有一個是‘1’的時候會輸出訊號。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一個‘異或’邏輯閘。當其中只有一個是‘1’的時候會輸出訊號。"}]

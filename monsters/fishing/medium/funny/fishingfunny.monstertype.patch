@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "小丑魚"},
+{ "op" : "replace", "path" : "/description", "value" : "它總認為自己詼諧幽默，然而事實並非如此。"}]

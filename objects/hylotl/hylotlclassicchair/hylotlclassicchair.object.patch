@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個高檔木製椅子，是專門為重要人物設計的。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "傳統華麗椅子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個得體的椅子。不錯！"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這個椅子挺不錯的，但我不明白為什麼它只給貴客用。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "為什麼麼麼這個椅子這麼華麗？"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "讚歎。這個椅子是精心雕刻的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "差不多還能在上面坐一小會。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "如此令人驚歎的椅子只提供給最尊貴的人使用。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "椅子不錯，我必須承認。"}]

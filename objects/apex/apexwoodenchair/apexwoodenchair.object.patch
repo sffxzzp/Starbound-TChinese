@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一張普通的木質餐椅。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "標配木椅"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這些簡單的椅子是大規模製作的。我曾看到一張椅子框上刻有“救救我們”的字樣。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這椅子的腿搖搖晃晃的。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人能做更好的椅子，大大大師級的。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "強迫症。一條腿凳比其它三條長了三毫米。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一個不舒服的搖搖晃晃的椅子。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這不是愛的產物。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一張單純用來坐的椅子。"}]

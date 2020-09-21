@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個老舊的，手工雕刻的搖椅。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "小木屋搖椅"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "我想我更願意我的傢俱是靜止不動的。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "手工雕刻的傢俱！這我可以鑑賞出來。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人喜歡歡歡彎彎的椅子散發的木料氣息。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "擔心。坐在一個會搖晃的椅子上一定會很暈。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "讓我不禁想要一邊彈著班卓琴一邊坐在上面來回搖晃。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這是我見過最好的木椅之一。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "搖啊搖的椅子―我認為這比那些普通的椅子高不知道哪裡去了。"}]

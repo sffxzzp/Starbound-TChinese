@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個金屬炸藥桶。看起來很危險。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "炸藥桶"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個金屬炸藥桶。我得保持距離了。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "爆炸物的容器。我不能藏到這裡面去。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "標誌上看看看起來像是火，葉族人要保保保持距離。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "警覺。這個桶的標誌警告說桶裡有烈性炸藥。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這前面貼著的爆炸物標誌，暗示著我最好不要開啟這個。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "看起來像是一個充滿炸藥的金屬桶。這就是把它封閉起來的原因。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "看起來像是新型炸彈，桶型的。"}]

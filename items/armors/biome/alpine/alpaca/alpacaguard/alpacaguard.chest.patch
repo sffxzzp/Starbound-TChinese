@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "羊駝守衛穿著的重型防護甲。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "真羊駝守衛軀幹"}]

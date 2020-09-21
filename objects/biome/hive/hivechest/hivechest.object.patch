@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個看起來很惡劣的箱子。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "蜂巢箱"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個惡劣的箱子。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這箱子的聲音讓我脊樑骨發涼。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人想吃掉箱子。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "厭惡。一個肉質的、搏動的箱子。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一個血肉構成的惡劣的箱子。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這箱子真是太討厭了。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這不是個很誘人的箱子，但我還是想看看裝有什麼。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這個傳送器會把你帶回你來的地方。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "返回傳送器"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這會讓我很容易脫身。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我可以用這個出去！"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "傳送器讓讓葉族出去。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "鬆了一口氣。這個傳送器允許我返回。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "當我準備好回來的時候，就可以用這個了。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "有用的快速返回的方法。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一個出去的方便方法，然後繼續下一次冒險！"}]

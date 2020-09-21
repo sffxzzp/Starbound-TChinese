@@ -1,0 +1,4 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個自然的熔岩碗。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "一個自然的熔岩碗。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "燃燒的熱液體。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "陳述。一個自然的熔岩碗。"}]

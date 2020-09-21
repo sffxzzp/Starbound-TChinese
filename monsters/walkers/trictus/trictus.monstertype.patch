@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "鼴鼠仙人掌"},
+{ "op" : "replace", "path" : "/description", "value" : "它只需要吸收從地底下挖掘發現的少量水分就可以存活。"}]

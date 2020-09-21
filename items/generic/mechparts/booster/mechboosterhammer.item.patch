@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一組大型推進器，犧牲了速度來提高控制力。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "鐵錘機甲推進器"}]

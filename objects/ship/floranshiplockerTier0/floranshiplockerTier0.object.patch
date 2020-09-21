@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個儲物櫃。何不存點東西進去？"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "飛船儲物櫃"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個壞掉的儲物系統。絕對不是葉族人發明的。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "壞掉的儲物櫃。我不相信葉族人制造了這個。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "當它被修好的時候，葉族人為了探索宇宇宇宙會在這存存存放很多有有有用的東西。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "煩惱。這艘船的儲物系統失靈了。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一個儲物櫃。它看上去無法正常使用。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "儲藏間。它現在未被供能。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一個儲物櫃。修好之前沒法用。"}]

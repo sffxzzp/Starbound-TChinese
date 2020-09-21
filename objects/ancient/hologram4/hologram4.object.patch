@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個全息的古老神話場景。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "古代全息圖"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "六個種族，各有一個隱含有意義的物品。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這表明，六個種族，各有一個隱含有意義的物品。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族是最最最好的種族！捅捅捅其他人！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "細心。一個描述六個種族的宇宙。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "嘿，看，那頂部有一個人類！我們真行啊！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我想知道這六個種族的重要性？"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "六個種族，擁有一些東西。為什麼我的種族不在這裡？"}]

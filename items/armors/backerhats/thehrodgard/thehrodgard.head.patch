@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個傳說中的矮人戴過的頭盔，霍徳加徳。它是用石頭做的。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "霍徳加徳"}]

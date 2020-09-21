@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "機甲灣背景"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "機甲灣背景"}]

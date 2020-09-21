@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一扇適用於飛船的門。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "翼族人飛船門"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "我們所有的飛船都使用這種門。但這個好像出了點問題。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一扇門。打不開。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "門打不開！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "失望。一扇門。現在看來是打不開它了。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "很酷的門。但是打不開它真是糟透了。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "基本的門。此刻的它無法被開啟。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這扇門壞了。它似乎不再能被打開了。"}]

@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "輕便結實的護腿，鼓勵著戰士們要疾行。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "海護腿"}]

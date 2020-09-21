@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這把菲洛法杖可以在一個可觀的距離內彙集能量。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "菲洛權杖"}]

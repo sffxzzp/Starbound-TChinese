@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一種陳舊生鏽的金屬塊。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "生鏽塊"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "驚悸。這種生鏽的廢棄金屬飽受了風化與磨損。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "生生生鏽的金屬方方方塊。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這個金屬看起來生鏽得很嚴重。"}]

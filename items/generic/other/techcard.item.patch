@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一張空白的科技卡。如果我能收集一些的話就可以使用更高階的科技了。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "科技卡"}]

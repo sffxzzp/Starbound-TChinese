@@ -1,0 +1,6 @@
+[{"op": "replace","path": "/scriptConfig/dialog/converse/apex/default","value": ["我是一名藝術商人。你有這方面的修養嗎？","我名聲在外，大猿人也和我有交情。","我的同類們放任自己過著骯髒的生活。多麼可憐。"]},
+{"op": "replace","path": "/scriptConfig/dialog/converse/human/default","value": ["地球已經完了，許多優秀的藝術品也伴隨著它一起消失了！","在我訪問過的所有設施之中，我是最精於穿衣之道的人！","我是你見過的人裡衣服穿得最美的，不是嗎？"]},
+{"op": "replace","path": "/scriptConfig/dialog/converse/floran/default","value": ["戴著這這這頂假髮，葉族人總是被人關注的焦點。","當葉族人戴戴戴假髮的時候，人們和葉族人說話。葉族人不知道為什麼。","葉族人一旦戴戴戴上這頂假髮，每個人都覺得葉族人漂亮。"]},
+{"op": "replace","path": "/scriptConfig/dialog/converse/avian/default","value": ["我不喜歡羽毛裝飾的頭盔包括它的外觀，這個更適合我。","這頂假髮讓我發癢…但我感覺很高貴！","這非常不舒服。但我喜歡被別人注意！"]},
+{"op": "replace","path": "/scriptConfig/dialog/converse/hylotl/default","value": ["我感興趣的只有最好的藝術。","讓自己舒服的同時必須保持儘可能的優雅。","鮫人在教養方面是最頂尖的，而我是其中最棒的。"]},
+{"op": "replace","path": "/scriptConfig/dialog/converse/glitch/default","value": ["不屑。滾開，我正在練習傲慢地笑！","高興。當我戴上這假髮，人們都覺得我很有錢！","愉悅。人們盯著戴上假髮的我，一定是因為我戴上它非常漂亮。"]}]

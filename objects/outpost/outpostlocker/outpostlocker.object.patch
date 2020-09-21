@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "未知主人的儲物櫃。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "基礎金屬櫃"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這是誰的儲物櫃？我很好奇。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我想知道我能不能躲進儲物櫃裡？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人想知道櫃子裡有什什什麼"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "客觀。儲物櫃，用來鎖上你想保藏的東西。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "啊，這讓我想起了我的高中生活。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "最基本的，醜陋的櫃子。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "只是個儲物櫃，我猜它實現了其設計目的。"}]

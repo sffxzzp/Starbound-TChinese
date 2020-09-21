@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "禍之觸手。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "Boss的觸手"}]

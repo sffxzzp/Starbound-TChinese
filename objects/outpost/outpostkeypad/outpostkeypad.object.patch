@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "鍵盤。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "牆面鍵盤"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "鍵盤。讓人聽不見周圍的噪音。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "鍵盤。大多數翼族人不用這個。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人用鍵盤輸入髒髒髒話。但是什麼也沒發生生生…"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "激動。鍵盤，我能破解密碼麼？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "鍵盤！我能破解密碼麼？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "鍵盤。正確使用時是有效的上鎖工具。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這鍵盤有什麼用麼？"}]

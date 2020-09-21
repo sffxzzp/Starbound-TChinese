@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個特別色彩繽紛的盆栽植物。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "充滿活力的植物"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "我認為這株植物缺少含蓄。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我不清楚所有這些顏色混在一起是否合適…"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人喜歡多多多彩的植植植物。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "驚訝。是有人特意把這株植物養成這般具有活力的嗎？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這株植物非常…五彩繽紛。它看起來幾乎是假的。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我感覺這是一株被人特殊培養的植物。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這株植物有好多以前季節裡的顏色。"}]

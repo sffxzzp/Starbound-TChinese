@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "在這個控制檯裝備並強化你的科技。\n^red;拆卸後將被永久破壞。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "科技控制檯"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這臺複雜的機器可以讓我裝備科技。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這個控制檯可以讓我裝備科技！一旦你克服了裝備後的怪異感覺，你就會發現它們是很有用的小配件。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "這個控制制制臺能讓葉族人裝備科技！新科技技技總讓人興奮。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "難忘。這個控制檯能讓我裝備或移除科技。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我能在這裝備科技！多便利的機器。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "科技是生物工程的一項偉大的進步。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "只要掌握了一點小訣竅，我就能使用這臺機器來裝備科技了。"}]

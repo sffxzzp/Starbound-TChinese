@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "從一些不幸的生物肋骨上切下來的生肉，如果能弄熟的話應該會很好吃。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "生肋排"}]

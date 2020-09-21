@@ -1,0 +1,9 @@
+[{"op":"replace","path":"/description","value":"一個可笑的很高的椅子"},
+{"op":"replace","path":"/shortdescription","value":"高椅子"},
+{"op":"replace","path":"/apexDescription","value":"一個非常高的椅子。"},
+{"op":"replace","path":"/avianDescription","value":"一個非常高的椅子。"},
+{"op":"replace","path":"/floranDescription","value":"葉族在椅子上搖動，掉下，總是。"},
+{"op":"replace","path":"/glitchDescription","value":"疑問。誰需要這麼高的椅子？"},
+{"op":"replace","path":"/humanDescription","value":"一個非常高的椅子。"},
+{"op":"replace","path":"/hylotlDescription","value":"多麼可笑的椅子設計。"},
+{"op":"replace","path":"/novakidDescription","value":"一個極其高的椅子。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "可可植株。一旦成熟，其豆莢就可被加工成巧克力。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "可可種子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "可可的來源，可以用來製作美味的巧克力。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "可可莢的內容物可以被磨成美味的醬。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "當豆莢成熟時，葉族人可以製作美味味味的醬。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。可可植株，巧克力之源。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "可可是巧克力的製作材料！這就是巧克力樹！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "陽光，水分，以及一點點耐心就是豐收的奧義。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "長在樹上的巧克力。"}]

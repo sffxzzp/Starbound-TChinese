@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個水晶植物，這是真正的搖錢樹。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "水晶植物種子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "種植屬於自己的水晶。真方便。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一顆長出水晶的植物。太神奇了！"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人對閃閃的植物感到困惑。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "擔心。大量種植它們會毀滅經濟。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "小時候，我一直想要一顆搖錢樹，這幾乎是最好的事情了。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一棵枝芽上閃耀著水晶輝煌光芒的植株。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "可以種的水晶！這真是太棒了！"}]

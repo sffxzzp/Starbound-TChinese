@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這一串閃爍的小彩燈是最容易產生節日氣氛的。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "節日彩燈"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這些小小的燈很漂亮。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "很難讓人不喜歡這些漂亮的燈。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "多麼閃閃閃耀。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "快樂。這些閃爍的燈光增加了很多愉快的氣氛。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我一直很喜歡聖誕小彩燈。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "如此簡單的美麗。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "點點閃爍的燈光，還挺漂亮的。"}]

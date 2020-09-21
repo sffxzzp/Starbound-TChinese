@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個可以附加模組化的空間站擴充套件部件的埠。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "擴充套件槽"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這個埠用於向空間站新增額外的模組。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "此終端用於管理本站的擴充套件模組。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "計算機可以把更多的空間連線到空間站。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "細心。這種終端型別可用於連線各種內部模組到空間站。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一個擴充套件埠，有一堆不同的空間站模組可以連線到它。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這個面板可以用來擴充套件空間站的內部。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一些讓空間站更大的漂亮電腦。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "用來做重要決定的專用書桌。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "古典書桌"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "在這張桌子上曾誕生過怎樣可怕的決定？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "雖然翼族人不像某些種族那樣把金子看的那麼重要，我還是不得不說這做工讓我震精鳥。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "好好好一張金閃閃地桌子。 大概猴猴猴子們在做決決決定時都被亮亮亮瞎了眼。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "吃驚。電子人非常看重金子。這樣一張桌子基本可以換得一陣子衣食無憂了。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我覺得使用像這樣的桌子我還不夠格。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "有時候低調才能做出最好的決策。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這書桌看上去華而不實。"}]

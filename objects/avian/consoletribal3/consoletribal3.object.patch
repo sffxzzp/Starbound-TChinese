@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "控制器面板的基座上雕刻著一團火焰。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "火焰雕刻控制檯"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這個控制檯的晶體顯然非常重要，但我不明白其中的技術。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這個控制檯能夠透過水晶振動與其他裝置進行互動。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "鳥人的控制檯上有有有火，葉族人討討討厭火。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "著迷。這個控制檯中的晶體可以跟其他裝置對接。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這個控制檯上的符號我看不懂。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "從這個工作臺上發出的燈光美麗得令人陶醉。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我迫不及待想要按下這些奇特的按鈕了。"}]

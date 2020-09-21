@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一盞奇怪的綠光燈鬆垮地掛在一根彎木杆上。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "藤莢燈"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這好像是一種會發光的植物。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這株植物發出綠色的光芒。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人綠手指種出來發光植物。火種越少少少，燒傷的葉族人越少少少。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "吃驚。這個植物透過吸收白天的光線來發光。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "怪異的綠光。我想知道那個莢子裡裝的是什麼。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這個植物有些地方感覺不對勁。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這怎麼能同時是一棵樹又是一盞燈？"}]

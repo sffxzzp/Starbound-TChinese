@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "喜劇電影海報"},
+{ "op" : "replace", "path" : "/description", "value" : "一個冷門鮫人電影《死亡之爪》的海報。"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這是一家服裝店的廣告嗎？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我以前在哪見過這個徽記…"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "笨蛋鮫人電影的海海海報。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "取悅。這是部恐怖片。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這是一部鮫人恐怖片的廣告。它很失敗。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "既不搞笑也留不下什麼印象，我對這個動態影像不感興趣。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "某個關於猛爪強盜的電影，名字我忘了。"}]

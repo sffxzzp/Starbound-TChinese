@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個由粘液製成的火炬。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "粘液火炬"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "我認為任何這麼臭的東西都不可靠。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這史萊姆火炬臭得我喙疼。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "火炬燒起來綠綠的，但不不不是自然的。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "取悅。粘液燒起來發出綠光。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這火炬在燒一些黏糊糊的物質。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一把粘液火炬。它燃燒的時候發出難聞的氣味。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一把黏液製成的火炬，它是怎麼燃燒的？"}]

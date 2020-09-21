@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "有年頭的櫃檯。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "中世紀櫃檯"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這個櫃檯看上去很適合展示物品。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這個櫃檯看上去很結實。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "櫃檯裡面有木蛀蟲蟲蟲，呀！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "懷舊。像這種手工製作的櫃檯在電子人的店面很常見。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一個做工粗糙但外觀古怪的櫃檯。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這種木頭有股濃郁的味道。它的氣味在波濤之下很是稀罕。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這個櫃檯看上去用了很多年了。"}]

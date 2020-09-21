@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "銀礦主要可以在大多數行星的地底中部發現。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "銀錠"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一面用華麗的絲綢製成的翼族旗幟。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "翼族圖案旗幟"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "有圖案裝飾的翼族旗幟。圖案很粗糙但做工充滿了活力。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這些有圖案裝飾的旗幟是由最不熟練的折翼者編織的，但當它們被大量懸掛後就形成了一片壯麗的色彩海洋。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "明亮的色色色彩，有趣的圖圖圖案。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "愉快。美麗的色彩。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "多麼鮮豔的顏色。看起來編織它們非常有趣。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "雖然做工堪憂，但是快樂已經融進了這些旗幟的編制過程中。看到它們讓我的心很溫暖。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "某種非凡的正能量被織入了這面旗幟中。"}]

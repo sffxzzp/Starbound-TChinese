@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個奇妙的柔和色調的衣櫃。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "粉彩衣櫃"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個精緻的衣櫃。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這個衣櫃被愛心和星星點綴裝飾著。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人想想想要躲進這裡面。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "印象深刻。這個衣櫃看起來完全是出於某種熱愛而創作的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這是一個非常神奇的衣櫃。想想裡面所有可能裝的東西！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "精湛的技藝打造出這個衣櫃。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我很喜歡裝飾在這個衣櫃頂部的小星星。"}]

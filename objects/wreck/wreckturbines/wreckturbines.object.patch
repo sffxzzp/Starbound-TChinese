@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一對破舊的沾滿灰塵的渦輪。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "破舊的渦輪組"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一對渦輪。看上去快倒了。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這些舊渦輪幾乎無法立著放。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "搖晃的舊機器器器。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "感興趣。這兩個渦輪串聯進行工作。現在沒一個能工作了。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "兩個壞渦輪。它們嘎吱作響。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "鮫人使用這樣渦輪機進行發電。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "它們被厚厚的灰塵掩蓋，感覺被放在這裡已經很久很久了。"}]

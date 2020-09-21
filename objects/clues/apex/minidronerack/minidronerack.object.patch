@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一臺顯示從頂部的無人機下載的資訊的電腦。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "微型遙控情報臺"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這臺電腦似乎正在從一個科技發展部的監視無人機下載資料。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這臺電腦連線到無人機上。我想知道它發現了些資訊？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "電腦屏屏螢幕上顯示了從那臺裝置上獲取的東東東西。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "入迷。這臺電腦顯示了從它連線的小機器人獲取的資訊。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這臺電腦與頂部的無人機相連。我想知道這是誰製造的，能從這上面獲取什麼樣的資訊？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這臺電腦正在迴圈顯示從銀色小無人機上獲取的資料。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我想知道這些東西製造出來有什麼用？"}]

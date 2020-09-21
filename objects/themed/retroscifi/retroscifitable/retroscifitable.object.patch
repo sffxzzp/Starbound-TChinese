@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一張以未來複古主義樣式製造的桌子。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "復古桌"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一張美妙的桌子，拉近了整個房間的距離。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我擔心若是在這桌子上放些重物、它會不會因此而翻倒。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "桌子的花俏程度並不影響開盛盛盛宴。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "印象深刻。一張格外平穩的桌子。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這桌子看起來隨時都會垮掉。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這張桌子的美麗之處在於其完美的平衡。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我好羨慕這張桌子能夠站得如此筆直。"}]

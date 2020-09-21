@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一張簡單的木製凳子。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "簡易木凳"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一張很棒的小木凳。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一張木製凳子。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "小鐵人的座座座位。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "冷漠。一張凳子。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "把腳放上去正合適。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "鮫人的傢俱大多是這種尺寸。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "僅僅是張簡陋的凳子。"}]

@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一種密封的武器元件箱，對星際貿易有價值。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "武器配件"}]

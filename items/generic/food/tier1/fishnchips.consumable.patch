@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "油炸所有東西！這是人類的一種古老的喜好。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "炸魚薯條"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "飲水機。尋找火爆八卦最好的地方。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "飲水機"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "感受到一種想要站在附近討論科技發展部的衝動。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "飲水機。清爽！"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人喜喜喜歡喝清涼的水。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "冷漠。飲水機。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這讓我思念起我的辦公生活。等等，不，它沒有。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "飲水機――純淨而實用的裝置。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "用這個真的很方便！"}]

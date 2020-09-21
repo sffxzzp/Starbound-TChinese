@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "胸甲，常給非常重要的人使用。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "總理胸甲"}]

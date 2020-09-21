@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個藍色的郵箱。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "市區郵箱"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "是一個郵箱。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "用來發信的箱子。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人不寫信。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "冷漠。用來發送郵件的容器。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "是一個郵箱。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "只是一個郵箱。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一個發郵件的箱子？看起來不像是傳送器啊…"}]

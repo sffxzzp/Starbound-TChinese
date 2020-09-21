@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這多汁的聖女果因其內部似奶油般柔滑而得名。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "聖女果種子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "聖女果嚐起來的味道比它的名字或外觀還要好。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "嬌嫩多汁、容易消化的美食。可裹著種子享用。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "溼溼的，血淋淋的，好吃吃吃的。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "驚慌。只要有人喜歡它的味道，幾乎任何東西都能成為佳餚。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這些顯然很好吃…不知為何，我很猶豫要不要去搞清楚它美味的原因。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "聖女果像奶油一般柔滑且氣味撲鼻，並不合鮫人的口味。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我聽說這些很好吃，但在看到其中一個之後我就不太敢肯定了。"}]

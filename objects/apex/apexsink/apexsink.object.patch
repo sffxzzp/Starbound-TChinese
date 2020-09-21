@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "別忘了洗手！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "浴室洗臉盆"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個潔淨無瑕的洗臉盆。不乾淨的屋子是科技發展部所無法容忍的。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個飲水機…或許是個自動飲水機？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "清清清甜的富含營養的水。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "專注。水的純度為13%。看起來裡面有一種人造的元素。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我偶爾應該洗一下手。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這水不適合在裡面游泳。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "看起來這水是能喝的。"}]

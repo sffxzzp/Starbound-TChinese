@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "閃爍的燈光是發生緊急事件的訊號…"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "警報燈"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這些警報裝置在猿人的房子裡是很常見的，表示發生了不被允許的行為。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這裝置，吵起來像一隻鳥。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "旋旋旋轉的光線就像罐子裡的螢火蟲。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "客觀。一個彩燈。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這些玩意兒叫的太嚇人。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一個臃腫的舞燈。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一盞吸引注意力的燈。"}]

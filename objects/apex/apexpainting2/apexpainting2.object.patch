@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一張猿人維和者的肖像畫。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "猿人肖像畫"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個維和者。這些人為了討喜甚至可以把自己老媽賣給科技發展部。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這個猿人看上去真的非常開心。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "微微微笑的猿人。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。這個猿人為何這麼開心？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這傢伙在微笑，我想知道為什麼？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這個猿人得意地咧嘴笑著。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一個興高采烈的猿人。"}]

@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "鎢制平臺"},
+{ "op" : "replace", "path" : "/description", "value" : "鎢制的堅固平臺。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "認可。鎢可以用來製作極其堅硬的平臺。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "堅堅堅固的金屬平平平臺。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "用鎢製成的平臺。"}]

@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "以雪供能，全自動而且手套不會溼。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "雪球發射器"}]

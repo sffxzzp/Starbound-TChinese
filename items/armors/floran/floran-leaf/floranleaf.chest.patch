@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這件衣服由厚實的樹葉製成。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "樹葉胸甲"}]

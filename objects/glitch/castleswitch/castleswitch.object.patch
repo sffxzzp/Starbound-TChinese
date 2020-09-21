@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個可疑的水晶，而更重要的是它比看起來更加複雜。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "寶石開關"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個水晶。但它看起來似乎還有別的什麼目的。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這只是一個普通的水晶嗎？不…它是別的什麼東西。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "閃閃發光的水水水晶，拿它幹什麼好呢？"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "有趣。電子人會像這樣把開關藏在水晶裡面。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這個水晶肯定會觸發什麼。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一個大型的水晶。它似乎有著別的什麼目的。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這個水晶看起來會做些什麼。"}]

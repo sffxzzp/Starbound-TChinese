@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "土豆！煮了它們、搗爛它們、放進鍋裡燉了它們。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "土豆種子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "土豆簡直不值一提。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "搗爛的土豆可以做成一道令人欣慰的菜。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "新鮮出土的又硬又脆的土土土豆。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "讚賞。人類用這種普通的東西創造了許多菜餚。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "啊啊啊，土豆。還有什麼是你做不到的嗎？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一種單調乏味的普通塊莖類蔬菜。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "非常適合在寒冷的夜晚放在篝火上烤來吃。"}]

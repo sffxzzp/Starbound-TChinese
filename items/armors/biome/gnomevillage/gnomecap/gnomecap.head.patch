@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一頂侏儒便帽。這是能提供的最大號的了。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "侏儒便帽"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "明亮的熒光燈。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "熒光燈"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這裡的燈光既不自然也不吸引人。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "燈光刺眼而冰冷。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "醜陋的燈光，葉族人更喜歡太太太陽光。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "惱火。開燈後這盞燈會發出輕輕的嗡嗡聲。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我一直都很討厭這樣的燈。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "它發出的燈光的人造感很強。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這盞奇特的燈發出的嗡嗡聲就像繞著騾子亂轉的蒼蠅一樣。"}]

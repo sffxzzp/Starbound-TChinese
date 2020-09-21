@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個狀態艙。碰碰運氣吧…"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "狀態艙"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個狀態艙。我會是幸運兒嗎？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個狀態艙。我希望我會走運。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人會毫毫毫無顧忌地觸發這個小艙。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "小心。這個狀態艙的功能無法分析。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這是個狀態艙！我該觸發這玩意冒次險嗎？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我賭要發生些不好的事情。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一個狀態艙！我當然希望今天是幸運日啦！"}]

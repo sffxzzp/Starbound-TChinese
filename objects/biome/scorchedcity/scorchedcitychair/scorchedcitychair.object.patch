@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一把時尚卻又結實的椅子。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "時尚椅子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一把時尚卻又結實的椅子。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一把好看的椅子。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "漂亮的椅子很很很很舒服。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "滿意。這把椅子看起來足夠堅固能承受住大多數電子人的重量。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一把設計良好的椅子。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一把椅子，簡單的設計，外觀卻不會令人討厭。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我不知道這把看起來堅固的椅子坐上去舒服嗎？"}]

@@ -1,0 +1,3 @@
+[{"op": "replace","path": "/description","value": "一個內部裝有旋轉器的魚餌，可以更好地控制它。"},
+{"op": "replace","path": "/shortdescription","value": "機動魚餌"},
+{"op": "replace","path": "/lureName","value": "機動魚餌"}]

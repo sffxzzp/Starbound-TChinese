@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一塊令人噁心的腐泥。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "腐土塊"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "厭惡。這個土塊已經腐壞了。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "噁心心心的腐爛泥土。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這腐爛的泥土真讓人糟心。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一塊超大的，美味的綠色橡皮糖！好吃！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "超大塊紫色橡皮糖"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "美味的紫色橡皮糖。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一大塊紫色橡皮糖。美味。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人愛吃大紫甜！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "欣慰。美味的紫色橡皮糖。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "糖果！棒！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這看上去很好吃。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這橡皮糖看上去很好吃！"}]

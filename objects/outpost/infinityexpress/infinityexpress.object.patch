@@ -1,0 +1,11 @@
+[{ "op" : "replace", "path" : "/description", "value" : "星系間的便利店。看起來是囤積貨物的理想場所。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "無限快捷"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "商店。我確信能買到所有需要的東西。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "方便的商店。讓我們希望它會出售我們想要的東西。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人能在這用閃光的畫素素素換取貨物。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "感興趣。某種商人。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我希望他們賣蘇打汽水。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "商店。或許我該看看他家的商品。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "準備給自己悄悄買一瓶硬番茄汁。"},
+{ "op" : "replace", "path" : "/interactData/paneLayoutOverride/windowtitle/title", "value" : "無限快捷"},
+{ "op" : "replace", "path" : "/interactData/paneLayoutOverride/windowtitle/subtitle", "value" : "^#b9b5b2;燃料，零食還有其他雜貨"}]

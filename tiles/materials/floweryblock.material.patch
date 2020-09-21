@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/description", "value" : "把花朵與葉子捆在一起的芬芳的方塊。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "花方塊"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "高興。這些花的排列真惹人喜歡。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "這些花花花看起來很健康。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一些鮮豔的花朵。"}]

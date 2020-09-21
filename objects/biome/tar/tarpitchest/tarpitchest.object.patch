@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "瀝青製成的寶箱。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "瀝青寶箱"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個粘粘的箱子會讓小偷感到棘手麼？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "不管這裡面裝了什麼，它們最好能夠值得讓我觸碰這個寶箱。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "很難開啟這粘粘粘乎乎的箱子，裡面寶物的價值最好值得讓我這樣做。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "注意。不論什麼寶物，被裝到一個瀝青寶箱裡之後都很可能也變得粘乎乎的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一個黏黏的寶箱，感謝這額外增加的安全效能。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "在本質上，這個箱子的粘性是它的自我防禦機制。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一個看起來黏黏的寶箱。我希望寶藏沒有被粘在箱底而取不出來。"}]

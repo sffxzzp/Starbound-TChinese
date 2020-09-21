@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一扇瀝青門。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "瀝青門"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "就是一扇門，只不過它是全由瀝青製成。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個外觀普通的門，但確實是瀝青工程史上的一大壯舉。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "黏黏的很難開啟。這不好。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "否決。一個瀝青做的門隨時會卡住。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "以瀝青門來說，它還算是堅固。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一大灘瀝青被塑形成了一扇門。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "它看起來是一扇是用幹掉的瀝青製成的門。但它依然很黏。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個華麗的噴泉 - 看起來會浪費很多水。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "噴泉"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "從這噴泉裡噴出的水嚐起來…比大多輸送進猿人家庭的水要乾淨。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "天拉魯！終於，可以洗澡啦！"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人愛水。水水水是生命之源。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。掃描顯示，這水100%不含新增劑。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這些水是從哪裡來的？它看起來並不是被回收起來的。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這裡的水並沒有被收集或者再利用，這樣真的是巨大的浪費。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "累了停下小憩喝杯小酒的好地方。"}]

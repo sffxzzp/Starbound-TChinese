@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "舞蹈的時候，減少300％搖晃。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "舞蹈服"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個裂開的石頭中滿是鉑礦。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "小鉑礦石頭"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "看起來這個脆弱的石頭裡有鉑礦。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "如果我敲碎這個石頭，我應該能弄到裡面的鉑礦。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "閃閃發光的石頭。砸砸砸碎它！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "細心。這個石頭中有鉑，上面滿是裂紋。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一個滿是鉑礦的石頭！也許我可以敲碎它。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "對這個石頭進行一次快速打擊可以釋放出裡面的鉑礦。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一個富有鉑礦的石頭。我應該敲碎他。"}]

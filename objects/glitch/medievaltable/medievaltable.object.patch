@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "古老款式的餐桌。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "中世紀桌子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一張最基礎的桌子。用粗糙腐爛的木頭製成。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一張質量很差的桌子。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "桌子有蛀蟲，啊嗚！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "冷淡。一張做工非常粗糙的桌子，可能是一個農民造的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這張桌子的狀況很糟。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這張桌子還可以搶救一下。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這塊木頭正在慢慢腐爛。"}]

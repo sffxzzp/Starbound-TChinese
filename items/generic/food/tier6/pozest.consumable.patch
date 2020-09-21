@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一種流行的電子人能量飲料。或者只是一種安慰劑？"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "魔酒"}]

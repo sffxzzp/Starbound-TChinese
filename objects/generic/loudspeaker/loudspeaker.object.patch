@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這是一組揚聲器，透過它可以使人說話聲音變大。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "揚聲器"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個揚聲器。猿人已經習慣於在他們的家裡見到這個。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "震裂聲從這臺裝置中傳來。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "某某某種大大大聲的機器？"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "測試。這臺裝置用於多頻率採集訊號。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一套揚聲器。他們可能非常大聲。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一臺用來突出聲效的裝置。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這兒的揚聲器響震八方。"}]

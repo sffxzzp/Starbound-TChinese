@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一盞掛在天花板上的吊燈。展示高檔藝術品的理想光源。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "古典吊燈"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "用來給畫作打光的。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "只是一個微弱的光源，用來把人的注意力集中到一點上。。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "為塗塗塗鴉打光的燈。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "啟發。這樣角度的光線用來展示電子人的藝術品正合適。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "畫廊燈。表現藝術的不二之選。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "即使最美麗的繪畫都能在這樣的光下得到昇華。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這看上去是給繪畫打光用的。"}]

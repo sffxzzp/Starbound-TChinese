@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "放置在一間至少有一扇門與光源的封閉式房屋中，才會有人搬進來！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "^yellow;殖民地契約"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "如果把它放置在一間有門和光源的房屋裡，它就能促使某個人搬進來。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這個裝置將邀請某個人搬進房屋裡。只需確保那裡有一扇門和一盞燈。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "掛在牆上的屏屏螢幕。讓別別別人搬進家裡！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "細心。如果把它放置在一間有條理的房屋中，這個殖民地契約將促使某個人搬進來。 "},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這些對擴大一個殖民地有很大的幫助。將它放置在有一扇門和一盞燈的房屋裡，就會有人搬進來。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "如果把它掛在一間有一扇門和一盞燈的封閉式房屋裡，就會有人搬進來並把它當作自己的家。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "有了殖民地契約，就會有人搬進房屋裡。只要確保房屋裡有一扇門和一個光源。"}]

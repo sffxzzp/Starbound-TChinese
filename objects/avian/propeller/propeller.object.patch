@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "精美製作的螺旋槳。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "螺旋槳"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個巨大的螺旋槳。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這些也許不算是翅膀，但這樣的螺旋槳可以讓翼族的飛空艇保持浮空。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "旋旋旋轉的機器讓飛飛飛船飛起來了。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "觀察。這些螺旋槳必須保持高速旋轉，以使整個飛空艇能在空中飛行。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這個螺旋槳的噪音很大。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "很吵、很煩人，但很有效。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "那是一個巨型螺旋槳。我猜想它是用來維持飛空艇運轉的。"}]

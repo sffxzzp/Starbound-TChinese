@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個私人傳送門，連線著標記過的傳送點。\n^red;拆卸後將被永久破壞。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "墓碑傳送門"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個私人傳送門。一個兼具功能性與趣味性的裝置。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我喜歡我在高速傳送過程中羽毛髮出嘶嘶聲的感覺！"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "私人傳送門真是太棒了！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "入迷。一個私人定製的私人傳送門。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一個私人傳送門！如今流行的旅行方式。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一個私人傳送門，可以看出它是私人定製的。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "就傳送門而言，這一個確實有著別緻的外觀！"}]

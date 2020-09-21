@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "守護團的種族旗幟。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "守護團種族旗幟"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這些旗幟代表著不同的種族。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "不同顏色的旗幟各自代表著六個不同的種族。翼族人的旗幟在右邊。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人的旗幟有著最棒棒棒的顏色。有如樹苗的葉子般嫩綠色。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "自豪。六面不同的種族旗幟！電子人旗幟的灰度是我的最愛。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "六面旗幟。各自代表著一個不同的種族。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "每一面旗幟代表著一個種族。我很喜歡鮫人旗幟的簡潔款式。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "六面掛在窗戶上的不同的旗幟。"}]

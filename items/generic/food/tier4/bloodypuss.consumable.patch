@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一杯用肉和聖女果一起搖勻製成的濃厚的飲料。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "血腥少女"}]

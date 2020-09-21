@@ -1,0 +1,11 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這個烹飪臺看起來是烹飪食物的良好場所。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "時尚烹飪臺"},
+{ "op" : "replace", "path" : "/interactData/paneLayoutOverride/windowtitle/title", "value" : "時尚烹飪臺"},
+{ "op" : "replace", "path" : "/interactData/paneLayoutOverride/windowtitle/subtitle", "value" : "^#b9b5b2;準備並烹飪食物"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "烹飪臺。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我能用它烹飪美味的食物。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人能用用用它烹飪可口的食物。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "高興。烹飪臺。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "實用的烹飪臺！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "簡單的桌子，用來烹飪食物。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "烹飪時刻到！"}]

@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "它為了保暖而使用毛皮製成，卻沒有包裹太多肌膚。真有意思。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "史前羊毛外套"}]

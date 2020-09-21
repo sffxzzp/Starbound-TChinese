@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一張適合老西部的華麗桌子。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "沙龍桌子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這張桌子上散落著撲克牌。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "有很多彩色的晶片散落在桌上。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "漂亮的桌桌桌子。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "觀察。一張非常簡單的桌子，裝飾著遊戲用品。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這桌子是從老西部弄來的！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一張用來打牌和打架的桌子。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "振奮人心！簡直太棒了！"}]

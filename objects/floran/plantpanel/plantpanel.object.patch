@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "上面有許多不該去碰的誘人的按鈕。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "小型木製控制檯"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "我想知道這個按鈕是幹什麼的…"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "如果我按了這個按鈕會發生什麼？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人無法抗拒拒拒按鈕鈕鈕。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。按下按鈕會發生什麼？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "把這些按鈕都按下去！會出什麼差錯嗎？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我還是三思而後行。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這裡有許多按鈕，我好奇如果我全按下去會怎麼樣。"}]

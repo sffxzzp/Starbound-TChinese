@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "方塊男孩"},
+{ "op" : "replace", "path" : "/description", "value" : "儘管有著這樣的形狀，它的游泳能力卻很驚人，。"}]

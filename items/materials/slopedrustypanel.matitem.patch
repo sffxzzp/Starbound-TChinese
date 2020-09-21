@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "生鏽面板"},
+{ "op" : "replace", "path" : "/description", "value" : "堅固的金屬鑲板，隨著時間的流逝而生鏽。"},
+{ "op" : "replace", "path" : "/glitchdescription", "value" : "渴望。我相信在一些關節潤滑劑的作用下，這種金屬板可以被清理乾淨。"},
+{ "op" : "replace", "path" : "/florandescription", "value" : "葉族想用這生鏽的金屬作矛。"},
+{ "op" : "replace", "path" : "/novakiddescription", "value" : "一些金屬板被生鏽覆蓋。"}]

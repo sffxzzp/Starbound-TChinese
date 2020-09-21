@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一張做工精良的幾何桌。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "幾何桌"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這張幾何桌非常光滑。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "這張桌子對葉族人來說拿來切切切肉足夠好了。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "讚許。一張做工精良的幾何桌。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一張炫酷的幾何桌。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "不是通常我喜歡的那種桌子，但這個也相當令人印象深刻。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "它看起來並不穩固，但它實際上真的很穩！"}]

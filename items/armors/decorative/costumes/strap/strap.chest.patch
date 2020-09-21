@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "熱感應體帶，這可能是種時尚吧？"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "熱感應體帶"}]

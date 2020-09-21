@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個垃圾桶。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "守護團垃圾桶"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個垃圾桶。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個垃圾桶。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "噁心的桶！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "客觀。只是一個標準的垃圾桶。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一個垃圾桶。興奮！才怪。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "垃圾散亂地落在這個桶旁邊。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這是個垃圾桶。"}]

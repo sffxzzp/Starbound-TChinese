@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "疣狀但不是雜草。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "瓦特果"}]

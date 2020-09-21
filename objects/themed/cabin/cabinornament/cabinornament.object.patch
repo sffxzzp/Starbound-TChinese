@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一對顯眼的鹿角。它們究竟來自於何種生物？"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "鹿角裝飾物"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "把鹿角裝在牆上是對資源的浪費。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "多麼粗野的展示品。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人對狩獵紀念品感到滿滿滿足。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "驚訝。靠近之後檢查發現這些鹿角似乎是人造的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "鹿角裝飾是經典的裝飾品……雖然我也不知道這是為什麼。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "雖然這確實是人造的，但它依舊是粗野的裝飾。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這些鹿角是一個黃銅製展品的一部分，不是麼？"}]

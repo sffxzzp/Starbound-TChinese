@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "可以孵化出脆弱的火系蓬蓬牛犢－發育完全後會成為焦核的不錯來源。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "火系蓬蓬牛蛋"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一枚火系蓬蓬牛蛋――這種家畜會產出焦核。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一枚火系蓬蓬牛蛋。成年體會產出焦核，對製造很有用。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "火系蓬蓬牛蛋。葉族人對火併不狂熱，但是這些野獸獸獸很有用。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "迷惑。這東西會孵出火系蓬蓬牛；那是種可愛的會產出焦核的動物。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一枚火系蓬蓬牛蛋！裡面有可愛的小火系蓬蓬牛。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一枚火系蓬蓬牛蛋。這種溫和的田園動物產出的焦核可以用來製造。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一枚火系蓬蓬牛蛋。裡面有個毛茸茸的小傢伙。"}]

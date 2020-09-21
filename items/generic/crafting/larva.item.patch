@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一隻外星幼蟲寶寶。弱小、溼軟而無助。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "幼蟲寶寶"}]

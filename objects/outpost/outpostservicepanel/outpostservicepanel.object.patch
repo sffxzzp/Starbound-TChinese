@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "維護面板。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "維護面板"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "維護面板。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "標有警告標誌的維護面板。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "維維維護面板。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "擔憂。維護面板上有一個可怕的警告標誌。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這個警告標誌看上去有點嚴肅。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "簡陋的維護面板。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "只是某種維護面板而已。"}]

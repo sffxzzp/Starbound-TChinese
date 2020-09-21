@@ -1,0 +1,4 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一種含硫磺的植物。它散發出濃烈的臭味。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "一種含硫磺的植物。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "臭！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "陳述。惡臭的植物。"}]

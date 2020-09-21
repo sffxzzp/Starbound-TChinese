@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "很適合儲存大量食物和保持它們的新鮮度。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "冰箱"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一臺冰箱，希望裡面會有香蕉冰淇淋。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "冰箱。裡面如果塞滿了飲料和點心就太完美了。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人聞聞聞到了肉味兒。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "滿意。這臺冰箱正處於最佳的執行溫度。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一想到裡面可能裝的東西我興奮得要跳起來了。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "在水下製冷會更容易，這些裝置是非常聰明的替代品。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一臺平淡無奇的冰箱。"}]

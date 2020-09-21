@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一座壯麗的紀念碑才配得上一個光榮的領袖。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "大猿人紀念碑"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "我們的光榮領袖…"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一座讓人感到自豪的紀念碑？亦或是讓人感到恐懼的？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "大大大大的，香香香香噴噴的猴子。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "服帖。這塊頭…是在下輸了！"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "好大的雕塑。看起來很威嚴。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "多餘的力量展示。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一座神情肅穆的猿人大雕像。"}]

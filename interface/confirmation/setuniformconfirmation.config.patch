@@ -1,0 +1,5 @@
+[{"op": "replace","path": "/title","value": "更新你船員的制服？"},
+{"op": "replace","path": "/subtitle","value": "<name>，<rank>"},
+{"op": "replace","path": "/message","value": "\n\n我就是喜歡那衣服！你想讓它成為你船員的新制服嗎？"},
+{"op": "replace","path": "/okCaption","value": "當然"},
+{"op": "replace","path": "/cancelCaption","value": "之後再說"}]

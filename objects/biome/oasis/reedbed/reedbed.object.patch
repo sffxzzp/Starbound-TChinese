@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個由木與蘆葦製成的床。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "蘆葦床"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "我確實見過很多功能性更強的床，但現在我只想在這上面休息一下…"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我確信在這兒休息會讓我感覺置身於叢林裡。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "睡睡睡在這裡能讓葉族人夢到狩獵的時光。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "端詳。這種木頭和蘆葦做的床看起來相當舒適。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這是個叢林風格的床。或者…是用真正的木頭和蘆葦做的。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "休息於此或許會讓人夢到叢林探險。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我不確定我睡在這蘆葦床裡還能不能再醒來。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一張貝殼形的床。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "貝殼床"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "能夠有效地保證海底生物的睡眠質量。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這張床是用巨大的蛤殼製成的，看起來很溫馨。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "在貝貝貝殼做的床裡很容容容易睡著。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "得意。鮫人國王的御床。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這張床很神奇，它甚至還有水床墊。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "再沒有比睡在貝殼之間更舒服的事情了。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這張床看起來很神奇。並且味道聞起來像美味的蝦。"}]

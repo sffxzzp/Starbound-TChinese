@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一種高大的用於協助文書工作的陳舊裝置。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "辦公室掃描器"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這臺機器寫著多功能，但我不知道它的作用。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這臺大型機器一定很強大—它寫著是多合一的。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "大機器發出有趣的聲音。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "著迷。這臺機器有連線古代人類通訊網路的埠。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這臺機器的顯示屏上寫著「卡紙」。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這臺機器上的按鈕太多了！"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這個東西看起來很複雜—我不知道這都是些什麼。"}]

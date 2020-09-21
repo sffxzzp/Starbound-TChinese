@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這整張桌子似乎是由一根巨大的骨頭製成的。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "原始大桌子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "用骨頭做成的桌子。衛生標準值得懷疑。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "葉族人對桌子有著奇怪的審美。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "有時時時候，要是葉族人沒東西吃了，葉族人就吃桌子。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "驚訝。這桌子似乎有被加熱殺菌過。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這張骨頭桌子又光滑又冰冷。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "在這樣的桌子上吃飯會讓我反胃的。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我不是一個骨制傢俱的愛好者，但它看上去足夠堅實。"}]

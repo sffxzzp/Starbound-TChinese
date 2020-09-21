@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "摩爾俠海報"},
+{ "op" : "replace", "path" : "/description", "value" : "一部重量級大片的帶框海報，“摩門啟示”。"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "在海報上的是反派角色嗎？看起來有些可怕…"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這部電影看起來很可怕…特別是海報上的怪人。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "摩爾俠？只不過是一個膽膽膽小的人類罷了。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "著迷。誰是摩爾俠，他們的預言又是什麼？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "鮫人在拍攝恐怖片上總是有些有趣的點子…"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這可能是我看過的最恐怖的電影了。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "假如要我自己評論的話，這是一部可怕的電影。"}]

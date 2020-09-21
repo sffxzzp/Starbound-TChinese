@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個經過設定好的延遲時間就會發送訊號的電路。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "鑄造延遲門"}]

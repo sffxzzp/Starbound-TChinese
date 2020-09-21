@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個巨大的書架，已經被破壞了。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "損壞的巨大書架"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "誰會破壞這個巨大的書架呢？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這個書架曾經完好無損。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "書書書少一點可以讓書書書架更容易被攀爬上去。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "困惑。這不是一個書架應該有的樣子。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "真是一團糟。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這個書架是隨著時間的流逝才壞掉還是被人為地破壞了？"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "有人把它搞得一團糟。"}]

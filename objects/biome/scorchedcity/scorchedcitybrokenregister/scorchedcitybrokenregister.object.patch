@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一臺破舊的收銀機。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "破舊的收銀機"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "曾經用來計算交易，現在它壞掉了。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這個曾用來販賣物品。現在它壞掉了。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "這這這個曾經很有用，現在壞了。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "憂鬱。看見曾經有用的東西被廢棄總是令人悲傷。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一臺破舊的收銀機，我想什麼都不買也沒什麼問題。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一臺年久失修的收銀機。多麼令人悲傷。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這是個收銀機，一點畫素都不剩。"}]

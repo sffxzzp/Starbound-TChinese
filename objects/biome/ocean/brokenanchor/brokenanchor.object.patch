@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個損壞的錨。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "損壞的錨"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個損壞的錨。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這個錨似乎壞了。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "它是是是壞的。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "害怕。這個錨完全生鏽了，生鏽是電子人的敵人。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這錨哪來的？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "錨從表面開始崩潰，並且會打到鮫人的城市。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "搞不懂這錨是非常舊還是以次充好的冒牌貨。"}]

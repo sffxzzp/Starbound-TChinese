@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個搖曳的大火炬溫暖著周圍的空氣。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "高木製火炬"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個高舉的木製火炬。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個搖曳的長火炬。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "一個儲存火焰的長長火炬。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "平靜。一個高高的火炬，火焰正在搖曳。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一個噼啪作響的火炬。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "高舉的火炬為廣闊的空間提供光明。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "火焰噼啪消散。"}]

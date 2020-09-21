@@ -1,0 +1,11 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這口蒸鍋烹飪過上百種菜餚，香飄四溢。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "大電子人烹飪鍋"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個大型烹飪鍋。飄出誘人的氣味。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個放在火上炙烤的大鍋。也許是用來做飯的。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "美美美味的烹飪鍋。葉族人想喝喝喝些肉肉肉湯。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "感動。這個罐子裡飄出許多美食的香味。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一口大鍋。但願附近沒有女巫。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "充滿了鮫人不熟悉的味道。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一口大鍋。裡面在煮什麼東西？"},
+{ "op" : "replace", "path" : "/interactData/paneLayoutOverride/windowtitle/title", "value" : "中世紀烹飪鍋"},
+{ "op" : "replace", "path" : "/interactData/paneLayoutOverride/windowtitle/subtitle", "value" : "嗯，嗯"}]

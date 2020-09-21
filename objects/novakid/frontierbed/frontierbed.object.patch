@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這張堅固的床的床單是用哞西牛牛皮製作的"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "開拓者床"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "我很確信這種皮草床單可以在你睡覺時為你提供溫暖。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "睡在羽毛床單上？我更喜歡稻草床。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "一張用狩狩狩獵物做的床？葉族人印象深刻，是個好主意。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "迷惑。這種床單真的是用動物的皮做的嗎？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我…想知道這是否是真的獸皮？?"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我可以說製作這張床的始作俑者腦子肯定沒有保護野生動物的意識。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這才是一張我能好好睡上一覺的床。"}]

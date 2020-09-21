@@ -1,0 +1,4 @@
+[{ "op" : "replace", "path" : "/description", "value" : "鑽石花。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "鑽石花。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "閃亮的鑽石。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "陳述。鑽石花。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個由折射玻璃做的切口乾淨的椅子。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "稜鏡椅"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "儘管不太舒服，這椅子做工實在令人印象深刻。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這簡單的傢俱怎麼這麼令人神魂顛倒？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人想想想尖尖尖利的椅子會不會是件好武器…"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "印象深刻。這椅子的角度從數學上來說堪稱完美。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一塊奇怪的玻璃並不適合於做最舒服的椅子…"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這椅子可以不斷地抓住照到它上面的光。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這難道不漂亮嗎…"}]

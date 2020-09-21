@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個用來運輸大量礦石材料的機器。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "採礦輸送帶"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一條輸送帶，用來在短距離內移動很重的貨物。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一條輸送帶，現在沒在運作。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人厭倦了圍圍圍欄。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "冷漠。這條輸送帶看起來沒用。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一條用來移動重物的短距離輸送帶。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一個毫無趣味的人工建設。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一臺將重物從一處搬運到另一處的裝置。"}]

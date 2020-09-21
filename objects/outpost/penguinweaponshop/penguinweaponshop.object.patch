@@ -1,0 +1,11 @@
+[{ "op" : "replace", "path" : "/description", "value" : "為稀有武器提供改良升級服務。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "比吉正派武器行"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這看起來就像某種賣武器的黑市交易點。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "好多劍。大多數比店主還大！"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人看見好好好多武器。葉族人好激動。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "欽佩。這小小的店主是怎麼拿起他的商品的呢？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這看起來是家相當正派的店鋪！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這個後巷小店的店主對頭飾的品味很古怪啊。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這地方看來有很多先進的工具。遲早有用。"},
+{ "op" : "replace", "path" : "/interactData/paneLayoutOverride/windowtitle/title", "value" : "比吉正派武器行"},
+{ "op" : "replace", "path" : "/interactData/paneLayoutOverride/windowtitle/subtitle", "value" : "^#b9b5b2;每天更新新武器！"}]

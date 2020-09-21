@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個拷問囚犯的架子。毫不誇張地說這東西會使人受傷。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "審訊架"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "大猿人也用類似的裝置來審問犯人。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個拉扯人的架子。折磨人真是野蠻的行徑。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人用這個架子拉扯扯扯他們直到開口。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "反對。葉族人仍然對他們的囚犯施加酷刑。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我一直覺得這個會更高一些。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "葉族人的殘暴行徑我見得多了，這一點都不讓我驚訝。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我可不想發現有一天我會被捆在這個可怕的玩意上。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一幅窗簾，或者是一片還沒吃完的半乾的肉。反正是兩者其一。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "原始窗簾"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這個窗簾看起來沒啥用處。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "窗簾上有很多破洞。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "當太太太陽過熱的時候，葉族人就用用用肉遮住太太陽。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "驚訝。這幅窗簾是用肉做的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我不確定那簾軌上掛著的是窗簾還是些什麼肉…"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我完全不想碰這個…窗簾。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "好吧，這是一種製作肉乾的方式。"}]

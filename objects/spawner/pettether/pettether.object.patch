@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "生物捕獲倉可以放置到此裝置上，在裝置範圍內圈養寵物。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "寵物拴繩"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "被捕獲的生物可以拴在這個地方。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這個方便的柱子能讓寵物被拴在這裡。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "把附附附寄的生物留留留在這裡。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "滿足。捕獲的生物被放置在此裝置中就會呆在附近。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "用來拴住捕獲的生物的拴繩。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "捕獲的生物一旦被放置在此裝置中，就不會走丟。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這個方便的拴繩能防止被捕獲的生物到處亂走。"}]

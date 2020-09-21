@@ -1,0 +1,11 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這家店出售不同風格的個人傳送器。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "雙向傳送商店"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一家賣傳送器的商店。遲早有用。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "喔，這是家賣傳送器的商店！知道這個很有幫助。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人能在這家店買傳送器器器。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "有趣。賣傳送器的小店！"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一家放滿傳送器的商店。裝上一個就可以完美地逃跑…"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "出售傳送器的商店。或許我該隨便逛逛。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "出售傳送器的商店…如果你還有一大筆畫素。"},
+{ "op" : "replace", "path" : "/interactData/paneLayoutOverride/windowtitle/title", "value" : " 雙向傳送商店"},
+{ "op" : "replace", "path" : "/interactData/paneLayoutOverride/windowtitle/subtitle", "value" : "讓你從A到B卻不需要經過中間那令人厭煩的宇宙空間"}]

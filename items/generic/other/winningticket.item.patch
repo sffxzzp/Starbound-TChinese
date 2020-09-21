@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這些都是授予那些通關《迷宮邊境64》的人的獎勵。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "通關小票"}]

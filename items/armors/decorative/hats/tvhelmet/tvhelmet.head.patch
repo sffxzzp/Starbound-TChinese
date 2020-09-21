@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "沒有訊號，所以你甚至連體育節目都看不了。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "電視頭盔"}]

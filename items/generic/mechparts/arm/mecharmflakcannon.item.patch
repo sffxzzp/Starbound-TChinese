@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "最便宜的機甲武器，一個發射加熱金屬片的機甲臂。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "高射炮機甲臂"}]

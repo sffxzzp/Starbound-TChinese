@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一臺損壞的電視機。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "損壞的時尚電視"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這臺電視的螢幕壞了。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一臺損壞的電視機。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "電電電視機壞了。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "悲傷。一臺壞電視機。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "螢幕壞了。即便如此，也比充滿噪聲的雪破圖強。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一臺損壞的電視機。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "電視螢幕被砸得稀巴爛。"}]

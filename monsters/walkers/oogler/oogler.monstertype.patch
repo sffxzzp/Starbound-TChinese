@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "奧格爾"},
+{ "op" : "replace", "path" : "/description", "value" : "它遇見新的生命形態總會感到很困惑。你會不禁感到自己被凝視著。"}]

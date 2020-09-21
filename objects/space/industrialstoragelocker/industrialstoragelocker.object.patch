@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "壁裝式儲物櫃，由危險條紋和紅燈裝飾。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "工業儲物櫃"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這看起來像是貴重貨物的安全容器。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "金屬牆儲物櫃，用於存放物品。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族可以把獎盃存在這裡。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "感興趣。我想知道這個櫃子上為什麼有危險條紋？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "牆上的儲物櫃，用來存放東西。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "用來存放東西的有點粗糙的儲物櫃。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "如果我要的話，我想我可以把一些東西放在這裡。"}]

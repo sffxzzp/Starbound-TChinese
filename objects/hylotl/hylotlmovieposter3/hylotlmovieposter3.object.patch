@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "浪漫電影海報"},
+{ "op" : "replace", "path" : "/description", "value" : "備受爭議的浪漫電影《我恨葉族的10件事》的海報。"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "《我恨葉族的10件事》。聽起來很多愁善感。還有，呃…有點種族歧視？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "《我恨葉族的10件事》。我想不起幾樣葉族人令我討厭的特點。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "電影叫《我恨葉族的10件事》…葉族人應該燒了它！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "有趣。《我恨葉族的10件事》十樣？我只能想到三件呢。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這個電影感覺…挺無聊的。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一部講述鮫人與葉人間禁忌愛情的較為爭議的浪漫電影。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一張浪漫喜劇的海報。《我恨葉族的10件事》。"}]

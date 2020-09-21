@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個古老的瘟疫大師面具。真讓人感到毛骨悚然。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "瘟疫大師面具"}]

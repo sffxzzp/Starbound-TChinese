@@ -1,0 +1,4 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個邪惡的屍體。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "一個邪惡的屍體。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "讓身體撞到地板上！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "不安。融化的屍體。"}]

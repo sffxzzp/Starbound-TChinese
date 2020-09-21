@@ -1,0 +1,4 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "蕨化石"},
+{ "op" : "replace", "path" : "/description", "value" : "蕨類植物的化石。"},
+{ "op" : "replace", "path" : "/completeSetDescriptions/shortdescription", "value" : "蕨化石"},
+{ "op" : "replace", "path" : "/completeSetDescriptions/description", "value" : "蕨類化石的葉子是千年前有機生命存在的最好證據。"}]

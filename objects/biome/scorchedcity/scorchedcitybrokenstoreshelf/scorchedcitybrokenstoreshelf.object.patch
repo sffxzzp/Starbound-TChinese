@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個生鏽的金屬架子，一些商店的貨物擺在上面。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "生鏽金屬貨架"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這個貨架見證過往日的繁榮。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "還有些生鏽的商品放在這架子上。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "商商品都鏽鏽鏽蝕了。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "厭惡。架子上鏽跡斑斑。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "仍有一些商品在貨架上。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一個令人悲傷的生鏽老舊貨架。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這些商品同貨架一起生鏽了。"}]

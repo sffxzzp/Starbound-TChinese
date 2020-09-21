@@ -1,0 +1,6 @@
+[{"op": "replace","path": "/gui/windowtitle/title","value": "羅布修理"},
+{"op": "replace","path": "/gui/windowtitle/subtitle","value": "在這裡修理你的載具！"},
+{"op": "replace","path": "/gui/chipCostDescription/value","value": "需要晶片"},
+{"op": "replace","path": "/gui/repairButton/caption","value": "修復"},
+{"op": "replace","path": "/gui/cancel/caption","value": "取消"},
+{"op": "replace","path": "/gui/emptyLabel/value","value": "你沒有任何需要修理的載具！"}]

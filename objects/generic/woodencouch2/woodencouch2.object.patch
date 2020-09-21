@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "蓬鬆的雙座沙發。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "軟沙發"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這看起來超級舒服。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我可以永生永世都舒舒服服地坐在這兒。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "軟軟軟軟軟軟的。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "吃驚。如此柔軟。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一個可以讓我舒展四肢陷在裡面的沙發。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "如此舒服。我可以瞬間平靜下來。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "竟然有這樣鬆軟的東西。"}]

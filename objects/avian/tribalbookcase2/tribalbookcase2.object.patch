@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這個書櫃是用來存放翼族歷史的。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "小型翼族書櫃"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "頂部的水晶將整個書櫃沐浴在紅色的光芒中。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這是用來存放重要資料的書櫃。水晶的光芒可以防止書籍損壞。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "當葉族人吸收了紅光的照射後，葉族人感到了奇奇奇怪的刺痛。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "觀察。水晶似乎對放在裡面的書籍有著修復作用。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這個書櫃上的水晶似乎有某種用途。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "水晶發出的光令人刺痛。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這個書櫃看起來很舊，但裡面的書籍卻看不到多少歲月的痕跡。"}]

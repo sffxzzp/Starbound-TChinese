@@ -1,0 +1,10 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這個礦石精煉機是用來從礦物中提取原始畫素的。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "^orange;礦石精煉機^white;"},
+{ "op" : "replace", "path" : "/subtitle", "value" : "將礦石變為畫素"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "我能把礦物放進這裡來製造畫素。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "用礦物來製造畫素。實用。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "機器粉碎碎碎石頭，製造錢。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "客觀。礦物能在這裡轉化成畫素。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "它能夠印刷貨幣！某種程度上…"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一臺能夠將礦物轉化成畫素的複雜的裝置。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一臺畫素機器。我一直想擁有一臺！"}]

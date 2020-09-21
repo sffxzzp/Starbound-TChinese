@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/description", "value" : "結實，含砂的月岩。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "月岩"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "推論。這些是月球上的天然岩石。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人不喜喜喜歡乾燥的月岩巖巖。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一些看起來佈滿了塵埃的乾燥的石頭。"}]

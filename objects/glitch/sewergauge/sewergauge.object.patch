@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個汙水儀表。沒人知道上面的資料是什麼意思。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "汙水儀表"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個神秘的儀表。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "儀表上面顯示著‘十單位汙水’。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "這這這東西沒沒沒有任何意意意義。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "沮喪。設定這個儀表的目的是未知的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這看上去很有科學氣氛。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一個不起眼的監測裝置。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這可能是個重要的東西但我並不瞭解。"}]

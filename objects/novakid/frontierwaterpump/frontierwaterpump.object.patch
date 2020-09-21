@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個用來輸送水的黃銅水泵，不過那是它還能發揮功效的時候。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "開拓者水泵"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個老舊的水泵。它看上去不再運作了，現在它只是個裝飾。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這個水泵似乎很久以前便停止工作了。不過它是個不錯的裝飾品!"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人沒沒沒看出這個東西意義何在。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "觀察。這個水泵似乎很久以前就生鏽了。我不確信它是否還能運作。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "它可能曾經還能抽水，但現在它只是個陪襯。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "鮫人的水泵絕不會生鏽或像它這樣破裂。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一個水泵。不過看上去它不在運作了。。"}]

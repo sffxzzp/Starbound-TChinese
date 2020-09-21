@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這件先驅者的胸甲由耐剛製成，像凱夫拉縴維那樣針織而成。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "先驅者胸甲"}]

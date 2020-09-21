@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個熱帶樣式的櫃子，上面還整了一棵小樹。。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "海島櫃子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這櫃子放在猿人家裡的話就顯得包含了太多愁善感了。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "如果想要坐在上去的話，這棵樹顯得有些太小了。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人喜喜喜歡任何上面長著樹的東西。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "逗樂。這櫃子頂上有一顆小樹。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "頂上有一顆小樹的櫃子。多可愛啊！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這櫃子讓我回想起了那被浪濤環繞的海島。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "如果這棵樹能再長大一些，我就可以躺在它的樹蔭下了。"}]

@@ -1,0 +1,4 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這刀片可以穿透時間本身。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "刺穿時間"},
+{"op": "replace","path": "/altAbility/name","value": "時間停止"},
+{"op": "replace","path": "/upgradeParameters/shortdescription","value": "刺穿時間^yellow;^reset;"}]

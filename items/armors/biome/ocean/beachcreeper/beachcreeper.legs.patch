@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這褲子有著黴爛皮革般的紋理。真噁心。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "爬行者胸甲"}]

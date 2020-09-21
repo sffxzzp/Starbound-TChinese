@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "藏違禁品的好地方。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "細長的監獄儲物櫃"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個儲物櫃，我想知道里面有什麼。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個儲物櫃，我想裡面可能塞滿了囚犯們的東西。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "偷偷偷取強盜和小偷的東西！葉族人不覺得難堪。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "思考。偷取贓物算是犯罪嗎？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我總想有一天可以打劫監獄的儲物櫃，現在這個夢想終於要實現了！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這些囚犯們已經離去很長時間了。把裡面的東西拿走沒什麼不對的。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "罪犯的櫃子。"}]

@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/description", "value" : "又冷又硬的混凝土。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "混凝土塊"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "熟識。混凝土是一種常用的建築材料。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人不喜喜喜歡冰冷的混凝土。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "混凝土能加工成一種十分堅硬的方塊。"}]

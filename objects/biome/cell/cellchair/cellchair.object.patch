@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一張明亮，現代化設計的椅子。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "細胞椅"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一張由肥大的細胞組成的椅子…漂亮而花哨。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "看起來有點不太舒服。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人喜歡簡簡簡樸的東西。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "無動於衷。明亮，簡單和由細胞組成的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這椅子以沒什麼科學概念製成的"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "何其炫耀的椅子，但它缺乏優雅感。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "如果我要選擇坐在這張椅還是地面，我會選擇坐地上。"}]

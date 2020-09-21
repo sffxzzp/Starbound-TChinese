@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個高階機甲部件的藍圖。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "高階機甲藍圖"}]

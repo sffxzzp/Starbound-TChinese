@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "努米海報"},
+{ "op" : "replace", "path" : "/description", "value" : "一張努米的宣傳海報，一個鮫人的兒童卡通片裡的吉祥物。"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "誰是努米？某個卡通角色嗎？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "努米？看起來它的形象介於鮫人和熊之間。冷…"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "某某某個魚人卡通人物。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "無感。這是一部兒童卡通片的廣告。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "努米似乎是一個鮫人兒童卡通片裡的吉祥物。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "額，我得承認到哪裡都看到努米讓我有點審美疲勞了。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "某種幼兒卡通角色。"}]

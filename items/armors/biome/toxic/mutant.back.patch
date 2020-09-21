@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這個能背在背上的管道看起來像正在運送有毒液體。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "突變背管"}]

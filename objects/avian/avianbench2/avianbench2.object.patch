@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一張舒適的翼族長椅。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "小鎮長椅"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這長椅看起來很舒適。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這幾乎是折翼者的最高工藝了。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "長椅的木頭軟軟軟軟的。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "印象深刻。這張長椅的做工比其他大部分的翼族傢俱都要好。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一張舒適漂亮的長椅。看起來做工精良。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "雖然它的做工精緻，但這張長椅缺乏魅力。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "看起來這是個歇腳的好地方。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "穿過這條鐳射束可能會觸發某些東西！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "鐳射絆線"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一根鐳射絆線。對製作陷阱很有用。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這根鐳射絆線應該會很有用。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "激激鐳射絆線。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "難忘。用鐳射觸發的絆線。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "穿過這條鐳射束可能會觸發某些東西！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一根鐳射絆線，用來愚弄入侵者會很有用。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這讓我想起了那些銀行搶劫案…"}]

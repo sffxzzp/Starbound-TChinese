@@ -1,0 +1,4 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個非常堅固耐用的工具箱。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "紅色工具箱"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "紅色的工具箱很有用！它又大又重，非常適合用來當鈍器。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "細心。一個非常堅固耐用的工具箱。"}]

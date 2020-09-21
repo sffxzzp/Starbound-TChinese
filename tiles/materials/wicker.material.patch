@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "柳條"},
+{ "op" : "replace", "path" : "/description", "value" : "一團編織起來的粗糙柳條。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "敏銳。這根柳條編織緊密，非常堅固。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "堅堅堅固的柳條可以用來做做做成牆。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "在我看來像是一些枝條。"}]

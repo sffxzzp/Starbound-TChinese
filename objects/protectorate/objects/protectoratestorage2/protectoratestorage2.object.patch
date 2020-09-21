@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這是一大架子的狀態艙。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "狀態艙儲物單元架"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "大地守護團向宇宙中發射了這些狀態艙。它們有時會故障。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這些狀態艙在閒置了許多年之後有時會故障。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "閃閃閃亮的狀態艙艙艙。很好的資源，但有時時時候會很危險險險。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "感興趣。這些狀態艙被髮射進了太空中，並落在了最近的星球上。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這些狀態艙被髮射進太空中並藉此開拓殖民地星球。雖然它們有時候會故障。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一種自動化的殖民手段。探險家們常常會發現自己被這些東西挫敗。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一組不錯的狀態艙。無視偶爾出現的故障的話，它們還是很有用的！"}]

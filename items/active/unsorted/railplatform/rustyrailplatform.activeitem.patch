@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個放置在軌道上的，有固定路徑的平臺。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "生鏽軌道平臺"}]

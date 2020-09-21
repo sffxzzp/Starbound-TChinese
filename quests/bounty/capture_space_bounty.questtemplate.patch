@@ -1,0 +1,8 @@
+[{"op": "replace", "path": "/title", "value": "^orange;殺死賞金目標"},
+{"op": "replace", "path": "/text", "value": "在那裡殺了賞金目標"},
+{"op": "replace", "path": "/completionText", "value": "你殺死了賞金目標"},
+{"op": "replace", "path": "/scriptConfig/objectives/findSpaceBountyStage", "value": ["^orange;前往^reset;^green;%s^reset;", "^orange;接近^reset;^green;罪犯藏身處^reset;", "^orange;部署^reset;到^green;罪犯藏身處^reset;"]},
+{"op": "replace", "path": "/scriptConfig/objectives/killBountyStage", "value": ["^orange;搜尋^reset;空間來尋找^green;藏身處^reset;", "^orange;逮捕^reset;^green;<bounty.name>^reset;"]},
+{"op": "replace", "path": "/scriptConfig/generatedText/text/default", "value": ["<bounty.name>的最後蹤跡在<coordinate.name>。"]},
+{"op": "replace", "path": "/scriptConfig/generatedText/complete/default", "value": ["深入太空並捕獲了<bounty.name>，乾的漂亮！你是一個真正的銀河英雄。\n\n來維和站領取你的獎勵吧！"]},
+{"op": "replace", "path": "/scriptConfig/generatedText/failureText/default", "value": ["你放了他們！？我得說，你這次沒能盡到自己作為和平衛士的責任，夥計！"]}]

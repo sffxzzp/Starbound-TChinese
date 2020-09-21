@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "有個生物危害符號的金屬標誌。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "生物危害標誌"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "常見的生物危害標誌。最好小心點。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這個是太陽的意思嗎？也許不是。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "有什麼意義的標標標記！葉族人不知道啦！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。我想我應該知道這個符號是什麼意思？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這是一個告示著“小心！壞東西！”的上了年代的標記。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這個醜陋的標誌在警告著什麼。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這兒的標記是在推廣什麼星之子品牌嗎？"}]

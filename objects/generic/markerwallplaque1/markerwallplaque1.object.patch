@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "簡約，然優雅。像這樣的銘牌可以為此地帶來真正的高貴感。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "鐵銘牌"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "我可以用這個標誌來最終確定屬於我的東西。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個用來告訴別人這是我的東西的方便標誌。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人放下標誌來說說說“離開！”"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "自豪。一個方便表明所有權的銘牌。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "有了像這樣的銘牌，所有人都會知道這裡是我家。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "鮫人的住處一般是獨一無二的，但這種銘牌會讓它變得絕對獨一無二。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一個告訴陌生人所有權已被佔有的奇特銘牌。"}]

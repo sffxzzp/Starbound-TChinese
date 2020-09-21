@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "我從來不曉得鍾還可以當爺爺。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "老爺鐘"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "猿人的鐘都是用無線電自動設定的。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "翼族人用影子的朝向看時間。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人只知道日出和日落。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "驚歎。這個鍾似乎能精確到1毫秒之內。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這個鍾發出的聲音既可能預示著凶兆，也可以安撫人心。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "時鐘的滴答用於冥想簡直完美。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "滴、答、滴、答。你沒法忽略鐘擺的聲音。"}]

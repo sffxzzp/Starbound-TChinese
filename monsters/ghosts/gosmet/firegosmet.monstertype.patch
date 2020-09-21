@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "火幽靈盔"},
+{ "op" : "replace", "path" : "/description", "value" : "這種生物有著縹緲的身體，受到威脅時會變成盔甲。"}]

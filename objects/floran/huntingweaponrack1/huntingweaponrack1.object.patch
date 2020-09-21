@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個武器架。不出所料，大部分武器都不見了。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "狩獵武器架"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個用來存放葉族人長矛的武器架。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個設計來儲存武器的架子。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "架子子子存放著長長長矛。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "小心。這些尖銳的長矛看起來已經準備好了隨時被抓住。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這些武器看起來不值得拿走。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一個暴力行為的無恥展架。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一個擺放著一些長矛的木製架子。"}]

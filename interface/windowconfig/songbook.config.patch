@@ -1,0 +1,6 @@
+[{"op": "replace","path": "/paneLayout/windowtitle/title","value": "曲目庫"},
+{"op": "replace","path": "/paneLayout/windowtitle/subtitle","value": "^#b9b5b2;你的所有音樂"},
+{"op": "replace","path": "/paneLayout/lblSong/value","value": "選擇一首歌"},
+{"op": "replace","path": "/paneLayout/group/hint","value": "樂隊名"},
+{"op": "replace","path": "/paneLayout/lblBand/value","value": "輸入和別人一樣樂隊名\n來合奏樂曲"},
+{"op": "replace","path": "/paneLayout/btnPlay/caption","value": "演奏"}]

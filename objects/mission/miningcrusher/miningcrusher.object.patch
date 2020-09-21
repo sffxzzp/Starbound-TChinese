@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個用來粉碎岩石的機器。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "採礦衝擊式破碎機"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個工業機器，用來粉碎石頭。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個用來粉碎岩石的機器。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "用來粉碎骨骨骨頭的機器…剛剛葉族人說了骨頭？葉族人指的是岩石！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "細心。這臺機器是為了粉碎岩石而存在的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一個用來粉碎岩石的機器。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一個難看的金屬架構。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "你肯定不想掉進這奇怪的裝置裡面。"}]

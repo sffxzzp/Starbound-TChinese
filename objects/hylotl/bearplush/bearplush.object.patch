@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "可愛的小熊玩偶。噢哦…"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "小熊玩偶"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個令人憐愛的小熊。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "多麼可愛，這個可愛的玩具熊。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "毛絨玩偶在盯盯盯著葉族人。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "激動。這隻熊的美妙我受不了了！"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我想永遠抱著這隻小熊。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "咦啊！多好的一個小熊玩偶。我需要一個！"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這個小傢伙挺可愛的，我覺得。"}]

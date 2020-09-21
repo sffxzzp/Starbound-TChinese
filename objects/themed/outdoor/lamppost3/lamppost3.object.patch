@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個有著兩個光源的街燈。好俏皮！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "雙頭街燈"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一種具有雙重燈泡的高大街燈。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "兩盞燈，像俯視我的一雙眼睛。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "從高大燈柱頂部投射的耀眼光光光芒。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "觀察。多麼高大而明亮的路燈。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "兩盞燈從燈柱上凝神著我。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "慷慨的光源照亮我前方的道路。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這個燈柱有兩盞燈。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個已被開啟的石棺。有很濃烈的氣味。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "開啟的石棺"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個沒有裝飾的棺材。也沒有屍體。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個為那些買不起木乃伊石棺的人所準備的棺材。這個已經被打開了。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人認為死者應應應該變會肥料。也也也許死者也是這樣認為的。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "著迷。電子人將屍體回收用作備用零件。而這裡可能發生了同樣的事。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一個令人沮喪的長眠之地。看起來棺材的主人也是這樣覺得的。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "也許裡面的屍體找得了更體面的安息之地。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "它是空的。屍體去哪裡了？"}]

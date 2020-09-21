@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個可破壞的發育體。真想知道里面有什麼。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "小型觸手囊"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個奇怪的發育體。裡面可能有些有用的東西。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個有趣的發育體。裡面有某種東西，我想知道那是什麼…"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "碎碎碎開它！拿出裡裡裡面的好好好東西！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "狂熱。我無法控制住砸開這種物體的衝動。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我覺得這裡面有什麼東西。或許我可以開啟它。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "時則蠻力亦有回報。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這種看起來就奇怪的發育體很適合當練槍的靶子。"}]

@@ -1,0 +1,4 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個非常有彈性的植物。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "一個非常有彈性的植物。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族在上面彈來彈去。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "娛樂。形狀像一個彈簧的植物。"}]

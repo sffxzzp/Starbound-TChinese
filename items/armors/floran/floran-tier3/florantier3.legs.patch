@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "包裹著樹葉的長褲，能與森林融為一體。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "遊牧長褲"}]

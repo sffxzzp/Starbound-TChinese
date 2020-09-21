@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個小小的紅色蝴蝶結。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "紅色小蝴蝶結"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一種裝飾蝴蝶結。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一種裝飾用的閃亮絲帶。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "紅紅的就像帶血的生肉。節日的顏色色色讓葉族人餓了。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "節日。一條紅絲帶喚起了人們的關愛之情。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "它是一個不錯的閃亮絲帶。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "它是相當漂亮的絲帶。天鵝絨做的，是嗎？"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一個漂亮的紅蝴蝶結。"}]

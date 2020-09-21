@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "架子上是空的。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "標配架子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "空的架子。等著裝入裝飾品和紀念品。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "翼族人的家總會用各種物件裝點來喚醒那些美妙的記憶。這裡面沒什麼東西。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "這裡沒有葉族可以用的，去別別別處看看。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "無聊。這裡沒什麼好玩的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "空的…不開心！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這些櫃子裡什麼都沒有。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "如隕石般貧瘠。"}]

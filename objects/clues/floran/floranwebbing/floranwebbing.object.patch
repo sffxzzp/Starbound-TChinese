@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這個戰利品架被一張骯髒的網覆蓋住了。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "髒網架"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "呃…這是某種髒兮兮的網。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這是一種骯髒的網，我最好別碰它！"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "這這這張網是個很好的戰利品。儘管它很很很可怕。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "害怕。只是一個超大的、黏糊糊的網，沒什麼好怕的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這似乎是某種絲網。好惡心！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "奇怪的生物織出的汙濁的網。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一團骯髒的網狀黏性物質。"}]

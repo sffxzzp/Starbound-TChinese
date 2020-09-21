@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個精細的太陽系的矮行星模型，冥王星。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "冥王星模型"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "我不明白為什麼人類對這個小矮人般的矮行星如此痴迷。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "在古地球神話中，冥王星是以一個地獄之神撒旦的名字命名的。這讓我想起了一些翼族類似的神話。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "在太陽系繫系外圍一個軌道上的小小小矮人行星。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "困惑。為什麼人類在如此慎重考慮中依然認定持有冥王星？它甚至不是一個行星。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "可憐的冥王星…你真的撞倒了一個釘子。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我瞭解到在學院這顆矮行星的文化地位在地球文化101的會議中具有爭議性。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "冥王星被認為是太陽系中的第九顆行星，在它被撤銷太陽系成員之前。它只是個小流氓。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一扇廉價的防洪門。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "汙水防洪門"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一扇防洪門。它看上去已經不起作用了。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我不覺得這扇防洪門可以讓我的羽毛保持乾燥。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "這這這扇門看看看起來並不穩穩穩固。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "深思。這扇門的結構看上起並不合乎規格。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這扇防洪門似乎有點不靠譜。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這種劣質防洪門的存在有什麼意義？"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這東西看去上並不是什麼都能擋住！"}]

@@ -1,0 +1,3 @@
+[{"op": "replace","path": "/charGenTextLabels","value": ["膚色","髮型","上衣","褲子","內褲","髮色","上衣顏色","褲子顏色","人類","人物性格"]},
+{"op": "replace","path": "/charCreationTooltip/title","value": "人類"},
+{"op": "replace","path": "/charCreationTooltip/description","value": "在他們漫長而動盪的歷史中，人類往往有一顆對於生命和宇宙的活潑而積極的心。人類著手組建了一個聯合整個宇宙的社會—大地守護團。"}]

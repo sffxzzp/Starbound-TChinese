@@ -1,0 +1,3 @@
+[{"op": "replace","path": "/speciesText/default/buttonText","value": "大君王神廟"},
+{"op": "replace","path": "/speciesText/default/repeatButtonText","value": "重新挑戰大君王神廟副本"},
+{"op": "replace","path": "/speciesText/default/selectSpeech/text","value": "這個幾乎已經廢棄的神廟正是艾絲特認為翼族人的神器存放的地點。"}]

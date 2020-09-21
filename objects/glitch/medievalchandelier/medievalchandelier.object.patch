@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一盞枝形鐵吊燈。照亮整個大堂的好方法。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "中世紀枝形吊燈"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一盞金屬吊燈。它彷彿投影出長長的影子。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "把燈吊在天花板上，可以讓光線籠罩整個房間。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "吊起來的火光讓讓讓葉族人很緊緊緊張。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "安心。一盞枝形吊燈，簡潔的光源讓人想起來家的感覺。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "如果這是電子遊戲的話，吊燈可能會掉下來並砸到某個人。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這個吊燈使周圍一切都沐浴在溫暖的光線之中。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "誰這麼有時間把這些蠟燭一個個點亮的？"}]

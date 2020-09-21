@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這個通風口會在風呼嘯而過時鏗鏘作響。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "通風口"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "通風口。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "通風口。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "通風口。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "確認。通風口。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一個小的通風口。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "通風裝置"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "通風口。"}]

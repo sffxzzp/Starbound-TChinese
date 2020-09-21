@@ -1,0 +1,4 @@
+[{ "op" : "replace", "path" : "/description", "value" : "惡劣、粘稠的瀝青。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "惡劣、粘稠的瀝青。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "粘稠的。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "陳述。有用的瀝青。"}]

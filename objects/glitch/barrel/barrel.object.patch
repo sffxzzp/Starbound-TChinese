@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個木桶。裡面可能藏著任何東西！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "小木桶"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個木桶，裡面有什麼東西嗎？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個木製容器，外面用鐵圈加固。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人要放東西西西進去然後滾動它。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "愉快。一個木桶，儲存不值錢玩意兒的良好容器。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一個木桶。適合儲存食物和材料。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一個用來裝貨的木桶。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一個平凡無奇的木桶。"}]

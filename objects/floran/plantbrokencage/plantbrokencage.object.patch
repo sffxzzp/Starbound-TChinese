@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個損壞的籠子。什麼東西逃了出去？"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "破損的木籠子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "也許有一個可怕的生物從這裡逃出來了。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "也許是一個葉族人囚犯從裡面逃出來了。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "這個籠子破了，像是有東西逃逃逃跑了。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。這裡一定關押過某些強壯的東西。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "即使是我也可以從這脆弱的籠子裡逃出來。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我希望有人能從這裡逃脫。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這個籠子一定做得不牢固。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個用花瓣做成的箱子。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "巨型花瓣箱子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "你能很容易拿走這個箱子。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "花瓣的箱子。容易開啟。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族可以改造箱箱箱子，讓它可以吃掉小偷偷偷。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "觀察。開啟這個箱子釋放看不見的花粉粉塵。其長期影響是未知的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "可愛美豔的箱子。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一個美麗自然的箱子。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這明亮的箱子一定滿載了喜樂。"}]

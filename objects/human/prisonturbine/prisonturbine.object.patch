@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這是渦輪。科學，你懂的。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "小型渦輪"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這是渦輪，是用來…呃…自由迴轉的。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "會讓我的羽毛立起來的。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人想進到管子裡。葉族人能能能行。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "懷疑。渦輪機的葉片上有少許血跡"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我相信這東西可以讓USCM把監獄迅速改造成飛行堡壘，我也能做到。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "渦輪，這東西在水下可以用來為機器提供動力。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "不確定這些東西是用來幹什麼的。"}]

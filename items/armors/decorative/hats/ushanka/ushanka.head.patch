@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一頂來自祖國的帽子。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "蘇聯毛帽"}]

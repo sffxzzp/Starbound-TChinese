@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "足不出戶即可將食物和產品以炸上太空的方式送往泰拉市場。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "泰拉市場貨運站"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "將產品放進箱子，將箱子發射上太空，從產品中獲得畫素。真方便啊。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "可以被髮射到太空的箱子？如果你想賣貨的話，這就是你該用的方法。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "賣賣賣東西太無聊了…除非你是要把箱子發射上太空來賣！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "興奮。太空貨運系統！我可以把產品發射上太空送到泰拉市場！"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我可以用這個把貨物炸上太空！如果貨物合適，我還能得到報酬！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這個設施可以將箱子發射上太空。這賣貨物的方法有點像小說裡寫的那樣…"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "煙花應該比不上這種能被髮射上太空的產品貨運箱。"}]

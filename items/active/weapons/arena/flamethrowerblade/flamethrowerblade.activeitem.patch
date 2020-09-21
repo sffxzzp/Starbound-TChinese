@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這火焰噴射器做的像一把劍。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "火焰噴射器刀"}]

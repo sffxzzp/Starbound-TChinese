@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這幅壁畫描繪了一個觸手。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "模糊的洞穴壁畫"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "我突然感到害怕。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "噢親愛的，這真的是一幅…的畫嗎？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人不不不想再看到這這這個了。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "害怕。也許是我的錯覺，但…這幅畫真的是非常眼熟。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "哦不…這幅畫怎麼到這來的？！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這給我帶來了不好的回憶。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這不是我今天想看到的。"}]

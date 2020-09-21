@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "召喚屬於你自己的猿人村民！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "猿人生成器"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這個能讓我召喚我族人的一員。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個猿人分配器。罕見。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "從空氣中蹦出了一隻不可思議的猴人！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "哲思。這些被召喚的人有自己的靈魂麼？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "酷，一臺猴子機器。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我為什麼會想要召喚一個猿人？"}]

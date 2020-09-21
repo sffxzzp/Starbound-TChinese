@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一臺損壞的自動販賣機。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "損壞的自動販賣機"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這臺動販賣機曾經出售過可口的飲料。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我還記得曾在這臺自動販賣機買過飲料…現在已成為過去的美好日子了。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人過後會為這臺死掉的販賣機哀悼的。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "沉思。我希望我的命運能比這臺可憐的販賣機好些。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我本來能買一瓶能量飲料的，但是這臺機器肯定是發生故障了。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "如果我不能儘快逃出這裡，我的命運就會和這臺販賣機的一樣了。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這臺機器被破壞的真慘。"}]

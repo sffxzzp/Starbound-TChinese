@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個裝滿了未知物質的罐子。可能有高致命性。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "汙水罐"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個大型罐子。裡面有什麼？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我確定聽到裡面有敲擊聲。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "大飲料罐讓葉族人很迷迷迷惑。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "驚詫。熱能檢測顯示罐子裡面有生命跡象。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我敢打賭在這裡面有一隻恐怖的生物。哇。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這裡面有什麼漂浮物，不停地在敲打著內壁。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "看上去裡面有什麼東西，不過我並不打算去確認。"}]

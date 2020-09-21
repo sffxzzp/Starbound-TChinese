@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一臺運輸貨物的手推車。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "手推車"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一臺大型手推車。看起來可以攜帶大量的物品。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一臺大型木製兩輪車。我想知道這是用來幹什麼的。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人想要騎車兜風！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "冷漠。手推車可以用來運輸貨物。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一臺非常大的手推車。你可以在裡面睡午覺。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一臺非常大的車。四輪驅動豈不更好？"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "某種大型手推車，很適合託運重物。"}]

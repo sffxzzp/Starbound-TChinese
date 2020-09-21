@@ -1,0 +1,2 @@
+[{"op": "replace","path": "/scriptConfig/dialog/attack/default/default","value": ["進攻！"]},
+{"op": "replace","path": "/scriptConfig/dialog/attack/hylotl/default","value": ["你想要來一場戰鬥？很好！","我們的劍法無與倫比！","這是我們的領地，並且只有我們！","我接受過最好的訓練！你沒機會打贏我！"]}]

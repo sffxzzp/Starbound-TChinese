@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "發射一片在近距離極為致命的霰彈。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "NPC霰彈槍"}]

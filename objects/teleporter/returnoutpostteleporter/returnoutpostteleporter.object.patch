@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這個傳送門可以送我返回前哨站。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "前哨站傳送門"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個直接連線著前哨站的通道。棒！"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個可以把我送回前哨站的傳送門。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "這個傳送門可以送葉族人返回前哨站。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "放心。這個能將我安全地傳送回前哨站。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一個連線著前哨站的便捷通道。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一個直接連線著前哨站的通道，一臺真正有用的裝置。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "要是我踏進這裡，我最終就能到達前哨站。"}]

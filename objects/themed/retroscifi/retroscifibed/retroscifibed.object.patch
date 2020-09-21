@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一張以未來複古主義樣式製造的床。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "復古床"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "啊哈，我最甜美的睡夢就是在這種床上度過的。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "你需要站直了才能在這床上睡覺。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "奇奇奇怪的機械艙是用來睡睡睡覺的。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "高昂。這張床能讓人以垂直站立的睡姿獲得充足的休息。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這床真有夠古老的，老到復古了。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "床應該不僅僅是單純用來恢復精力的工具。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "睡在這裡面就像是經歷一次科學實驗。"}]

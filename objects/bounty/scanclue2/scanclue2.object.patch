@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "賞金的線索。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "掃描線索2"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個手印！"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "有人留下了這個手印，但我的掃描器可以找到它的蹤跡！"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族能看到手！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "奇妙。掃描器能找到最近來過這裡的人的微弱蹤跡。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這個奇怪的大手印一定是什麼人留下的。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這個手印肉眼幾乎看不見。幸運的是，我觀察力很強。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這手印肯定是最近留下的，辨識中！"}]

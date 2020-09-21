@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "重型機甲腿，平衡速度與推進器功率。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "無畏機甲腿"}]

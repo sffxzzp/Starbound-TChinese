@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "圓形的重金屬桌。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "空間站桌"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這張工業用的桌子看起來很結實。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這是一張簡單的桌子，但它能勝任這項工作。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "這張金屬桌子又小又圓。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "不為所動。這個小金屬桌一點也不起眼。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這是一張短金屬桌。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這個簡單的金屬桌子看起來很結實。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這張圓桌看起來是為了紙牌遊戲而製作的。"}]

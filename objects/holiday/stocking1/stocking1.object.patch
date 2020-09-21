@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個毛茸茸的紅襪。對於有些人的腳來說太大了。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "紅長襪"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個奇怪的傳統。為什麼將襪子掛在牆上？裡面有什麼？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我死也不會穿。裡面有什麼？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "傻傻傻氣的毛襪子。裡裡裡面有什麼？"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。為什麼有一隻襪子被掛在牆上？裡面有什麼？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "聖誕老人給我留下過什麼呢？一塊煤，或許？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一隻襪子。它為什麼掛在牆上？裡面有什麼？"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "襪子掛在牆上不太好，為什麼不讓你的腳暖和點呢？"}]

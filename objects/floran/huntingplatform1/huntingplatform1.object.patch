@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個凸起的平臺。別被卡在下面了。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "凸起的平臺"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個凸起的大型木質平臺。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這個木製的平臺看上去十分堅固。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "這個平臺是葉族人獵手們打造的。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "感興趣。這樣子的平臺有什麼用處呢？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一個剛好抬離地面的木製平臺。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "不管怎樣，製造的平臺葉族人的工藝不是很好。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "只是一些木製的平臺而已。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一扇地牢的房門，無論多厲害的囚犯都能關住。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "中世紀牢門"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一扇堅固的難以置信的牢門。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一扇很結實的門。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "堅堅堅固的金屬門。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "心疼。電子人把囚犯鎖在這類門裡面。這些犯人通常是那些產生了自我意識的其它電子人。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "沒人能從有這種門的牢房裡逃脫。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "鮫人以貴賓之禮接待囚犯們。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一扇鎖住法外之徒的優秀的門。"}]

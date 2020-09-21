@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "新月環魚"},
+{ "op" : "replace", "path" : "/description", "value" : "它身體中間的圓環可以透過製造水流來驅動自身在水中移動。"}]

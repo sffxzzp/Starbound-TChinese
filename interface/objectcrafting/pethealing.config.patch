@@ -1,0 +1,2 @@
+[{"op": "replace","path": "/gui/lblText/value","value": "^#b9b5b2;放置捕捉艙在左側格子中。"},
+{"op": "replace","path": "/gui/toggleCrafting/caption","value": "治療"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "閃亮的裝甲在架子上展示著。唔…盾牌看起來鬆了。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "可疑的展示用盔甲"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一套漂亮的盔甲。盾牌看起來鬆了。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "似乎是戰鬥用盔甲。盾牌看起來好奇怪。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "大鐵人會會會穿大鐵甲嗎？葉族人嗅嗅嗅到了這裡有可可可疑的氣息。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。這套盔甲的盾牌底下藏著一個開關裝置。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一套引人注目的盔甲。如果這是在電影裡，這個盾牌裡肯定藏著一個秘密機關。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這盔甲看起來從沒在戰場上被穿戴過。盾牌看起來特別劣質脆弱。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "貌似在戰鬥中並不需要裝備這樣的東西。這盾牌是怎麼了？"}]

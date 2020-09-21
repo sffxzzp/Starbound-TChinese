@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個裝飾性的鋼鐵標誌。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "開拓者鋼鐵標誌"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個鋼鐵鍛造的標誌，可以掛在牆上。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我很好奇這象徵著什麼？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人想想想知道如果掛上這個東西是否可以讓讓讓武器更有效率。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "著迷。這種牆面裝飾有什麼深層的意思嗎？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我想知道這個標誌有什麼意味，又或者只是為了好看？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這個鋼鐵鍛造的標誌似乎是裝飾用的，不過它的做工相當粗糙。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這個標誌對於像我這樣的人來說意味著註定成功。"}]

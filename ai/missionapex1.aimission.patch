@@ -1,0 +1,3 @@
+[{"op": "replace","path": "/speciesText/default/buttonText","value": "科技發展部要塞"},
+{"op": "replace","path": "/speciesText/default/repeatButtonText","value": "重新挑戰科技發展部要塞副本"},
+{"op": "replace","path": "/speciesText/default/selectSpeech/text","value": "艾絲特認為這座巨大的基地是猿人神器所在。"}]

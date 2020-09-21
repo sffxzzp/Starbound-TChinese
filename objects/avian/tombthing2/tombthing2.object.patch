@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個描繪著神國景色的翼族雕刻棺材。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "翼族雕刻棺材"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這棺材上的裝飾可能描繪的是翼族人的來世。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這種棺材是在翼族人死後，由他們的親屬親手裝飾的。這些雕刻描繪了神國的景象。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人討厭爛在這這這樣的棺材裡。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "觀察。為這個棺材做裝飾的人的手似乎並不穩。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "他們曾試著讓這個棺材顯得更光鮮一些。看起來是白費功夫。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "看起來有人曾試圖用加上雕刻的方法來讓死者更體面。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這是某個屍體的安息之所。從裝飾上來看，死者生前一定很有人緣。"}]

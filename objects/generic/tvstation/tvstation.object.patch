@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "用於廣播影片訊號。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "電視臺"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "我曾經知道過怎麼用這個來直播影片。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "控制檯螢幕上依然顯示著文字。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人不明明明白怎麼用這個東東東西。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "傷心。看上去這個電視臺曾被用於直播影像。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這是一個廣播電視站。這曾在地球上風靡一時。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這個面板看上去曾經可以被用於傳送影片訊號。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這臺機器看上去也曾有過風光的日子。"}]

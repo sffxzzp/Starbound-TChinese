@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "接受液體能源作為飛船超光速行駛的燃料。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "FTL燃料倉"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "FTL燃料倉。將燃料轉變為自由。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "FTL燃料倉。讓我們裝滿它然後去摘星星吧！"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "FTL燃料倉。讓我我我們裝滿它！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "激動。燃料倉的供能使我能參觀其他星球。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "飛船的燃料倉。有了燃料我們就能探索其他星球。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "看似低微的燃料倉卻是探索之旅的命根子。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "FTL燃料灌進這裡！"}]

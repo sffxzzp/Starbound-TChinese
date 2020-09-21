@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個來自異域的床。它看起來似乎是活的。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "異域的床"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "我想念家中的那張普通床。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一張來自外星的床。那些是葉子？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "植物床！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "可疑。這張床散發出某種…體熱？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "觸控起來有溫暖和海綿的感覺。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一張設計奇特的床。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這是一張設計有趣的床，這肯定是！"}]

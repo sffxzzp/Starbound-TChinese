@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這種爐罐內的岩漿一直迴圈以保證它不會凝固。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "梯流熔岩罐"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這個爐罐會處理來自內部熔融液體的能量。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "滾燙的液體從這個爐罐上流下。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "討討討厭滾燙的岩漿流。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "難忘。維護這種尺寸機器的工程非常困難。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這些岩漿的蒸汽比我人還大。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "此為熔岩靜若秋水，切勿令其濺至吾身。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一個傾倒的大罐子裡都是亂七八糟的岩漿。"}]

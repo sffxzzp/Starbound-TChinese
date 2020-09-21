@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個橙色晶洞音符。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "晶符Ｂ"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個當我靠近就會發出旋律的石頭。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個發光石頭。它會發出音符之聲"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "發光的石頭傳出陣陣鳴音。葉族人聆聽著。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。聲波從這種地質構造中發出。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一個發聲石頭。太酷了。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "光與音之石。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "又大又老的綠石頭就像教堂的鐘一樣會鳴響。令我頭暈目眩。"}]

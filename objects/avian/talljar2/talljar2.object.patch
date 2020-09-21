@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這壺看起來就像是我在陶藝課程上做出的作品。很粗糙。我應該砸碎它。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "粗糙的壺"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個長壺。也許裝著補給。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個長壺，沒什麼特別的。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人砸砸砸碎了許多壺。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "沉思。砸還是不砸？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "新的一天，又有新的壺讓我砸了。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這些壺讓我變得更有侵略性了。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "必須把這些都砸碎以找出裡面藏的是什麼。"}]

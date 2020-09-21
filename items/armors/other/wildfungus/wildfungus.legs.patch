@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這雙靴子非常耐用，不過會讓你的腳聞起來非常噁心。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "荒野菌靴"}]

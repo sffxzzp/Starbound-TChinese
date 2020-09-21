@@ -1,0 +1,10 @@
+[{"op": "replace","path": "/scriptConfig/crew/role/name","value": "藥劑師"},
+{"op": "replace","path": "/scriptConfig/crew/role/field","value": "藥劑學"},
+{"op": "replace","path": "/scriptConfig/dialog/crewmember/roleDescription/default/default","value": ["每當我們在飛船上，我會給你一個增益！","當我們在飛船上時，我會給每個船員一個增益！"]},
+{"op": "replace","path": "/scriptConfig/dialog/crewmember/roleDescription/floran/default","value": ["當我們在飛船上時，葉族人將會為你提升狀態！"]},
+{"op": "replace","path": "/scriptConfig/dialog/crewmember/roleDescription/glitch/default","value": ["友善。只要我們還在船上我就會給你附加一個正面狀態！"]},
+{"op": "replace","path": "/scriptConfig/dialog/crewmember/roleDescription/novakid/default","value": ["當我們在飛船上時，我會給你一個增益，夥伴！"]},
+{"op": "replace","path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default","value": ["讓我馬上給你一個增益！","讓我來幫你！","看上去你需要我的幫助！","我可以幫忙！"]},
+{"op": "replace","path": "/scriptConfig/dialog/crewmember/combatBenefit/floran/default","value": ["葉族人有有有可以幫到你的地方！","葉族人可以幫忙！","葉族人可可可以幫到你！"]},
+{"op": "replace","path": "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default","value": ["渴望。我可以幫助你！","興奮。可能你需要充充電來完成這項工作！","糾結。我懷疑這東西是否能幫到你。","熱心。 拿上它，它會有幫助的！"]},
+{"op": "replace","path": "/scriptConfig/dialog/crewmember/combatBenefit/novakid/default","value": ["看上去你需要找個幫手，夥伴！","你看上去需要一個助手！","看起來你正急需一名幫手！","等等夥伴，我可以幫你！"]}]

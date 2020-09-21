@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/description", "value" : "如暗影籠罩般的石頭。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "暗影塊"},
+{ "op" : "replace", "path" : "/glitchdescription", "value" : "著迷。 這些黑黑的方塊看起來會吸收它周圍的光線。"},
+{ "op" : "replace", "path" : "/florandescription", "value" : "被黑暗籠罩罩的方塊塊塊。"},
+{ "op" : "replace", "path" : "/novakiddescription", "value" : "看起來很黑的石頭塊。"}]

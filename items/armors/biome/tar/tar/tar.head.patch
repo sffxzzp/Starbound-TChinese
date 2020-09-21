@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "將你的腦袋用滾燙的瀝青包起來！怎麼可能會有問題？"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "瀝青面具"}]

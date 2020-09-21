@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這種電池可用於為高科技站點、武器和裝置供能！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "電池"}]

@@ -1,0 +1,4 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "劍齒虎頭骨"},
+{ "op" : "replace", "path" : "/description", "value" : "劍齒虎的頭骨化石。"},
+{ "op" : "replace", "path" : "/completeSetDescriptions/shortdescription", "value" : "劍齒虎的頭骨化石"},
+{ "op" : "replace", "path" : "/completeSetDescriptions/description", "value" : "劍齒虎頭骨是最廣泛發現的化石之一，其細長的牙齒非常容易辨別出來。"}]

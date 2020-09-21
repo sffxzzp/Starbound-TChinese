@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個實驗性機體，由不穩定的放射性核心供能。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "反應堆機體"}]

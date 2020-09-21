@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個圓形木製桌子。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "圓桌"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個普通的圓桌。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個圓桌，它簡潔得令人愉快。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "簡簡單的桌子。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "高興。這張桌子的圓周是完美的圓形。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一個圓形木桌子。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一個在設計方面很簡單的桌子。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一個看起來很不錯的木桌。"}]

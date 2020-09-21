@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一張為叛徒準備的桌子。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "審訊桌"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "不知道多少同胞曾在這桌子上被鞭打過…"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這種行為令人髮指，這桌子應當被銷燬。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "這不是葉族人做做做飯的桌子麼？"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "噁心。電子人用這樣的裝置來從敵人身上榨取秘密。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "虐待…一個很多很多年前已被人類用法律禁止了的行為。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "虐待在一個開明的社會是沒有容身之地的。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一臺骯髒的裝置。"}]

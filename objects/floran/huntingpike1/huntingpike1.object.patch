@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一些插在尖刺上的骨頭。簡直病態。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "尖刺上的骨頭"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這似乎是安插在一根尖刺上的一部分骨架。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "葉族人總是把骨頭當作戰利品來展示。多麼粗魯的行徑。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "骨架是是是很好的裝飾品。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "震驚。這些葉族人竟用如此粗暴的方式來展示死者的骨頭。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "不管這個傢伙是誰，他不應該以這樣的方式結束生命。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這些骨頭是被組裝起來作為一個警示麼？"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "注視著這個東西讓我膽戰心驚。"}]

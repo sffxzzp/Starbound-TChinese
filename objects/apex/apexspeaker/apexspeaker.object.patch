@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "對講機經常用於廣播…或接收訊息。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "通告對講機"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這樣的對講機在科技發展部治下是很普遍的。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個單調低沉的嗡嗡聲從這個裝置裡傳出來。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "喂喂喂…？葉族人知知知道有人在聽…"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "緊張。它正在從某處接收著無聲訊號。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一個對講系統。不知道如果我對它講句話，會不會有人迴應。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這對講機看起來像藏了一個內建攝像頭。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一個發號施令而非播放音樂的裝置，真不知羞恥。"}]

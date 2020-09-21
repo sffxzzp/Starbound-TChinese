@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個光滑的鮫人風格機體，擁有一個完整的三目偵察系統。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "化石盔機體"}]

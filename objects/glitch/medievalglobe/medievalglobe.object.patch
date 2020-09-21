@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個未知星球的模型。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "中世紀星球儀"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個星球儀。與飛船上關於這個星球的資料不符。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這上面似乎標註了所有的大陸塊。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "好小的星球。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "失望。一個星球儀，由某個不可靠的製圖員製造。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "沒有一個星球的情況符合這個星球儀的描述。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "根據我們飛船的資料，這個星球儀完全不靠譜。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一張不咋地的地圖。誰知道這指的是哪個星球！"}]

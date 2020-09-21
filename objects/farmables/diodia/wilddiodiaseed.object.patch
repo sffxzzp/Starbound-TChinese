@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "雙梅，有著綿軟根莖的味道像銅的植物。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "雙梅種子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "雙梅並不是最美味的東西，但是種起來很方便。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "雙梅看上去像堅果，但是嚐起來不像。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "嚐嚐嚐起來像血，葉族人將雙梅作為可接受的替替替代品。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "無禮。雙梅是被過分低估了的蔬菜。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "看起來像土豆，嚐起來像鋼鏰。不太好權衡。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "有著苦澀根莖的植物。利於增加風味。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "銅味道的雙梅在電子人中非常流行。"}]

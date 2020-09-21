@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一根天線。這通常用來增強通訊訊號。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "天線"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一根天線。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "增強訊號用的天線。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人可以用它來捅捅捅。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "惱怒。這個天線會干擾到我的感測器。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "那頭有人嗎？等等，這關我什麼事？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一根天線。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一個用來接收訊號的裝置。"}]

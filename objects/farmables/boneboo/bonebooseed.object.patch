@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "骨竹，鈣質的優良來源。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "骨竹種子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "相當不尋常的植物。莖很脆而果實肥厚。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "骨竹不合翼族人的口味。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "又鬆脆，又有嚼勁，又多肉的食物物物。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "無興趣。該植物顯然很像有機內部解剖。電子人沒有這些結構。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這植物可能不太適合素食主義者。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "很多鮫人素食料理是用骨竹做的。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "嚐起來像肉的水果。真讓人困惑！"}]

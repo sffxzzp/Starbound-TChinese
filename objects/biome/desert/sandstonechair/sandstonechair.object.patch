@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一把砂岩製成的椅子，易碎。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "砂岩椅子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個粗糙的砂岩椅子。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這把椅子很粗糙會傷到羽毛。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族扭動，椅子毀壞。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "估量。如果兩人一起坐在這椅子上，椅子將會毀壞。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "坐在這裡你會渾身上下都是沙子！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一個粗糙的砂岩椅子。會對面板產生損傷。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "坐在這椅太久會令你的背麻木。"}]

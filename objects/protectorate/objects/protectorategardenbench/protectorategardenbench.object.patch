@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一條能在守護團庭院裡見到的長凳。上面有塊飾板。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "守護團庭院長凳"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一條堅固的木凳。飾板上寫著“紀念艾絲特 布萊特”。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "長凳上有塊飾板。飾板上寫著“紀念艾絲特 布萊特”。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人經常坐坐坐在這條長凳上。飾板上寫著“紀念艾絲特 布萊特”。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "著迷。我以前從沒留意過長凳的飾板寫著什麼…“紀念艾絲特 布萊特”。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一條不錯的木凳。飾板上寫著“紀念艾絲特 布萊特”。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這條長凳上的飾板寫著“紀念艾絲特・布萊特”。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "讓我看看長凳飾板上了寫了啥…“紀念艾絲特 布萊特”。"}]

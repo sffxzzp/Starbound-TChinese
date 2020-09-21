@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "把畫素壓縮起來以便儲存。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "^orange;畫素壓縮機^white;"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "我能在這裡儲存畫素。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個能儲存我的畫素的安全的地方。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人把閃閃發光的玩意放在安全全全的地方！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "客觀。一個畫素銀行。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我想知道這個畫素銀行是否有一個透支的功能…"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "為未來儲存畫素是一種很好的投資方式。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一個用來貯存你貴重方塊的機器。當然我希望它是安全的…"}]

@@ -1,0 +1,4 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一種被設計成能夠適應壓力變化的鋼樑。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "承重柱"},
+{ "op" : "replace", "path" : "/glitchdescription", "value" : "瞭解。一種能夠適應高壓調整的鋼樑。"},
+{ "op" : "replace", "path" : "/florandescription", "value" : "閃亮又堅堅堅固的金屬梁。"}]

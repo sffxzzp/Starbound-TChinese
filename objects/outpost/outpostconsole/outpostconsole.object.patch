@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "控制檯。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "獨立控制檯"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "可以操控未知物件的控制檯。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "控制檯。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人能用這這這個…但不清楚這是幹什麼的。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "擔心。我不確定這個控制檯是幹什麼的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "控制檯。我能開啟和關掉它。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "不知道控制什麼的控制檯。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "如果我按按鈕的次數足夠多，這個控制檯或許就會做什麼。"}]

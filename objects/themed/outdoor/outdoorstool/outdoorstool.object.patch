@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一張靈巧的金屬小凳，適合在戶外使用。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "戶外小凳"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一張金屬小凳。簡單明瞭。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一張供休息用的凳子。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "這是一張張張凳子。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "細心。這是張金屬小凳。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一人用座位。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "可以讓你放鬆一會兒雙腿和大腦的地方。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一張簡易小凳。沒有靠背。"}]

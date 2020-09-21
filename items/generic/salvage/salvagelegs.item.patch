@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "該元件可以用於製作機械腿。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "回收激勵器"}]

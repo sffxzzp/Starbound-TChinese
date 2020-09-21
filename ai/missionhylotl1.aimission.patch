@@ -1,0 +1,3 @@
+[{"op": "replace","path": "/speciesText/default/buttonText","value": "大塔圖書館"},
+{"op": "replace","path": "/speciesText/default/repeatButtonText","value": "重新挑戰大塔圖書館副本"},
+{"op": "replace","path": "/speciesText/default/selectSpeech/text","value": "經過計算，這個古老的島嶼建築群正是鮫人神器所在的區域。"}]

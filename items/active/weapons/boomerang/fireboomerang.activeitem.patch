@@ -1,0 +1,3 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個炎熱的飛鏢與熔火之心。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "火焰飛鏢"},
+{"op": "replace","path": "/upgradeParameters/shortdescription","value": "火焰飛鏢^yellow;^reset;"}]

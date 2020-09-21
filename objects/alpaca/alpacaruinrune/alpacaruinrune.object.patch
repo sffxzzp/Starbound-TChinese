@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個象徵著毀滅的古老符文。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "毀滅符文"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這是一個意味著毀滅的古代符文。奇怪的是，螺旋形竟然表達的是這樣的東西。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個類似我們自己符文的古代符文。這個意味著毀滅。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "古代符文…這個意味著毀滅。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "細心。一個象徵廢墟與腐爛的古老符文。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這是一個意味著毀滅的古老符文。有點晦氣。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一個意味著毀滅的古老石符文—提醒我們時間的緩緩流逝將改變一切。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這是一個意味著毀滅的古代符文。"}]

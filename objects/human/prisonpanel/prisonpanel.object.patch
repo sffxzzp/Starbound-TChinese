@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這個面板用於顯示與罪犯互動的資訊…"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "USCM流放地資訊面板"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "從這裡的資訊來判斷，囚犯們不應該挨棒子毆打。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "顯然，有犯人想要“一杯好茶”，這個要求被拒絕了。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "“不要傷害犯人”。好多嚴格格格的規條條條。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "懷疑。看來監獄看守不得不對囚犯們進行檢查，以確保他們都是人類。當然，這種錯誤肯定不常見吧？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "最多同時提供30個電子遊戲給囚犯們…讓我們探討一下什麼才是壓迫吧。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這裡討論了一種叫做‘水刑’的東西，也許是某種治療方法吧。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一種與囚犯的互動管理規範，“虐待囚犯從來都不是正確的”。"}]

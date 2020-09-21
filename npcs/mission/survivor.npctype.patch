@@ -1,0 +1,5 @@
+[{"op": "replace","path": "/scriptConfig/dialog/follower/attack/default/default","value": ["我會讓這些傢伙上天！","偷襲！","突擊！","攻擊攻擊！","快，我們正在受到攻擊！","小心！","當心！","沒有時間聊天，我們被發現了！","哦！","我們被發現了！","我準備好了！","我們正在進攻嗎？我們正在進攻！","讓我們給這些兔崽子上一課！","他們想玩狩獵遊戲？我讓他們知道誰才是獵人！","不自由，毋寧死！"]},
+{"op": "replace","path": "/scriptConfig/dialog/follower/join/default/default","value": ["嗨，多麼友善的一張面孔！他們也把你困在這了？我會和你在一起的。","另外的倖存者？！看上去你能照顧好自己—我會跟著你。","我從未期待過還會看到別的倖存者在！讓我們結伴而行吧。"]},
+{"op": "replace","path": "/scriptConfig/dialog/follower/returnFromCombat/default/default","value": ["繼續前進。","真令我印象深刻。","你怎麼會在這裡了？","它們可沒料到這種情況！","我在這待太久了以至於被它們困住了。","拿著那個。","唷。","保持警惕，這裡可能會有更多。","我希望所有這些骷髏都只是道具…","那就是你惹惱了我們的後果！","希望這就是全部了…","我們走吧。","即使我們不能離開這裡，至少我們給了它們沉重的打擊。","我好奇有多少像我們一樣的倖存者被逼到這個地方來了…","我希望能夠在離開前讓更多的葉族人受傷。","唷，你把你自己照顧的很好。"]},
+{"op": "replace","path": "/scriptConfig/dialog/follower/wait/default/default","value": ["我會等在這裡。","我會乖乖呆在這，別留下我獨自一人太久！","你需要一點時間嗎？"]},
+{"op": "replace","path": "/scriptConfig/dialog/follower/returnFromWait/default/default","value": ["很高興又見到你。","讓我們繼續前進吧。","你準備好動身了嗎？"]}]

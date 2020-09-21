@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一塊充斥著電荷的細胞物質。可以用於製作。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "靜電細胞"}]

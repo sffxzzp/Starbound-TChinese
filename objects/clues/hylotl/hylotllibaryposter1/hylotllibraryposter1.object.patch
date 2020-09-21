@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "老式圖書館海報"},
+{ "op" : "replace", "path" : "/description", "value" : "一張古代鮫人圖書館的舊海報。"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這張古老的手繪海報上似乎是一個鮫人圖書館。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一張描繪了夕陽下的圖書館的華美的手繪海報。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "日日日落。葉族人狩獵的理想時間。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。這是張手繪的海報－我想知道它是用來幹什麼的？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這張老舊手繪海報描繪了一個巨大的鮫人圖書館，對花大把時間來建造它的人來說它一定非常重要。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "鮫人所作的這幅手繪海報裡的藝術性是不可否認的。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "那夕陽帶給我一種哆嗦後的溫暖感。這是一張很好的圖畫。"}]

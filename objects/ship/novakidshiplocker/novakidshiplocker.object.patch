@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個儲物櫃。何不存點東西進去？"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "飛船儲物櫃"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "我想知道這個儲物櫃裡是否有什麼秘密？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這儲物櫃裡可能有什麼重要的東西麼？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人搜搜搜尋星之子的儲物櫃來找貴重的東東東西。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "激動。這裡面有什麼有趣的東西麼？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "飛船儲物櫃。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "儲物櫃裡可能有什麼有用的東西吧。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "存放贓物的好地方。"}]

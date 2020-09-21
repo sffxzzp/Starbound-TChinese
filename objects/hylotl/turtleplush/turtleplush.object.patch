@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個可愛的小海龜玩偶。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "海龜玩偶"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "堅固的保護殼讓海龜成了一種有趣的生物。這一隻僅僅是個玩具。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個背上有內嵌殼的生物的玩具。有意思…"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "綠色的玩具。這種生物是是是一種植物嗎？"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。我以前從來沒見過真正的海龜。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "海龜！我喜歡海龜。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "海龜是一種真正能給人以啟發的生物，以玩具的形式被巧妙地展示在這。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這不是一隻真正的海龜，它是假的。"}]

@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這雙羊駝腿不僅保護性好，而且還毛茸茸的！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "真羊駝守衛腿"}]

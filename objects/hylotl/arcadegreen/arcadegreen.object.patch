@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這個主機執行一個叫《時髦廢土盜賊》的遊戲。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "藍色街機遊戲機"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "《時髦廢土盜賊》是一個盜賊搶劫其他盜賊的遊戲。最時髦的那個獲勝！"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "玩好《時髦廢土盜賊》需要一點技巧和緣分。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "時時時髦盜賊遊戲！葉族人喜歡這個遊戲！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "讚賞。《時髦廢土盜賊》裡能見到時髦的盜賊面對其他盜賊。10分我給8分。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "《時髦廢土盜賊》是最好的！我將成為最時髦的盜賊！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "《時髦廢土盜賊》的暴力場景描繪時而被人所抨擊，但你不得不承認它對時尚的敏銳感觸。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "《時髦廢土盜賊》的一些部分使我能有所聯絡並感悟。"}]

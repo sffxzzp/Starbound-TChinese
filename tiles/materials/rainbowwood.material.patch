@@ -1,0 +1,4 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這個未經加工的粗糙的彩虹木裡面五顏六色。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "未經加工的彩虹木"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "陳述。未經加工的彩虹木。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "不能刺刺刺的彩虹木。"}]

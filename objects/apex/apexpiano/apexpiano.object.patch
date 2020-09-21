@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這兒有幾張樂譜。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "標配鋼琴"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "所有的猿人都要學。但是隻能演奏被允許的曲子。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這些按鍵能創造出悅耳的聲音。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人用皮和骨頭做音樂，是打鼓高手。葉族人不用破破破爛的音樂機器。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "留心。這些機器背後的運算機制相對簡單。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一架鋼琴…我可以彈奏《筷子》。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "啊音樂…這種力量甚至可以點亮我們最陰暗的時光。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我不會拒絕舒緩的鋼琴旋律。不過糟透了沒人來給我彈。"}]

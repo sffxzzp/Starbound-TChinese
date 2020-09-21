@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "護甲！上這裡買盔甲吧！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "護甲店招牌"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一塊木製招牌。看起來屬於一家盔甲店的。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一塊木製招牌。上面畫了一個盾牌。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "附近有有有盾牌商店？"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "高興。一塊指示著一家護甲店的招牌。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "看起來像是一塊掛在護甲店外面的招牌。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這塊招牌說明這是一家護甲店。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這是一家護甲店的招牌。"}]

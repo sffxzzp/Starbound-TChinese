@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "有一本標題為《如何回到傻瓜時代》的書。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "金屬書櫃"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個書櫃，塞滿了有趣的書。科技發展部會把它們都燒了的。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "大量的科學書籍。看起來沒有多少宗教經文。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "許多書籍裡都是文字字，很少書籍裡有圖片片。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "感興趣。這些書有的已經有百年曆史了，只要輕輕一碰它們就會散架。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "有一堆人類熟悉的書籍。我想知道有多少人讀過這些？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "書籍豐富了人類的歷史。當然，它們並不像鮫人的書籍那樣精良。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一個書架。有許多自助的書籍在上面。"}]

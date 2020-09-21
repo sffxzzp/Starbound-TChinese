@@ -1,0 +1,4 @@
+[{ "op" : "replace", "path" : "/description", "value" : "用一股很強的彈力彈開物體。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "彈跳墊"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "用一股很強強強的彈力彈彈彈開物體。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "難忘。用一股很強的彈力彈開物體。"}]

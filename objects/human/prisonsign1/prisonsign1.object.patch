@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "標誌上寫著“牢房”。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "牢房標誌"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "標誌上寫著“牢房”。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這個標誌指向牢房。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "一個無聊的標誌志。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "客觀。牢房。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我一直都想去參觀牢房！等一下，不對，我想去的是動物園。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "為那些無視周圍環境的人立的標誌。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "標誌上寫著“牢房”。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "節日立柱！這條紋很喜慶。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "節日立柱"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "節日樁…"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這柱子上的條紋就像是柺杖糖。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "這是是是一個大柱子。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "奇妙。有糖果條紋的柱子。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一根有糖果條紋的柱子。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "鮮紅與白色條紋相間的柱子。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "看起來有點像糖果，但我敢打賭，它並沒有糖果的味道！"}]

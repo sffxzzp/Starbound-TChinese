@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一盞高身燈，每盞燈都連在一起。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "細胞燈"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "沒人會指責這燈的功利性。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "即使是喜鵲也會覺得這燈太光了。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "這些細胞就像閃亮的花花花朵。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "反思。看起來無機的，但是由有機細胞組成。活著又像不是活著的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "愉快但不實用的。我最喜歡這種東西。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我的眼都快亮瞎了。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "只是表明了細胞不是一樣東西能分離使用。"}]

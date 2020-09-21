@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一個生鏽的箱子，幾乎就要支離破碎了。"},
+{"op":"replace","path":"/shortdescription","value":"生鏽的箱子"},
+{"op":"replace","path":"/apexDescription","value":"這箱子不是很堅固。"},
+{"op":"replace","path":"/avianDescription","value":"當然，你可以簡單地等這箱子自己瓦解。"},
+{"op":"replace","path":"/floranDescription","value":"葉族開啟醜陋的箱子。"},
+{"op":"replace","path":"/glitchDescription","value":"（諷刺）比起鎖鐵鏽更能給電子人帶來障礙。"},
+{"op":"replace","path":"/humanDescription","value":"一個生鏽的箱子。也許是海盜留下來的。"},
+{"op":"replace","path":"/hylotlDescription","value":"一個陳舊且要支離破碎的箱子。"}]

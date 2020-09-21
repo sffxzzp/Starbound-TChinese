@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "為特殊儀式準備的金水壺。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "金水壺"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個金水壺。看上去好浮華。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這金壺被用於特殊的儀式上。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "閃閃閃亮的水壺。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "確定。一個金水壺。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一個金色的儀式水壺。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一個不起眼的金壺，有時在儀式中會使用。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "看上去就像個普通水壺，但是是金的"}]

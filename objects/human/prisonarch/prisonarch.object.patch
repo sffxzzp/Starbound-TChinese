@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個華麗的哥特式拱門。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "哥特式拱門"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "人類囚犯至少還可以看看這個令人愉快的建築。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我不能肯定這個拱門給人的感覺是漂亮還是不祥。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "凹凹凸凸不平的帶帶帶釘的拱門建築。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "滿意。人類和電子人的建築風格看起來有相似之處。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "看著這個，這將極大地提高我蹩腳的室內裝潢能力。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這建築看著很簡潔，但是也有一些值得推崇的特色。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "漂亮還是可怖？"}]

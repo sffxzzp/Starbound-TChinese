@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個支撐梁，上面的雕刻似乎是一種可怕的鳥類。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "雕刻支撐梁"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這似乎是一個起承重作用的雕刻物。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個有著傳統裝飾的支撐梁。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "鳥人的梁不是那麼結結結實。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "冷淡。一種裝飾支撐梁。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "如果我把它撤掉會有東西塌下來嗎？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "滿滿的對細節的重視。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "那是個極為奢華的支撐梁。"}]

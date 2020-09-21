@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "帶有人體工程學緩衝墊的重金屬椅子。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "和平衛士椅"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這把椅子看起來在緊要關頭會成為有效的路障。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這不像我見過的最舒適的椅子。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族不認為葉族能舉起這把重椅子。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "印象深刻。這把椅子看起來能經受住幾次猛烈的打擊。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這把金屬椅子看起來不舒服，但靠背看起來能改善坐姿！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這把椅子完全按照功能設計。這相當令人反感。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "如果需要的話，我可以在這張椅子上小睡一會兒。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "“滾出去”這個詞使用血寫的，你就清楚作者是認真的了。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "塗鴉"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這個塗鴉看起來是用血寫的。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "很顯然這位藝術家有當導演的天賦。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "這幅畫嚐嚐起來很美味。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "不適。這上面的血是鮫人的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "切，該滾的是你！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這個塗鴉的作者應該出去抽根菸冷靜一下。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "用血書寫的塗鴉，這血是他們自己的嗎？"}]

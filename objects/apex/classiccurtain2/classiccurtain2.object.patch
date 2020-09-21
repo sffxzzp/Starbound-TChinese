@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "最上乘的窗簾。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "古典窗簾"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "昂貴、厚重的窗簾。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "摸起來很軟。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "猿人做窗簾用厚厚厚厚的鵝絨。葉葉葉族人做窗簾用獸獸獸皮。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "高興。很少有東西撫摸上去像這個一樣令人心情舒暢。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這些窗簾應屬於一棟宅邸。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這些窗簾幾乎黏在了鮫人的面板上。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這些窗簾看起來更像是用來炫富的。"}]

@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這把由維奧合金製成的劍柄上安裝上了有邪惡能量的光刃發生器。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "維奧巨劍"}]

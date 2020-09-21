@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "聰明的人不會讓自己被刺傷，所以有了胸甲。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "智者胸甲"}]

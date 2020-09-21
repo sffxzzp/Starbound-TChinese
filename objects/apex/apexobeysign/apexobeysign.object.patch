@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "我最好按照他們說的做…哈！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "服從標識"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "服從…我已經服從了…這麼久。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "服從？大猿人是猿人的上帝麼？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "嘖嘖嘖嘖…葉族人才不會聽晚餐的話。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "勇敢。絕不服從！！！"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "猿人的宣傳畫。我覺得我應該在上面畫個有趣的小鬍子。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "只有那些心虛害怕的統治者才需要這樣的海報。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我才不會任由一張鬼畫差遣。"}]

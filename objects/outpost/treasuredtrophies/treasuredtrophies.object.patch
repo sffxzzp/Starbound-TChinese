@@ -1,0 +1,11 @@
+[{ "op" : "replace", "path" : "/description", "value" : "你有些稀有物？我有比那更稀有的東西。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "珍稀戰利品行"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "在這兒我能用稀有的東西買到更稀有的東西。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "用稀有物品來交易獨特物品的地方。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "這這這個商人想要稀有的物品去換他的商品。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "吸引。一家以物換物而不是換畫素的店？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我能在這拿到傳說物品！前提是我能用相當稀有的物品去交換。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我能用一些更稀有的東西來換這馬車上的商品。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我要拿我的靴子換一些商品！但這商人對靴子不感興趣…"},
+{ "op" : "replace", "path" : "/interactData/paneLayoutOverride/windowtitle/title", "value" : "珍稀戰利品行"},
+{ "op" : "replace", "path" : "/interactData/paneLayoutOverride/windowtitle/subtitle", "value" : "拿你的珍惜物品換取豐厚的獎賞！"}]

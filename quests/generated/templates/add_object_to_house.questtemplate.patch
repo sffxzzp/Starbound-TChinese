@@ -1,0 +1,12 @@
+[{"op": "replace","path": "/scriptConfig/generatedText/title","value": ["<questGiver>的家居裝潢","重新裝修<questGiver>的家"]},
+{"op": "replace","path": "/scriptConfig/generatedText/failureText","value": ["我沒能幫<questGiver>改進他的房子。我相信就算沒我<questGiver.pronoun.subject>自己也能弄好。","我沒能改進<questGiver>家裡的裝潢。不過至少我沒讓他的家變得更難看。"]},
+{"op": "replace","path": "/scriptConfig/generatedText/goalText/floran","value": ["^cyan;葉族人想給家裡添一件新新新的傢俱。心動不如行行行動！","^cyan;葉族人家裡太沉沉沉悶了。讓讓讓我們把它弄得亮亮亮堂些！"]},
+{"op": "replace","path": "/scriptConfig/generatedText/goalText/glitch","value": ["^cyan;觀察。我注意到我的房子需要修繕——你可以幫幫忙嗎？","^cyan;自覺。我家可以放置一些新的裝飾…也許你可以幫我？"]},
+{"op": "replace","path": "/scriptConfig/generatedText/goalText/default","value": ["^cyan;這地方缺少一種家的感覺，總覺得少了點什麼。你能幫幫我嗎？","^cyan;我打算修繕一下我的房子，但就我一個人忙不過來。你可以幫我一下嗎？"]},
+{"op": "replace","path": "/scriptConfig/generatedText/text/default/floran","value": ["葉族人終於得得得到了想要的^orange;<object> ^white;！擺在葉族人家裡一定很好看，所以^green;請請請幫我把它放放放在房間某處吧。","那個^orange;<object>^white;正正正是葉族人家裡所需需需要的！^green;請請請把它擺在房房房間的某處吧。"]},
+{"op": "replace","path": "/scriptConfig/generatedText/text/default/glitch","value": ["激動。終於，你能^green;把那個^orange;<object>^green;放置在我家裡的某處嗎？^white;必要的話你可以先^green;騰點空間出來。","急切。就快完工啦。你現在要做的就是^green;把這個^orange;<object>^green;放置在我家裡的某處！"]},
+{"op": "replace","path": "/scriptConfig/generatedText/text/default/default","value": ["行，我覺得這個^orange;<object>^white;正是我家裡所需要的。^green;你能在我家找個地方把它擺上嗎？","我覺得這個^orange;<object>^white;可以滿足我的需求。剩下就是^green;找個好地方把它擺上了。"]},
+{"op": "replace","path": "/scriptConfig/generatedText/completionText/default/floran","value": ["葉族人非非非常開心！葉族人的新<object>看起來棒棒噠！","這個<object>讓葉族人的家高大上了幾倍！謝謝謝謝你的幫助！"]},
+{"op": "replace","path": "/scriptConfig/generatedText/completionText/default/glitch","value": ["大喜。那個<object>給我家增色不少，不是嗎？謝謝你的幫助！","愉快。我覺得添置一個<object>正是我家裡所需要的。謝謝你的幫助！"]},
+{"op": "replace","path": "/scriptConfig/generatedText/completionText/default/default","value": ["就是這樣！擺在那裡堪稱完美！謝謝你的幫助！","好多了！和我想象的完全一樣！感激不盡，不要見外，你隨時都可以路過停下來欣賞你的傑作！"]},
+{"op": "replace","path": "/scriptConfig/objectives/0/text","value": "將<object>新增到<questGiver>的房子裡"}]

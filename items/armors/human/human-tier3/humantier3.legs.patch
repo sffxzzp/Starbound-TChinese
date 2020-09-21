@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這件鈦合金製成的護腿後部有著方便的襟翼。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "拓荒者護腿"}]

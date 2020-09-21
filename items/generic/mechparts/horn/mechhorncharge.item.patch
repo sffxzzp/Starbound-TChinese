@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一段短的音樂旋律，通常是體育比賽或可怕戰鬥的前奏。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "充電機甲喇叭"}]

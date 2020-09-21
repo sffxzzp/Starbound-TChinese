@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "咕嚕咕嚕！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "排水口"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這是用來排水的。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這個能用來排水，好讓我的羽毛保持乾燥！"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "排水水水口把水帶走。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "難忘。這個能輕鬆地把水排掉。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這個能快速地把水排掉！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "對於那些喜歡的人來說，是一個有用的排水裝置。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這個能處理掉那些麻煩的水！"}]

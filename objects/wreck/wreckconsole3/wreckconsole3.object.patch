@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "它看上去像一個老舊的遠端控制終端。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "破舊的終端"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個無用的，損壞的控制檯。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個控制檯。它不能工作。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "這個控制制制臺是壞的。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "沮喪。這個控制檯是壞的也不能用。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這個控制檯不能工作。一半的按鈕消失了。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這個控制檯損壞到無法修理的程度。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一個壞的控制檯。我好奇這玩意是否曾經正常運作過。"}]

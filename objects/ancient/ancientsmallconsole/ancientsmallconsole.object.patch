@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這看起來像是星門的操作面板。它好像還能工作。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "古代控制檯"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這控制檯還能工作，我很好奇是誰製作了這東西。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這控制檯有著古老的起源。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人按下了按鈕，一定有什麼事情情情發生了！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "感動。儘管這控制檯已經很古老了，其運用的科技還是很先進。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一個經歷了時間磨練的控制檯。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這控制檯看起來很古老，但它仍然能夠使用。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這控制檯看起來很古老…"}]

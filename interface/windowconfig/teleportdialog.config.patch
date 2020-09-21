@@ -1,0 +1,6 @@
+[{"op": "replace","path": "/paneLayout/windowtitle/title","value": "傳送器"},
+{"op": "replace","path": "/paneLayout/windowtitle/subtitle","value": "選擇一個目的地"},
+{"op": "replace","path": "/paneLayout/btnTeleport/caption","value": "傳送"},
+{"op": "replace","path": "/paneLayout/bookmarkList/children/bookmarkItemList/schema/listTemplate/name/value","value": "標籤名"},
+{"op": "replace","path": "/beamPartyMemberLabel","value": "傳送至團隊成員"},
+{"op": "replace","path": "/deployPartyMemberLabel","value": "部署至團隊成員"}]

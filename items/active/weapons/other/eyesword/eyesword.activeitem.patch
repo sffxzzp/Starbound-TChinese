@@ -1,0 +1,3 @@
+[{ "op" : "replace", "path" : "/description", "value" : "從劍的眼睛來看就已經足夠令人困惑了。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "目珠擄掠者"},
+{"op": "replace","path": "/upgradeParameters/shortdescription","value": "目珠擄掠者^yellow;^reset;"}]

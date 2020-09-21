@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "能增強任何服裝的時尚感。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "尼奧圓盤"}]

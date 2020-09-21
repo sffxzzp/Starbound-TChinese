@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/description", "value" : "漂亮的彩繪磚石。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "彩繪磚塊"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "高興。這些彩繪磚塊相當古雅。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "漂亮的彩繪磚磚磚塊。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一些確實很漂亮的彩繪磚塊。"}]

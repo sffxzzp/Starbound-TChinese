@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "太空板儲藏櫃。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "天文儲物櫃"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "密閉儲藏櫃。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "金屬壁櫃。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "儲存櫃適合藏東西。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。像這樣的儲物櫃通常容量很大。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "牆上安裝的儲物櫃。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "簡單的儲物櫃。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "你可以堆放一大堆東西到這樣一個儲物櫃裡。"}]

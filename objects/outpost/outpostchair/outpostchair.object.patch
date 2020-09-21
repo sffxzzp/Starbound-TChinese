@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一把椅子。你可以坐下。是的。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "金屬襯墊椅"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "普通的椅子。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "樸素的椅子。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "坐坐坐下！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "感激。一把椅子。電子人有時會想坐下休息。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "像樣的椅子。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "最基本的椅子。質量不錯。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "能正常使用的椅子。"}]

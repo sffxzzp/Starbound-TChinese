@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "用來進行醫學掃描的床。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "空間站醫學掃描器"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這張醫務床看起來像是那種我可以休息一會兒的地方。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "躺在被這些掃描器包圍的床上會讓我很不舒服。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "華麗的燈光圍繞著這張金屬床。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。我想知道這張醫療床是否能夠給電子人解剖？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "看起來像某種醫用掃描器，但我想它還是一個躺下的地方。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這張醫療床很可能是用來幫助醫生或研究人員的。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一些被明亮的燈光包圍的華麗的床。"}]

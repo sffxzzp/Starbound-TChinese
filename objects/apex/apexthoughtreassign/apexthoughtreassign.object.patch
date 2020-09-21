@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "想點兒開心的！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "思想改造標識"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "思想改造…它對我來說是個夢魘。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "思想是神聖的，他們怎敢這麼做！"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人不喜歡這個標標標誌。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "理解。思想改造對電子人而言很常見。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這個標誌真的讓人不寒而慄。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "冥想被認為可以抵禦這種行為。思想是無法在不存在時被改造的。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這標誌對我不管用。我沒覺得有什麼不同。"}]

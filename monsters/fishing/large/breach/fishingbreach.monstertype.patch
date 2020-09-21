@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "斑斕鑽頭"},
+{ "op" : "replace", "path" : "/description", "value" : "一種兇猛的魚，能用它堅硬的角穿透厚厚的冰層。"}]

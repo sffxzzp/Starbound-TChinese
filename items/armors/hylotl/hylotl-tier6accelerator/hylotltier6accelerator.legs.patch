@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這件褲子上的條紋讓人想到在水中移動的光線。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "透光護腿"}]

@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "浴缸"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個可愛的小浴缸。對於猿人來說太小了。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "帶淋浴器的浴缸。就像水流撫過翼族的後背。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "大的遊遊游泳泳泳的桶。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "得意。電子人是不需要洗淋浴的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "舒服的熱水澡。醫生的處方正是這個。唯一遺憾的是沒有泡沫和蠟燭。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "人類洗澡用的水槽，我們鮫人一般用來游泳。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我很享受每過一段時間洗一次熱水澡。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一張由鵝卵石製成的床。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "石床"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一張硬床。我睡我很差。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個不適合當作窩的床。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "一張石床"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "煩惱。睡在這會劃損我的漆。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這張床看起來不是很舒服"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一張帶給我噩夢的硬床。."},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這張床是用岩石製造。很不舒服。"}]

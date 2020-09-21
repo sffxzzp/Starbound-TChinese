@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一頂發條帽，以提醒你的敵人時光正無情地流逝。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "發條帽"}]

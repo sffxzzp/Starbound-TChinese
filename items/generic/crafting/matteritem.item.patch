@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個物質塊。很重要的一種東西。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "物質塊"}]

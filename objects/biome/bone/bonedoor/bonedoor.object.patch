@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一道用骨製成的門。它會引領人去哪？地獄？還是洗手間？"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "骨門"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這種用骨製成的門有種不詳的預感。我很怕穿過去。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "當然。穿過一個像這樣的門必須對一些值得尊重的東西撒謊。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人對這門感到親親親切感。一腳踢開門。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "滑稽。我猜這生物的死真的…開啟新世界的大門。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "它有寒冷的觸感。一陣寒氣流過我的脊椎。在某距離遠，有一些犬吠聲。等等，那只是有隻猿人在唱歌。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一個邪惡的死亡之門。很恐怖。但是它有很好的鉸鏈。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "死亡之門。"}]

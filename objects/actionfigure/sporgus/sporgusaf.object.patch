@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "標籤上寫著，\"它更喜歡溫暖潮溼的氣候，在那裡它會生長的更快。\""},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "雙頭菇手辦"}]

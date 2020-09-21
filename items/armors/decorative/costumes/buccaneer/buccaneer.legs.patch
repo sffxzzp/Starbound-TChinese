@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "海盜褲，褲腿上有孔（用於掛鉤或者其他用途）。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "海盜褲子"}]

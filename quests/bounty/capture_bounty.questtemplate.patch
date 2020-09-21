@@ -1,0 +1,8 @@
+[{"op": "replace", "path": "/title", "value": "^orange;賞金^reset;"},
+{"op": "replace", "path": "/text", "value": ""},
+{"op": "replace", "path": "/completionText", "value": "你殺死了賞金目標"},
+{"op": "replace", "path": "/scriptConfig/objectives/findWorldStage", "value": ["^orange;前往^reset;%s"]},
+{"op": "replace", "path": "/scriptConfig/objectives/killBountyStage", "value": ["在星球^orange;搜尋^reset;目標的特徵", "^orange;逮捕^reset;^green;<bounty.name>^reset;"]},
+{"op": "replace", "path": "/scriptConfig/generatedText/text/default", "value": ["<bounty.name>的最後蹤跡在<coordinate.name>。"]},
+{"op": "replace", "path": "/scriptConfig/generatedText/complete/default", "value": ["你結果了<bounty.name>？真是個值得稱道的戰績！宇宙是浩瀚的，但法律的手臂也很長。\n\n來和平衛士空間站領取你的獎勵吧！", "<bounty.name>是份不錯的賞金任務！宇宙是浩瀚的，但法律的手臂也很長。\n\n來和平衛士空間站領取你的獎勵吧！"]},
+{"op": "replace", "path": "/scriptConfig/generatedText/failureText/default", "value": ["你放了他們！？我得說，你這次沒能盡到自己作為和平衛士的責任，夥計！"]}]

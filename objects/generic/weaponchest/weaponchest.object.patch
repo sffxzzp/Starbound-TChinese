@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個結實耐用的儲存武器的箱子。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "武器箱"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "武器箱。也許會有好東西在裡面？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這些武器箱非常堅固，以保護裡面的東西。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "讓讓讓我們開啟箱箱箱子！裡裡裡面也許有能用來刺的武器。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "渴望。不能再浪費時間了，開啟它！"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "武器箱，看起來真是賞心悅目。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "禮物最激動人心的時候就是還在包裝裡的時候。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一個用來安全存放各種武器的箱子。"}]

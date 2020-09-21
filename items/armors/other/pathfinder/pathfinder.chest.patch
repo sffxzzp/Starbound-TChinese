@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這種盔甲通常由負責探索荒涼的地區的哨兵穿戴。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "探路者胸甲"}]

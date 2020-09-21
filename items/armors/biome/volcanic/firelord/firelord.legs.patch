@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "據說這副護脛可以讓穿戴者在最為熾熱的火焰之中穿行。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "炎魔之王護脛"}]

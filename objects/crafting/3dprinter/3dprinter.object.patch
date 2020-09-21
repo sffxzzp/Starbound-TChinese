@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這臺機器能將畫素重組成任意形態。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "^orange;畫素印表機^white;"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一臺畫素印表機…很少人能夠接觸到這些。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "畫素印表機…改變了宇宙的技術。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "用漂亮的畫素素素給葉族人列印漂亮的東西西西。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "痴迷。這樣的技術就如同藝術一般。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "畫素列印…比擬神之力。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "畫素列印，我指尖的畫素之力…“上帝粒子”。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "畫素列印真是時髦。"}]

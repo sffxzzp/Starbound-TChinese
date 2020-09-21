@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個皮製的屏風，葉族人準備食物用的。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "皮革制更衣屏風"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "使用屏風是違背大猿人的法律的，不管是為了誰的隱私。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這個皮革制的東西似乎吸收了大量的血。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人在屏風後面準備食物讓其他葉族人驚喜喜喜。驚喜喜喜越大，朋友越多。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "厭惡。在屏風上的血跡表明這是用來遮擋食物的準備過程的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "在這屏風後面有著一些裝在袋子中的動物殘骸。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "在這屏風背後曾經上演了怎樣的屠戮行為？"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "在這屏風之上覆蓋著一股濃重的血腥味。"}]

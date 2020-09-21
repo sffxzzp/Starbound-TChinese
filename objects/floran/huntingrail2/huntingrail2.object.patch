@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "用尖刺捆綁製成的柵欄。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "歪斜的尖刺柵欄"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這個柵欄一定是用來裝飾用的，並不是很牢固。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "非常原始的柵欄。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "安安安全第一。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "擔心。這柵欄看起來很鋒利。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我最好不要倚靠在這些柵欄上，那些尖刺非常尖銳。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這柵欄似乎沒什麼作用。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這柵欄看起來不適合用來倚靠。"}]

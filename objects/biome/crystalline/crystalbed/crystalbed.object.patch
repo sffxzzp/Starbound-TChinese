@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一張水晶床，你可以在這上面做一個富有的夢。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "水晶床"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一張水晶床。很吸引而且可以說可堅實的。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一張驚人而且閃閃發光的床。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人喜歡尖銳的水晶晶晶床。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "不為所動。這些水晶很普遍而且不值錢。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我敢打賭的說這床是宇宙中最值錢的東西。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這床讓人聯想到水下的珊瑚礁。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一張用寒冷的結晶製成的床。"}]

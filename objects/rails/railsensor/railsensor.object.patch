@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "在乘客經過時進行檢測"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "軌道感測器"}]

@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "尖銳而響亮，這喇叭適用於用令人厭煩的大聲來宣佈你的存在。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "運動機甲角"}]

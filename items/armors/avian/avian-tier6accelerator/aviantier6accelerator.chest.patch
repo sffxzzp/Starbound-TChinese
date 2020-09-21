@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這件樸素的襯衫由純日曜合金絲織成。是強度和時尚的良好結合。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "金剛鸚鵡襯衫"}]

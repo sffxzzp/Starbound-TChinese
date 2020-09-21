@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "汙濁的空氣透過這個老通風口發出呼嘯聲。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "破舊的通風口"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個滿是灰塵的舊通風口。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個滿是鐵鏽的舊通風口。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "堅堅堅固的舊通風口。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "不感興趣。一個通風口。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一箇舊通風口。所有地方都生鏽了。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一個發黴的舊通風口。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這個舊通風口有過更好的時候。"}]

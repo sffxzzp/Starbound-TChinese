@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一杯新鮮的咖啡。似乎永遠都在冒著熱氣。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "和平衛士杯"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "咖啡因的攝入對於在任務中保持敏銳是有用的。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這個杯子一直在冒氣。它能涼下來嗎？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "熱咖啡是對抗肉人的能有效讓人興奮的武器。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。這個杯子上的銘文上寫著\"宇宙第一偵探\"。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這個杯子上的銘文上寫著\"宇宙第一偵探\"。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這個看起來太燙了，喝不了。就放著吧。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "沒有什麼比一杯新鮮的咖啡更能讓你在清晨清醒了。"}]

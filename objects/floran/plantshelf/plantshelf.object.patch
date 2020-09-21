@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個空的架子。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "空的架子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "植物製成的貨架。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一些空的架子。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人的架子子子是空的。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。我納悶這些架子以前是用來放什麼的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一個用植物和木頭製成的葉族人架子。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一個用自然材料製作的普通架子。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "無論這上面曾經擺過什麼，現在都不在了。"}]

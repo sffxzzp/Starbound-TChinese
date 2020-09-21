@@ -1,0 +1,4 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這個螢幕顯示了大猿的各種宣傳資訊。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "猿族監視器"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族認為所謂的“大”猿並不大。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "警報。這些影片剪輯包含大量的潛意識資訊。"}]

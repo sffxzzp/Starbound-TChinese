@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這陷阱透過噴射火焰來阻擋入侵者。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "古代火焰陷阱"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個火焰陷阱，一定要避開。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "噢！火焰和羽毛可不能融洽相處！"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "火焰陷阱是葉族人的死死死敵！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "恐慌。這只是個小小的火焰陷阱，沒什麼是克服不了的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一個值得信賴的、可靠的火焰陷阱。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "敏捷的戰士可不畏懼火焰。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "簡單而又致命。是我喜歡的型別。"}]

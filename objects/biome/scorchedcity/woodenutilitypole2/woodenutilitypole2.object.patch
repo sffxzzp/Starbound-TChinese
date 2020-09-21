@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個木電線杆。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "木製電線杆"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個木製電線杆。它看起來幾乎是完好無損的。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個木電線杆，它是為什麼東西而服務？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "木製電線杆，或許適合攀爬？"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "確信。一個木製電線杆。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一個木電線杆，這些東西曾經掛著電線並且傳輸訊號。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "某些木杆，似乎曾有一用。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我想知道這些東西曾經能用於什麼？"}]

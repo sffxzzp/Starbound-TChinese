@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這裡曾經是一個整潔的攤位。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "休業的雙向傳送商店"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這個商店看上去正在休業。我想知道這是誰開的？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這個金屬商店看起來正在休業。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人不確確確定這這這個鋪位是是是賣什麼的。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。這看起來是個商店――我想知道店家現在在哪？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這是個商店麼？我猜店主現在不在。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這個無聊的金屬架子看起來是個商店。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我想知道這家店的店主現在在哪？"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "監控器。但是誰來監控這個監控器呢？"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "壁掛監控器"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "監控器。我不能理解它這兒在顯示什麼。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "某種監視器，但我看不出這在顯示什麼。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "愚愚愚蠢的監視器，上面只有閃爍的線線線。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "沮喪。它看起來沒有正常執行。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我想知道它是不是在顯示什麼東西。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "它好像壞了，太令我驚訝了。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我只能辨認出這些閃爍的線條。"}]

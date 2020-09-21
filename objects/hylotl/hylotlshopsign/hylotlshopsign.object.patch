@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "鮫人商店外的歡迎標誌。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "鮫人友好標誌"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這個歡快的鮫人面孔歡迎我光顧商店，我怎能拒絕？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這張臉看起來很友好。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "愚蠢的魚人臉。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "有趣。也許我該看看店裡賣什麼。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "那愉快的鮫人笑臉在引誘我進入商店。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這個標誌是為了表現良好的客戶服務。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "商戶標板。也許我該看看他們都有什麼。"}]

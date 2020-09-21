@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "猿流感？聽起來好口怕…"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "猿流感海報"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "猿流感讓猿人社會生靈塗炭。奇怪的是沒一個當權者感染。曾有傳言說這其實是一個實驗。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "翼族人會染上猿流感嗎？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "撒撒撒幣猿流感。還不是葉葉葉族人的盤中餐。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "自信。電子人不怕猿流感。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我希望人類不會得猿流感。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "疾病和折磨。猿人們應該得到我們的幫助。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我身體不敏感，應該不會得那種東西。"}]

@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/description", "value" : "芳香的暗綠色葉子與花朵。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "花瓣塊"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "高興。這些葉子聞上去有泥土與鮮花的氣息。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人喜喜喜愛絢麗的植植植物。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這上面長著非常美麗的花朵。"}]

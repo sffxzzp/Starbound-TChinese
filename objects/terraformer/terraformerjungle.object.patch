@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "將星球的氣候轉換為雜草叢生的叢林。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "叢林地形轉換器"}]

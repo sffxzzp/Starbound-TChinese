@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "只是簡單懸垂覆蓋腿部的傳統僧裙。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "僧裙"}]

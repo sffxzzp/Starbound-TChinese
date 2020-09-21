@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "血紅妖獸"},
+{ "op" : "replace", "path" : "/description", "value" : "它實際上只是被一層紅色的面板覆蓋著，但它看起來仍然相當噁心。"}]

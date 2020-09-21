@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個漂浮於基座上的水晶，發出怪異的光芒。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "水晶火炬"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "水晶在這裡懸浮著。它看起來正在發光。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "哪裡需要永恆的光源，翼族人就在哪裡添上水晶火炬。這些水晶火炬已經存在了幾千年。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "詭異的光芒。血的顏色。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "著迷。這水晶似乎在漂浮，自身在產生重力力場的同時還發著光。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這些水晶發著光，摸上去卻完全是冷的。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這麼漂亮的技術。翼族人是怎麼學會駕馭它的？"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這個懸浮著的閃亮石頭正像火炬那樣發著光。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個洗漱臺。清洗手！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "衛浴洗漱臺"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "基本的洗漱臺。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "洗漱臺。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "醒目的洗洗洗漱臺。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "客觀。洗漱臺。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "洗漱臺。或許我應該洗洗手… "},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "太小，不能在裡面游泳。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "很樸素的洗漱臺。"}]

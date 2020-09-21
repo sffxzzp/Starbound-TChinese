@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "最高階觀星者所佩戴的羽翼。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "觀星者的先知之翼"}]

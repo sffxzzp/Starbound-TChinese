@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個金屬盒子，上面有發光的眼睛標誌。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "邪教箱"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這個裝飾過的箱子可能是用來裝有重要價值的物品的。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這個箱子看起來很嚇人。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "盒子盯著葉族。葉族不喜歡。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "謹慎。這個箱子看起來很危險。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我想邪教徒真的很喜歡發光的眼睛，不是嗎？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "橙色和紫色？相當難看的顏色組合。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這個箱子給我的感覺並不良好。"}]

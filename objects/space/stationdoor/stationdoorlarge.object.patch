@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一種大而光滑的自動門，由空間站外部的相同材料製成。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "空間站大門"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "光滑的金屬門。我很欣賞它的設計。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這是一個相當不錯的金屬門！"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "門看起來很鋒利。葉族考慮用門作為潛在的武器。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "聯想。這扇門的角度設計讓我想起了傳統的電子人橫幅。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這門可能可以挨幾下，或者說至少可以挨幾下。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "相當漂亮的門。令人驚訝的是，我發現自己挺喜歡的。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這扇門看起來好像能經受住一兩次暴風雨。"}]

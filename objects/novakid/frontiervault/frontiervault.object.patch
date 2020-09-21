@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個大而華麗的保險櫃。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "開拓者保險櫃"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個龐大的鋼鐵保險櫃。幸好它不是鎖著的。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個不錯的鋼鐵保險櫃，你可以在裡面存放貴重物品。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人想要藏進這個大箱子裡面。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "印象深刻。這個保險櫃太堅固了我不確定我能不能打破它。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我應該轉行做一個開鎖專家來開啟它嗎？不用了，它本來就沒鎖。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這個保險櫃看上去十分堅固。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一個儲藏你的金子的好地方。"}]

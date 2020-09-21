@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一架傳統刀。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "傳統刀架"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "令人讚歎的傳統武器展示。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一架利刃。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "閃閃的尖刀刀刀。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "著迷。鑄造這些刀刃需要多年的技藝。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一整架刀…我想揮揮其中一個。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一種經典武器。普通學徒需要訓練多年才能鑄造一個出來。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一架刀，它們的確很…經典。"}]

@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一隻鐵蠍子在你的頭上…一隻駒刀小兵！（譯註：英文的“蠍子”和“頭皮”合起來就是法語的駒刀小兵）"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "鐵蠍頭帽"}]

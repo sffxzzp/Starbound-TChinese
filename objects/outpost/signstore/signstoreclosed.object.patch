@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這裡曾經是一個整潔的攤位。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "休業的標牌店"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "電子螢幕顯示說這家店馬上就會營業了。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我想知道開始營業時這會是什麼店？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人不知道營業時這家會是是是什麼店。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "激動。電子螢幕顯示說這家店馬上就營業了！"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這是個令人好奇的商店。我想知道這家店的用途是什麼？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這家店的側邊上被畫上了鮫人的標誌。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "多麼奇怪的小攤啊。"}]

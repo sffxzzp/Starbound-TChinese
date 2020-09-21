@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "毒瓦罐怪"},
+{ "op" : "replace", "path" : "/description", "value" : "儘管看起來很友好，但很難看到它與其他瓦罐怪互動。"}]

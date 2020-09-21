@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個奢華的鳥形罐子。也許我可以打碎它…"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "大型鳥形罐子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個巨大的鳥形罐子。我想知道里面是否有東西…"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這些罐子建出來是用來將翼族人的財產留存至來生的。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "愚愚愚蠢的鳥罐子，很容易打打打碎。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。是否有寶藏藏在這個罐子裡呢？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一個巨大的、可以打碎的鳥形罐子。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我真的能忍住不去打碎它嗎？"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這個巨大老舊的鳥形罐子看起來是練習射擊的完美標靶。"}]

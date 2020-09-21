@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一種先進且實用的多功能機甲臂，能發射高速脈衝挖掘光束。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "光束鑽頭機甲臂"}]

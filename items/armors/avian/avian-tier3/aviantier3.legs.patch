@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "通用鈦褲，和一般的褲子用法相同。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "鵪鶉護脛"}]

@@ -1,0 +1,3 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "^orange;行動式畫素印表機^white;"},
+{ "op" : "replace", "path" : "/description", "value" : "解鎖製造小型高新技術專案的能力。"},
+{ "op" : "replace", "path" : "/unlockMessage", "value" : "你現在無需工作臺就可以列印一些小型高科技物品。"}]

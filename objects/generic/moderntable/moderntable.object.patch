@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一張用來放奇特的現代東西的奇特的現代桌子。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "現代桌"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一張玻璃桌子。我可以看到我的毛茸茸的膝蓋。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這張桌子是由鋼化玻璃做的。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "放置在這張桌子上的東西看起來很飄逸。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "難忘。這玻璃看上去是防彈的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一張精緻的玻璃桌。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一種玻璃的吸引人的用法。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一張透視桌。"}]

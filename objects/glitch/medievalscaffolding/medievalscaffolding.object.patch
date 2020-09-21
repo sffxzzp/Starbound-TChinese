@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "某種粗製濫造的木製腳手架。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "木製腳手架"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個木製腳手架。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這簡直是多個平臺的集合。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人要爬得高高的，窺窺窺探才方便。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "客觀。這種臨時設施是建造很高的建築時才會使用的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "看起來是個木製腳手架。不知道安不安全。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一個木頭構築。可能只是臨時用的。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一個不穩固的木製腳手架。"}]

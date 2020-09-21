@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個儲物櫃。何不存點東西進去？"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "飛船儲物櫃"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個儲物系統。絕對不是葉族人發明的。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "儲物櫃。我不相信葉族人制造了這個。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人為了探索宇宇宇宙會在這存存存放很多有有有用的東西。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。葉族人是怎麼開發出這個技術的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這艘船上的大多數科技看起來都不是葉族人開創的。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這個儲物系統不是葉族人發明的。葉族人透過其他手段獲得了這項技術。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一個儲物櫃，用來放東西。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "雷達。不要把它和沙拉盤混淆。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "大型雷達"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "普通的雷達。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "漂亮的盤子。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人自上次後不打算去碰任何雷達。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "有趣。雷達。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "用來定位掃描其他東西的雷達。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "接收無線電波的盤子。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "某種科學盤子。"}]

@@ -1,0 +1,7 @@
+[{"op": "replace","path": "/ancientgateway/text","value": "像這樣的古代廢墟在星系的各個地方都可以找到，我發現附近的空間有異常的現象產生…也許這是某種用來傳送的裝置？"},
+{"op": "replace","path": "/techconsole/text","value": "這個房間裡的控制檯是被用來改變你身上裝備的科技技能的，使用它可以讓你獲得新的科技。"},
+{"op": "replace","path": "/biomeradiation/text","value": "輻射警告！該星球的輻射量達到了極端危險的等級！\n你在獲得合適的防輻射裝備之前不要嘗試進行進一步的探索！"},
+{"op": "replace","path": "/biomecold/text","value": "低溫警告！該星球的溫度極低！\n你在獲得合適的保暖裝備之前不要嘗試進行進一步的探索！"},
+{"op": "replace","path": "/biomeheat/text","value": "高溫警告！該星球的溫度極高！\n你在獲得合適的冷卻裝備之前不要嘗試進行進一步的探索！"},
+{"op": "replace","path": "/biomeairless/text","value": "值得注意的是，這個地方沒有大氣層，在這裡你將會慢慢的窒息。我建議你先離開，回去製作出一個能夠讓你在這裡呼吸的裝置再來。"},
+{"op": "replace","path": "/erchiussickness/text","value": "我檢測到“它們”被月球的礦物所吸引著。你揹包中的燃料越多它們就對你越感興趣，我對它們的定義是“極端致命的”。我對你的無所畏懼致以崇高的敬意。"}]

@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個在設定時間內持續運轉的定時器。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "鑄造倒計時器"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這個箱子被一個感測器控制並會在開啟時傳送一個訊號。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "陷阱箱"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個經典的寶箱。或者它是…？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個裝滿財寶的箱子。或者它是…？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "儲存首首首飾和珍珍珍寶的箱子。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "興奮。一個寶箱！裡面會有什麼呢…？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這是一個寶箱。但是這裡面會有寶藏嗎…？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一個用木頭和金屬製成的寶箱。它看上起輕微風化了。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一個寶箱！這肯定我的幸運日！或者它是…？"}]

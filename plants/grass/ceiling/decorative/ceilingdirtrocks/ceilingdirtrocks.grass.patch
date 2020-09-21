@@ -1,0 +1,4 @@
+[{ "op" : "replace", "path" : "/description", "value" : "塵巖。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "塵巖。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "塵巖！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "陳述。泥土形成的岩石。"}]

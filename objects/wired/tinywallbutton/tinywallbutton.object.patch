@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個按下去就會觸發的小巧的按鈕。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "迷你貼牆按鈕"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個按鈕。它的作用未知。試試看就知道了。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "為什麼我總是要被迫去按按鈕？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人按下按按按鈕！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "動搖。一個乞求著被按壓的按鈕。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "那兒有一個按鈕！我不能不按下它！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "按鈕真是讓人惱怒。不過，我一定要按下它。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "為什麼按按鈕總是那麼誘人。"}]

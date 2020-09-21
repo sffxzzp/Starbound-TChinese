@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個猿人雕像，看起來完美的像。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "猿族砂岩雕像"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這個猿人看起來很親切。我認為她是一個職業摔跤手。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一座猿人雕像，給堅忍的類人猿們的最好獻禮。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "石石石猿人不好吃。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "沉思。一個堅固的石猿人。合適的肖像。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一個很酷的猿人雕像。這隻猿人看起來很堅強。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一個雕刻粗糙的猿人。他們簡陋的相貌適合這粗糙的雕刻。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "某個外表堅強的猿人的雕像。"}]

@@ -1,0 +1,3 @@
+[{"op": "replace","path": "/scriptConfig/dialog/converse/default/default","value": ["我差點成了克魯西斯的昇華者，但是我被嚇壞了，然後就逃到了這。現在我該怎麼辦？"]},
+{"op": "replace","path": "/scriptConfig/dialog/converse/avian/default","value": ["我差點成了克魯西斯的昇華者，但是我被嚇壞了，然後就逃到了這。現在我該怎麼辦？"]},
+{"op": "replace","path": "/scriptConfig/dialog/converse/avian/avian","value": ["另一個不屈從克魯西斯的翼族人？你的出現給我帶來了安慰。"]}]

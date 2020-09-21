@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這件壁飾用一種大膽的洋紅色燈光發光。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "霓虹三角"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個三角形的玻璃管，裡面是霓虹燈絲。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這盞壁燈發出平靜的光芒！"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族想用牆壁上的東西作為投擲武器。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。這種壁掛式徽章的設計十分簡約。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這個壁燈絕對能讓房間更加炫酷，為派對做好準備吧。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "多鮮豔的顏色啊。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我得說，我對任何一個霓虹和發光的玩意兒都有著個人偏好！"}]

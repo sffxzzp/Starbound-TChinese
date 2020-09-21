@@ -1,0 +1,6 @@
+[{"op": "replace","path": "/title","value": "^green;麻雀級飛船升級"},
+{"op": "replace","path": "/text","value": "恭喜！隨著你有兩位船員，現在你有資格取得麻雀級飛船的執照。你可以升級你的飛船了！帶著^orange;兩個升級模組^reset;去^green;訪問前哨站的企鵝皮特^reset;。"},
+{"op": "replace","path": "/completionText","value": "我現在就會開始將你的飛船升級。我可以肯定你對我們工藝的檔次十分滿意。"},
+{"op": "replace","path": "/scriptConfig/portraits/questComplete/title","value": "企鵝皮特"},
+{"op": "replace","path": "/scriptConfig/turnInDescription","value": "提供^orange;升級模組^reset;給位於^orange;前哨站的^reset;^orange;企鵝皮特^reset;。"},
+{"op": "replace","path": "/scriptConfig/conditions/0/description","value": "尋找^orange;<itemName>^reset;：^green;<current> / <required>^reset;"}]

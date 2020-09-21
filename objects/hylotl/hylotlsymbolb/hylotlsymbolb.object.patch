@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "藍色霓虹符號"},
+{ "op" : "replace", "path" : "/description", "value" : "個帶有亮藍色符號的金屬蓮葉。"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "帶符號的蓮葉。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "看起來像是某個腳上沾了油漆的鮫人一腳踩在了蓮葉上。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人看看看不懂它的意義。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "評論。一個裝飾過的蓮葉仍是蓮葉。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這比看上去讓人興奮。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這些鮫人符號的結合是如此天衣無縫。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這發光的符號是做什麼的？"}]

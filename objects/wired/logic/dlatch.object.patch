@@ -1,0 +1,4 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個鎖存器。能用來快取線路輸入的訊號。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "鎖存器"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "一個鎖存器。能用來快取存存線路輸入的信信訊號。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "著迷。一個鎖存器。能用來快取線路輸入的訊號。"}]

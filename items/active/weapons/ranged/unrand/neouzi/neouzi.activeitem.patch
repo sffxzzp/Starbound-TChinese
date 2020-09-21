@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "經典的烏茲衝鋒槍，現在是鐳射版，沒錯。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "NEO烏茲"}]

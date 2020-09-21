@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這頭盔保護著戰士的意志，其必將跟刀鋒一樣鋒利。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "海帽子"}]

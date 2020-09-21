@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "值得信賴的傳送器，沒有你我們該怎麼辦？"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "傳送器"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "飛船的傳送器。傳送的感覺就像坐在光速執行的過山車上。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "傳送器！飛一般的感覺。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "飛船傳送器。傳送時葉族人會很困困困惑。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "得意。一個傳送器。在傳送過程中我可以進入休眠模式。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "傳送器！傳送如此迅速！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一個傳送器。傳送的感覺就像自山巔潛入深海。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "飛船的傳送器。讓我們來試試她吧！"}]

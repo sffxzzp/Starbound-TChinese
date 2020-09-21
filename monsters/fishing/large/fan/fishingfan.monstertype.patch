@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "深紅海星"},
+{ "op" : "replace", "path" : "/description", "value" : "這種棘皮動物透過怪異的粉紅色四肢將自己偽裝成一條色彩鮮豔的魚。"}]

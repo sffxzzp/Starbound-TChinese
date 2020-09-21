@@ -1,0 +1,6 @@
+[{"op": "replace","path": "/scriptConfig/generatedText/text/default/floran","value": ["現在到最最最頭疼的部分了！葉族人痛痛痛恨做菜！^green;你需要用^orange;<ingredients>^green;幫葉族人做做做一份^orange;<cookedItems>^white;。","接下來<player>需要^green;用^orange;<ingredients>^green;幫葉族人做做做一份^orange;<cookedItems>^white;。"]},
+{"op": "replace","path": "/scriptConfig/generatedText/text/default/glitch","value": ["疑惑。既然你已經有了^orange;<ingredients>^white;，你只需要^green;把它們烹調成^orange;<cookedItems>^white;即可。當然這一步需由你自己完成。","冷靜。你現在只需要^green;用^orange;<ingredients>^green;準備一份^orange;<cookedItems>^white;即可。非常簡單！"]},
+{"op": "replace","path": "/scriptConfig/generatedText/text/default/default","value": ["接下里就有點棘手了－烹飪。你必須有能力^green;用^orange;<ingredients>^green;調配出^orange;<cookedItems>^white;。菜譜看上去很簡單，但我每次都做不好。","需要花些功夫準備^orange;<ingredients>^white;。你應該有能力^green;迅速烹飪出^orange;<cookedItems>^white;。為什麼不試一試呢？"]},
+{"op": "replace","path": "/scriptConfig/generatedText/completionText/default/floran","value": ["呣～葉族人不不不擅長做菜，這個明顯好好好多啦！","謝謝你<player>，很明顯你比葉族人更更更像個大廚！"]},
+{"op": "replace","path": "/scriptConfig/generatedText/completionText/default/glitch","value": ["羨慕。我很高興能得到你的廚藝的幫助。謝謝你！","高興。<cookedItems>看起來色香味俱全！"]},
+{"op": "replace","path": "/scriptConfig/generatedText/completionText/default/default","value": ["哇哦！那看上去很美味！我真想現在就嚐嚐，但接下來我們會用到它…","你看上去不費吹灰之力！謝謝你－很正是完成我的計劃所需要的。"]}]

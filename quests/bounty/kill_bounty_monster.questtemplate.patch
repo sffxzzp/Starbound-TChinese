@@ -1,0 +1,9 @@
+[{"op": "replace","path": "/title","value": "^orange;賞金^reset;"},
+{"op": "replace","path": "/text","value": ""},
+{"op": "replace","path": "/completionText","value": "你殺死了賞金目標"},
+{"op": "replace","path": "/scriptConfig/objectives/findWorldStage","value": ["^orange;前往^reset;%s"]},
+{"op": "replace","path": "/scriptConfig/objectives/killBountyStage","value": ["在星球上^orange;搜尋^reset;目標的特徵", "^orange;殺死^reset; ^green;<bounty.name>^reset;"]},
+{"op": "replace","path": "/scriptConfig/generatedText/text/prev","value": ["我在<prev.coordinate.preposition> <prev.coordinate.name>的發現讓我認為<bounty.name>就在<coordinate.name>。"]},
+{"op": "replace","path": "/scriptConfig/generatedText/text/default","value": ["<bounty.name>最後一次出現是在<coordinate.name>。"]},
+{"op": "replace","path": "/scriptConfig/generatedText/complete/default","value": ["你解決了 <bounty.name>？幹得漂亮，搭檔！宇宙現在更安全了一點。\n\n什麼時候在前哨站順路來和平衛士辦公室來領取獎勵吧！"]},
+{"op": "replace","path": "/scriptConfig/generatedText/failure/default","value": ["--TODO-- 你讓他們跑了？這還怎麼讓宇宙更安全啊？"]}]

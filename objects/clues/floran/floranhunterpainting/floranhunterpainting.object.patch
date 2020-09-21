@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一幅葉族獵人揮舞長矛的粗糙的畫。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "原始獵人藝術畫"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這似乎是描繪葉族人狩獵的畫。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這幅洞穴壁畫似乎描繪了一個在狩獵時拿著矛的葉族人。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "畫裡的葉族人跑的很快快快。肯肯肯定是在狩獵。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。這幅畫粗糙得描繪了一個正在狩獵的葉族人。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "畫這幅獵人畫的葉族人需要上幾堂美術課。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "葉族人的藝術水平不可能比得上鮫人。這幅畫展示了一個獵人或是戰士。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我想這幅畫描繪了一個拿著矛飛奔的戰士。"}]

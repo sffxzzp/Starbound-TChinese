@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "猿人前進！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "猿人一樓標示"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "感覺我是在一樓。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這裡有幾樓？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "我可以跳跳跳過一樓嗎？"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "中立。我現在在一樓。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一樓。這鬼地方有幾樓？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "九層高臺，始於壘土；千里之行，始於足下。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我似乎到達了一樓。"}]

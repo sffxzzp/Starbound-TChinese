@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一把花哨的扶手椅。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "蒸汽朋克扶手椅"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "我猜大猿人有這種款式的椅子。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這把椅子看上去相當舒適。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人認認認為椅子聞聞聞起來很古怪。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "折服。這把椅子在製造的時候考慮到了舒適性。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我真想永遠躺在這把椅子上。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我擔心自己是不是坐在這椅子上太久了，我不想離開它。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這是一款我坐在上面就幾個小時不想挪窩的椅子。"}]

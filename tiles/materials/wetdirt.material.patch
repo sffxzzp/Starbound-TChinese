@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/description", "value" : "不像爛泥，不像泥土…這是溼土。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "溼土"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "冷漠。這只是普通的泥土混合了水罷了。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "溼溼溼土對植物是很好好好的。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "僅僅是一些看起來溼潤的泥土而已。"}]

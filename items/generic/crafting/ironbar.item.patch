@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "鐵礦主要可以在溫和星系的行星上找到。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "鐵錠"}]

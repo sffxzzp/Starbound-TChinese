@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一道最基礎的電子人菜餚。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "瓦特濃湯"}]

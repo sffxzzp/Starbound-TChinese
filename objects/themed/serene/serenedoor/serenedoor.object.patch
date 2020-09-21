@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一扇結實的寧靜門。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "寧靜門"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這扇門的形狀使得它非常牢靠。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一扇非常結實的門。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人躲在門後。跳出來。刺刺刺！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "讚許。這扇門的形狀使得它非常結實。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一扇結實的寧靜門。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一扇堅固的寧靜門。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "看起來相當可靠的一扇門"}]

@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一套光滑的機甲推進器，帶有高效能的複雜電路。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "勇氣機甲推進器"}]

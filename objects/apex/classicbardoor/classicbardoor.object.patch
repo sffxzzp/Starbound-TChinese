@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這些門做工很漂亮。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "古典欄杆門"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一扇很重的欄杆門。把手看起來是純金的。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這扇門看起來是滿懷熱愛做的…亦或是滿懷恐懼。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "堅堅堅固的門。但沒沒沒什麼東西能把葉葉葉族人擋在外面。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "吃驚。專家級的鑄造技術才能造出這樣水準的門。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這是一扇很大很漂亮的門。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "精緻的工藝品。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "大而舊的柵欄門上有副鋥亮的把手。"}]

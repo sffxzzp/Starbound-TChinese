@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "站那兒別動！如果你呆在那裡不動的話它是沒法檢測到你的。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "運動檢測器"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "看起來好像是運動檢測器。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "運動檢測器，最好小心一點兒。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人認為這部機器想讓葉族人跳舞。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "分析。一部非常原始的運動檢測器。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "運動檢測器，最好小心一點兒。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這東西看起來像是某種運動檢測裝置。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "看起來像是在檢測是否運動。"}]

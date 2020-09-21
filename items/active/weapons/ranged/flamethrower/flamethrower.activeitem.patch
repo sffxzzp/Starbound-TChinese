@@ -1,0 +1,3 @@
+[{ "op" : "replace", "path" : "/description", "value" : "我喜歡凝固汽油彈的氣味，無論何時。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "噴火器"},
+{"op": "replace","path": "/upgradeParameters/shortdescription","value": "噴火器^yellow;^reset;"}]

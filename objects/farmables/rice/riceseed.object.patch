@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "煮了它、炒了它，把它丟向新娘子。大米！滿足你所有的烹飪需求。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "大米種子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "大米。任何飯菜最好的佐料。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "大米，一種用來啄的美味零食。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人用準備好的米飯來當煮心心心臟的美味佐料。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "逗樂。有個電子人有次吃下了生大米然後成為了一位成功的打擊樂手。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "大米。在你餓到想吃成噸東西的時候很適合用來充飢。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "大米。味道平淡但卻用途廣泛。一頓飯簡單的基礎。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "偶爾吃一頓米飯也不錯。搭配辣椒最棒了！"}]

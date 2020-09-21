@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "耀眼的閃光與巨響的警報聲保證能夠吸引一堆人的注意力。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "警報燈"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這些可以用來威懾別人，也可以用來當作一種安保裝置。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這個閃光燈能夠讓大家警惕犯罪。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "這這這個能使所有的警警警衛進入警戒狀態。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "驚慌。這個會讓很多人警惕起來，我應該更小心一些。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "如果這是在一部電影裡，我敢打賭在我離開這裡之後這燈就會滅了。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一盞警報燈。用來讓警衛們警惕惡棍們。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這個警報燈一定會讓那些帶著搶劫品的強盜更難逃跑。"}]

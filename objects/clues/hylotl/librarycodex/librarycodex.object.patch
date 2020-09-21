@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一本收錄星系裡鮫人的所有文獻的書冊。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "古代圖書館書冊目錄"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這本舊書列出了鮫人在星系中所有的書。對某些人來說一定是非常重要的資訊。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這本塵封的舊書收納了星系裡鮫人所有的圖書的資訊。多麼令人印象深刻！"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人沒有有有時間看佈滿灰塵的書書書。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "著迷。這本書有星系中每一本書的資訊。對某人來說這些資訊一定很有價值。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這本書記錄了這個星系的每一本鮫人圖書。收錄全部書籍一定很令人頭疼。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我們鮫人是天生的組織者－這部書冊收錄了星系中的每一本書。多麼無私啊！"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這本塵封的記錄冊記錄了書名。我想它對某人會有些用處。"}]

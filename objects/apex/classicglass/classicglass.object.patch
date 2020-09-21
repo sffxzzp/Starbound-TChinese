@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "有殘留著一絲水果汁兒的味道。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "水晶玻璃杯"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "盛果汁用的水杯。這些果汁被明令禁止了。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "翼族人沒有這種給水晶定形的科技。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "裡面有水果惡惡噁心的味道。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "分析。這杯子裡似乎盛著某種果汁。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這味道讓我想起了水果奶昔。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "水晶需要靈巧的工藝才能塑成這樣。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我猜這是為不錯的酒水準備的不錯的杯子。"}]

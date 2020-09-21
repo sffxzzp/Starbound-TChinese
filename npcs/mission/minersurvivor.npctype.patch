@@ -1,0 +1,5 @@
+[{"op": "replace","path": "/scriptConfig/dialog/follower/attack/default/default","value": ["我們來給這些怪物上一課！","不勝利，毋寧死！"]},
+{"op": "replace","path": "/scriptConfig/dialog/follower/join/default/default","value": ["你救了我！當那個東西抓住我的時候，我認為我已經完蛋了。你是我的英雄！","你摧毀了這隻怪物！我被困在裡面，它本會把我感染成和其他怪物一樣…","那個東西抓住了我。如果你不摧毀他，我現在可能就變異成一隻怪物了！謝謝！","我活下來了？！你救了我！謝謝你！"]},
+{"op": "replace","path": "/scriptConfig/dialog/follower/returnFromCombat/default/default","value": ["呼，你自己處理的不錯。"]},
+{"op": "replace","path": "/scriptConfig/dialog/follower/wait/default/default","value": ["我覺得我最好開始修復這個礦井…","礦井中有別人在這場襲擊中存活下來麼？","你贏得了這裡所有人尊重。","前方有個箱子，你可以拿走裡面的東西。"]},
+{"op": "replace","path": "/scriptConfig/dialog/follower/returnFromWait/default/default","value": ["你是個冒險者嗎？","我永遠不會忘記你和你給過的幫助！","要有一隻大型清除隊伍才能處理這爛攤子。"]}]

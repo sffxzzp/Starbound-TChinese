@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個象徵著知識的古老符文。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "知識符文"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個有些複雜而古老的符文，代表著知識。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個象徵著知識的符文，難怪它看起來那麼複雜。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "一個錯綜複雜的符文來代表知識的複雜內容。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "疑惑。一個意味著知識的符文。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "如果這個符文代表知識，我能從中學到什麼？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這個小而精的設計包括了高深莫測的知識本身。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一個看起來很奇特的符文，它和知識有些關係。"}]

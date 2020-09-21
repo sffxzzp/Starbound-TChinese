@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這帽子幾乎不能提供保護，但是眼鏡看上去挺酷的。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "落魄者面具"}]

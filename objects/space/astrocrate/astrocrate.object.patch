@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "專門用於空間運輸的大型集裝箱。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "天文箱"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "標準的太空運輸箱。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這個容器很大，但這意味著裡面有很多空間存放東西。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "大條紋金屬盒。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "感興趣。這箱用的金屬使它結實，但很輕。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一個超大的運輸箱，裡面可以儲存很多東西。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "為貨物運輸而製造的大型船運集裝箱。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我認為你可以在這個大箱子旁邊存放任何東西。"}]

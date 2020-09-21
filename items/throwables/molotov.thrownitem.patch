@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "莫洛托夫雞尾酒"},
+{ "op" : "replace", "path" : "/description", "value" : "一瓶極易燃的液體。"}]

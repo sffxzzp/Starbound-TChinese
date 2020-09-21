@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "激鬥機甲MkII，一個設計來相容模組化機甲部件的機體。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "激鬥機體"}]

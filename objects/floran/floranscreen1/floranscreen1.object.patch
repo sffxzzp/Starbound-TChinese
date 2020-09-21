@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個木製屏風，適合用來躲在後面更衣。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "木製更衣屏風"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個屏風可以用來保證有限的隱私。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個用來更衣的屏風。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人用用用它來收集解剖時濺濺濺出來的血。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "客觀。一個普通的屏障。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一個用來更衣屏風…或者用來脫衣。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一個簡單的屏風。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一個可供躲藏在後面的屏風，如果你想做些羞羞的事情。"}]

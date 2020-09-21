@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "粗糙的木門。不是很安全。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "木門"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個基本的木頭門。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "手工製作的木製門。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人也也也會做類似的木門。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "愉悅。這看來是一扇手工門。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這是你在小平房裡會看到的那種門。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一扇廉價的木門。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "看上去是挺老土的那種，但是挺有用。"}]

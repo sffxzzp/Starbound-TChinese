@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "科技發展部士兵的電鍍金屬護脛。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "科技發展部護脛"}]

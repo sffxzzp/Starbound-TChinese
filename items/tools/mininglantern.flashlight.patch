@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一盞被探險家帶著的用來照亮周圍區域燈籠。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "探險家燈籠"}]

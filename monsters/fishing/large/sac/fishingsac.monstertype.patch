@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "棕色脊索瘤"},
+{ "op" : "replace", "path" : "/description", "value" : "它的胃裡不停地翻滾著有毒的液體。它幾乎裝不下了。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一扇木門，兩邊有著鋼鐵符號裝飾著。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "開拓者門"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這扇木門上面有一個大型的奇異符號。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我想知道門上的符號意味著什麼。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "這這這扇開拓者門乾燥老舊。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "難忘。全新的材質以一種美觀的方式聚集在一起。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這扇門有著一個閃閃發亮的門把手。我喜歡它！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這扇門的符號我並不熟悉。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "在開拓者建築中這樣的門很常見。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一座葉族人的雕像。它看起來像是一個偉大的獵手。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "葉族勇士雕像"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一座氣勢雄偉的葉族獵手雕像。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一座葉族獵手的雕像。不是每個翼族戰士都能如岩石般不朽。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "成成成功的葉族獵手可可可以得到大大大雕像。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "難忘。這描繪的是一個成功的葉族獵手。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "如果這座雕像的主角是我，可能會看起來更好。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "豎立一座雕像是對一個葉族獵手莫大的榮譽。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這傢伙一定是個非常棒的獵手。"}]

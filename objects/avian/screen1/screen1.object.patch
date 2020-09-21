@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "看起來過時了的舊系統讀數。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "資料顯示屏"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這好像是系統診斷。我無法看懂。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這個螢幕描述了附近水晶的狀態。只有觀星者才能看懂。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "鳥人的科技。葉族人不懂。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "困惑。我無法與這臺機器連線。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這看起來是個很複雜的東西。也許上面顯示著是翼族科技產物的狀態。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "鮫人無法解讀這些資料。它們似乎是系統統計資訊。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我完全無法理解這些資訊。"}]

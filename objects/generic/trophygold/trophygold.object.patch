@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/description", "value" : "銘牌上寫著“授予穿行戰爭之焰而未曾燒傷之人。”。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "冠軍獎盃"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "這個發發發光的獎盃是金子做的。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "喜悅。這個獎盃的大小和表面處理是最令人印象深刻的。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一個看上去相當漂亮的獎盃。他們也不止給了這些。"}]

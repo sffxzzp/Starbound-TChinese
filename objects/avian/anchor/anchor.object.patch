@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個沉重的金屬船錨。出航劫掠啦。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "船錨"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個很重的鐵塊，也許是船錨。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "翼族飛船上的錨。具有諷刺意味的是，許多不能飛行的折翼者一生都在雲端之上的飛船中生活著。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "鐵鉤，很沉。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。電子人把這種船錨用在他們的大帆船上。那麼它為何會在這裡呢？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一個巨大的船錨。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "啊，一個船錨，我曾聽過這些東西砸碎鮫人建築的傳聞。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這是個看起來就很重的大個金屬塊。"}]

@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這頂為了追蹤而造的頭盔輕質且透氣。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "跟蹤者頭盔"}]

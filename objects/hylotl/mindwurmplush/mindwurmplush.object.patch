@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個看起來可愛得有問題的神經蟲玩偶。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "神經蟲玩偶"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "我不確定這個毛絨玩具是否真的很可愛…"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "神經蟲可愛到令人髮指。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "神經蟲可愛到令葉族人煩惱。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "困惱。我不喜歡神經蟲，即使是被做成絨毛玩具的形式。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "即使是絨毛玩具的形態，神經蟲也有點嚇人。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "神經蟲是一種看起來很有趣的生物。我不確定自己是否該收集一個它的絨毛玩具。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "比一條真正的神經蟲可愛多了，這點肯定沒錯！"}]

@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "標籤上寫著：“這是臭名昭著的企鵝海盜駭翼，坐在它所謂的UFO上。”"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "駭翼手辦"}]

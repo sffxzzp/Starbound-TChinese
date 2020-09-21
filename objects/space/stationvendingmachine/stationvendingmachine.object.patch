@@ -1,0 +1,11 @@
+[{ "op" : "replace", "path" : "/description", "value" : "自動售貨機，這裡有質量好的小吃。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "空間站自動售貨機"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這臺自動售貨機看起來很有用，它可以提供一些必要的糧食供應。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這臺機器看起來好像裡面有一些東西，而且好像正常工作。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "空間零食！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "感興趣。這臺自動售貨機好像在正常工作，可能有貨。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這裡有自動售貨機真是太幸運了，我有點餓了。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一個自動售貨機，類似於鮫人城市裡那些。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這臺機器就像一個機器人店主！我給它錢，東西就出來了。"},
+{"op": "replace","path": "/interactData/paneLayoutOverride/windowtitle/title","value": "自動販賣機"},
+{"op": "replace","path": "/interactData/paneLayoutOverride/windowtitle/subtitle","value": "美味小吃"}]

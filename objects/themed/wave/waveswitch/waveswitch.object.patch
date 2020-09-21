@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個波浪控制檯。設計了一個巨大的彎曲。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "波浪控制檯"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這個控制檯提供了深入的控制。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個有用的控制檯。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人按下按鈕，然後某些事事事情就發生了！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "欣賞。單獨一個控制檯就可以同時控制大量的機器。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一個控制檯，這得用來進行些操作。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一個控制檯。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我想按下所有的按鈕！"}]

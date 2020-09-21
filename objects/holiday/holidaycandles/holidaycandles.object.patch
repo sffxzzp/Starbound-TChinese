@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一組蠟燭。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "節日蠟燭"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這是一組蠟燭。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "他們是漂亮的蠟燭。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "蠟蠟蠟燭。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "節日。他們是很好的蠟燭。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "漂亮的蠟燭。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "他們是很普通的蠟燭。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "很漂亮的一套蠟燭。"}]

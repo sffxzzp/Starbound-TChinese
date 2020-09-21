@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個儲物櫃。何不存點東西進去？"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "飛船儲物櫃"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個儲物櫃。太容易撬開了！"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "鮫人在設計這個儲物櫃的時候絕對沒有考慮安全性。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人努努努力撬開這個儲物櫃，終於成功了。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "懷疑。葉族人都可以撬開這個簡陋的儲物櫃。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我不知道鮫人為什麼還要多此一舉鎖上這箱子，誰都可以輕易撬開它。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一個安全的儲物櫃。只有最狡猾的賊才能開啟它。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一個儲物櫃，用來放東西。"}]

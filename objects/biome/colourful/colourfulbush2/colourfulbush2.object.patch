@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一棵可愛而又多彩的灌木。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "多彩灌木"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這些枝葉不能令我感動。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "多麼誘人的灌木。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "這是是是植物還是葉族人？葉族想要檢查一下。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "啟發。一棵真正美麗的灌木。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "種在壺內的話看起來不錯。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "大自然是最純淨的藝術家。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我想這些灌木已經有一個非常高的評價。"}]

@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/description", "value" : "岩漿岩。這東西很熱。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "岩漿岩"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "小心。這岩漿岩的溫度維持在一種致命的程度。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "這些燃燒燒燒的岩漿岩很熱熱熱。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我最好注意點，遠離這些滾燙的岩漿岩。"}]

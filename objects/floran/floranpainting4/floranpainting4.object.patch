@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "好像是一幅落葉的畫。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "原始的樹葉畫"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一幅關於樹葉的畫。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這是一個記號還是一幅畫呢？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人為樹葉畫像。樹葉跟葉族人很像像像。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "自豪。這幅畫的主題顯然是一片樹葉。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一幅關於樹葉的畫作。我猜也許有什麼意義。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "葉族人追求藝術嗎？"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一幅描繪了樹葉在風中飄動的畫。"}]

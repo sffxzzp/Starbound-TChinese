@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這種踢腳板是經典家居裝修的必需品。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "經典地腳"},
+{ "op" : "replace", "path" : "/glitchdescription", "value" : "好奇。電子人的建築中不常見到踢腳板。"},
+{ "op" : "replace", "path" : "/florandescription", "value" : "奇特的建築築築牆板。"},
+{ "op" : "replace", "path" : "/novakiddescription", "value" : "一些奇特的牆壁飾條。"}]

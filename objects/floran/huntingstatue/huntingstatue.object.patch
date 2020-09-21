@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個兇狠地握住長矛的葉族人雕像。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "葉族人雕像"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個展示著卓越的投擲長矛技藝的葉族人。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "葉族人幹得最好的一件事，就是獵殺生命。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "這個雕雕雕像描繪了狩獵的光榮。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "分析。這支矛好像剛被用來刺穿了一隻生物。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這個看上去是個葉族人。我很納悶這是誰。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "即使只是一個葉族人的雕像都讓我渾身不舒服。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這個葉族人看起來是一位可靠的夥伴。"}]

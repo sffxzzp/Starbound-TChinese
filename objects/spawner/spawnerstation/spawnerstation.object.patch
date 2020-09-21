@@ -1,0 +1,10 @@
+[{"op":"replace","path":"/interactData/paneLayoutOverride/windowtitle/title","value":"員工終端"},
+{"op":"replace","path":"/interactData/paneLayoutOverride/windowtitle/subtitle","value":"使用僱傭信標來呼叫幫助！"},
+{ "op" : "replace", "path" : "/description", "value" : "一個用來獲取召喚各種人的部署信標。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "^orange;員工終端^white;"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "我很疑惑我能不能叫一個自由戰士過來。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "在阿沃斯上這種技術是有爭議的。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "快快快餐？"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "難忘。多麼公平的制度。沒有領主和夫人，沒有微不足道的農民。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這是線上分類廣告的終極進化。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "用來給另一個人帶來內心的平靜。"}]

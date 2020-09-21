@@ -1,0 +1,9 @@
+[{"op": "replace", "path": "/title", "value": "^orange;殺死賞金目標"},
+{"op": "replace", "path": "/text", "value": "在那裡殺了賞金目標"},
+{"op": "replace", "path": "/completionText", "value": "你抓住了賞金目標！"},
+{"op": "replace", "path": "/scriptConfig/objectives/findSpaceBountyStage", "value": ["^orange;前往^reset;^green;%s^reset;", "^orange;接近^reset;^green;可疑的飛船^reset;", "^orange;部署^reset;到^green;可疑的飛船^reset;"]},
+{"op": "replace", "path": "/scriptConfig/objectives/killBountyStage", "value": ["^orange;搜尋^reset;目標的^green;飛船^reset;", "^orange;逮捕^reset;^green;<bounty.name>^reset;"]},
+{"op": "replace", "path": "/scriptConfig/generatedText/text/default", "value": ["<bounty.name>的最後蹤跡在<coordinate.name>。"]},
+{"op": "replace", "path": "/scriptConfig/generatedText/complete/capture", "value": ["抓住了<bounty.name>和他的團隊，乾的好！你真是個勇敢的人，搭檔！\n\n到和平衛士空間站領取獎勵！"]},
+{"op": "replace", "path": "/scriptConfig/generatedText/complete/default", "value": ["抓住了<bounty.name>和他的團隊，乾的好！你真是個勇敢的人，搭檔！\n\n到和平衛士空間站領取獎勵！"]},
+{"op": "replace", "path": "/scriptConfig/generatedText/failureText/default", "value": ["你放了他們！？我得說，你這次沒能盡到自己作為和平衛士的責任，夥計！"]}]

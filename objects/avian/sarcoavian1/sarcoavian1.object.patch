@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個做工嫻熟的翼族木乃伊石棺。我想知道里面有什麼。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "翼族木乃伊石棺"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個木乃伊石棺。我想知道里面是否有人。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "最富有、最受尊敬的翼族人用這個來儲存他們完整的身體。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "裡裡裡面的點點點心已已已經不新鮮了。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "客觀說明。裡面的翼族人已經非常古老了。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一個佈滿灰塵的木乃伊石棺。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "鮫人將死者歸於大海。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一個存放死屍的地方。"}]

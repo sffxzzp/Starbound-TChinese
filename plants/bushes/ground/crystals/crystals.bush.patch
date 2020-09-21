@@ -1,0 +1,4 @@
+[{ "op" : "replace", "path" : "/description", "value" : "晶體。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "晶體。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "有光澤的晶體。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "陳述。晶體。"}]

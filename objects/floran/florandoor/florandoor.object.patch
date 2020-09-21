@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這門看起來幾乎不能阻擋外面的天氣。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "原始門"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一扇很薄的木頭門。風一吹就會晃動。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一扇無用的門。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人不鎖門。葉族人不會偷偷偷其他葉族人的東西。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "疑惑。這個門完全沒有存在的必要，它一點用都沒有。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我不確定這個門是不是有什麼用處。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一扇用未經處理的木頭做的醜木門。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一扇完全沒有任何裝飾的門。"}]

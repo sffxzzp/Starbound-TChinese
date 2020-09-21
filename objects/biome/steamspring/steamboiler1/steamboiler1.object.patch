@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個小小的生鏽鍋爐，用來將冷水轉化成蒸汽。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "小型蒸汽鍋爐"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這個粗糙的鍋爐看起來會比我一開始想的還要古老。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "在這個金屬盒子裡，水正被加熱成蒸汽。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人想想想知道如果葉族人捅捅捅它的話，水會不會漏出來！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "有趣。這個機器似乎是用內部的火來給水加熱的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一個外表鏽蝕得相當厲害的鍋爐。我好奇它究竟有多古老？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一個外觀醜陋的破玩意兒，用來把水製成蒸汽。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "從這個舊鍋爐上可以看到表明它是一個自制品的一些痕跡。"}]

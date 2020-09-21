@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一張堅硬的寧靜桌。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "寧靜桌"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這張寧靜桌非常漂亮。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一張非常堅固的寧靜桌"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "對葉族人來說，這一張桌子用來切肉足夠堅硬。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "讚許。這是張非常精良的寧靜桌。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一個很酷的寧靜桌。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "不是我經常用的型別，但是也相當讓人印象深刻。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一張很棒的綠色桌子。"}]

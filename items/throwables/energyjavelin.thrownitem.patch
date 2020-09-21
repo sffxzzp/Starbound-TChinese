@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "能源標槍"},
+{ "op" : "replace", "path" : "/description", "value" : "充滿動能的標槍。很適合用來打獵。"}]

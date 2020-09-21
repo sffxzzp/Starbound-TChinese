@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "用於生產模組化機甲部件。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "^orange;機甲部件製造臺^white;"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這個桌子可用於生產模組化機甲部件。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "有了這個桌子，我可以組裝模組化機甲部件。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "製造機甲部件的製造臺。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "興奮。這個工作臺用於組裝模組化機甲部件。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我可以在這個工作臺上組裝模組化機甲部件。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這種工業生產的桌子是用於生產模組化機甲部件的。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "有了這個桌子，我可以製作一些機甲部件。"}]

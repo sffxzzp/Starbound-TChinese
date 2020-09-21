@@ -1,0 +1,3 @@
+[{"op":"replace","path":"/maxDamageTitleLabel/value","value":"每擊最大傷害："},
+{"op":"replace","path":"/energyPerShotTitleLabel/value","value":"每擊耗能："},
+{"op":"replace","path":"/descriptionLabel/value","value":"從怪物身上收穫肉和其他好東西。"}]

@@ -1,0 +1,3 @@
+[{"op": "replace","path": "/title","value": "^green;新曲調"},
+{"op": "replace","path": "/text","value": "我的博物館快完成了！而且我覺得努魯也許會對我的博物館改變想法。我曾聽說一個有趣的東西，叫做“^orange;舊電視^white;”，擺在人類展區應該很適合。^green;你能給我帶一個回來嗎^white;？在人類營地經常看到，但在其他地方並不常見。"},
+{"op": "replace","path": "/completionText","value": "漂亮！謝謝你幫我收集這些東西的好心。現在就只差一個展區了！"}]

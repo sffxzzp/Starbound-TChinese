@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個大型金屬鑼。它是如此誘人，讓人不禁想給它一下！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "大鑼"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "敲打這面鑼會發出低沉的響聲。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這些鑼是用在神廟裡以召集翼族人去做禱告的。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人不喜歡鳥人的噪噪噪音。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好玩。這面鑼發出的聲音能製造出很大的迴響。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "想要控制自己不去敲這面鑼可不容易。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我想在海洋底下、鑼發出的響聲應該會大不相同吧。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我打賭敲打這東西會發出巨大的聲音。"}]

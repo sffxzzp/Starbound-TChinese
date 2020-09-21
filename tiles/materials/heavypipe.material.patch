@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "重管子"},
+{ "op" : "replace", "path" : "/description", "value" : "一條重管子，通常用於老式系統。 "},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "厭惡。我可不想看到這個從這個管子中流出來的廢料。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "有異異異味的汙汙汙水管。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一些又髒又舊的管子。"}]

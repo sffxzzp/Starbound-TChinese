@@ -1,0 +1,4 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個有標記的奇怪的植物。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "一個奇怪的植物。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族用這種植物做記號。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "疑惑。這種植物似乎攜帶資訊。"}]

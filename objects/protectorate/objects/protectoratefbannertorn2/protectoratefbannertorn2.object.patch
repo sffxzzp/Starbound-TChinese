@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一面撕裂的守護團學院的壁旗。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "撕裂的守護團壁旗"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這面旗子被撕開了…"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一面撕裂的旗幟！嚴重毀壞！"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "壞掉的旗幟…葉族人看到這這這個感到很哀哀哀傷。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "震驚。一面撕裂的守護團旗幟…"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這面守護團旗幟快撐不住了。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這面旗子被撕開了。我的心也碎了。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這些曾令人自豪的旗幟如今已不再飄揚。"}]

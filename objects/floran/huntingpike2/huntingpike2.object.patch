@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一顆尖刺上的頭骨。葉族人的最愛。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "尖刺上的頭骨"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一顆被插在尖刺上的人類的頭骨。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "不像葉族人，翼族人文化尊重死者。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人把他們的狩獵戰利利利品插在尖刺上來展展展示。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "細心。這尖刺上的頭骨似乎是屬於一個人類的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這顆頭骨看上去已經被風化了，它已經被插在這根尖刺上有一段時間了。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一顆擱置在一根葉族人狩獵長矛上的頭骨。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "插在尖刺上的頭骨，不是很對勁。"}]

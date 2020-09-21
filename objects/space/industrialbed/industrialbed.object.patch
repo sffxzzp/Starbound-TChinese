@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "結實金屬架的廉價床。看起來不太舒服。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "工業床"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這張床看起來只考慮了結構完整性，而不是舒適感。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這張床看起來很重…"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族不可能在大的金屬床睡睡的好。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "分析。這張床似乎能經受住極其劇烈的運動。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "加上一點額外的填充，這張床實際上是相當舒服的。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這張床看起來很不舒服，但我不挑剔，所以我仍然可以在上面睡。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這張床看起來很硬，不過我很容易睡著。"}]

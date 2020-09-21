@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "有塵垢的櫃檯。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "骯髒的時尚櫃檯"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這個櫃檯被塵垢給覆蓋了。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這個櫃檯很髒。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "這這這個櫃檯真是是是髒。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "厭惡。這個櫃檯被一層層塵垢覆蓋了。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這東西放在這兒有多久了？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這個櫃檯很不衛生。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這個櫃檯真是髒極了！"}]

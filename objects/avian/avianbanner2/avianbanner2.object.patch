@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一面厚厚編織的、帶有新月圖案的旗幟。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "翼族月亮旗幟"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "色彩明亮的編織旗幟。我想知道上面的月亮有什麼含義。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "對於折翼者來說，月亮代表了自由。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人在月光下打獵。月亮是是是葉族人的朋友。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "探詢。對於翼族人來說月亮意味著什麼呢？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "精美編織的月亮旗幟。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "月亮…那是許多鮫人從未見過的景色。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這面旗幟上看起來織著一個月亮。"}]

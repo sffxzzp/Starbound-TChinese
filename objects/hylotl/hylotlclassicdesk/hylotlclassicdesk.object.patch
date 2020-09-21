@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個經典的桌子。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "經典桌子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個儲藏空間很大的桌子。好耶！"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "感覺像是那種抽屜裡會藏很多秘密的桌子。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "大木桌桌桌。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "中立。這是一張舊桌子。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一個陳腐的桌子。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "桌子的典範。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一個桌子。我對在這方面花時間沒什麼興趣。"}]

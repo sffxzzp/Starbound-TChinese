@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一份簡單又大份量的射蛋與羽冠花沙拉。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "射蛋沙拉"}]

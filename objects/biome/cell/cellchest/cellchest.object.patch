@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個帶有圓形鎖的箱子。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "細胞箱"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "它雖有金屬的外觀，但實際上是由有機材料所製成的。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這鎖看起來有點像漿果，真好。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "它富有光光光澤，但看起來太傻傻傻，葉族對它沒興趣。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "冷淡。這真是個好箱子…"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我知道它是由細胞組成的，但看起來像是由糖果製成的。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這箱子的設計師的字典不存在低調二字。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這作為存放重要東西的箱子有點太顯眼了。"}]

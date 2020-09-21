@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這雙追蹤者靴子會留下鮮明的足跡。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "跟蹤者褲子"}]

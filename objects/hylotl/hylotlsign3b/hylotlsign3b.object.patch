@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "藍色霓虹商店標誌"},
+{ "op" : "replace", "path" : "/description", "value" : "這個標誌裡有許多小型海洋生物在遊動。"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這個標誌指的是水族館嗎？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這個標誌可能指示某個有趣的地方。一個不錯的改變。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "嗡嗡響的標標標誌吵到葉族人了。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "評論。有小魚在它裡面遊動。鮫人本不是該照顧他們的同類寵物嗎。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "如果水族館裡有兩足鯊魚我就去。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一個公共廁所標誌。很平常地，鮫人很注意保持自身的無暇。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這一定指向某些有意思的東西。"}]

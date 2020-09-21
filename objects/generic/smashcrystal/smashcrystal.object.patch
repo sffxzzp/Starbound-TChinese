@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一塊可摧毀水晶。到了絕命碎石的時間了。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "可摧毀水晶"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "我必須打碎這水晶！"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "打碎這水晶真讓人滿足。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "亮晶晶地粉粉粉碎吧！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "興奮。打碎這個水晶將會產生巨大的財富。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "到了製造點水晶混亂的時間了。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "藍水晶。真美。我希望我不會打碎它們！"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我有種想打碎這兒的水晶的強烈衝動。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一架子相當鈍的鐵劍。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "中世紀武器架"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這些劍的劍刃隨著時間的推移已經有些鈍了。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一把從劍中挑選出的鈍器。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "不鋒利的寶寶寶劍。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "客觀。這些劍已經鈍了。它們似乎已經被人遺忘。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "連乳酪都切不動。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一堆鈍劍。這些可憐的東西。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "對任何人都沒有什麼幫助。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個由舊骨頭製成的邪惡火炬。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "頭骨壁適火炬"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這個恐怖的火炬提供了溫暖和照明。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個可怕陰森的火炬，依我看…"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "燒著了的臉！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "不適。我覺得這是一個真的頭骨。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一個以火焰為發的頭骨！真酷。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "誰會將死者之物用作這種目的？"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "您好，夥計。"}]

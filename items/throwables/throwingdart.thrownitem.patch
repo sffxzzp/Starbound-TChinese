@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "飛鏢"},
+{ "op" : "replace", "path" : "/description", "value" : "一個飛鏢，目標是正中圓心。"}]

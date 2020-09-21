@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個能讓複製機附加上額外的高科技戰術裝備的模組。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "^orange;操作者元件^white;"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "多麼有用，這個能給複製機附加上額外的高科技戰術裝備。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我能用這個給複製機附加上額外的裝備。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人用這這這個給複製機附加更多的東西西西。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "興奮。使用這個模組能給複製機附加上高科技戰術裝備。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "使用這個給複製機附加上額外的高科技戰術裝備！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這個有用的模組能給複製機附加上額外的高科技戰術裝備。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這個便利的模組能給複製機附加上更多的東西。"}]

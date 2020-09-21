@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "充斥著代表預算統計的餅狀圖的螢幕。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "統計顯示器"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "餅狀圖。看起來不是很好吃的樣子。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這種型別的圖表看起來像漿果餡餅，缺了一塊在中間。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "奇怪怪，不感興趣趣的資料。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "嘲諷。迷人的餅狀圖，列出了駐軍的開支。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "哦，資訊圖。遺憾的是這些內容不是網際網路上那些有趣的東西。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這玩意兒對於人類的意義就是提醒他們留心開支。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "不確定這圓餅代表了什麼，但是確定它少了一塊。"}]

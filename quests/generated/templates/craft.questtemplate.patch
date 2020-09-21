@@ -1,0 +1,6 @@
+[{"op": "replace","path": "/scriptConfig/generatedText/text/default/floran","value": ["現在你有了製作所需需需要的材料，^green;幫幫幫葉族人做一個^orange;<craftedItems>吧。","葉族人需需需要^orange;<craftedItems>^green;。它可以用^orange;<ingredients>^green;來製作。^white;你能幫幫忙嗎嗎？"]},
+{"op": "replace","path": "/scriptConfig/generatedText/text/default/glitch","value": ["集中。就現在手頭上的活兒來說，^green;你必須幫我做一個^orange;<craftedItems>^white;。看來你已經有所需要的材料了。我會很感激你的。","關心。我遇到了一個難題。我的創造力低於平均水平，能麻煩你^green;幫我造一個^orange;<craftedItems>^white;嗎？你可以用我們之前得到的^orange;<ingredients>^white;來製作。"]},
+{"op": "replace","path": "/scriptConfig/generatedText/text/default/default","value": ["接下來你需要^green;組裝^orange;<craftedItems>^white;。你應該^green;使用之前收集的^orange;<ingredients>^green;作為原材料。","下一步需要^green;組合一個^orange;<craftedItems>^white;。我本該自己動手的，但我的製作手藝糟糕透頂！如果你想試一試的話，你應該已經有所需要的原材料了。"]},
+{"op": "replace","path": "/scriptConfig/generatedText/completionText/default/floran","value": ["做工真真真棒，<player>！現在葉族人有另另另一個請求。","<craftedItems>將會非非非常有用。葉族人很感謝你的努力！"]},
+{"op": "replace","path": "/scriptConfig/generatedText/completionText/default/glitch","value": ["快樂。你的技能點全部點到手工藝了嗎？我下次一定還找你！","安心。等待是痛苦而漫長的，但最終我的計劃得以順利進行。幸虧有你！謝謝！"]},
+{"op": "replace","path": "/scriptConfig/generatedText/completionText/default/default","value": ["哇哦，做工真心贊！謝謝你，這對我的計劃一定大有幫助！","對你來說似乎是小菜一碟！我猜你已經制作了不少東西了。有了這個我們就可以繼續推進我們的計劃了。謝謝！"]}]

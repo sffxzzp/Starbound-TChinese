@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "老舊電線，四分五裂。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "懸掛的破舊電線"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "斷了的電線。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "損壞的導線。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "壞了的線好像銅質藤蔓蔓蔓。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "擔心。我希望這些電線不導電。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "裸露的電線！這個看上去很危險。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "鬆散的電線從套管中滑出來。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一堆破爛的電線。"}]

@@ -1,0 +1,4 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個懸掛的怪眼。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "一個懸掛的怪眼。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "擺動的眼睛！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "厭惡。一個懸掛的眼睛。"}]

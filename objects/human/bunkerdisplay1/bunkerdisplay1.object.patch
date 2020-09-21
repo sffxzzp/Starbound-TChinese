@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這個顯示器顯示了一個位於中央的圓形房間，還分出了幾個走廊。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "藍圖顯示器"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "看起來像某種數字地圖。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "也許是這個區域的佈局?"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "彎彎曲曲的線條條條對葉族人沒有意意意義。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "細心。這看上去好像描畫了我們所處區域的佈局。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一種基本的地圖顯示器。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "走廊和房間在地圖上被標示了出來。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我確信這是一張地圖。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個雄偉的厄運之床。雖然有點尖。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "厄運之床"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個非常漂亮、舒適的床。但讓人看到會有些毛骨悚然。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這是一個很好的床，也許可以休息下我的羽毛。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "牙好床，以讓葉族休休休息。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "擔心。這張床的令人不安。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "夢幻般的床。在這裡應該很容易得到小睡，只要它不讓我做惡夢。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "不錯的質量。我喜歡這個。雖然不太確定它的外貌。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這床真是舒服到飛起來。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個古代的，能垂直通行的艙門。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "古代艙門"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個古代的，能垂直通行的艙門。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個古代的艙門."},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "這看看看起來像是一扇嵌在地面中的門。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "機警。這艙門看起來很古老。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一個艙門，適用於你不僅僅滿足於水平行走的時候。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一個古代的艙門，其本身就是一件文物。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一個嵌在地面中的艙門，看起來非常古老。"}]

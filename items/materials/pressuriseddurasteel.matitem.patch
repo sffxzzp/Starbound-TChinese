@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一種耐鋼板，經過特殊設計能夠承受高壓。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "高壓耐鋼"},
+{ "op" : "replace", "path" : "/glitchdescription", "value" : "有趣。這種耐鋼板被設計得能夠承受高壓。"},
+{ "op" : "replace", "path" : "/florandescription", "value" : "堅堅堅固的耐鋼。"},
+{ "op" : "replace", "path" : "/novakiddescription", "value" : "看起來像閃著光的耐鋼板。"}]

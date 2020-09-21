@@ -1,0 +1,4 @@
+[{"op": "replace","path": "/title","value": "^green;英雄的鍛造"},
+{"op": "replace","path": "/text","value": "急躁。把你的劍給我！…嗯，也許我該說得具體些。先把你的^orange;破碎英雄之劍^reset;給我，我才能幫你修復它！艾絲特教過我怎麼做——對於一個像我這樣的劍客來說小菜一碟！^white;話說回來，^green;我需要^orange;10張空白科技卡^green;來做這次修復工作^reset;。"},
+{"op": "replace","path": "/completionText","value": "驕傲。拿著！比新的還好！不用謝！"},
+{"op": "replace","path": "/scriptConfig/turnInDescription","value": "前往^orange;前哨站^reset;同^orange;拜隆先生^reset;交談"}]

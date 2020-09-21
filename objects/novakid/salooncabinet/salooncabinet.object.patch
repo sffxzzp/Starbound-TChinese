@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個飲料櫃，裝著各種玻璃杯和奇形怪狀的瓶子。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "沙龍櫥櫃"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個神奇的飲料櫃，然而我找不到香蕉汁。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個滿是奇形怪狀的玻璃杯和香甜液體的櫥櫃。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "惡惡噁心的果汁。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "觀察。裡面的液體似乎是果汁。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一個復古式的酒櫃，我不確定這些瓶子裡裝的是啥。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一個酒櫃。瓶子裡的液體聞上去不錯嘛…"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "對燒爐匠和他的助手來說很好，雖然我沒有看到任何草原露水…"}]

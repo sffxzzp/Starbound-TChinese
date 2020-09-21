@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一踩就會碎的堅硬的幹沙。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "幹沙"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "細心。這沙子又乾又硬。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "硬而乾的沙沙沙子。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "看起來乾巴巴的一團沙子。"}]

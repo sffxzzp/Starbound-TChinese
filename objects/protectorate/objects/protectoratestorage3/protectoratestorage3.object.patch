@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這是一架子的狀態艙與物資箱。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "物資箱儲物單元架"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這些物資箱作為守護團探險家的生命線，被髮射到了附近的星球。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這些物資箱會被閒置幾十年，但裡面的補給品通常會被保管好。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "物資資資箱。對探險險險家們和冒險險險家們來說是很好的資源。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。這些物資箱被送到了附近的星球，並在那裡潛伏著。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我看到這個架子上的一些物資箱。它們通常滿是補給品！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "在未知的世界中漫遊的探險家們有時會偶遇這些物資箱。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我瞄了下這架子裡的一些物資箱。裡面通常滿是很好的補給品！"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一簾守護團學院的舞臺幕布。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "守護團舞臺幕布"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一塊極好的幕簾。真奢華。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "噢哇，這塊幕布摸起來就像蓬鬆的雲朵。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "柔柔柔軟的幕簾。葉族人想要輕輕輕撫它。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "難忘。可以毫不誇張地說這種材料是獨一無二的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這種幕布是如此柔軟！我甚至能靠在上面睡著。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一塊用最好的絲綢織成的柔軟幕布。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這種幕布外觀精美。我很好奇它們是用什麼做的。"}]

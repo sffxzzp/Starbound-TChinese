@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "宇宙入侵者"},
+{ "op" : "replace", "path" : "/description", "value" : "在物理的空間和時間之外出生的實體。"}]

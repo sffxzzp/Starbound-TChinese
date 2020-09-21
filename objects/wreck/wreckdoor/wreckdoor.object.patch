@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這門幾乎生鏽堵塞了。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "破舊的門"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一扇生鏽的門，只能稍微開啟一點。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這扇生鏽的門非常沉。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "沉重的門很難開啟。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "細心。鐵鏽讓這扇門咯吱作響。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一扇生鏽的舊門。非常沉。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這扇門曾經非常牢固。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "在門的鉸鏈生鏽前，這扇門也許很安全牢固。"}]

@@ -1,0 +1,13 @@
+[{"op": "replace","path": "/0/1","value": [{"tag": "machinepistol","name": "自動手槍","type": "activeitem"},
+{"tag": "assaultrifle","name": "突擊步槍","type": "activeitem"},
+{"tag": "shotgun","name": "霰彈槍","type": "activeitem"},
+{"tag": "pistol","name": "手槍","type": "activeitem"},
+{"tag": "rocketlauncher","name": "火箭筒","type": "activeitem"},
+{"tag": "grenadelauncher","name": "榴彈發射器","type": "activeitem"},
+{"tag": "sniperrifle","name": "狙擊步槍","type": "activeitem"},
+{"tag": "broadsword","name": "巨劍","type": "activeitem"},
+{"tag": "hammer","name": "錘","type": "activeitem"},
+{"tag": "axe","name": "斧","type": "activeitem"},
+{"tag": "shortsword","name": "短劍","type": "activeitem"},
+{"tag": "spear","name": "長矛","type": "activeitem"},
+{"tag": "dagger","name": "匕首","type": "activeitem"}]}]

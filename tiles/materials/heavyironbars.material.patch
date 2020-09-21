@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/description", "value" : "厚鐵柵欄。雖然生鏽腐爛卻依舊牢固。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "重鐵柵欄"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "煩惱。看到金屬以這種方式生鏽總是讓我不安。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "老舊生鏽鏽鏽的柵欄欄欄。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這些老舊生鏽的柵欄也曾經有過一段風光的日子。"}]

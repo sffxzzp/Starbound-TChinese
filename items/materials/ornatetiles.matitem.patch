@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/description", "value" : "精緻而優雅的瓦片。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "華麗的瓦片"},
+{ "op" : "replace", "path" : "/glitchdescription", "value" : "熟悉。在古典屋頂設計中經常可以看到這種相似的瓦片。"},
+{ "op" : "replace", "path" : "/florandescription", "value" : "葉族人喜喜喜歡這種漂亮華麗的瓦片。"},
+{ "op" : "replace", "path" : "/novakiddescription", "value" : "這華麗的瓦片真能提高這裡的裝修檔次。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "記號2。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "2"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "二。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "二。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "像蛇蛇蛇一樣的二。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "客觀。二。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "數字2。呵呵。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "二。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "二。"}]

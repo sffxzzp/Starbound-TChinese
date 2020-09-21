@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個機甲臂，可以部署帶進攻炮塔的無人機。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "等離子無人機機甲臂"}]

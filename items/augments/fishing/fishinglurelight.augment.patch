@@ -1,0 +1,3 @@
+[{"op": "replace","path": "/description","value": "一個有著明亮的燈的魚餌，適用於夜間釣魚。"},
+{"op": "replace","path": "/shortdescription","value": "發光魚餌"},
+{"op": "replace","path": "/lureName","value": "發光魚餌"}]

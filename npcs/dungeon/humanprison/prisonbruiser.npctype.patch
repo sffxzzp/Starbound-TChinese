@@ -1,0 +1,2 @@
+[{"op": "replace","path": "/scriptConfig/dialog/attack/default/default","value": ["入侵者！"]},
+{"op": "replace","path": "/scriptConfig/dialog/attack/human/default","value": ["新鮮的肉！","總算有個有趣的東西來練練拳頭了！","我要把你像紙一樣撕碎！","這會讓我很滿意的！","敢來這？大錯特錯！","我會好好享受的！","嘿！過來啊！","你有大麻煩了！","我要揍你一頓，然後再揍你一頓！","你惹錯人了！","無路可逃了，陌生人！","乖乖靠近點讓我揍你！","呃！你已是砧板上的肉了！","我恨陌生人！","過來！"]}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個奇特的大鑼。上面佈滿了雕刻。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "奇特翼族鑼"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這鑼會發出怎樣的聲音。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "祭司們會分別在祈禱開始與祈禱結束時敲響這面鑼。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "翼族人的金屬板發出的聲聲聲音大的像葉族人的鑼一般。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "入迷。這東西似乎有著和翼族水晶相同的振動頻率。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我一直以來都想敲一敲這種鑼。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這樣的聲音從來沒有在海底發出過。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "敲打這東西肯定會弄出些噪音來。"}]

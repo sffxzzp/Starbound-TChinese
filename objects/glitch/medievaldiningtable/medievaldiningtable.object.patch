@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一張高雅的饕宴桌。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "皇家餐桌"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這張桌子的閃光點在於這張魅力無窮的桌布。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "某人在這張華貴的桌子上鋪了一塊布以保持桌面整潔。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "這是床還是桌子？真是是是別緻。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "貪婪。自我上次出席電子人的宴會已經過去很長時間了。在宇宙中這種歡樂的日子並不多。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一張巨大的餐桌。宴會必備。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "看起來是一張能在皇族成員的社交場所見到的桌子。桌布表明了這是一場宴會。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一張為歌舞會而準備的優質桌子！"}]

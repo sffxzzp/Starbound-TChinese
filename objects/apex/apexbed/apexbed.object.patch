@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一張造價便宜的床"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "標配床"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "出現一隻完全不同種類的臭蟲我們猿人也會感到恐慌。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "翼族人極少能享用到如此舒適的床，我們的傢俱都是石頭和稻草做的。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "糟糟糟透了的床，完全比不上葉族人的毛皮皮皮。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "關注。一個給電池充電的好地方。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一張簡單的床，沒有一點實際魅力。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這麼醜的床躺在上面怎麼睡得著？"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一張簡單的床，可以用來睡覺。"}]

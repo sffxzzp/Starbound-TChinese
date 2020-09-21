@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個有著許多有趣計量槽和燈泡的控制檯。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "鑄造控制檯"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個原始外觀的控制檯。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這些燈泡是幹什麼的。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "顯眼的燈燈燈泡和按按按鈕。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "著迷。我有興趣查明這些燈泡意味著什麼。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這個控制檯融入了所有花裡胡哨的想像。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一種基礎的技術。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一個看起來很顯眼的控制檯。"}]

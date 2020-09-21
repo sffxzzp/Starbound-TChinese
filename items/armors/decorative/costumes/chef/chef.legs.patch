@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "能保護重要位置不被油濺到的圍裙。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "廚師圍裙"}]

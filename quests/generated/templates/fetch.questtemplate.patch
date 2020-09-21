@@ -1,0 +1,12 @@
+[{"op": "replace","path": "/scriptConfig/generatedText/text/first/floran","value": ["首先先先，葉族需要你去^green;尋找^orange;<fetchedItems>^white;。要快！","葉族人找不到^orange;<fetchedItems>^white;。如果你^green;能拿到這些^white;，葉族人會給你豐厚的回報。"]},
+{"op": "replace","path": "/scriptConfig/generatedText/text/first/glitch","value": ["急切。首先^green;我需要你去取得^orange;<fetchedItems>^white;。先謝謝你了！","激動。我的計劃的第一步，^green;我需要你去取得^orange;<fetchedItems>^white;。"]},
+{"op": "replace","path": "/scriptConfig/generatedText/text/first/default","value": ["首先，^green;我將需要^orange;<fetchedItems>^white;。你能助我一臂之力嗎？","一開始，^green;我們將需要獲得^orange;<fetchedItems>^white;。你能解決嗎？"]},
+{"op": "replace","path": "/scriptConfig/generatedText/text/default/floran","value": ["到了^green;尋找^orange;<fetchedItems>^white;的時間了。這這這對於進行我們的下一步非常重要。","作為你的下一個任任任務，你能^green;為我們找到^orange;<fetchedItems>嗎？^white;對於像你這樣一個有經經經驗的人不是一件難事兒。"]},
+{"op": "replace","path": "/scriptConfig/generatedText/text/default/glitch","value": ["自信。接下來 ^green;我們將需要^orange;<fetchedItems>^white;。我肯定這個任務在你的能力範圍之內。","急切。接下來，^green;我需要你去收集^orange;<fetchedItems>^white;。"]},
+{"op": "replace","path": "/scriptConfig/generatedText/text/default/default","value": ["接下來，^green;我們將需要^orange;<fetchedItems>^white;。你能處理好的，對吧？","^green;下一件我需要的東西是^orange;<fetchedItems>^white;。這對計劃很重要。"]},
+{"op": "replace","path": "/scriptConfig/generatedText/completionText/first/floran","value": ["好樣的！讓我們試試<fetchedItems>。","完美－現在葉族人可以使用這些東西了！"]},
+{"op": "replace","path": "/scriptConfig/generatedText/completionText/first/glitch","value": ["感激。我很感謝你為我收集這些東西！關於它們我有個計劃…","愉快。這些東西正是我的計劃所需要的！"]},
+{"op": "replace","path": "/scriptConfig/generatedText/completionText/first/default","value": ["棒極了！現在我們能用這些東西了。","乾的漂亮，<player>，你的能力毋庸置疑！"]},
+{"op": "replace","path": "/scriptConfig/generatedText/completionText/default/floran","value": ["完美，到了將這些<fetchedItems>投入使用的時候了。","這比我期待的要要要快！葉族對此很滿意。"]},
+{"op": "replace","path": "/scriptConfig/generatedText/completionText/default/glitch","value": ["感激。這些東西對我的計劃很重要，所以我很感激你花時間來收集它們。謝謝你！","激動。謝謝你為我收集這些，關於它們我有個計劃！"]},
+{"op": "replace","path": "/scriptConfig/generatedText/completionText/default/default","value": ["謝謝你，這正是我計劃的下一階段所需要的…","完美，這些很好用。謝謝你！"]}]

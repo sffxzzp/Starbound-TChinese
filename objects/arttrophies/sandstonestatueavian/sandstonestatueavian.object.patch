@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個翼族人的雕塑，看來它是飛不成了。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "翼族砂岩雕像"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個相貌奇特的翼族人。他看起來很高貴。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這個翼族人團結了折翼者們，並鼓勵我們展翅高飛。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "愚愚愚蠢的有斑點的砂岩翼族人。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "博學。這個翼族人有很大的歷史研究價值。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這翼族人看起來很冷酷。我打賭沒人敢惹他。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "翼族人滑稽的相貌被捕捉的很好。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "好像是某個翼族人的雕像。"}]

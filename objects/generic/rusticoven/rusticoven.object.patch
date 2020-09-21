@@ -1,0 +1,11 @@
+[{ "op" : "replace", "path" : "/description", "value" : "伴著輕柔的噼啪響聲，山核桃木煙霧的香氣讓人心情愉悅。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "田園爐"},
+{ "op" : "replace", "path" : "/interactData/paneLayoutOverride/windowtitle/title", "value" : " 田園爐"},
+{ "op" : "replace", "path" : "/interactData/paneLayoutOverride/windowtitle/subtitle", "value" : "木火烹飪"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個可愛的小爐。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "折翼者喜歡在這樣的小爐子上燒東西吃。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "石石石頭爐子燒肉不錯。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "有益。磚塊反射熱能，使烹飪快速而均勻。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一個可愛的爐子。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "多迷人啊。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "好吧這大概是我見過最可愛的小爐子了！"}]

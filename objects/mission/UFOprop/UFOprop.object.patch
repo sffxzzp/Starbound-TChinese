@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個破碎的UFO。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "UFO"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這似乎是一個失去功能的飛碟。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一臺曾用於遨遊天際的機械。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "某種小小的金屬物。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "細心。失去功能的飛行物"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一個看起來非常復古的飛碟。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一個微小乘客使用的損壞的載具。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一個粗糙的宇宙飛船。看起來也壞了。"}]

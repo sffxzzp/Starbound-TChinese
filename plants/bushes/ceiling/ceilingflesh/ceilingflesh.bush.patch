@@ -1,0 +1,4 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一塊正在顫抖的肉。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "一塊正在顫抖的肉。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "肉。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "厭惡。懸掛的一團肉。"}]

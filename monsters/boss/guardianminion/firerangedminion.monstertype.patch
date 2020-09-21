@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "爪牙"},
+{ "op" : "replace", "path" : "/description", "value" : "它的運動是由氣溫水平決定的。"}]

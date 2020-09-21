@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一條優雅的紅色緞帶。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "守護團緞帶"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一條優雅的天鵝絨緞帶。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一條天鵝絨緞帶。真別緻！"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "紅色的天鵝絨緞帶…這讓葉族人感到餓了！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "客觀。一條紅色緞帶。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這是一條紅色緞帶。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一條紅色緞帶。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一條簡單的紅色繩子。"}]

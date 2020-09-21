@@ -1,0 +1,4 @@
+[{ "op" : "replace", "path" : "/description", "value" : "在昏暗的光照下啟用底部節點，在明亮的光照下啟用頂部節點。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "光線感測器"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "在昏暗的光照下激激啟用底部節點，在明亮的光照下激激啟用頂部節點。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "深思。在昏暗的光照下啟用底部節點，在明亮的光照下啟用頂部節點。"}]

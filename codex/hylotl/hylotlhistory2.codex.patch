@@ -1,0 +1,7 @@
+[{"op": "replace","path": "/title","value": "學者之誓"},
+{"op": "replace","path": "/description","value": "一位鮫人學者所作的誓詞。"},
+{"op": "replace","path": "/contentPages","value": [
+"作為學者，我們遵守這樣的約定：求取知識，肩負使命；研習歷史，以致銘記；而濟天下，而平天下。
+
+這是我們莊嚴和不墜的誓言；因為知識即是真理，而真理即是啟示。"
+]}]

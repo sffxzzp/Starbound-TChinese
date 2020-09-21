@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個石頭做成的寶箱。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "石頭寶箱"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個用常見的石頭製成的寶箱。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "看起來很樸素，但它能裝下很多財寶。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "看上去它是一個儲存物物物品的好地方。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "印象深刻。這是一個有著巧妙偽裝的寶箱。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我幾乎錯以為它是一塊普通的石頭了。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這是一個設計很簡單的寶箱，但它的效用則非常好。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這箱子的蓋子很沉。"}]

@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這件硬鋼製成的護腿可以為那些飛行摩托的騎手提供絕佳的保護。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "先驅者護腿"}]

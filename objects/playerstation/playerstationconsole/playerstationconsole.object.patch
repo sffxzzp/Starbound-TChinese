@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "監視空間站內狀況的控制檯。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "空間站控制檯"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這個高階控制檯可以監控空間站的每一個區域。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "監測空間站內狀況的終端。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "空間站計算機終端。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "感興趣。這個終端可以透過空間站很多元件來實現內聯。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這種先進的終端是為了跟蹤空間站的情況而設計的。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這個終端是用來控制空間站內的系統的。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一個用於調整空間站內部系統的電腦。"}]

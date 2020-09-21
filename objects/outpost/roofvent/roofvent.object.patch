@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "通風口。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "屋頂通風口"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "屋頂通風口。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這通風口吹來的微風撫弄著我的羽毛。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "通風口――用來換氣或用來躲藏。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "驚訝。這個通風口看起來還很好。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "屋頂通風口，我打賭有些人嘗試過鑽進去。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "簡單的屋頂通風口。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "屋頂聽風口，我能夠塞進去麼？"}]

@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "標籤上寫著，\"長時間暴露在它的刺激性氣體中會把你毒倒。\""},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "毒氣草手辦"}]

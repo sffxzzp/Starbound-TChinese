@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一扇表面鑲嵌著水晶的沉重黃金門。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "金水晶門"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "門上的水晶在嗡嗡作響、就像是在提供能源一樣。這種科技是未知的。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這扇門在嗡嗡作響、同時水晶也在不斷共鳴。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "閃閃閃亮的門讓讓讓葉族人很開心。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。這扇門包含著一個超出我認知的能量源。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這扇門上的水晶是溫暖的。它在我的手指觸碰下輕輕的嗡鳴著。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一扇裝有水晶的、精美雕刻的石門。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "好吧、這是我見過最閃亮的門了。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "粘液玩偶。一個可愛的玩偶。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "粘液玩偶"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個可愛的粘液玩偶。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個小小可愛粘液玩偶。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "粘粘玩偶！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "讚賞。一個讓人想抱抱的小粘球。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "酷，我想要一個！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "呀！我一定要拿一個到我的收藏中！"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "不太確定這個的意義是什麼。"}]

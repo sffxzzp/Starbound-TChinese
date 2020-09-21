@@ -1,0 +1,11 @@
+[{"op": "replace","path": "/scriptConfig/crew/role/name","value": "醫療兵"},
+{"op": "replace","path": "/scriptConfig/crew/role/field","value": "醫學"},
+{"op": "replace","path": "/scriptConfig/dialog/crewmember/roleDescription/default/default","value": ["當你在飛船上時，我會為你治療！"]},
+{"op": "replace","path": "/scriptConfig/dialog/crewmember/roleDescription/floran/default","value": ["當你在飛船上時，葉族人會為你醫療！"]},
+{"op": "replace","path": "/scriptConfig/dialog/crewmember/roleDescription/glitch/default","value": ["實用。當你在飛船上時，我會為你治療！"]},
+{"op": "replace","path": "/scriptConfig/dialog/crewmember/fieldBenefit/default/default","value": ["你看上去受傷了，讓我幫你治療！","讓我來幫你！","你看上去需要一些治療，來這裡！","嘿，我可以幫你治療！就站在那兒別動！"]},
+{"op": "replace","path": "/scriptConfig/dialog/crewmember/fieldBenefit/floran/default","value": ["你看起來受傷了，葉族人可以幫你！","葉族人是天生的藥劑專家！相信葉族人！","你受傷了。葉族人可以幫你治療！"]},
+{"op": "replace","path": "/scriptConfig/dialog/crewmember/fieldBenefit/glitch/default","value": ["關心。你看上去需要一些治療。","關切。你可能需要一些治療？","熱心。你看上去可以獲得更好的狀態。讓我來幫助你！"]},
+{"op": "replace","path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default","value": ["你看上去需要一些治療！","讓我來幫你！","我是個醫療兵 —— 讓我來幫你！","看上去你需要我的幫助！","我可以治療你！來我這邊，快點！"]},
+{"op": "replace","path": "/scriptConfig/dialog/crewmember/combatBenefit/floran/default","value": ["葉族人有有有地方可以幫忙！","葉族人可以幫把手！","葉族人有有有地方可以幫忙！"]},
+{"op": "replace","path": "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default","value": ["渴望。我可以幫助你！","興奮。 可能你需要一些治療？","熱心。這可以治癒你！","熱心。拿上這個，它會派上用場的！"]}]

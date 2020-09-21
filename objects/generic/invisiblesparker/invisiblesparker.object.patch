@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "隱形點火線圈。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "隱形點火線圈"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這個元件被破壞了。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這種損壞修起來可不容易。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "部分分分壞掉了。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "擔心。這個東西承受了極大的破壞。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "不妙。這些元件嚴重地受損了。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我最好儘快修理這些損壞的地方。"}]

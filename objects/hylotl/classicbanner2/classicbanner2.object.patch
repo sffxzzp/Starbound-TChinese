@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "最經典不過的掛旗。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "經典掛旗中部"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "厚重的掛旗。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "摸著很柔軟。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "鮫人用厚天鵝絨做掛旗，而葉族人用皮皮皮。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "讚賞。很少有東西撫摸起來這麼舒適。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這些掛旗應該在別墅裡。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這些掛旗幾乎要粘上我的面板了。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "胡裡花哨的玩意。"}]

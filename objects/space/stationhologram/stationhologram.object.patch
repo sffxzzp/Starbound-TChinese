@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個不明星球的閃爍著的全息顯示。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "空間站全息圖"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "行星和月亮的全息圖。投影的質量值得懷疑。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "行星的全息圖—由光構成的三維圖象！"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族不能扔藍色的球，球不是真的。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。我想知道這張全息圖描繪的是什麼星球？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我仍然想知道為什麼所有全息圖都必須是藍色的。這是風格上的選擇嗎？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "藍色的確是全息投影的最佳顏色。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一個藍色天空的世界的懸浮影象。"}]

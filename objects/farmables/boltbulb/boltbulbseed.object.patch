@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "會長出螺釘球！柔軟得令人驚訝。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "螺釘球種子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "柔軟得像香蕉，但有一股可怕的金屬味。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "折翼者們變得相當喜歡這種怪異的金屬蔬菜。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "柔柔柔軟的金屬，不像電子人肉那樣。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "感傷。這蔬菜嚐起來有家的味道。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "真噁心，吃這東西就跟吃一小塊卡車一樣。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "螺釘球是少數真正好吃的蔬菜之一，對於真正的鑑賞家來說。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "金屬蔬菜？我什麼都會嘗試一次。"}]

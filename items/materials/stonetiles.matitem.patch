@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/description", "value" : "由石頭精心打磨出來的磚。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "石磚"},
+{ "op" : "replace", "path" : "/glitchdescription", "value" : "難忘。 這些石頭被小心翼翼的打磨成磚頭。"},
+{ "op" : "replace", "path" : "/florandescription", "value" : "石石石頭被打磨成美麗的磚塊塊塊。"},
+{ "op" : "replace", "path" : "/novakiddescription", "value" : "石頭被切塊然後被打磨成獨特的磚塊。"}]

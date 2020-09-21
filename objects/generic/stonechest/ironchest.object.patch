@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個基本的鐵箱。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "鐵箱"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個箱子！讓我們看看裡面。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "通常這些箱子用於儲存貴重物品。我好興奮！"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "箱子！葉族人必鬚鬚須搜尋一下！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "期待。裡面可能有什麼？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "箱子！讓我們開啟它。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "沒什麼比開啟一個未開封的箱子更讓人激動的了。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "好吧我將――一個未開封的箱子！讓我們來看看。"}]

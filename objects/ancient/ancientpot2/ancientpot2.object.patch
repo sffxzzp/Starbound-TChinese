@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這個古代罐子形狀引人注目，不知道它多古老了。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "圓古代罐子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "無論裡面放了什麼，這個古代罐子已經被遺忘了好久了。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我覺得這個罐子正常情況下應該不是很正式的儀式性物品。我在想裡面有什麼。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "古代罐罐罐子需要粉粉粉碎。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "驚訝。這個古代罐子設法在時間的摧殘中存留下來了。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這個罐子看起來超古老！也許裡面還有什麼東西。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我在像這個舊罐子裡會有什麼古代寶藏。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "破壞這麼古老的罐子簡直就是恥辱…"}]

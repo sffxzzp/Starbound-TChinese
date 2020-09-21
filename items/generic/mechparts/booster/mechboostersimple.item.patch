@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "批次生產機甲推進器，帶有外部油箱附件。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "基本機甲推進器"}]

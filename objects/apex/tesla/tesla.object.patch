@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一種無線供能裝置。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "無線發電機"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一種無線能源技術的裝置。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這個裝置讓我的羽毛髮出了沙沙的聲音。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人害怕閃電機器。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "高興。一個無線能量源。我是這種科技的死忠。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "無線能源。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這樣的無線能源裝置在海底很有用。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "發電機。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "太陽系中的一個行星―天王星的精細模型。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "天王星模型"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "天王星的自轉軸傾斜了超過97度。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "天王星優利納斯，以古地球希臘神話中的天空之神命名。它的神話可比翼族人的天空之神蒼白多了。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "天王星是太陽系繫系第七行星。它有著暗淡的行星環環環。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "天王星肯定是以神命名的…但確實聽起來比較逗。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "魅力。天王星是太陽系最寒冷的行星。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "天王星因它嚴重偏向一邊的自轉軸而顯得奇特，這也讓它在太陽系中變得獨一無二。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "天王星是一個以善於掩蓋隱藏於其中的飛船的引擎排放物而聞名的氣態巨行星。"}]

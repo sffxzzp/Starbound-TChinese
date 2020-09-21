@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這種褲子是為了從各種危險品中保護穿戴者而設計的。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "危險品處理組的褲子"}]

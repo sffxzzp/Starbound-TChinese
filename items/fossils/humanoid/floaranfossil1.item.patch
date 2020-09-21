@@ -1,0 +1,4 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個葉族人的頭骨化石。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "葉族頭骨"},
+{ "op" : "replace", "path" : "/completeSetDescriptions/shortdescription", "value" : "葉族化石"},
+{ "op" : "replace", "path" : "/completeSetDescriptions/description", "value" : "由植物構成的葉族人骨頭裡充滿了木質素，外觀像一種木頭。"}]

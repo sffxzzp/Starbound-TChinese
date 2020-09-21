@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "寺廟平臺"},
+{ "op" : "replace", "path" : "/description", "value" : "用堅實的寺磚做的平臺。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "吃驚。這由石磚砌合而成的平臺。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "用老舊磚磚磚塊做的平臺。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "老舊石磚拼在一起就像平臺一樣。"}]

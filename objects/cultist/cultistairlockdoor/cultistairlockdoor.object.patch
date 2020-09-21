@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一扇粗製濫造的氣閘門。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "邪教氣閘門"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個巨大的氣閘，由各種廢金屬碎片製成。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一扇用嚇人的眼睛裝飾的大門。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "這門在看葉族…"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "無視。這門做工不好。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "有人很想讓這扇門看起來嚇人。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這扇怪誕的門勉強看起來不透氣。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這確實是一扇令人毛骨悚然的門。"}]

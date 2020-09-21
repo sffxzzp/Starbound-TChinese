@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "標籤上寫著，\"它看起來像一根又大又笨的韭菜，儘管在你砍它的時候它會流血。\""},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "波爾普手辦"}]

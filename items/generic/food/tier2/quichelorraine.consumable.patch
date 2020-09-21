@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個經典的燻肉派。非常適合於野餐！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "洛林乳蛋餅"}]

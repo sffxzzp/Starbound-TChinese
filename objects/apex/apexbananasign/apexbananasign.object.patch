@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "偉大的香蕉萬歲！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "香蕉宣傳海報"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這些海報曾是用來標識香蕉俱樂部的入口的，直到科技發展部下達了禁止令。現在它們被用來提醒人們：違反法律將被判處死刑。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "翼族人的消化系統很敏感。我們只忠於自個兒種族的食物。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "真真真真是可怕的食物"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。我相信這就是猿人賴以為生的東西吧。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "啊…簡單明瞭。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這是吃的嗎？我很想嚐嚐異國美食。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "上面畫著香蕉，還寫著BANANA，防止我們忽略了它。"}]

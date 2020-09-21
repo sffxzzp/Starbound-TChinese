@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個非常著名的鮫人藝術家的非常著名的自畫像。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "鮫人舒的自畫像"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個經典的鮫人自畫像。大師級的。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這幅畫的畫工幾乎達到了翼族人的標準。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族想偷偷偷這幅畫並在黑市上賣賣賣。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "欣賞。這幅自畫像是一個偉大的藝術作品。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "他看起來很熟悉，然而…不。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一個我家鄉歷史上然而著名畫家的自畫像。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "畫的不賴。看起來他在打牌。"}]

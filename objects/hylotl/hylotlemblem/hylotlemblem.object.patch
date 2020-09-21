@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這是常見的鮫人紋章。三顆晶體代表他們的三隻眼睛…"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "鮫人紋章"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "鮫人的象徵。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "相對於眼狀影象，翼人更喜歡翼狀影象一些。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "三隻鮫人眼睛盯盯盯著葉族人…葉族人不喜歡！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "評論。這個鮫人紋章上的眼睛太過密集令我感到不安。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "代表鮫人族群的象徵。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我們人民的象徵。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一個紋章。我猜那三塊晶體代表鮫人的眼睛。"}]

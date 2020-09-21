@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "海報"},
+{ "op" : "replace", "path" : "/description", "value" : "一張關於物質槍的海報。"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一張關於物質槍的很有戲劇性的海報。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這把物質槍是一個守護團畢業生的獎勵品。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "一張關於守護者們至關重要的工具的海報！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "激勵。這張海報使我想要展開宇宙探險之旅。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這張海報有物質槍的特寫，大地守護團獎勵畢業生的一種多功能工具。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "物質槍，一個有著多種用途的工具。多麼激動人心。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "像我這樣的年輕人需要一把像物質槍一樣的工具。"}]

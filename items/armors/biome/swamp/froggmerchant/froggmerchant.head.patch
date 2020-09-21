@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這個面具以某種方式來保持你頭部的溼潤。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "青蛙頭"}]

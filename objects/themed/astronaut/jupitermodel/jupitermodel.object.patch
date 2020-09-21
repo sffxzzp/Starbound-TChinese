@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個精緻的木星模型，太陽系裡最大的行星。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "木星模型"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "人類曾經認為木星是一個最大的行星，這真滑稽。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "木星比地球大得多。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "木星是是是一團漂亮卻又混混混亂的云云雲球。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "震驚。以現在的標準來看，木星只是個小行星。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "巨大的氣態行星，非常雄偉。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "木星，曾被視為一個巨人"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我見過更大的。"}]

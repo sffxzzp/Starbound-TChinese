@@ -1,0 +1,11 @@
+[{"op":"replace","path":"/interactData/paneLayoutOverride/windowtitle/title","value":"研究站"},
+{"op":"replace","path":"/interactData/paneLayoutOverride/windowtitle/subtitle","value":"研發特殊科技！"},
+{ "op" : "replace", "path" : "/description", "value" : "能用來開發非常專業的裝置。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "^orange;研究站^white;"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "我能用它製造專業的基站和裝置。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "研究臺。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人能創造專專專業的東東東西。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "細心。這個研究臺很適合用來研發新物件。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我能在這製作很專業的東西！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "為了研發新科技，這個研究站看起來被配備了先進的裝置。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我能在這製作所有的專業的東西！"}]

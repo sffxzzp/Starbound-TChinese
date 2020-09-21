@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一把有哞西牛皮坐墊的木椅。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "開拓者椅子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這把椅子夠舒服的了。獸皮坐墊為它小小的增色了一下。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "動物皮坐墊使我的羽毛髮癢。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "這把椅子聞聞聞起來還還還有點獵物的味道。好棒的椅子。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "印象深刻。這把椅子看上去質量不高，但它的皮草墊子帶來了不少潛在的舒適感。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這張沙發看起來坐上去會有點癢。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我不願意坐在這把椅子上。動物皮做的墊子看上去並不舒適。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "完美的椅子。無論哪天我都可以坐在這樣的椅子上好好放鬆我的雙腳。"}]

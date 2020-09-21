@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "召喚屬於你自己的翼族人村民！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "翼族人生成器"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "我可以召喚出一些翼族人夥伴。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "也許我能用這個東西召喚一些被禁足的朋友們。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人把鳥人帶到葉族人身邊來！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "思考。克魯西斯會怎麼想？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "棒，我可以召喚一支鳥兒軍隊。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我覺得召喚一個鳥人還是可以的。"}]

@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/description", "value" : "鎢鏈條，這不是用來玩的。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "鎢鏈條"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "難忘。這些鏈條非常的堅固。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人用鏈條捕捉獵物。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一些用鎢加工而成的鏈條。"}]

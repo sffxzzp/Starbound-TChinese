@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "批次生產的機甲腿，允許基本的機動性。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "基礎機甲腿"}]

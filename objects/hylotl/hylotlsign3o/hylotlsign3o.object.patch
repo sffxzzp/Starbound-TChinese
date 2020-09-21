@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "橙色霓虹收集者標誌"},
+{ "op" : "replace", "path" : "/description", "value" : "尋求鮫人來到海面收集幼崽的告示。"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "我的翻譯器告訴我這個標誌意味著鮫人綁架嬰兒。這不是真的，對吧？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "根據我的翻譯器可知，鮫人拐賣小孩。我覺得這難以置信。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "嗡嗡響的標標標誌吵到葉族人了。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "評論。也許鮫人該關心他們語言的翻譯問題了，這好像在說他們綁架小孩。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "哇，我總在懷疑鮫人在幹什麼。不，這一定不對。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "要求鮫人從海面收集卵，一種慈善、仁慈的行為。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我還沒來得及翻譯完！"}]

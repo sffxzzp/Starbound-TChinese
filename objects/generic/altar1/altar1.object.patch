@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個暗淡的石祭壇，樸實無華。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "石祭壇"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個祭壇。上面沒有什麼雕飾。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這座祭壇沒有被雕刻過。禁飛者可以在這裡祭拜。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "石石石桌子很適合切東西。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "困惑。這座祭壇看上去完全沒有裝飾。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一個祭壇。我該跪拜嗎？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一座祭壇。這種虔誠並非發展的正道。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "就是個樸素的石祭壇。沒啥特別的。"}]

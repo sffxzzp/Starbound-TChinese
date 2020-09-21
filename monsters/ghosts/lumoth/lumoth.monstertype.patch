@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "發光蛾"},
+{ "op" : "replace", "path" : "/description", "value" : "那盞燈泡只會在發光蛾拍打翅膀時發光。"}]

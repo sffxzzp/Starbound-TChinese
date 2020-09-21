@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "骨制的框架讓人困擾，但是那張皮製的毯子看上去很舒服。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "原始床"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一張用骨頭和皮毛做成的床。和我自己的皮毛接觸讓我很不舒服。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "別的不說，我只希望這床比較暖和。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人在在在骨頭和皮毛上睡覺覺覺。這打獵的味道讓葉族人做個好夢。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "噁心。如果是用電子人的殘骸來製作又會是怎麼樣的？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "整張床單都是血腥味。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "何等無禮，竟然把一隻活生生的生物做成了傢俱。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這張床有腐爛的臭味。"}]

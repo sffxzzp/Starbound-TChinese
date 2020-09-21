@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一棵樹苗。一棵樹會從根系中長出來。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "樹苗"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "我可以種下它來栽培一棵樹。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我可以透過種下這棵樹苗來栽培一棵樹。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人種下可愛的樹苗苗苗，來栽培出一棵又大又壞又邪惡的樹來！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "驚奇。種下這顆樹苗可以讓我栽培出一個生命。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這棵樹苗會長成一棵樹。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "多麼奇妙的生命啊，竟由最微小的嫩芽中綻放。嗚呼。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "如果我種下它，它會長成一棵大樹。"}]

@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/description", "value" : "頂部被雕成脊狀的石磚。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "脊磚"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "感興趣。這些脊磚是簡單而實用的建築方塊。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "脊狀的石石石頭方塊。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這些石塊被雕刻得挺漂亮的。"}]

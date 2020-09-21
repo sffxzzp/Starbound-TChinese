@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "船體板"},
+{ "op" : "replace", "path" : "/description", "value" : "廣泛應用於船舶、電站建設的便宜，有彈性的板子。"},
+{ "op" : "replace", "path" : "/glitchdescription", "value" : "細心。這是廣泛用於船舶、電站建設的板子。"},
+{ "op" : "replace", "path" : "/florandescription", "value" : "光滑的太空金屬。"},
+{ "op" : "replace", "path" : "/novakiddescription", "value" : "一些厚金屬板，看起來很堅固。"}]

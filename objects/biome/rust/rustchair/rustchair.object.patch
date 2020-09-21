@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一把生鏽的椅子，不要坐在上面搖晃。"},
+{"op":"replace","path":"/shortdescription","value":"生鏽的椅子"},
+{"op":"replace","path":"/apexDescription","value":"這椅子曾經很好。"},
+{"op":"replace","path":"/avianDescription","value":"一把老舊生鏽的椅子"},
+{"op":"replace","path":"/floranDescription","value":"葉族舔舐椅子。 椅子味道不好。"},
+{"op":"replace","path":"/glitchDescription","value":"（戰慄）坐在這裡就是折磨。"},
+{"op":"replace","path":"/humanDescription","value":"一把生鏽的椅子。我也許會得破傷風。"},
+{"op":"replace","path":"/hylotlDescription","value":"這椅子已經是過去式。"}]

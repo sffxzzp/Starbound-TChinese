@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個古老的呼吸器，用於過濾空氣毒素。令人遺憾的是，它不能使用太久"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "防毒面具"}]

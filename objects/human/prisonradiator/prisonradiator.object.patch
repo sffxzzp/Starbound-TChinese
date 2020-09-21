@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "空間散熱器發著低沉、不愉快的哼鳴。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "古老的散熱器"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "溫暖、舒適的行動式加熱器。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "能讓羽毛變暖和，真是太完美了。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "好熱，不用火，對葉族人很安全。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "不關心。一個小型加熱器"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "空間加熱器，這個名字聽起來炫酷屌炸天，很有未來範兒。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這是一個實現行動式保溫的聰明辦法。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一個散熱器。我從不覺得我需要這樣的東西。"}]

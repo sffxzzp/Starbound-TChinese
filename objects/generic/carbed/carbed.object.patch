@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "汽車形的床，為那些心態年輕的人準備。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "車床"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "被做得像個老式地球交通工具的舒適的床。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一張被設計得像某種人類交通工具的床。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人不確確確定這這這是什麼…床還是車呢？"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。這張床在設計上看上去很機械化，但分析結果示這是用木頭做的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "車形狀的床！我小時候就想要這樣一張床。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一張孩子氣的裝飾床。它被塗裝得很絢爛。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這張床被漆得閃閃亮。車燈和車喇叭並沒有運作。"}]

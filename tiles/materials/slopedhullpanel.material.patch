@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/description", "value" : "便宜，有彈性的鑲板，廣泛用於船舶和空間站建設。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "細心。這是用於船舶和空間站建設的鑲板。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "閃亮光滑的太空金屬。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一些厚的金屬板，看起來很堅固。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "船體板"}]

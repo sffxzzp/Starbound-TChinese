@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這套偵察者的頭部裝備提供了一件炫酷的護目鏡。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "偵察兵護目鏡"}]

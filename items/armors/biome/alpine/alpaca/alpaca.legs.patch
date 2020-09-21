@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "看上去就像一隻羊駝，甚至還包括了額外的那一雙腿。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "外星羊駝下身"}]

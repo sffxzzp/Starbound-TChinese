@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個用於捉蟲的網！捕捉昆蟲，捉住他們，並且增加你的收藏！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "捕蟲網"}]

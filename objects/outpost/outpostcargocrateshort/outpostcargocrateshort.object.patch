@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "小型貨箱。毫無疑問裡面有貨物。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "小型金屬貨箱"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "神秘的貨箱。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我想知道這裡面有什麼。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人把葉族人裝進貨箱。突然跳出來。驚喜喜喜！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "吸引。一個貨箱――什麼都可能在裡面。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "喔喔，貨箱！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "現代風格的貨箱。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "基本款貨箱。裡面可能有值錢的貨物…"}]

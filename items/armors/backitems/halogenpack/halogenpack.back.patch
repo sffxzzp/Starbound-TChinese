@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個附加鹵素燈的揹包，它很明亮！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "鹵素燈揹包"}]

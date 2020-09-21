@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個製造出來用於將敵人阻擋於海灣的矛。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "努魯的矛"}]

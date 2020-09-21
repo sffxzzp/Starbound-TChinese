@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/description", "value" : "真噁心，這些有毒廢料在微微發光。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "廢料石"},
+{ "op" : "replace", "path" : "/glitchdescription", "value" : "厭惡。這些發光廢料中的化學物質明顯有著劇毒。"},
+{ "op" : "replace", "path" : "/florandescription", "value" : "散發出惡惡惡臭的有毒廢廢廢物。令人厭惡的毒毒毒藥."},
+{ "op" : "replace", "path" : "/novakiddescription", "value" : "一團發光的有毒化學廢料。"}]

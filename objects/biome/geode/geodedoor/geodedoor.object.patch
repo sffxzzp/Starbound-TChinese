@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "由一個巨大的晶洞的橫截面雕成的門。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "晶洞門"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這個沉重的門由一塊綠色晶洞切割而成。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "門裡的晶洞水晶已經被磨得平滑。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "閃閃光石石石頭做成的門。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "安心。這個沉重的晶洞門可以輕易的趕走那些不速之客。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "門上的晶洞晶體使得開門的時候閃閃發亮。。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這個美麗的石頭已被塑成一扇門。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "由拋光石頭打磨而成的大門。"}]

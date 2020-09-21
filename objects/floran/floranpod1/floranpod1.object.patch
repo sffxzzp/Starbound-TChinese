@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "某種奇怪的莢。有什麼東西正在從裡面長出來。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "真菌莢"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這些邪惡的植物是什麼？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這個莢中好像在孕育著什麼。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人嗅嗅嗅這個奇怪的菌囊。味道有點熟悉。葉族人很害害害怕。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "分析。這個菌囊屬於葉族人的起源。但…有什麼不對。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "呃，這真讓人噁心！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "葉族人這一次又搞出了什麼恐怖的東西？！"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一些怪異的東西在裡面生長。"}]

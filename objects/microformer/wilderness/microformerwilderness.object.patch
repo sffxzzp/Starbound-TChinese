@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "將星球的一部分轉變為雜草叢生的草莽廢墟。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "草莽微型轉換器"}]

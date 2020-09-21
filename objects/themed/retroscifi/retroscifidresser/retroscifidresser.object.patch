@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個以未來複古主義樣式製造的梳妝檯。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "復古梳妝檯"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個永恆的經典。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這種式樣的梳妝檯永遠不會過時。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "任何種類的梳梳梳妝檯都是有用的。我不在乎它們長什麼樣。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "提問。這是某人對未來傢俱的設想嗎？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "當一個梳妝檯是如此不時髦時，它便是時髦的了。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "時尚潮流的脆弱性在這個梳妝檯的設計上體現的淋漓盡致。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這是一個沒有我所熟悉的梳妝檯的世界。"}]

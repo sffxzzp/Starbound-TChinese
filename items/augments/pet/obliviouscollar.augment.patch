@@ -1,0 +1,3 @@
+[{"op": "replace","path": "/description","value": "一個能安撫你的寵物的項圈。"},
+{"op": "replace","path": "/shortdescription","value": "健忘項圈"},
+{"op": "replace","path": "/collar/displayName","value": "健忘"}]

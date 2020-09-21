@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "我覺得大猿人正在看著我…"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "大猿人高畫質電視"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這就是大猿人嗎？我遇到的人裡沒一個真正見過他。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這猴子塊頭挺大。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "好大大大大的電視。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "謹慎。他能看到我們嗎？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這就是我一直聽說的臭名昭著的大猿人嗎？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這就是掌握著猿人政權的那個暴君麼？"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一個大型的老舊顯示屏。上面除了一隻老猿什麼也沒有。"}]

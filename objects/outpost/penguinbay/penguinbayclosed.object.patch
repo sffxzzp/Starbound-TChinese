@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這裡曾經是一個整潔的攤位。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "休業的企鵝灣"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "木箱門上有一把很大的鎖…還有個更大的錨。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這木箱被巨大到滑稽的掛鎖保護著。我想知道這裡面有什麼？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人想想想知道這裡面有什麼。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。這是哪，還有他們怎麼找到這麼大的錨的？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "木箱上的錨十分巨大。我想知道這是哪來的？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這巨錨來自巨船？"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這是個看起來就不可靠的箱子。這裡面有什麼？"}]

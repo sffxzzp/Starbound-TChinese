@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "用來展示最精緻的物品，或用來支撐最小型的建築。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "小柱子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這柱子本身就是一件藝術品。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "能與翼族相媲美的石刻工藝。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人欣賞這這這樣水準的石頭工藝。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "欣賞。與電子人石匠的技藝同等精湛。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "為了展示珍貴的物件而造。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "上等的石頭工藝。猿人會的還挺多的嘛。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "很好看的石頭陳列臺。用來裝逼再好不過了。"}]

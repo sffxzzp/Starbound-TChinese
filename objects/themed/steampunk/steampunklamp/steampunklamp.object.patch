@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一盞電氣牆燈，裡面充斥著滾熱的氣體。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "蒸汽朋克燈"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "我認為這盞燈的工作原理是透過電荷將氧氣電離發光。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "真少見的燈。我想知道它是如何製成的？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人總忍忍忍不住看燈。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "著迷。燈裡面流動的物質真讓人著迷。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這些濃厚的氣體一邊發著光一邊流動著。這簡直是催眠。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這盞燈的內心起著一道道漣漪，坦然而平靜。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我覺得自己和這盞油燈裡面的灼熱氣體有某些共同點。"}]

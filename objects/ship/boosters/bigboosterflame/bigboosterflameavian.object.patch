@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "我想知道用這火焰做漢堡得多快。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "火焰推進器"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一臺推進器。已知他們存在一些故障和爆炸的可能性。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一臺推進器，飛船的翅膀。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "可可可怕的火焰。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "分析。溫度超過測量範圍。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "它的食物是燃料。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "推進力。"}]

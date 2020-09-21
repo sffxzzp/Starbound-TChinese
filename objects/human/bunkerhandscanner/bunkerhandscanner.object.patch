@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這件裝置透過掃描指紋來驗證個人資訊。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "指紋掃描器"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "指紋掃描器，比猿人的手還要小一些。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "翼族人沒有指紋，這種安保裝置對我們沒有意義。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "用來掃描描手指的裝置，對葉族人的手指沒有任何反應應。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "厭惡。生物安保裝置是一種奢侈品，只有某些物種才能享受。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "指紋掃描器。我還沒註冊過，好傷心。我一直夢想著能啟用一個安全裝置。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "鮫人的手指會讓這些東西完蛋的。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "掃描指紋的裝置，懷疑它能不能採集我的指紋。"}]

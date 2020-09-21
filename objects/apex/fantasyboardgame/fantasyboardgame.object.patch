@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一款桌遊，上面有卡紙做的城堡和很多棋子。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "幻想版圖桌遊"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "在大猿人的管理下，很多如這個一樣有創意的棋盤遊戲被禁了。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "用來做遊戲的微型城堡。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "即使是葉族人偶爾也會喜喜喜歡玩這樣的撒幣遊戲。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "迷惑。這個複雜的桌遊看起來用了個40面的骰子。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一起愉快地玩耍吧！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我年輕一點的時候玩過類似的遊戲。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我要想辦法贏下來，然後整個城堡都是我的。"}]

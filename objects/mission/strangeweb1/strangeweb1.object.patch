@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "奇怪的有機織物。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "奇怪的網"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這看起來原來是有機物。什麼製作了這種物質？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這看起來很粘。我不想讓它滲入我的羽毛。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "聞聞聞起來像獵物！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "細心。這種流體物質是由某種有機物產生的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這東西聞起來比看起來更糟。這是什麼做的？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "某種讓葉族人不愉快的東西，也許？或者比那更加糟糕…"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "像是黏在靴子底的香口膠。"}]

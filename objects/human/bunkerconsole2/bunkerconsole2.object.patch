@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "兩個鍵盤，一個顯示屏？"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "大型控制檯"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個命令控制檯。不清楚是用來幹什麼的。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這東西亂擺弄的話可能很危險"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "這臺電腦上有有有著許多沒卵用的按鈕，葉族人百思不得其解。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "細心。控制檯的鍵盤越多，就越…不不不。呃，說不下去了。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "啊，這不是臭名昭著的雙鍵盤設計嗎。這種款式從來都沒流行過。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "為什麼有人會需要兩個鍵盤？"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這臺電腦有不止一塊鍵盤。我感覺看上去很高階。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "有價值的東西都應該存放在這個裡面。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "皇室櫃櫥"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個皇室櫃櫥。裡面放著的東西到底配不配得上這個櫃子呢？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "窺視一個這麼有價值的櫃櫥的內部讓我好激動啊。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "閃閃發光的盒子，有有有什麼放在裡裡裡面！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "沉思。雖然這個櫃櫥的價值很高，但是它不像是用來放什麼特別的東西的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一個金制的櫃櫥。我已經等不及看看裡面有什麼了。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "讓我們看看他的裡面。也許會有什麼有用的東西在這些被浪費掉的金子之中。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這些昂貴的箱子一定都會有不錯的東西放在裡面！"}]

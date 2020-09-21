@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "發射脈衝以繪製附近材料的密度。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "洞穴探測器"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "用太陽能發電的面板。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "太陽能電池板"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這個太陽能電池板吸收太陽能併產生電能。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這個面板利用來自恆星的能量發電！"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "面板用陽光產生能量，葉族也一樣。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "印象深刻。這個面板吸收光來產生電力。要是我當初是這麼設計的…"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這個太陽能電池板由光產生能量的。我聽說古代人類非常喜歡它們。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這個太陽能電池板能產生來自太陽的清潔能源。我認為在水下就不那麼管用了。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這從太陽光發電？我做在上面就可以賺一筆可觀的生活費了。"}]

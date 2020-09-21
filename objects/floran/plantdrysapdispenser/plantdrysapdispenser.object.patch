@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個幹樹汁分配器。一樣處於葉族人和灰飛煙滅之間的東西。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "幹樹汁分配器"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "我曾經聽人說過關於這種幹樹汁的傳聞。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "葉族人的幹樹汁無異於翼族人用於懲罰的瀝青。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "幹樹樹樹汁。綠手指說說說它是活力的源源源泉。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "躊躇。如果知道了幹樹汁在葉族人身上的效果，人們一定會毀了這東西的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這是葉族人的冰沙調理機嗎？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "葉族人給他們自己注射這種邪惡的混合物。真邪惡。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "某種葉族人的植物裝置。"}]

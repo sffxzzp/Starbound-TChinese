@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一種機甲武器，發射帶耐鋼尖刺的自迴歸拳套。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "尖拳機甲臂"}]

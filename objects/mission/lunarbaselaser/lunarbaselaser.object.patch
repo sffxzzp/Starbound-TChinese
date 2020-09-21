@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "用來在月岩上挖礦的鐳射。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "挖掘鐳射"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "不知道我能不能啟用這個鐳射炮…"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這看起來是某種大型加農炮。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "巨大鐳射束總是有用用用的！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "滿意。這大型鐳射加農可以透過這個面板啟用。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我在想我能不能使用這個大型鐳射加農炮…"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這似乎是一個鐳射加農炮。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一個大型鐳射加農炮。我想知道我能不能讓她開火。"}]

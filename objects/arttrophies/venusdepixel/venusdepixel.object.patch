@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "古希臘大理石雕像，維納斯畫素，雕塑者未知。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "維納斯畫素"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個不尋常的人類雕塑。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個石頭人類。她的手臂丟了。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族喜歡石石石頭肉人。石石石頭人？"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "驚訝。這好像是從一塊大理石上雕出來的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "啊，來自過去的一次爆炸。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "粗糙的岩石雕塑。這似乎是人形。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "啊我去，她的手臂哪去了？"}]

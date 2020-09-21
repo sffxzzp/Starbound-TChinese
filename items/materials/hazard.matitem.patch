@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這個圖案意味著要小心。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "危險方塊"},
+{ "op" : "replace", "path" : "/glitchdescription", "value" : "小心。這個圖案告訴我要謹慎前行。"},
+{ "op" : "replace", "path" : "/florandescription", "value" : "這這這些條條條紋意味著注意安全。"},
+{ "op" : "replace", "path" : "/novakiddescription", "value" : "我應該要留意這些條紋。"}]

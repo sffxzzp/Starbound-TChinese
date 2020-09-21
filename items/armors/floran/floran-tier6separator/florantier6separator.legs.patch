@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這種護腿能強化穿戴者的行動力，一發戴著腿甲的踢擊能一下粉碎骨頭。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "合成器護腿"}]

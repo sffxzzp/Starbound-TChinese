@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一張有趣的經過雕刻的桌子。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "雕刻桌"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一張精心裝飾的餐桌。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "就餐結束後，用刀叉在桌子上新增新的雕刻是很常見的。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人最最最快樂的時時時光都花花花在了餐桌上。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "滿意。桌上的裝飾夠複雜。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "看起來似乎一整個家庭都參與了這張桌子的裝飾工作。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "看起來所有者是組團裝飾這張桌子的。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一張手工雕刻的餐桌。"}]

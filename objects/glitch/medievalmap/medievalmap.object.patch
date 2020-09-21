@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個未知世界的地圖。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "中世紀地圖"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一幅古老的地圖。經過飛船的掃描表明其並不準確。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一幅不精確的古老地圖。跟著它哪兒也去不了。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "古老的地圖！打打打獵時間到！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "迷惑。這張地圖並不是完全準確的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我的飛船感測器告訴我這張地圖錯漏百出。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "比起陸地，鮫人的地圖更關注海洋。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一幅地圖。希望它能指引我們找到寶藏！"}]

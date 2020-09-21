@@ -1,0 +1,2 @@
+[{"op": "replace","path": "/scriptConfig/dialog/converse/apex/default","value": ["這件衣服保護我不受本地汙染的影響。你最好別碰我。","我知道科技發展部在研究生化武器。真是令人噁心。","宇宙中充斥著致命的細菌！穿著這套衣服很安全。"]},
+{"op": "replace","path": "/scriptConfig/dialog/converse/human/default","value": ["我在做外星細菌的研究。我曾經在別處停留過。","在地球上，我們曾治癒了大多數疾病。我希望那些記錄沒有丟失。","細菌無處不在！我很擔心感染。"]}]

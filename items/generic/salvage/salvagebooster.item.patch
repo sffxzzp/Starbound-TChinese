@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "該元件可以用於製作機甲的推進器。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "回收推進器噴嘴"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一盞蓋著紅色玻璃罩的掛式煤氣燈。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "開拓者掛燈"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這盞黃銅油燈投射出溫暖的紅色光芒。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這盞燈散發出一股清淡的香水味。也許它用的燃油有著芳香？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "掛著的紅光裡面有有有火焰。葉族人緊緊緊張。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "印象深刻。這盞黃銅燈的金屬工藝相當精湛。肯定費了不少心思。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這盞燈閃爍著柔和的火焰。紅色的玻璃罩投射出溫暖的光芒！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這盞油燈裡的火焰顯得奇異得平靜。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "沒有什麼比一盞室內油燈更讓人有家的感覺了。"}]

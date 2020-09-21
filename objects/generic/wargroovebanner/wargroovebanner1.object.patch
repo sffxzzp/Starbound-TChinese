@@ -1,0 +1,9 @@
+[{"op": "replace", "path": "/description", "value": "來自遙遠國家的英雄的紅色旗幟。"},
+{"op": "replace", "path": "/shortdescription", "value": "櫻石旗幟"},
+{"op": "replace", "path": "/apexDescription", "value": "這幅大膽的旗幟給人一種英雄主義的感覺。"},
+{"op": "replace", "path": "/avianDescription", "value": "多可愛的橫幅啊！"},
+{"op": "replace", "path": "/floranDescription", "value": "葉族想想想刺穿牆上的東西。"},
+{"op": "replace", "path": "/glitchDescription", "value": "好奇。我想知道這旗子來自哪個王國？"},
+{"op": "replace", "path": "/humanDescription", "value": "我想知道這個橫幅是從哪裡來的？看起來有點壯烈。"},
+{"op": "replace", "path": "/hylotlDescription", "value": "這是多麼簡單的旗幟啊。"},
+{"op": "replace", "path": "/novakidDescription", "value": "似乎代表著一些國家。"}]

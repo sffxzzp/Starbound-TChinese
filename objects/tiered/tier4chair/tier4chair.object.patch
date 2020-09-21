@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一把舒適的耐鋼椅子。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "耐鋼椅子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一把非常舒適的椅子。我很滿足。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個相當體面的座位。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人坐坐坐在椅子上想著打獵的事。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "放鬆。這張椅子對電子人來說格外舒適。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一把相當柔軟的椅子。讓我想起了在家裡的日子。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "幾乎和鮫人所習慣的奢侈風格一樣了。我在這裡得到了滿足。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這種椅子搞得我想把雙腳都放上去！"}]

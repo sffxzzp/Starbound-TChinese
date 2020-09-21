@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個能增加你防禦，併發出柔和光線的模組。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "和平衛士增強I"}]

@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這個維奧合金護腿使海洋探險家更容易下沉，並且停留在海底。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "深海護腿"}]

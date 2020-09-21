@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一張用葉子和樹根做成的不平穩的桌子。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "沼澤桌"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一張用樹根做成的非常粗糙的桌子。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這張桌子是用沼地樹根製成的。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "簡簡簡樸的沼沼沼澤桌。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "觀察。一張大部分由巨大樹根製成的桌子。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一張由枝條和沼地樹根製成的桌子。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "粗糙，但可以使用。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這張桌子看起來很難保持清潔。還好我沒有強迫症。"}]

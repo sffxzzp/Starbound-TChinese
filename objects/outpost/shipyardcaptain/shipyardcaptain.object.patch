@@ -1,0 +1,11 @@
+[{ "op" : "replace", "path" : "/description", "value" : "可疑的船長。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "船廠船長"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這個人很可疑…但他出售很棒的載具。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這人出售載具。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "可疑的人，出出出售載具。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "滿意。我能從這位紳士這裡買到載具。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一般我會避開這樣的可疑人物…不過我真的想買載具。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我被告知這位船長會出售載具。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我想知道這人賣什麼載具？"},
+{ "op" : "replace", "path" : "/interactData/paneLayoutOverride/windowtitle/title", "value" : "企鵝皮特的載具場"},
+{ "op" : "replace", "path" : "/interactData/paneLayoutOverride/windowtitle/subtitle", "value" : "完全合法的海盜生意"}]

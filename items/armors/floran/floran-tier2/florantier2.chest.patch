@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "用鎢與骨頭強化過，並墊上了獵物的皮革。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "骨制胸甲"}]

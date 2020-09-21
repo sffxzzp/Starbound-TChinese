@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "稍微更豐盛的一餐，而不僅僅是煮熟的珍珠豆。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "珍珠豆肉湯"}]

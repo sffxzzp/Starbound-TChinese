@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "小蓮葉"},
+{ "op" : "replace", "path" : "/description", "value" : "一組小型蓮葉牆飾。"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個裝飾性的睡蓮葉子。很好。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "自從我那次迫降到沼澤起，還沒見過如此多的蓮葉。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "愚愚愚蠢的塑膠植物。葉族人感到噁心！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "取悅。某個人真的很喜歡蓮葉。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "對於喜歡睡蓮的人來說是一件完美的禮物。很不幸，那人不是我。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "自然之美，見微知著。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "有人還真喜歡蓮葉，嗬。"}]

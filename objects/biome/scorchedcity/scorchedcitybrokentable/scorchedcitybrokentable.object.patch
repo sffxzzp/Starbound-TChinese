@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一張破木桌。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "破舊原木桌"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一張破木桌。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這張桌子已經完全壞掉了。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "某某某人砸砸砸爛了這張桌子。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "多疑。誰毀了這張桌子？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "看起來某人給這張桌子來了一記狠狠的重錘。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這張桌子怎麼會壞成這樣？"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "垃圾。對任何人都沒用。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "用來製作純淨、無雜質美味的工具。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "廚房工具"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "廚房器具。我想知道這套廚具曾經做過什麼食物。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "似乎是為了製作食物而製作出來的一套工具。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "用來切切切肉的鋒利的刀。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "欣賞。這些工具是用來製作食物的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我想知道當我用這些器具切菜時能夠切得多快？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "鮫人是用太刀來料理食材的。開玩笑了啦。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "用來做飯的器具。"}]

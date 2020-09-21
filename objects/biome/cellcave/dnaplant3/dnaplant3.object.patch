@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個螺旋的植物，看起來像DNA。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "DNA植物"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這個植物看起來像條蛇。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這個植物看起來像個蟲子。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "這個個個植物看起來像葉族人。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "了不起. 這個植物生長的形狀是它們自己的DNA鏈。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我想知道是誰種植並把它們培養成這樣的。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "大自然真是神奇！"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我不相信我看到了什麼。"}]

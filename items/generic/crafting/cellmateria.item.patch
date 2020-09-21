@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "細胞材料，可以用這個做不能說話的東西。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "細胞材料"}]

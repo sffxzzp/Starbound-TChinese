@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "堅固的木製櫥櫃。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "寬木製櫥櫃"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "中型的儲存空間。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "如果能再多點儲存空間就好了。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "中型尺尺尺寸的儲儲儲物櫃。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "客觀。中型儲物櫃。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "有一對抽屜的櫥櫃。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "不算太少的儲存空間。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "就兩個抽屜？再多點就好了。"}]

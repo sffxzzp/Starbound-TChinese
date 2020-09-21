@@ -1,0 +1,2 @@
+[{"op": "replace","path": "/scriptConfig/dialog/converse/default/default","value": ["馬上你將會成為一名守護者，並擁有你自己的物質槍。這一定讓人興奮異常！","我聽說那些物質槍可以分解一切物質。","如果你被分配到了遙遠的星球上，不要忘了地球上永遠有你的忠實的朋友！"]},
+{"op": "replace","path": "/scriptConfig/dialog/speak/default/default","value": ["嘿 <entityname>！有空聊聊嗎？"]}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個葉族人武器架。所有武器都不見了。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "空的武器架"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個武器架，空空如也。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這個架子似乎是用來存放武器的。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "空的狩獵武器架子子子。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "猜測。從這個尺寸來看，這個架子是被設計來存放長矛的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一個長矛架，但是長矛都不見了。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一個用來擺放野蠻的葉族人武器的架子。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這個架子是用來擺放長矛的，我很好奇這個是否能存放步槍？"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一張高雅的皇家書桌。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "皇家書桌"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "也許這張桌子曾被某位名人使用過。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "國王坐在這裡思考治國之策。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "為重要的大鐵人準備的閃閃閃亮的桌子。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "觀察。一張寫字桌。通常會有國王的記錄。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "看起來像一張寫字桌，但桌面沒有墨水。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "對於這張桌子來說，黃金是多餘的。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我不太確定這張書桌真的是給一位國王日常工作用的。"}]

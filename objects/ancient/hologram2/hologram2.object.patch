@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "呈現了神話景象的全息投影。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "古代全息投影"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "它描繪了一個獨眼的星體毀滅者。真是令人不安。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這是某個生物毀滅世界，與神權競爭的圖片。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "這這這張兇獸的圖片真是是是令人印象深刻！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "混亂。這關於某個生物毀滅星球的壁畫真是令人焦躁。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "好吧，這看起來像是某種不詳之兆！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這全息投影展現了某個觸手怪毀滅星球的景象。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這個看起來像章魚的傢伙可真醜…"}]

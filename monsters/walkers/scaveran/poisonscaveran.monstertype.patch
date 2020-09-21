@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "毒拾荒鳥"},
+{ "op" : "replace", "path" : "/description", "value" : "它的喙內部可真是一幅可怕的光景。"}]

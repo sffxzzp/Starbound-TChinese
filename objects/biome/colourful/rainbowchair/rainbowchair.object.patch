@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一張光彩繽紛的彩虹椅。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "彩虹椅子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這把椅子令人振奮。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "華麗多彩的椅子。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族喜喜喜歡漂亮椅子。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "情緒化。這把椅子讓我的生活充滿了快樂。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "多棒的椅子！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "坐在這裡可以把鮫人的壞心情驅散。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "如果我坐在這張椅我會不會像椅子一樣變色呢？"}]

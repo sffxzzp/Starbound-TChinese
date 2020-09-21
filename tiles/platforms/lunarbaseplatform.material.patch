@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "月球基地平臺"},
+{ "op" : "replace", "path" : "/description", "value" : "一種構築良好的金屬平臺。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "自信。這種金屬平臺能夠承受極大的重量。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人不喜喜喜歡冰冷的金屬平平平臺。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一種看起來閃閃發光的平臺。"}]

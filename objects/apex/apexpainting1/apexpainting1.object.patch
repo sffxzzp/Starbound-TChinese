@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一幅極力討好大猿人而作的畫，致親愛的偉大猿人領袖。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "光榮領袖畫像"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "大猿人…百萬猿人家裡都掛著這幅畫。任何損壞大猿人畫像的行為都代表著死亡。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這個猿人被畫得像上帝一樣。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "超超超美味的金閃閃的猴子！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "質疑。這幅畫並不寫實。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我才不信這個人實際和畫裡的一樣。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "真正偉大的領袖不會沽名釣譽。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "夕陽西下，斷腸猿在天涯…"}]

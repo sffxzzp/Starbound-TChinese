@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個老舊的警告標誌，前方有致命的危險！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "老舊的警告標誌"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這個標誌讓我覺得應該更加小心一點。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個危險訊號，前方有什麼值得發出警告的呢？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "這個標標標誌代表著有趣！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "機警。這似乎是一個警告。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "多麼不祥的預感。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這個頭骨沒有三個眼窩，也許鮫人並不會有危險。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "某種骷髏標誌。"}]

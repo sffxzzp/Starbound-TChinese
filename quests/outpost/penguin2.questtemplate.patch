@@ -1,0 +1,8 @@
+[{"op": "replace","path": "/title","value": "^orange;企鵝武器測試場"},
+{"op": "replace","path": "/text","value": "我的一個武器經銷商需要我現在給他供貨，但是我一直忙著修復我新的試驗型^orange;激鬥機甲^white;。理所當然，^green;我需要一個愣頭青進行對抗測試^white;，懂我的意思吧？ 你準備就緒之後跟我說，我們一起去我的^orange;武器測試場^white;。"},
+{"op": "replace","path": "/completionText","value": "感謝你這次緊張刺激的測試環節，朋友。這給了我一大堆有用的資料！我已經給我的武器經銷商發貨了，^green;他的貨攤應該已經在前哨站這開業了^white;。"},
+{"op": "replace","path": "/scriptConfig/portraits/questStarted/title","value": "阿卡基博士"},
+{"op": "replace","path": "/scriptConfig/portraits/questComplete/title","value": "阿卡基博士"},
+{"op": "replace","path": "/scriptConfig/descriptions/enterInstance","value": "與^orange;阿卡基博士^reset;交談以前往^orange;測試場^reset;"},
+{"op": "replace","path": "/scriptConfig/descriptions/findGoal","value": "擊敗^orange;激鬥機甲MK I^reset;"},
+{"op": "replace","path": "/scriptConfig/descriptions/turnIn","value": "返回位於^orange;前哨站^reset;的^orange;阿卡基博士^reset;處"}]

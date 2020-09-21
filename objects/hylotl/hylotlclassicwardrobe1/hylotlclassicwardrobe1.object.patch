@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "轉動蓮葉可以鎖住櫃門。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "傳統衣櫃"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這衣櫃真的挺不錯了！"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "蓮葉的設計毀了這個原本相當體面的櫃子。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人藏進衣櫃。跳跳跳出來。嚇嚇嚇朋友一跳。好玩兒！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "熟慮。蓮葉圖形是一個有趣的設計選擇。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這個衣櫃上的鎖轉起來特別麻煩。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一個帶有精巧閉鎖機構的獨特衣櫃。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "蓮葉似乎是鎖來著。實為高明。"}]

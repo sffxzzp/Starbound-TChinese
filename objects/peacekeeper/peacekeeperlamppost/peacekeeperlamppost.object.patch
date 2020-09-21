@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一種明亮的路燈，最常見於和平衛士空間站。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "和平衛士路燈"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個精心製作的路燈，可能是由強化耐鋼製成的。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一盞相當漂亮的燈！"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族看到過許多高高的燈。這也是一個。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "印象深刻。儘管第一次出現，這個路燈的金屬表面非常耐用。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "沒有一兩個路燈，城市化程序是不完整的！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "相當難看的路燈。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這個路燈很高，不是嗎？"}]

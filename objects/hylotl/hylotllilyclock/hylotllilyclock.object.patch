@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "蓮葉時鐘"},
+{ "op" : "replace", "path" : "/description", "value" : "蓮葉形狀的時鐘。"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "蓮葉狀的時鐘，真討人喜歡。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "就像跳蚤市場裡面的新奇玩意。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "嘀嗒嘀嗒，魚人有愚愚愚蠢的鐘。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "取悅。這個鐘的造型非常新奇。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這東西有點可愛，就機械而言。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這不單單是一個實用性的顯著樣例，更是對稍縱即逝的時間的詮釋。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一個蓮葉鍾。我以前還有仙人掌形狀的鐘呢。"}]

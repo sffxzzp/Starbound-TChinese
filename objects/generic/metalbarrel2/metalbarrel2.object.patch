@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個充滿放射性物質的桶。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "放射性桶"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "金屬桶。從表面符號看起來最好不要開啟它。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "金屬容器。我進不去。那符號是什麼意思？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "圓形的金屬立方體。沒有門。這這這金屬嚐嚐嚐起來很奇怪。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "可怕。桶上的標誌示意這裡面含有放射性物質。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "密閉的金屬圓桶裡有可疑的物質。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "金屬容器。它是封閉的。我想知道里面是什麼。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一個密閉的金屬桶。我才不想開啟它。"}]

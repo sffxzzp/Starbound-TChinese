@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "巨大的羽毛從這個小鳥雕像後面伸展開來。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "裝飾小鳥"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這些羽毛是從像這樣的小鳥身上得來的嗎？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "翼族人用它們來裝飾翼族神廟。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "看起來很可口的鳥兒。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "欣賞。一個有著漂亮的羽毛的雕像。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一個漂亮的小鳥雕像。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這羽毛比雕像好看多了。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這個雕像有著美麗漂亮的羽毛。"}]

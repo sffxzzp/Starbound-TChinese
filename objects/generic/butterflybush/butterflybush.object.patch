@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "飛舞的小蟲子好像在這灌木中活動。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "蝴蝶灌木"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "滿是蟲子的灌木。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我在灌木裡發現了一隻蟲子。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "灌木裡的小蟲蟲蟲太小小小了而很難插插插中。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "有趣。這個灌木的生物性質一定在以某種方式吸引這些蟲子。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "有些蟲子很可愛，我可以抓一些放在罐子裡。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "可愛的小蟲子們。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這團翻滾的野草上滿是蟲子。"}]

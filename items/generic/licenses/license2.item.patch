@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "授予持證人駕駛小鷹級飛船的權利。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "小鷹級執照"}]

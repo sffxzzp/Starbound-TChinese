@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一盞發光的耐鋼檯燈。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "耐鋼檯燈"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個做工精良的光源。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "即使是最黑暗的房間，這盞實用的燈都能照亮。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "這盞燈對葉族人來說是安安安全的。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "讚賞。一盞耐用的燈。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一盞堅固的、了不起的燈。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一個實用的光源。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這個能很好地照亮房間。"}]

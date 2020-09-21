@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個空的水族箱。好孤單。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "空的木質水族箱"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "猿人每三年才可能會換一次他的魚。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "魚從巢裡飛走了。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "被被被人搶先了。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "冷漠。空的容器。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我想知道魚身上發生了神馬。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "思鄉離愁洶湧而至。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這是用來養魚的。然而並沒有魚。"}]

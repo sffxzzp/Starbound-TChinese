@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "由於明顯的原因，主要由海盜和僱傭軍使用的機甲裝置。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "詭計機體"}]

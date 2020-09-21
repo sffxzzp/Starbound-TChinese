@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "將一個毒果和一個外星水果混合在一起你能得到什麼？沒錯，你猜對了。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "毒果汁"}]

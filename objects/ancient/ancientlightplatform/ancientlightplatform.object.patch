@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一束堅硬的光創造了一個平臺."},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "古代光輝平臺"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這只是普通的全息平臺。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這看起來還沒穩定到足以承受我的重量。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人懷疑疑疑光線的堅固程度。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "緊張。這看起來就像我會從中間徑直掉下去一樣。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這平臺是基於某種力場科技製作的。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這能量屏障能支援的重量遠比看起來多。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "固態的能量，就像我們星之子一樣。"}]

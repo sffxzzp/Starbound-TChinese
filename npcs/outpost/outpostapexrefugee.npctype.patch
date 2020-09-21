@@ -1,0 +1,3 @@
+[{"op": "replace","path": "/scriptConfig/dialog/converse/default/default","value": ["你好，星際旅行者！我永遠在這裡歡迎你的到來。"]},
+{"op": "replace","path": "/scriptConfig/dialog/converse/apex/default","value": ["你好，星際旅行者！我永遠在這裡歡迎你的到來。"]},
+{"op": "replace","path": "/scriptConfig/dialog/converse/apex/apex","value": ["我們在這都不再受科技發展部的統治和奴役了！"]}]

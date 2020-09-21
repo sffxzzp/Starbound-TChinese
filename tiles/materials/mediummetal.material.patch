@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "鎢塊"},
+{ "op" : "replace", "path" : "/description", "value" : "一種固體鎢塊。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "細心。這些方塊由鎢構成。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "閃亮的鎢鎢鎢塊。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一些由鎢構成的光滑方塊。"}]

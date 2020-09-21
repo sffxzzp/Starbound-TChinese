@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一種軍事機甲臂，它發射一枚帶有制導系統的自動導彈。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "自動導彈機甲臂"}]

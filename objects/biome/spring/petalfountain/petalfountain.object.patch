@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個有著花卉核心的漂亮石制噴泉。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "花卉噴泉"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個漂亮的噴泉。它的聲音撫慰了我的心靈。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個巨大的供鳥類戲水的水盆。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "水為葉族人帶來了生命。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "輕鬆。這水讓我平靜。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一個噴泉！也許我該丟一個畫素進去。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "有時我會想念大海。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一幅寧靜的景色。反而讓我坐立不安。"}]

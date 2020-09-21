@@ -1,0 +1,3 @@
+[{"op": "replace","path": "/charGenTextLabels","value": ["氣體顏色","髮型","上衣","褲子","","烙印","上衣顏色","褲子顏色","星之子","人物性格"]},
+{"op": "replace","path": "/charCreationTooltip/title","value": "星之子"},
+{"op": "replace","path": "/charCreationTooltip/description","value": "星之子是一被戲稱為“星際氣袋人”的神秘種族。他們沒有歸屬土地也沒有記載歷史。他們的存在不穩定，也不受過去縛束。沒人知道他們究竟是什麼組成的，更別說他們的來歷了。"}]

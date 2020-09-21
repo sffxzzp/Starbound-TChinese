@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "腐殖鸚鵡螺"},
+{ "op" : "replace", "path" : "/description", "value" : "這隻頭足類生物的卷鬚覆蓋著一層致命的毒液，甚至可以使一隻成熟期的吐舌娃癱瘓。"}]

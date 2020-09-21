@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個黏糊糊的肉質箱子，用來存放東西。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "血肉箱子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這種反自然的箱子是對小偷最好的威懾。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我不確認我想開啟它。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族刺，箱子開。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "抗拒。多麼噁心的箱子。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "毛線。好吧，讓我們開啟它。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一個令人作嘔的箱子。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "它聞起來也像新鮮肉。我跟你說，真令人作嘔。"}]

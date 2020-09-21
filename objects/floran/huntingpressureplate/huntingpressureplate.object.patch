@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個用來設定陷阱之類的理想裝置。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "狩獵壓力板"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "某種壓力板。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "如果我站在上面會發生什麼事？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "地板上的按鈕。用來做陷陷陷阱很有有有用。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。這塊板子上裝了什麼東西嗎？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一塊巨大的壓力板。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "它會啟用什麼呢？"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我打賭要是我踩上去肯定會發生一些事。"}]

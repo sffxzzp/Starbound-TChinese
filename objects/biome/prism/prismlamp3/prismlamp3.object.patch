@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個由發光晶體光滑地雕刻而成的燈。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "青色稜鏡燈"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這燈發出的藍光讓人感到平靜。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這柔和的藍光讓我想起了明亮的夏季天空。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人想想想知道燈可不可以用來扔人…"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "平靜。這個藍色晶體燈讓我遠離恐懼。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這個發著藍光的晶體燈有著讓人平靜的力量。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這盞藍燈發的光就像海洋。我可以看它看幾個小時。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這東西的光就像正午的藍天。"}]

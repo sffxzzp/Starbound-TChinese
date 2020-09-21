@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "液體玉米，富含酸液。對肉體生物來說並不好。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "液體玉米種子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "我聽說人們被液體玉米的酸液燒傷。我最好小心輕放。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "酸性的玉米。危險而令人厭惡。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "好好好吃的酸性玉米。會讓肉體傢伙夥夥受傷。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "自豪。電子人懂得將這些蔬菜作為電池使用的方式。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "它看起來像玉米…不過這真的，真的不是。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一個惡劣的，酸性的玉米異變體。會毀了任何一道菜。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "液體玉米比起可食用糧食之外更像一節電池。"}]

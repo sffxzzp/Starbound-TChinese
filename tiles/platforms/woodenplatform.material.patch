@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "優質的平臺"},
+{ "op" : "replace", "path" : "/description", "value" : "製作精良，木製平臺。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "高興。這種優質平臺是經過良好磨砂處理製成的。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "這種優優優質平臺使用木頭製作的。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一些看起來工藝優良的木製平臺。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一道堅固而安全的門。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "中世紀門"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "儘管是木頭製成的，這扇門還是很堅固。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這扇門比看上去的結實多了。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "好好好結結結實的門。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "自豪。這扇門被加固過以使它變得更安全。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一扇沉重的帶有格窗的門。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "擁有完美防禦結構的門。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一扇固不可破的門。"}]

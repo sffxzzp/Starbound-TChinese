@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "珍珠豆，我得用力才能咬下去。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "珍珠豆種子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一種會導致很多牙齒壞掉的有嚼勁的豌豆。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "珍珠豆能讓我愉快地啄上好一陣子了。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "堅硬的小小小球。葉族人曾曾曾用它當一種武器。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "自豪。電子人的牙齒能輕鬆應對珍珠豆。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "像一個豌豆，外加牙痛的感覺。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "美味、有嚼勁的豌豆。在水下相當有價值。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "珍珠豆能當作子彈完美裝入我的手槍！嘭！嘭！"}]

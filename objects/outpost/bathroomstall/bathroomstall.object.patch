@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "衛生間。別卡住！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "衛生間"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "基本的衛生間。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "衛生間。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人喜歡藏在衛衛衛生間裡，然後從縫隙裡看上廁所的人走過去！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "客觀。衛生間。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "藏起來玩手機遊戲的好地方。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "簡陋的衛生間。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "當你必須走的時候，你得走。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "用巨大的尖牙裝飾的櫃子。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "原始小櫃子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "葉族櫃子裡放了什麼？我可不想知道。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這櫃子頂上的不是動物的牙齒就是尖尖的骨頭。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人用尖牙牙牙裝飾傢俱。越鋒鋒鋒利的越好。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "受驚。這個櫃子上的牙齒異常鋒利。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "用很大的尖牙裝飾的櫃子。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一些可憐的生物的牙齒被拿來裝飾這個櫃子了。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "葉族人毫無疑問喜歡尖銳的傢俱。"}]

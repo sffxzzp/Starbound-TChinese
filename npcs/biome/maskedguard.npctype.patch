@@ -1,0 +1,4 @@
+[{"op": "replace","path": "/scriptConfig/dialog/converse/default/default","value": ["我在這維護和平。歡迎你到處看看，只是別惹麻煩。","鑄造廠給了我鋼鐵武器！我可不是好惹的。","我的鐵錘可是為了維護附近的和平。乖乖站好，你不希望看到我用它。"]},
+{"op": "replace","path": "/scriptConfig/dialog/converse/apex/default","value": ["我變得如此強壯以至於大猿人都不能在掰手腕上擊敗我！","我如此努力地工作以至於汗流不止。這真令人不開心。","我保護這鑄造廠幾乎是汗流浹背，你懂嗎？"]},
+{"op": "replace","path": "/scriptConfig/dialog/converse/avian/default","value": ["我的汗水隨著羽毛流下來！","在母星上我從小被當作戰士一樣養大。保護這裡很簡單！","揮舞著一把大鐵錘，一點也不難。"]},
+{"op": "replace","path": "/scriptConfig/dialog/converse/glitch/default","value": ["英勇。我能抵禦這個星球上任何危險！","擔心。看上去我像在出汗嗎？它實際上是凝結…說實話！","無聊。站在這做守衛真沉悶。大概我得去找人打一架…"]}]

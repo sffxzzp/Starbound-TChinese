@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這床墊是髒的！我發誓，我看到有東西在裡面爬。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "骯髒的床墊"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這種境遇已經和科技發展部的情形差不多了。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "噁心的床墊。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "就算是葉族人聞聞聞了這個也受不不不了。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "擔心。這張床墊需要消毒，我在上面檢測到了生命的跡象。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我曾經在更差的環境睡過覺。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "骯髒、腐爛的床墊。別讓我再看這東西了。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "那是什麼味道？這不可能…這是床墊？"}]

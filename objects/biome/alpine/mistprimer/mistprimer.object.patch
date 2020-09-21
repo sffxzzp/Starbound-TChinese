@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一堆長滿青苔的石頭。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "長滿青苔的石頭"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一些石頭。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "只是一些長滿青苔的石頭。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "石石石頭。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "描述。一些長滿青苔的石頭。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一些被青苔覆蓋的石頭。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一組佈滿青苔的石頭。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "只是一些石頭。"}]

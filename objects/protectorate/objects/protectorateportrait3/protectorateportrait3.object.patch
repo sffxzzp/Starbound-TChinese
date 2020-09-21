@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一張歷代大守護者的肖像畫。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "大守護者肖像畫"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這位大守護者是第一位非人類的任職者。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這位鮫人儘管不是人類但還是成為了大守護者。多麼令人欣喜！"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "魚魚魚人好像像像被困在畫裡了。葉族人不能把他弄出來。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "難忘。那時候鮫人要成為一名大守護者肯定很不容易。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "第一位非人類的大守護者。我肯定他是個運籌帷幄、足智多謀的人物。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "多麼鼓舞人心！目前為止唯一一位鮫人的大守護者。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這是第一副非人類的肖像畫。太棒了。"}]

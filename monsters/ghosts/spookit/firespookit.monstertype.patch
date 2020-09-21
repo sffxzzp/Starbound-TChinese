@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "火貓鬼"},
+{ "op" : "replace", "path" : "/description", "value" : "當它閉上它的眼睛時它會進入一個不同的位面從而免疫一切攻擊。"}]

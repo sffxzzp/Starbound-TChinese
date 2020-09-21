@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "天花板上安裝的實用燈籠。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "天文燈"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這個燈籠不怎麼亮，但實用。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這盞電燈發出一道昏黃的光。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "空空間吊燈只有一點點光。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。這個光源是自給自足的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這個吊燈提供足夠四處走動的光線。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這盞燈看起來像是氣密的，我想它會在水下很好地工作。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這電燈比篝火更亮。"}]

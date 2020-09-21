@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/description", "value" : "傳統的茅草制屋頂。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "茅草屋頂"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "高興。這片茅草屋頂讓我想起淳樸生活的時光。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "乾乾乾燥的稻草屋頂。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "用稻草做的層狀屋頂。"}]

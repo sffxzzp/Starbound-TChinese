@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個用於制止入侵者的結晶陷阱。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "雕文結晶陷阱"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這水晶產生了一道致命的光束。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我可不想被它的光束射中。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "結晶的光束使葉族人受受受傷。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "驚訝。一個會射出致命光束的結晶！現在我什麼玩意都見過了。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這光束看起來會傷害人。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "如果我記住了結晶發射光束的模式，我就能採取相應的行動。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我最好當心點，這些光束會燒傷我的。"}]

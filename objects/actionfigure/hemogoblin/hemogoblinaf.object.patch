@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "標籤上寫著，\"實際上它只是覆有紅色的面板，但這仍然很惡劣。\""},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "血漿哥布林手辦"}]

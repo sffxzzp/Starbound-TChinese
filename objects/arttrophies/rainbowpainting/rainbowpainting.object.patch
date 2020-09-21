@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "畫出來的兩道彩虹，兩道彩虹！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "彩虹畫像"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這幅畫…如此熱烈…"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "畫出來的兩道彩虹。這是什麼意思？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人喜歡歡歡明亮生動的色彩彩彩。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "壓倒。這幅兩道彩虹的畫十分美麗。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "喔喔，我的神啊！ 看這幅彩虹的畫。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "畫出來的兩道彩虹，這太美麗了。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一幅畫著浮華的光條紋的畫。"}]

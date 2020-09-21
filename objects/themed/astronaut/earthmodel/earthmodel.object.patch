@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一份細緻的太陽系行星地球的模型，人類的始源地。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "地球儀"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "地球，大地守護團的家，還有屬於我自己的一段光陰。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "地球，我的第二個家，我卻忘了它有時消逝在宇宙…"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "傷傷傷心的想起我在地球的時光。葉族懷念它。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "懷舊。我很享受在地球的一分一秒。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "家…我思考，現在駐留的是什麼。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "地球。這樣微不足道的小星球，然而卻使我感覺心中無法平靜。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "地球。我給你戴上我的帽子。"}]

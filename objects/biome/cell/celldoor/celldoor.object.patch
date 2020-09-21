@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "由兩個卷條組成的阻擋。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "細胞門"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這肯定不是一道安全的門。如果我瘦點就可以在旁邊擠過去了。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "它看起來有點單薄。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "愚蠢糾結的門。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "煩惱。這扇門對形態切換功能十分有用。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一扇扭得亂七八糟的門。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "勉強有用而且不美觀的門。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "看著這門就像看到一堆蛇。"}]

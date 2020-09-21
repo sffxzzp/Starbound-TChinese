@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "桶裡裝滿了財寶！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "財寶桶"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個木桶。裡面盛滿著財寶！"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "桶裡全是財寶。真是糟透了。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人喜歡裝著亮閃閃的東西的罐子！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "愉悅。這些財寶目的似乎只是為了展示。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "桶裡裝滿了財寶。幾乎有一大罐的金子。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這種不體面的容器不配裝著這樣的寶藏。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "謝天謝地，這是我的幸運日！"}]

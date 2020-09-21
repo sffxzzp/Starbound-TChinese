@@ -1,0 +1,6 @@
+[{"op": "replace","path": "/scriptConfig/dialog/converse/apex/default","value": ["我在這裡的工作是檢查這裡的線路有沒有老化。","這些電路的質量非常好。我不認為近期會老化。","無論去哪裡，我都會繪製電路圖。"]},
+{"op": "replace","path": "/scriptConfig/dialog/converse/human/default","value": ["我是一名電工！我在這裡保證所有的電路正常工作。","電路不會自我保養。這就是我來這裡的原因。","我在這裡讓這些電路達到最佳狀態！"]},
+{"op": "replace","path": "/scriptConfig/dialog/converse/floran/default","value": ["葉族人是個電工，但是葉族人不懂電怎麼工作作作。","因為某種原因，葉族人得到了這份電工的工作…寧願被捅捅捅。","葉族人想知知知道電工帽對戰鬥是否有幫助。"]},
+{"op": "replace","path": "/scriptConfig/dialog/converse/avian/default","value": ["我的電工頭盔讓我的羽毛髮癢。","這件連身褲我穿起來不太好看。翼族人不應該穿那麼多！","我在這裡修復電路，但我覺得這些電路看起來都很正常。"]},
+{"op": "replace","path": "/scriptConfig/dialog/converse/hylotl/default","value": ["修復電路是一項複雜的藝術。幸運的是，這些電路都沒問題。","電路真是太迷人了。","電工和藝術家、音樂家一樣是一種高尚的職業。我沒有開玩笑！"]},
+{"op": "replace","path": "/scriptConfig/dialog/converse/glitch/default","value": ["驚訝。我來修復電路，但它們好像都沒問題。","熱切。我喜歡維護電路！這是工作也是愛好。","愉悅。我很高興自己懂的電學原理－我覺得電路很迷人。"]}]

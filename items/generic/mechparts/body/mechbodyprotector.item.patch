@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個設計良好的機體，供大地守護團成員使用。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "保護者機體"}]

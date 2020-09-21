@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "溫暖的節日的光芒。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "燭臺"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個溫暖的、發光的燭臺。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "溫暖的光芒讓我想起翼族寺廟。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "燃燒的蠟燭！葉族很喜歡。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "陳述。一個燭臺。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一個可愛的燭臺。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這些蠟燭散發出一種溫暖的、溫馨的光。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這散發出一股令人愉快的光芒。"}]

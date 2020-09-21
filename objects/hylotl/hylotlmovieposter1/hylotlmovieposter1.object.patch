@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "動作片海報"},
+{ "op" : "replace", "path" : "/description", "value" : "電影《半機器人啟示錄》的劇照。"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "看起來又是一部不現實的的機器人電影。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "看起來好像是一部關於巨型機甲的電影。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人不需要又大又笨重的機器人人人。葉族人只需要能捅捅捅的刀。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "有趣，這部電影中的機器人看起來很強大。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這是一部機器人電影！太棒了。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "又一部關於機器人的動作片。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "由巨型錫鐵人主演的電影。"}]

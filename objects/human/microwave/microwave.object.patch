@@ -1,0 +1,11 @@
+[{"op": "replace","path": "/description","value": "能夠搞定所有食物！"},
+{"op": "replace","path": "/shortdescription","value": "微波爐"},
+{"op": "replace","path": "/interactData/paneLayoutOverride/windowtitle/title","value": "微波爐"},
+{"op": "replace","path": "/interactData/paneLayoutOverride/windowtitle/subtitle","value": "便利的烹飪方式"},
+{"op": "replace","path": "/apexDescription","value": "用來快速烹飪食物的裝置。"},
+{"op": "replace","path": "/avianDescription","value": "有點像烤箱, 但更快一些。"},
+{"op": "replace","path": "/floranDescription","value": "用來加熱零食食食的機器，葉族人曾經使用過。"},
+{"op": "replace","path": "/glitchDescription","value": "不適。微波爐在一定程度上會毀壞電子人的電路。"},
+{"op": "replace","path": "/humanDescription","value": "我曾經用微波爐做過沙拉，差強人意！"},
+{"op": "replace","path": "/hylotlDescription","value": "為那些不關心烹調質量的人提供的烹飪方法。"},
+{"op": "replace","path": "/novakidDescription","value": "不確定這機器能幹什麼。但它聞上去好像什麼東西死在了裡面。"}]

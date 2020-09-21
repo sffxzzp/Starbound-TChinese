@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "大型旋轉發電機、雷達或發動機…"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "空間站橋塔"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這似乎是一件極其複雜的機器。我不知道它到底是幹什麼的？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "多麼令人愉快的機器！然而，我無法確定它的用途。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族不確定旋轉的是什麼。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "困惑。這臺機器似乎很重要，但我不能確定它的用途。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這臺機器非常大而且很重要。它…到底是用來做什麼的？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這個邋里邋遢的機器似乎並沒有做任何有用的事情。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這肯定看起來比蒸汽發動機複雜得多，這是肯定的…"}]

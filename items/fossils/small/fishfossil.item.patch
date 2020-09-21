@@ -1,0 +1,4 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "魚化石"},
+{ "op" : "replace", "path" : "/description", "value" : "一個魚類化石。"},
+{ "op" : "replace", "path" : "/completeSetDescriptions/shortdescription", "value" : "魚化石"},
+{ "op" : "replace", "path" : "/completeSetDescriptions/description", "value" : "幾千年來，魚的生理結構變化不大。"}]

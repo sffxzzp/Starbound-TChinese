@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "標籤上寫著，\"長腿使它能夠站在水中捕魚。\""},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "多明戈犀鳥手辦"}]

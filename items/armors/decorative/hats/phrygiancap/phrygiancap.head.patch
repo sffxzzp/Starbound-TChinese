@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個弗裡吉亞帽。一次文化衝擊。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "弗裡吉亞帽"}]

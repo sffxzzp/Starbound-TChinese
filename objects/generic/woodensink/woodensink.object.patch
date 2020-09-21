@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "裝了水槽的木製櫥櫃。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "木製水槽"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "適合廚房或浴室的水槽。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個水槽。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "開啟手柄，水就出出出來了！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "欣賞。熱水和冷水，隨你而定。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "家用水槽。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我在想這水是否還新鮮。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一個廚房水槽。"}]

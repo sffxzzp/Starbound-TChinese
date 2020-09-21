@@ -1,0 +1,4 @@
+[{"op": "replace","path": "/description","value": "一個簡單的木質魚竿，配有鈦制配件。"},
+{"op": "replace","path": "/shortdescription","value": "魚竿"},
+{"op": "replace","path": "/lureName","value": "基礎魚餌"},
+{"op": "replace","path": "/reelName","value": "基礎魚線輪"}]

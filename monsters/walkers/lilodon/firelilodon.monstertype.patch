@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "火鯊狗"},
+{ "op" : "replace", "path" : "/description", "value" : "它的祖先曾經生活在大海里。它可能看起來體格很小，但它能一口咬掉你身上一大塊肉。"}]

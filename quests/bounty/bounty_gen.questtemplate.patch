@@ -1,0 +1,3 @@
+[{"op": "replace", "path": "/title", "value": "^orange;賞金"},
+{"op": "replace", "path": "/text", "value": "殺死賞金目標"},
+{"op": "replace", "path": "/completionText", "value": "生成賞金"}]

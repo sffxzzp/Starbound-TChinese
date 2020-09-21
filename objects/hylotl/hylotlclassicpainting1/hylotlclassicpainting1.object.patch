@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一幅展現著一位早期鮫人戰士的古老水墨畫作。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "鮫人戰士圖"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這看起來是一幅很老的畫了。我好奇他們是怎麼把它儲存得這麼好的？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "不同的文化有著不同的戰鬥方式，這個問題很能激起好奇心。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "健壯的戰士用葉族人的武器器器會更好。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "讚歎。這個戰士的姿勢表明他已經準備好戰鬥了。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這個人擺好了突擊的姿勢！令人激動的作品。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一位早期的鮫人戰士，受訓來保衛同胞。鼓舞人心。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這位老兄看起來準備做些什麼了，不是嗎？"}]

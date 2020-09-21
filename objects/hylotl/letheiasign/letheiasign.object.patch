@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個萊西亞公司的鹵素標誌。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "萊西亞公司標誌"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "鮮明的企業形象。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這是一個非常有角的標誌。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "標誌很斜。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。這似乎是某種品牌或公司的標誌。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一個萊西亞公司的標誌，一個有很多錢的集團公司。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "萊西亞公司的標誌，一個眾所周知的鮫人運作的公司。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "有點花哨，不是嗎？"}]

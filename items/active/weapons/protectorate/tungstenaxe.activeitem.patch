@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這把斧子出奇的重，這與它的尺寸很不相符。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "鎢制斧"}]

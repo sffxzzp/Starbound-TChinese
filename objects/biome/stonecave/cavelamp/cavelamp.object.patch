@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個發光的鐘乳石。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "鐘乳石燈"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這是一個原始的光源。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "出於安全考慮，我會避免站在它的正下方。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "一盞看起來很憤憤憤怒的燈。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。他們是如何把燈裝進那個鐘乳石裡去的？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我希望它不會掉下來砸在我的腦袋上。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "它看上去很不安全，不過確實也提供了光源。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這是一個發光的鐘乳石。"}]

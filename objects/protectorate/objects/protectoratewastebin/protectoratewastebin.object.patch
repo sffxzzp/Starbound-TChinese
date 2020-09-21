@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個給學生用的普通垃圾桶。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "守護團垃圾桶"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "我昨天剛剛清空了它！今天輪到別人來了。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "誰又把食物丟到垃圾桶拉？臭死了。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "桶裡滿是垃圾。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "懊惱。這個桶明明都滿了，誰還一直在往裡面丟東西。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "得有人去清空一下這個垃圾桶…我待會就去倒！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一個滿到溢位來的垃圾桶。我和豬住在一起。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這個垃圾桶需要清空了。"}]

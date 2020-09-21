@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這副手套可遮不到胸。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "鑄造護衛手套"}]

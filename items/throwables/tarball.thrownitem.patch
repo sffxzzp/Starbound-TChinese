@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "瀝青球"},
+{ "op" : "replace", "path" : "/description", "value" : "被這個打中的就會變得黏糊糊的。"}]

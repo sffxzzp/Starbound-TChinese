@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一位偉大翼族英雄的雕像。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "翼族英雄雕像"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "也許、這是用來標示這是一位翼族戰士的墳墓的。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一名畢生致力於保護神廟的翼族守護者。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "那那那麼多死掉的鳥人。真浪浪浪費。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "觀察。這個翼族人有翅膀。這翅膀看起來並不像真的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一名翼族戰士。他看起來有些可怕。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "也許這是一名光榮死去的翼族戰士。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一位看起來很自豪的翼族人的雕像。"}]

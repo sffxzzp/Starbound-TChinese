@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個遇險信標。天知道誰會收到它。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "遇險信標"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個遇險信標。我希望留下它的人平安無事。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個遇險信標。看來有人遇到了危險。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人除了打獵也會幫助別人。偶偶偶爾。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "細心。這個遇險信標正在用多種頻率傳送訊號。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這個遇險信標正傳出求救訊號。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "有人需要幫助。保護弱小是一個挺有價值的追求。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這看起來是一個遇險信標。我想知道是誰激活了它。"}]

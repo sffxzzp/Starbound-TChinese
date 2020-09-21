@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "煎餅。燻肉。煎餅。燻肉。煎餅。黃油。吃了。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "燻肉煎餅"}]

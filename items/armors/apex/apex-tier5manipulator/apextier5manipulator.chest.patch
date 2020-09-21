@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "多層層疊的菲洛合金製成的裝甲，用以表現穿戴者不屈不撓的精神。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "間諜的夾克"}]

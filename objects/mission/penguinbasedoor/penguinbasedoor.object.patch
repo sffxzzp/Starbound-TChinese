@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一扇垂直開口的艙門。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "生鏽的艙門"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一扇老舊的艙門。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一扇工藝粗糙的艙門。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "艙門開開開…艙門關關關。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "細心。這艙門是用來垂直通行的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一扇用於彌補水平移動不足的艙門。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一個生鏽的艙門通道，以實用性為目的製造。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一扇地板上的艙門。我能攀爬過去。"}]

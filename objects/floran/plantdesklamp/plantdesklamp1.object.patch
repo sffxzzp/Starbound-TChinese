@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一盞用發光的植物莢製作的檯燈。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "有機臺燈"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這檯燈實際上是一株發光的植物。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這檯燈只是一株用支架支起來的發光的植物。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人的檯燈是用植物來驅動的。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "迷惑。這盞檯燈顯然沒有任何能量來源。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這種植物製成了一盞相當高效的檯燈。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "多麼不同尋常。這檯燈居然只是一個支起發光植物莢的架子。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這小小的植物發出了不錯的光芒。"}]

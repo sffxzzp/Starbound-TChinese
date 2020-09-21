@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "透過風扇葉片轉動使空氣迴圈，好枯燥。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "燃料庫通風口"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "通風口。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "用來迴圈空氣的通風口。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "來到這裡葉族人感到一絲絲寒意。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "細心。迴圈過程並不完善。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "看起來很乏味的通風口。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "帶風扇的通風口。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這是個通風口，但是這裡的空氣仍然很悶。"}]

@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "液態能源"},
+{ "op" : "replace", "path" : "/description", "value" : "一種從月球採集的危險的、不穩定的物質，可用於FTL運作的燃料。"}]

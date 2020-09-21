@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這件拾荒者胸甲為你提供了一層更強的保護。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "拾荒者胸甲"}]

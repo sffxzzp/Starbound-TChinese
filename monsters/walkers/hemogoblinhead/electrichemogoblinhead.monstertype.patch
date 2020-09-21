@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "電血紅妖獸前半身"},
+{ "op" : "replace", "path" : "/description", "value" : "一個血紅妖獸的前半身可以憑獨立意識行動，但它仍只算是半隻怪物。"}]

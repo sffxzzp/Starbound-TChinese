@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "長鬚鰷魚"},
+{ "op" : "replace", "path" : "/description", "value" : "它長長的、下垂的腮須不停地生長著，最終可以超過它身體的長度。"}]

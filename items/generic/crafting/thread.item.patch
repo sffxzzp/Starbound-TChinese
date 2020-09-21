@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "用活根強化過的線。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "線"}]

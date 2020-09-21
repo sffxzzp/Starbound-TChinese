@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這是啥意思？"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "現代畫"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這在多年前就過時了。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "如此有意思的裝飾。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "這種形形形狀令葉族人困惑。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "欣賞。精確的幾何藝術。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我去，70年代的藝術品。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "他們說藝術可以給靈魂充飢，但在填飽肚子方面還是某些食物比較在行。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "帆布上印著日落顏色的圖案。"}]

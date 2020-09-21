@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "克魯西斯圖騰"},
+{ "op" : "replace", "path" : "/description", "value" : "古代科技的一個險惡奇觀"}]

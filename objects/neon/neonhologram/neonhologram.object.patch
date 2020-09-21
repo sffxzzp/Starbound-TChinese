@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "棕櫚樹的洋紅色全息圖。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "霓虹全息圖"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這是一棵令人印象深刻的樹…但不幸的是全息圖只能是單一顏色。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一棵懸在空中的樹，一種光在空間中的凍結形式！真是太美了。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族看看看到了一棵樹，卻聞聞聞不到。奇奇奇怪。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "印象深刻。這棵樹是由光組成的，但它有一種存在感…"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "全息樹！誰需要去海濱度假？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "對自然的人工描繪與真實的事物並不匹配。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這是一項偉大而巧妙的發明！"}]

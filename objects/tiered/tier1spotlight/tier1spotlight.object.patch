@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這柔和的光線能用來照明小範圍區域。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "鐵聚光燈"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "像這種聚光燈通常被科技發展部用來強迫人們開口的。聚光燈，還有其他更可怕的…"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一盞柔和的燈。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人感感感覺成為了眾人的焦點。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "鬼祟。透過分析這盞探照燈的模式，就能輕易地偷偷地繞過它。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我一直想成為聚光燈下的焦點。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一盞宜人的柔光燈。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這盞燈和我差不多一樣亮！"}]

@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "鮫人頭骨。希望他們以一個戰士的身份死去。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "鮫人頭骨面具"}]

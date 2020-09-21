@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "字元令人不安地躍動著…它們意味著什麼？"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "字元顯示屏"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一些字元。我不能解讀它們。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "只有觀星者才能真正解讀它們。我認出了“獻祭”的字元。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "傻傻傻呆呆的圖案。葉族人認認認不出來。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "失望。我無法將它們翻譯出來。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一些字元。我的翻譯器無法解讀它們。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "古代符號。我的翻譯器無法破譯它們。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這些符號對我來說就是天書。想翻譯它們那隻會白費苦工。"}]

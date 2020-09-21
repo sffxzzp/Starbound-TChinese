@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這是一種電氣屏障。看起來很危險…"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "電氣屏障"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這道電流形成了防止東西穿越的屏障。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一道用電做成的門？真是卓越啊。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "無無無形的門，葉族人不喜歡電門門門。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "冷漠。這裡的電流已經完全接地了，沒有危險。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這是用電做成的大門。誰做的這樣的門呢？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "鮫人對待電流非常謹慎。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "由電能形成的激烈嘈雜的火花。"}]

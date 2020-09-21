@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一張蘑菇椅子，或者其實是株毒菌？"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "蘑菇椅"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這把椅子坐著感覺像海綿一樣不可思議。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這把椅子的背會擦傷我的羽毛。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人愛愛愛死這把椅子了。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "思考。用多長時間蘑菇才能長成這樣？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我打賭無論誰坐在這裡都會很有趣。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這椅子有海綿一樣的感覺。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這把椅子真的好軟。"}]

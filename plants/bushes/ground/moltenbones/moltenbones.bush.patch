@@ -1,0 +1,4 @@
+[{ "op" : "replace", "path" : "/description", "value" : "炭化的骨頭。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "炭化的骨頭。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "燒焦的骨頭。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "陳述。炭化的骨頭。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這盞電燈發出溫和宜人的光芒。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "猿人電燈"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一盞很小但非常亮的電燈。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一盞設計簡單的電燈。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "可以幫葉族人照亮道路的發光裝置。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "欣賞。這盞燈非常亮。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一盞明亮的電燈。也許我不應該直接凝視著它。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "它鼓舞人心的光芒，讓我想到了光明的未來。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這是一盞用電的燈，所以它不會消耗煤油。"}]

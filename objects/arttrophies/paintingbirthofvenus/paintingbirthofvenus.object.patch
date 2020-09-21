@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個關於站在蚌裡的金髮女人的畫。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "美麗的畫"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "科技發展部不可能創作像這樣的原始藝術。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我感到困惑…為什麼這女人要站在蚌裡？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "人類看起來嚇嚇嚇壞了。可能正在被葉族人追殺！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "問題。蚌殼是從海里升起來的嗎？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "她看起來有點冷，不是嗎？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這幅畫中我最喜歡的部分是海洋。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一幅畫著高挑女性站在海里的貝殼上的畫。"}]

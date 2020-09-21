@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一扇基本的鎢門。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "鎢門"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這扇門還算比較安全。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "作為一扇基本的門，算是相當堅固了。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人躲在門後。跳出來。戳戳戳！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "認可。一扇基本的、實用的門。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一扇牢固的鎢門。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一扇簡單的鎢門。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "只是一扇簡單的門，我猜它能管用。"}]

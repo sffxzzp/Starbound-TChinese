@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個常見的足球…或者叫英式足球，如果你想這麼說的話。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "足球"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "用於某種體育運動的球。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "某種彈力球。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人該拿它怎麼辦？"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。為什麼球上會有白色和黑色的斑點？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一個足球！在這兒能看到它真讓人驚訝。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "足球，這種運動最近在年輕的鮫人中非常流行。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一種裝飾用的物品，我很確定。"}]

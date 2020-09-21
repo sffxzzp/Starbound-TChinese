@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/description", "value" : "支架已經生鏽了。這看起來十分不安全。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "生鏽平臺"},
+{ "op" : "replace", "path" : "/glitchdescription", "value" : "驚慌。這個生鏽的支架看起來結構很不穩定。"},
+{ "op" : "replace", "path" : "/florandescription", "value" : "生生生鏽了而且不安安安全。葉族人很喜喜喜歡。"},
+{ "op" : "replace", "path" : "/novakiddescription", "value" : "這生鏽了的平臺搖搖欲墜。"}]

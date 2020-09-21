@@ -1,0 +1,2 @@
+[{"op": "replace","path": "/gui/toggleCrafting/caption","value": "精煉"},
+{"op": "replace","path": "/gui/lblText/value","value": "^#b9b5b2;放置礦石在左側格子將礦石精煉為畫素。"}]

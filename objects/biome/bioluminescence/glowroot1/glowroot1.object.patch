@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "細少的發光根由地面突出。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "根"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "微小的根，端部帶有少許光芒。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "如星一樣閃閃發光的根裝飾了地面。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "即使根根根能發光…葉族人還是渴渴渴望黑暗。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "提問。這些根是上面那些植物，還是分離的有機體？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我愛所有在這裡發光的東西，即使是根！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這些微小的發光根讓人聯想起有一次我在深海溝看到的罕見蟲子。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "那些閃閃發光的根肯定的漂亮。"}]

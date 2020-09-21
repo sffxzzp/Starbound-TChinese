@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這就是可以為人們在閒聊的時候提供飲用水的其中一臺機器。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "飲水機"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "冰冰涼、乾淨的水，爽！"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我應該喝一杯。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "大水杯卡卡卡住了飲水機…好傷心。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "細心。一臺飲水機，它可使一桶水保持純淨。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我好渴。我能喝掉一匹馬，如果這馬是水做的話。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一小箱水。看到這裡水如此短缺，我有點想家了。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一個儲水裝置。當你口渴時很管用。"}]

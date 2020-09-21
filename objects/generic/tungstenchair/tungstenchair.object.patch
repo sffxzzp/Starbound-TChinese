@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一把看上去不太舒服的椅子。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "金屬摺疊椅"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這把椅子折起來了。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這把椅子摺疊起來以節省空間。真創新啊。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "又冷又不舒服的椅子。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "冷漠。這是由低質量的金屬製成的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "那些差勁的摺疊椅之一。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這個看上去相當不舒服。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這個看上去不大舒服。"}]

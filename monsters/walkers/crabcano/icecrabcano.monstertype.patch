@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "冰火山蟹"},
+{ "op" : "replace", "path" : "/description", "value" : "它總是緊張不安。橫向行走的它，只要最輕微的碰撞，就會以噴發作為對抗手段。"}]

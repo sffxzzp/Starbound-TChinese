@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "如果我再繼續看這些燈的話，大概會被閃瞎的。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "泛光燈"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "奪目的明亮的光源。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "像這樣的一臺燈可以將黑夜變為白晝！"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "明亮的燈光弄痛了葉族人的眼眼眼睛。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "觀察。在這些燈的照耀下我可以看得很清楚。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "泛光燈名副其實。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "鮫人用類似的燈光在海洋之下照明。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這些巨大的光源比夏日的太陽還要明亮。"}]

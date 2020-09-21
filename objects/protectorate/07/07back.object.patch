@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一片沒有設計成放置物來用的背景牆。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "守護團舞臺背景牆"}]

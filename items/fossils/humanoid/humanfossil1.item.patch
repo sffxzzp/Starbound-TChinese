@@ -1,0 +1,4 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個人類的頭骨化石。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "人類頭骨"},
+{ "op" : "replace", "path" : "/completeSetDescriptions/shortdescription", "value" : "人類化石"},
+{ "op" : "replace", "path" : "/completeSetDescriptions/description", "value" : "一個人類的化石，地球上的主導物種。"}]

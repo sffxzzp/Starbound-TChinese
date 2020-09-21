@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個帶毒的發光蘑菇。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "毒素閃光菇"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這是個有著柔和亮光的蘑菇。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這個小蘑菇兼任了一盞小燈的作用。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "這光亮看看看起來像是一個奇奇奇怪的泡泡。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。一種發光菌類。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這個發光植物異常的美麗。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這個蘑菇像是被包在柔軟毛毯中那樣發著美麗的光芒。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一個發光植物。它提供的光是大家樂於見到的。"}]

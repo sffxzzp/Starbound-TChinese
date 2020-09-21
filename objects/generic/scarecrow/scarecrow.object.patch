@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "有著一張臉的一袋稻草。有幾分可愛！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "稻草人"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個有著奇特帽子的稻草人。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我感覺我在被人看著…"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "麻袋人既能嚇嚇嚇跑烏鴉也能嚇嚇嚇跑葉族人。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。稻草人作為無生命體卻有狡詐的面容。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這傢伙看起來像是他看過一些什麼東西似的。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一個稻草人，正集中注意力站著。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "嘿那兒的夥計！繼續好好幹活吧。"}]

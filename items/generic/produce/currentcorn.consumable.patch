@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "會長出液體玉米，充滿了酸。對碳基生物不好。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "液體玉米"}]

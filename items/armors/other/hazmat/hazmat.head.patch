@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這個危險品處理組面具能夠過濾掉任何微小的危險顆粒。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "危險品處理組的面具"}]

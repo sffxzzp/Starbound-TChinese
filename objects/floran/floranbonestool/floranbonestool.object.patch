@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一把用骨頭雕刻製成的小凳子。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "原始凳子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "用骨頭做的凳子。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一把用骨頭做成的凳子。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人坐坐坐在打獵中獲得的骨頭上。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "取悅。這凳子可能是為特別矮小的葉族人定製的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這把凳子用打磨的發光的骨頭製成。它幾乎光滑得閃耀。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "什麼樣的怪物才會在其他生物的骸骨上休息？"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我打賭在獲取這把椅子的背後有著驚悚的故事。"}]

@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "複合軌道"},
+{ "op" : "replace", "path" : "/description", "value" : "一種結實的鋼筋軌道。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "滿意。這種鐵路如此堅硬結實的原因在於製作它的材料。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "閃亮的金屬軌道。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一些看起來很堅固的軌道，開始渴望搭乘它們了。"}]

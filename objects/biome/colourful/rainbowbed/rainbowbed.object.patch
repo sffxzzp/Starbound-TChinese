@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一張彩虹做的床，鮮豔且舒適。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "彩虹床"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一張可愛的彩虹床。我愛它。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "看著這張床就讓我感到輕鬆。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族被鮮豔的顏色催眠。昏昏欲睡。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "高興。這張床使我的心情得到滿足。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一張鮮豔完美的床。我迫不及待想去睡覺了。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "各式各樣閃閃發光的顏色讓我想起了海洋生活。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這張床是瘋狂般的鮮豔。"}]

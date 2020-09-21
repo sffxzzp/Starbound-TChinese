@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "可以完美存放很多食物並儲存其新鮮。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "大號冷櫃"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個冷櫃。希望裡面有香蕉奶昔。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個冷櫃。理想情況下里面會被飲料和零食裝滿。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人可以聞聞聞到裡面的肉味。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "滿意。這個冷櫃正以最適合的溫度執行著。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我正興奮地顫抖著想著裡面可能有的東西。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "在水下，冷藏要簡單得多。這些設施是一種聰明的替代品。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一個一般般的冷櫃。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這件壁飾用一種大膽的洋紅色燈光發光。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "霓虹和平衛士徽章"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這個巨大的霓虹燈標誌設計得特別好。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這個掛在牆上的徽章正以熱帶日落的顏色閃耀著！"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "大徽章，徽章大。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "印象深刻。這個徽章會發出光芒，好像裡面有火一樣！"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這就像常規的和平衛士徽章，但是…更加酷炫。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這是一件很華麗的東西。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "酷炫的牆板！"}]

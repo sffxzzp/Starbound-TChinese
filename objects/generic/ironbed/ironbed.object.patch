@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "鑄劍而為的鐵床座。對權力的打盹來說很完美。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "鐵床座"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "看上去很不適的床。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "多麼不尋常的鐵床座啊。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "這張床很鋒鋒鋒利並且全是尖尖尖刺。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "狂喜。一張舒適的鐵床。電子人可以在上面輕鬆休息。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我不覺得我會在這樣的床上睡多久。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一張非常殘酷的床。這樣的設計並不能提供舒適。"}]

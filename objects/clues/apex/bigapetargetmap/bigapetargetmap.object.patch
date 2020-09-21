@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一張定位大猿人位置的雜亂無章的地圖。繪製這張圖的人應該很生氣。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "大猿人定點陣圖"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這張地圖上滿是對大猿人去向猜測的筆記和箭頭。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這上面似乎有大量有關大猿人的位置的筆記和資訊。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人不確確確定這張地圖是是是幹什麼的。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。這張地圖上顯現的資訊是為了定位大猿人，猿人真正的領導者。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這張地圖似乎有很多關於大猿人下落的潦草筆記，顯然作者是想對獨裁者進行報復。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這張地圖上有很多關於大猿人位置的潦草筆記和情報。顯然有人想要找出他。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這張海報上有些關於大猿人下落的資料－顯然，出自某位憤怒的人民之手。"}]

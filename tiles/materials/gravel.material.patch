@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/description", "value" : "粗沙礫。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "礫石"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "惱火。這沙礫粗糙而不緊實。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "碾碎碎碎的礫石。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "壓碎的石頭和沙礫。"}]

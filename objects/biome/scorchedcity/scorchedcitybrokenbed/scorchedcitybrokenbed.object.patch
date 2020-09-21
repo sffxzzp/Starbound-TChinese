@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一張破床。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "破舊的時尚床"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一張破床。現在它沒用了。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一張破床，它看起來被遺忘了。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "這這這張床是壞的。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "悲傷。這張床是壞的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一張破床，現在就睡在上面不是個好主意。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一張破床。現在它不是那麼有用了。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這當然是張破床。"}]

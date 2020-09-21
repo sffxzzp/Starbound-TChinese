@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "閃亮的盔甲在架子上展示著。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "展示用盔甲"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一套漂亮的盔甲。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "看起來好像是戰鬥用盔甲。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "大鐵人會會會穿大鐵甲嗎？"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "無感。這種盔甲純粹是為了裝飾用，真正的戰鬥盔甲比這要簡陋得多。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一套引人注目的盔甲。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這盔甲看起來從沒在戰場上被穿戴過。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "貌似在戰鬥中並不需要裝備這樣的東西。"}]

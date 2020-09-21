@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "混亂的線索和證據，用來追蹤罪犯。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "和平衛士筆記"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "看來有人揭露了神秘的面紗，它出現了。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "似乎有人在熱情地試圖解開一個謎。真令人興奮！"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族對對閱讀筆記不感興趣。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "興奮。這些筆記似乎表明有人接近案件的突破點！"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "沒有那些亂釘在牆上的報紙、繩子和筆記，你無法破案！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "解決謎團的方法相當粗糙，但我想它一定是有效的。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "咿哈，看起來有人快要解決一個大案子了！"}]

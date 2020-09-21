@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "能發射向所有方向爆炸炮彈的一種機甲臂。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "分裂射擊機甲臂"}]

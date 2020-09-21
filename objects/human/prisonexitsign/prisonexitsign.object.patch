@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "如果你走這條路，你會找到出口…大概吧。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "出口標誌"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個出口標誌。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個指向出路的標誌。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "這這這邊走！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "細心。這個標誌指向了出口。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "深受囚犯們喜愛的標誌。我想，除非你剛好在其它的地方見到過這個標誌。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這裡的出路。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "出去的路。"}]

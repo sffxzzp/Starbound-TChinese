@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這是一臺適合沙龍的鋼琴！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "沙龍鋼琴"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "所有的猿族必須學會彈。但是，只有許可的音樂才能被演奏。每一個鋼琴裡都藏著一個麥克風。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "能發出悅耳聲音的按鈕。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族用面板和骨頭演奏音樂，玩鼓的大師。而不是笨笨笨的聲音機器。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "得意。這臺機器背後所蘊含的數學相對比較簡單。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一架鋼琴…我能彈《筷子》！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "啊，音樂…即使在我們最黑暗的時刻，它也有點亮前進道路的力量。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一臺適合老式低階夜總會的鋼琴。"}]

@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一塊非反射鏡子塊。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "鏡子塊"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "困惑。雖然看起來像鏡子，但卻不能反射光線。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "閃閃閃亮的表面面面。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這鏡子看起來有些奇怪。我不能看到反射的景象。"}]

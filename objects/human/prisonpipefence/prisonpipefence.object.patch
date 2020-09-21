@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "上面焊著金屬管的柵欄。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "管子柵欄"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "用管子做的柵欄，真聰明。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個柵欄，無情地嘲諷著大地。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人確確確定可以一下跳過這堵牆。但是葉族人不會傻到去嘗試。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "細心。一堆管子被改造成了柵欄。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一個巧妙的管制柵欄。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "如果這道柵欄在海底，我只要游過去就可以了。不過話說回來，在陸地上又該怎麼辦呢？"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "管制柵欄。"}]

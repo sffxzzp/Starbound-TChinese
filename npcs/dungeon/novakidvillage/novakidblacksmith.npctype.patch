@@ -1,0 +1,7 @@
+[{"op": "replace","path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title","value": "鐵匠"},
+{"op": "replace","path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle","value": "最好的裝備！"},
+{"op": "replace","path": "/scriptConfig/dialog/merchant/start/default/default","value": ["你想要看看我製作的商品嗎？"]},
+{"op": "replace","path": "/scriptConfig/dialog/merchant/end/default/default","value": ["如果你想要購買其他我做的東西，請隨時光臨！"]},
+{"op": "replace","path": "/scriptConfig/dialog/merchant/follow/default/default","value": ["想要買些我做的裝備嗎？跟我來。"]},
+{"op": "replace","path": "/scriptConfig/dialog/merchant/welcome/default/default","value": ["那麼，你在找什麼呢？"]},
+{"op": "replace","path": "/scriptConfig/dialog/merchant/tout/default/default","value": ["我正在出售最棒的裝備！像你這樣的冒險者的完美選擇！","我是一名鐵匠，我有一些不錯的裝備正在出售！"]}]

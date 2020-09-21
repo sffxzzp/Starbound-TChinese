@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這張紙被撕壞了，有些字看不清了。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "USCM撕裂的備忘錄"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "我相信不管上面的資訊無論如何都非常重要。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我完全猜不出那些字是什麼。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人讀不懂這些支離破碎的資訊，太不爽了！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "取悅。這似乎是一份被迫寫下的記錄，目的在於指控某人偷了牛奶。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "顯然這是USCM的重要資訊，現在已經沒辦法閱讀了。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這張紙上面似乎不小心灑了一些液體。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "資訊永遠的丟失了。它應該不是什麼重要資訊。"}]

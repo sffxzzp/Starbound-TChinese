@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "標籤上寫著，\"只有榛果丸王是唯一一個頭頂上植物沒被踩死的丸子。\""},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "榛果丸手辦"}]

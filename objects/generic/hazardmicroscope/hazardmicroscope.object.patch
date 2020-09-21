@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一臺大型顯微鏡，為觀察潛在的有害細菌而設計。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "危害顯微鏡"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一臺顯微鏡――一種學習研究的普遍工具。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "看這些小東西並沒有看星星那樣有趣。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人可以用這這這個近距離觀察植物物物！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "著迷。當你近距離觀察時有機物質很讓人好奇。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一臺顯微鏡！近距離看的時候小東西可以變得讓人毛骨悚然。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這臺裝置可以用來觀察很小很小的東西。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "沒什麼時間在顯微鏡底下看東西。"}]

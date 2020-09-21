@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "有些人永遠都數不到25。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "計數符號"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "類似的標記經常能在科技發展部的牢房裡發現。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "某人在數什麼東西，但意義何在？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人用這個計算擊殺的人頭數。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。這意味著某樣東西出現了25次…但我們永遠都不知道究竟是什麼東西了。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一串數字標記，還是柵欄的圖紙？真的很難分辨。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一種簡單但很有效的計數方法。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我認識一個用這種方法來記錄殺人數的傢伙。"}]

@@ -1,0 +1,3 @@
+[{ "op" : "replace", "path" : "/description", "value" : "透過在空氣中創造電離通道來控制強大的閃電。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "特斯拉法杖"},
+{ "op" : "replace", "path" : "/altAbility/name", "value" : "球狀閃電"}]

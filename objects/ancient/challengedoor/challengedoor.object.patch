@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個通向未知維度的神秘門。有沒有可能會出岔子？"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "挑戰之門"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "在這發現一個奇怪的門。它會帶我去什麼維度？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個可能通向任何維度的詭異的門。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "奇奇奇怪的門，這通向哪兒？"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "小心。我準備好面對門對面的一切了嗎？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一個通向未知維度的神秘門。有沒有可能會出岔子？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一個不明去向的神秘的門…或許是種潛在機遇？"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "為什麼會有個門在這兒？"}]

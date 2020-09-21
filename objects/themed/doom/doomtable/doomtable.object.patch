@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個可怕的厄運桌。它正看著你吃東西呢。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "厄運之桌"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個從桌子底下出來的眼睛。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這張桌子真是令人毛骨悚然。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族認為這臺控制器像葉族一樣餓。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "解除。看著這張桌子，一個巨大的眼睛來回的眨眼。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這張桌子不適合穿裙子。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "如果你的目光一直看著桌子，當然，桌子也會凝視著你。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我不確定那有沒有眼睛。"}]

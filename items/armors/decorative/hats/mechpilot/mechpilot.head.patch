@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一種頭盔，通常用來連線個人機甲。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "機甲飛行員頭盔"}]

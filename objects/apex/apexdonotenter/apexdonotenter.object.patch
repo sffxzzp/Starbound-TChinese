@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/apexDescription", "value" : "家裡到處可見這種標誌。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這些告示不知道是什麼人授權貼的？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人想進進進就進。撒撒撒幣告示！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "反抗。我已不再聽從指揮。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "謝謝你的建議！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我肯定，該小心了。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我猜我不會進去。但話說回來…"},
+{ "op" : "replace", "path" : "/description", "value" : "別這麼做！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "禁止入內標誌"}]

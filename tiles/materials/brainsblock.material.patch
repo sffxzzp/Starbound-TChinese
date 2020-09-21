@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/description", "value" : "腦質還在搏動著…我不知道它是不是在思考。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "大腦"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "驚慌。在這種物質中還有腦活動嗎？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人想戳戳戳這個黏糊糊的大腦。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一些肉質豐滿的腦物質。"}]

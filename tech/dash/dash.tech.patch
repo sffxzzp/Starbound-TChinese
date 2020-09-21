@@ -1,0 +1,2 @@
+[{"op": "replace","path": "/description","value": "雙擊^green;[A]^white;或者^green;[D]^white;來快速衝刺！冷卻：0.8s"},
+{"op": "replace","path": "/shortDescription","value": "能量猛衝"}]

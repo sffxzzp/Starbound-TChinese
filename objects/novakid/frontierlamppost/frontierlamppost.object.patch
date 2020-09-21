@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個鋼鐵鍛造的燈柱，有著用氣體點燃的火焰光源。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "開拓者燈柱"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個堅固的鋼鐵鍛造的燈柱。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個高大的鋼鐵鍛造的燈柱。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人想想想要把長長的燈柱當做火焰長長長矛使！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "印象深刻。這個燈柱真的很高。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "燈柱，讓街道在夜晚變得更安全！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這個燈柱是由鋼鐵鍛造的－我確信它能承受力不低。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "照亮前方，燈柱！"}]

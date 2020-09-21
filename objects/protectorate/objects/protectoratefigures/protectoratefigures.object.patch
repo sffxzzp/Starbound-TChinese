@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一對來自大地守護團的流行玩具人偶。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "守護團時尚玩偶"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一對玩偶。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一些可愛的玩偶。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "玩偶瞪瞪瞪著葉族人！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "高興。一些不錯的玩具收藏品！"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一些不錯的玩具收藏品！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這些人偶好可愛。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一些玩具。"}]

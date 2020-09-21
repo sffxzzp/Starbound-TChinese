@@ -1,0 +1,4 @@
+[{"op": "replace","path": "/scriptConfig/generatedText/text/default","value": ["我們收到報告稱有個生物正在蹂躪<coordinate.name>！ 當地人把它稱作\"^orange;<bounty.name>^reset;\"，他們已經害怕到不敢出家門了。你能去那解決它嗎？\n\n—獎勵—\n殺死：^yellow;<rewards.money>^reset;畫素，+<rewards.rank>等級",
+"我們收到報告說有個生物在<coordinate.name>出沒。 有些傻子給它起名叫\"^orange;<bounty.name>^reset;\"，現在沒人有信心能解決這傢伙。你最好在有人受傷前去那裡解決這隻怪物。\n\n—獎勵—\n殺死：^yellow;<rewards.money>^reset;畫素，+<rewards.rank>等級",
+"我們在<coordinate.name>聽到訊息，
+說有一隻色彩怪異的生物—^orange;<bounty.name>^reset;一直在騷擾當地人，他們對此非常煩惱。你能去解決這個混亂局面嗎？\n\n—獎勵—\n殺死：^yellow;<rewards.money>^reset;畫素，+<rewards.rank>等級"]}]

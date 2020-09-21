@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "皇室的榮耀之光。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "皇家燭臺"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個純金的燭臺。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這種金屬做燭臺真是浪費。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "為什麼大鐵人要把火放在金色的棍棍棍子上？嘶嘶嘶。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "合意。一個純金的燭臺。僕人會在貴族們到來之前確保所有燭臺都被點亮。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這個燭臺得值一大筆錢。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "真是驕奢淫逸。朱門酒肉臭，路有凍死骨。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我對那個點亮所有燭臺的土豪沒什麼好印象。"}]

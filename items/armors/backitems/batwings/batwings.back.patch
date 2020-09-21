@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "裝備像蝙蝠一樣的鍍金翅膀，併成為噩夢一般的存在！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "恐懼之翼"}]

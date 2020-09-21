@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "長得像鮫人的奇怪計數器。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "鮫人計數器"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "鮫人確實很喜歡用自己的形象來創造物件。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這個計數器鑲嵌著鮫人眼睛一樣的寶石。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "魚人造的傢俱看起來來來就像他們自己。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "取悅。這個傢俱看起來長得很像鮫人。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "鮫人似乎喜歡參考自己的長相做傢俱。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我們鮫人對自己的長相很自豪，因此很享受這種創造象徵自我的藝術。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這張傢俱上的鮫人臉正在偷偷盯著我嗎？令人毛骨悚然。"}]

@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這件用鋒利刀刃製成的羽翼非常華麗。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "刃翼"}]

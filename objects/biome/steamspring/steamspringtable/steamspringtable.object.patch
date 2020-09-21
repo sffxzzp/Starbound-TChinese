@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一張精心製作的桌子，裝飾有黃銅管。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "蒸汽春天桌"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "桌上的黃銅管子一定讓它非常堅固。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "黃銅管和木質桌面組合起來很協調。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人想想想知道如果打到了管管管子上會不會弄出很大的聲聲聲音來。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "觀察。這張木桌子主要是由舊管子支撐的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一張由木頭和管子做成的桌子。真酷。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我很懷疑桌子上的管子到底有沒有在支撐它？"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我很樂意在這樣的桌子上玩紙牌。"}]

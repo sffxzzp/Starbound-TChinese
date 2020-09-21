@@ -1,0 +1,4 @@
+[{ "op" : "replace", "path" : "/description", "value" : "馬勃菌。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "馬勃菌。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族想擠馬勃菌。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "陳述。馬勃菌。"}]

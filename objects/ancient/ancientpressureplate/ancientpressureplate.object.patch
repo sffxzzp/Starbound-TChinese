@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "請明智地使用此壓力板。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "古代壓力板"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "我在想這個壓力板會連線到什麼機械奇蹟上。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "類似這個的壓力磚在翼族的墳墓裡很常見。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "小心點。再再再小的腳腳腳步也會觸發這塊板。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "感興趣。這塊磚能被用來觸發無數的東西。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "踩在這個舊磚上會觸發陷阱！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我見過類似這個用在古代陷阱裡的磚塊。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這塊磚看起來會操縱一些東西。"}]

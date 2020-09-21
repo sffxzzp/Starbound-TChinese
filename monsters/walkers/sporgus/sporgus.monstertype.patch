@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "雙頭菇"},
+{ "op" : "replace", "path" : "/description", "value" : "它喜歡溫暖和潮溼的氣候，這樣它會成長得更快。"}]

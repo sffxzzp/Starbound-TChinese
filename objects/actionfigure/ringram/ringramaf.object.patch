@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "標籤上寫著，\"盤角豆的角從出生便開始生長，從未停止過。\""},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "盤角豆手辦"}]

@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "油"},
+{ "op" : "replace", "path" : "/description", "value" : "一單位黏稠的未經提煉的油。"}]

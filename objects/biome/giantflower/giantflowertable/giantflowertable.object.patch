@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一朵巨大的花，用來當桌子簡直完美。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "巨型花瓣桌子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "如果你飢腸轆轆，你可以吃桌子。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這張桌子看起來很脆弱。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族在切切切肉的時候這桌子會搖晃。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "印象深刻。這巨大的花是多年精心培育的產品。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "在這裡吃飯會有魔幻般的感覺。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "自然提供多少就會破壞多少。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一張自然生長而成的桌子。它是不是由一粒桌子種子生長而成的呢？"}]

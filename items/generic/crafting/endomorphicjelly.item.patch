@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一種奇怪的膠狀物，似乎對觸控有反應。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "內胚層體型膠狀物"}]

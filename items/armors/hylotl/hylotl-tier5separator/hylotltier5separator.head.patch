@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這個維奧合金的頭盔專為深層勘探而造。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "深海帽子"}]

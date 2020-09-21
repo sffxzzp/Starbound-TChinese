@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "出航劫掠啦，我的夥計！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "木製船舵"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個控制裝置。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "用來操控翼族飛空艇的轉向。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "轉轉轉舵，操操操船。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "批判。一種並不精準的空艇控制方式。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一個提督…啊，不、是一個船長的舵輪！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "看起來適合用來操控航行於水上的船隻，而非用來操控飛行於天空中的空艇。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一個船舵。我以前曾見過幾次。"}]

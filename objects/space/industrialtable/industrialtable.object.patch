@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "為經受湍流旅行而製造的冰金屬桌。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "工業桌"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這張桌子看起來很結實，在地震中我能安全地躲在它下面。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這張冷冰冰的、無人居住的桌子沒有什麼好說的。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "桌子看起來很重。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "。無動於衷。這張桌子可以裝飾一下。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "如果你不能決定如何裝飾一件傢俱，最好的解決辦法就是不要在上面貼上警告條紋。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這張桌子的形狀太死板了。優雅在哪裡？！"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一個鐵匠必須花上一整天來將桌面鍛打的這麼平。"}]

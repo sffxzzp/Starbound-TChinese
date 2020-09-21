@@ -1,0 +1,2 @@
+[{"op": "replace","path": "/gui/toggleCrafting/caption","value": "烹飪"},
+{"op": "replace","path": "/gui/lblText/value","value": "^#b9b5b2;放置一個或更多配料在左邊格子裡。"}]

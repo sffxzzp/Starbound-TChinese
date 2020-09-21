@@ -1,0 +1,3 @@
+[{"op": "replace","path": "/description","value": "一個能增加能量值上限的危險環境保護裝置模組。"},
+{"op": "replace","path": "/shortdescription","value": "能量增強模組 II"},
+{"op": "replace","path": "/augment/displayName","value": "能量增強 II"}]

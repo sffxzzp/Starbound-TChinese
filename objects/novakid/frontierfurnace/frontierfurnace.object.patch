@@ -1,0 +1,11 @@
+[{ "op" : "replace", "path" : "/interactData/paneLayoutOverride/windowtitle/title", "value" : "開拓者火爐"},
+{ "op" : "replace", "path" : "/interactData/paneLayoutOverride/windowtitle/subtitle", "value" : "舊時代的冶煉。"},
+{ "op" : "replace", "path" : "/description", "value" : "一個老舊的黃銅熔爐。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "開拓者火爐"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個相當古老的銅製熔爐。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我感覺如果我太靠近這個的話，它會燒焦我的羽毛。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "看看看上去很燙。葉族人有有有點擔心。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "著迷。我想知道所有這些管道有什麼用處？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這個老舊的金屬熔爐摸上去真的非常燙。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這個老熔爐效率低下。我能想出好幾種方法去改善它，只要我願意的話。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "聞起來有燃燒的煤炭的味道…沒可能是別的了。"}]

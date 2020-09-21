@@ -1,0 +1,7 @@
+[{"op": "replace","path": "/npcname","value": "拉娜"},
+{"op": "replace","path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title","value": "拉娜·布萊克"},
+{"op": "replace","path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle","value": "獲取強大的增強模組"},
+{"op": "replace","path": "/scriptConfig/dialog/merchant/start/default/default","value": ["你好，戰士。我進了一批增強模組。這些有你需要的嗎？"]},
+{"op": "replace","path": "/scriptConfig/dialog/merchant/welcome/default/default","value": ["你好，戰士。我進了一批增強模組。這些有你需要的嗎？"]},
+{"op": "replace","path": "/scriptConfig/dialog/merchant/end/default/default","value": ["我明天會進一批新貨，當你需要的時候就回來看看。","明天再來吧，士兵—那時我會有一批新貨。"]},
+{"op": "replace","path": "/scriptConfig/dialog/merchant/tout/default/default","value": ["我從反抗軍營地直接獲得了一大批物資。","士兵—反抗軍已經發送了一批新的貨品給我。"]}]

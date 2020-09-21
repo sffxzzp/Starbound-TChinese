@@ -1,0 +1,3 @@
+[{"op": "replace","path": "/description","value": "一個能夠控制重力的危險環境保護裝置模組，減緩你在空中下降的速度。"},
+{"op": "replace","path": "/shortdescription","value": "反重力模組"},
+{"op": "replace","path": "/augment/displayName","value": "反重力"}]

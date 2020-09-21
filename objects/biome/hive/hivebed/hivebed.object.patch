@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一張絲綢床，放在一個奇怪的蜂巢般的底座上。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "蜂巢床"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這床使用了一個有機蜂窩狀骨架結構來進行支撐。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我不確定我能不能在這樣的床上安然入睡。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人很奇奇奇怪為什麼床會看起來這麼像巢巢巢？"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "擔憂。我不覺得我能在這麼毛骨悚然的床上舒適地休息。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我希望當我睡在這床上時不會有什麼東西爬到我腿上…"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我不覺得我能在這樣的床上睡得像我需要的那麼好。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "即是像我一樣脫離肉體的靈魂也不能在這種東西上面好好地休息…"}]

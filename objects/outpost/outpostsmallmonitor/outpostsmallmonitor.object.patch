@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "小型監控器，但它在顯示什麼？"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "小型壁掛監控器"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "我不能理解它。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "不可能弄清楚螢幕上文字的意思。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人不知道這這這螢幕顯示的什麼。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "沮喪。我不能認出監視器上顯示的是什麼。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這個監視器的影象顯示質量很糟糕。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這裡顯示的資訊很難理解。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "很難分辨清這寫的是什麼。希望不是什麼重要的東西。"}]

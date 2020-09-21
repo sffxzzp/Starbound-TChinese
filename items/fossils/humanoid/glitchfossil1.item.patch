@@ -1,0 +1,4 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個電子人的頭骨化石。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "電子人頭骨"},
+{ "op" : "replace", "path" : "/completeSetDescriptions/shortdescription", "value" : "電子人化石"},
+{ "op" : "replace", "path" : "/completeSetDescriptions/description", "value" : "一個電子人的化石，裡面的線路很少能夠被保留下來。"}]

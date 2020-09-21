@@ -1,0 +1,3 @@
+[{"op": "replace","path": "/charGenTextLabels","value": ["毛色","髮型","上衣","褲子","面板顏色","鬍子風格","上衣顏色","褲子顏色","猿族","人物性格"]},
+{"op": "replace","path": "/charCreationTooltip/title","value": "猿族"},
+{"op": "replace","path": "/charCreationTooltip/description","value": "一種高度智慧化的靈長類種族。幾千年來，猿族看起來非常類似人類直到科學上的突破才讓他們可以將身體上的退化轉化為智力上的進化。"}]

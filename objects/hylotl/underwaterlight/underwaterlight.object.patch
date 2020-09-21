@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "防水燈"},
+{ "op" : "replace", "path" : "/description", "value" : "一盞有玻璃罩子保護的燈。"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個普通的燈泡，採取了防水措施以便在水下照明。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這燈看起來是防水的，所以可以在開闊水域使用。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "燈泡。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "不在意。一盞防水燈。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這個燈被設計成即使暴露在水下時仍能正常運作。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這只是一個簡單的防水燈罷了。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一個玻璃罩子內的燈泡。"}]

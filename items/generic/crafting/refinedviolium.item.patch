@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "精煉維奧合金礦石主要可以在冰凍星系的行星上發現。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "精煉維奧合金"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一張美麗的鄉村長凳。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "鄉村長凳"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這張長凳表達了一種對大自然的偉大的稱讚。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "美麗的小小長凳。折翼者非常享受制作他們自己的傢俱。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "長凳散發出一種優良生長的木頭的醇香"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "陶醉。一張手工製作的長凳。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這看起來是手工製作的。非常有魅力。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一張迷人的長凳，雖然它的製造者缺乏技巧。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "可以在這可愛的長凳上休息一會兒。"}]

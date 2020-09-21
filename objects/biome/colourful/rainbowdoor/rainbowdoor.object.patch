@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一扇迷人的彩虹門。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "彩虹門"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一扇彩虹色的門。僅僅是透過門就能使我高興。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一扇非常迷人的門。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族蹦跳跳跳過門"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "不知所措。我對門後面的景物滿懷期待。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這扇門乞求被開啟。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "真是一扇很不錯的門。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "想知道會有什麼在這個多彩的門後？"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這只是一面儀式用盾。用它戰鬥就是作死。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "電子人盾牌展示架"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一面迷人的盾牌。不過，只是裝飾罷了。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一面色彩鮮豔的盾牌。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "血紅色的盾牌！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "頑皮。純粹裝飾性的盾。一次重擊就能將它完全擊碎。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一面引人注意但不堪一擊的盾牌。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "很漂亮的工藝品，完全是用裝飾材料做的。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這面盾牌看上去很華麗但是確實毫無用處。"}]

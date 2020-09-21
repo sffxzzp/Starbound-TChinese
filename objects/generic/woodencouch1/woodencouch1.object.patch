@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個舒適的木製沙發，條紋布讓它變得更緊緻。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "木沙發"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個簡單的有條紋墊子的木沙發。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "墊子讓這個沙發變得舒適。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "有條條條紋的沙發。軟軟軟的墊子。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "靈感。也許我應該用條紋裝飾我自己。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一個有漂亮條紋墊子的木頭長凳。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "既不太軟，也不太硬。一個冥想的好地方。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "坐下來欣賞日落的好地方。"}]

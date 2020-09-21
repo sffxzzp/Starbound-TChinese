@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "可以孵出會成長為成年哞西牛的哞西牛犢。哞西牛生產牛奶。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "哞西牛蛋"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "哞西牛的蛋。成年哞西牛生產牛奶。牛奶對你的毛髮有好處。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這枚蛋裡有隻哞西牛犢。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人等不及哞西牛孵化化化了！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "高興。一枚哞西牛蛋！哞西牛奶營養豐富。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "哞西牛蛋！請孵少一些。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "蛋裡有一隻哞西牛寶寶。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這裡有一隻哞西牛蛋。想要牛奶的話，最好有一隻哞西牛。"}]

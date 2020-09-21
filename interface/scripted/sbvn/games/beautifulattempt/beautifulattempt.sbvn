@@ -1,0 +1,942 @@
+{
+  "displayConfig" : {
+    "title" : "美麗的嘗試！櫻花神社少女心+",
+    "subtitle" : "在遙遠的過去尋找偉大的愛情",
+    "textColor" : "#605030",
+    "selFormat" : "^darkgreen;[%s]",
+    "unselFormat" : "^darkgray; %s ",
+    "textRate" : 50
+  },
+
+  "titleScene" : {
+    "background" : "bg_sky",
+    "foreground" : "title"
+  },
+
+  "entryScene" : "pre_credits",
+
+  "scenes" : {
+    "pre_credits" : {
+      "background" : "bg_black",
+      "foreground" : "title",
+      "text" : "[這個故事是由一個鮫人族學者組成的多樣化的團隊所寫。若玩家對遊戲中的虛擬角色產生心痛和愛慕，該團隊將不承擔任何責任。]",
+      "continue" : "intro0"
+    },
+    "intro0" : {
+      "background" : "bg_black",
+      "text" : "對於我，一個謙遜而又勤奮的鮫人族男孩來說，生活顯得過於平靜。猶如順流而下的塑膠袋，我有時覺得我僅僅只是漂泊在生活的海洋中的一片荷葉。",
+      "continue" : "intro1"
+    },
+    "intro1" : {
+      "background" : "bg_school",
+      "text" : "但是這樣的一生中唯一的慰藉就是我在空氣曲棍球上難以置信並絕妙的技巧。 沒錯，空氣曲棍球雖然並不是宇宙間很最有名的遊戲，但是我至少可以在這個領域找到一些獨特的技巧。",
+      "continue" : "intro2"
+    },
+    "intro2" : {
+      "background" : "bg_school",
+      "text" : "至於現在嘛，我在學校的宿舍中學習著。以龜速來閱讀著一本名為'鮫人：被動侵略藝術'的教科書。",
+      "continue" : "intro3"
+    },
+    "intro3" : {
+      "background" : "bg_school",
+      "text" : "但是，腦中呼喚我去玩空氣曲棍球的念頭再度開始誘惑我，雖然我很想去玩但是我的學習的事情也不能置之高閣...",
+      "options" : [
+        ["繼續學習", "intro3b"],
+        ["去練習空氣曲棍球", "intro3a", null, ["hockey+1"]]
+      ]
+    },
+    "intro3a" : {
+      "background" : "bg_school",
+      "text" : "我當然能意識到知識的重要性，但是一個沒啥競爭對手並且技巧點全滿的遊戲可以永遠陪伴我。",
+      "continue" : "intro4"
+    },
+    "intro3b" : {
+      "background" : "bg_school",
+      "text" : "我低下了頭，準備繼續苦學，但是很快慾望的作祟鑽了我潛意識中的空子，把我腦袋中對耍一把空氣曲棍球的慾望強烈的勾引了起來。",
+      "continue" : "intro4"
+    },
+    "intro4" : {
+      "background" : "bg_school",
+      "text" : "我踮起腳尖小心翼翼的溜了出了寢室，最主要還是為了不讓自己太激動搞得自己在走廊上大喊‘空氣曲棍球！！’然後被人當成瘋子。",
+      "continue" : "intro5"
+    },
+    "intro5" : {
+      "background" : "bg_school",
+      "foreground" : "hockey_table",
+      "text" : "我順利的來到了學校園區的遊戲區，我的三隻眼睛如同看見美人一般的盯著空氣曲棍球的桌子。嗨，老夥計，我們又見面了。",
+      "continue" : "intro6"
+    },
+    "intro6" : {
+      "background" : "bg_school",
+      "foreground" : "hockey_table",
+      "text" : "空氣曲棍球桌子……哦那妙不可言的光滑漆面桌和側邊緣的開口，假若這石桌是刻畫我的精神的石碑，球槌則是展現我演技的真正道具！",
+      "continue" : "intro7"
+    },
+    "intro7" : {
+      "background" : "bg_school",
+      "foreground" : "hockey_table",
+      "text" : "我把球擺放在桌面上，原本想要好好品嚐這個遊戲的開頭。突然我感覺我的心臟漏了一拍...我感到了有什麼東西有些不對勁。",
+      "continue" : "intro8"
+    },
+    "intro8" : {
+      "background" : "bg_black",
+      "foreground" : "hockey_table",
+      "text" : "心臟的跳的越來越快，我感覺世界在我眼中開始瘋狂的旋轉。我感覺手找不到支撐點，猶如擱淺的鯨魚一般的無助，除非我這不是擱淺，而是...穿越了時空！",
+      "continue" : "intro9"
+    },
+    "intro9" : {
+      "background" : "bg_black",
+      "text" : "這個感覺難以形容，如同慢慢從夢中清醒過來，唯一的區別就是正常的醒來時人是寧靜的，我醒來時總感覺有一群人在我面前對著我嘶吼。",
+      "continue" : "intro10"
+    },
+    "intro10" : {
+      "background" : "bg_black",
+      "text" : "模糊的視野漸漸清晰，我感覺我掌心和腳下的沙子非常的溫暖。我是到了一個星球的表面，還是被陽光照耀著，或者說更壞一點的情況：我被火焰包裹了？",
+      "continue" : "intro11"
+    },
+    "intro11" : {
+      "background" : "bg_shrine",
+      "text" : "我很確認自己並沒有著火，但是我發現一個比著火還要糟糕的事實：我在一個我完全陌生的地方",
+      "continue" : "intro12"
+    },
+    "intro12" : {
+      "background" : "bg_shrine",
+      "text" : "我在一個小島的海灘上，島嶼的中央有一個大寶塔。目前驕陽在我頭頂肆虐。明顯的我的下一步必須非常謹慎...",
+      "options" : [
+        ["潛行觀察", "sneak1", null, ["sneak+1"]],
+        ["哭喊鬧騰", "yell1", null, ["cry+1"]]
+      ]
+    },
+    "sneak1" : {
+      "background" : "bg_shrine",
+      "text" : "在這個完全不熟悉的島嶼上帶著宛如受到重擊後頭痛的腦袋，對於這種情況...我還決定在附近潛行。我輕輕蹲下，慢慢的穿過沙灘，走向大寶塔。",
+      "continue" : "sneak2"
+    },
+    "sneak2" : {
+      "background" : "bg_shrine",
+      "text" : "整個島嶼非常的寧靜，除了海浪輕撫這神秘沙灘的聲音。重點是這個海域是水組成的，不是可怕的岩漿或者酸液，這點倒是讓我稍稍放下心來了。",
+      "continue" : "sneak3"
+    },
+    "sneak3" : {
+      "background" : "bg_shrine",
+      "text" : "有聲音！我趕緊藏在了一個附近的柱子後面。不過這裡的建築風格都是鮫人族的，所以我落到葉族人的領地的機率挺小的。",
+      "continue" : "sneak4"
+    },
+    "sneak4" : {
+      "background" : "bg_shrine",
+      "text" : "在高塔出口的外面，我看見了一個漂亮的女孩，跪在沙子中。由於我倒抽了一口氣，這下根本藏不住了，她馬上轉頭並看見了我！",
+      "continue" : "kasumi1a"
+    },
+    "yell1" : {
+      "background" : "bg_shrine",
+      "text" : "我開始慌張並且在寧靜的海灘上大喊大叫。我很確定這招可以招來這個區域的管理人員然後帶我走出這個困境。",
+      "continue" : "yell2"
+    },
+    "yell2" : {
+      "background" : "bg_shrine",
+      "text" : "出乎我的意料的是，迎接我的是一位美麗的女孩，穿著與我的時代不符的儀式用長袍，手上握著一根粉色的法杖。",
+      "continue" : "kasumi1b"
+    },
+    "kasumi1a" : {
+      "background" : "bg_shrine",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "annoyed",
+      "text" : "\"你是誰？為什麼你在這裡鬼鬼祟祟的？\"女孩起身問我，陽光在她的面板粘膜上顯得非常的養眼。",
+      "options" : [
+        ["我在哪裡？", "explanation1a"],
+        ["敢問芳名？", "explanation1b", null, ["name+1"]]
+      ]
+    },
+    "kasumi1b" : {
+      "background" : "bg_shrine",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "annoyed",
+      "text" : "\"你是誰？怎麼在這種地方像個書呆子一樣的大喊大叫的？\"女孩看著我，陽光在她的面板粘膜上顯得非常的養眼。",
+      "options" : [
+        ["我在哪裡？", "explanation1a"],
+        ["敢問芳名？", "explanation1b", null, ["name+1"]]
+      ]
+    },
+    "explanation1a" : {
+      "background" : "bg_shrine",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "annoyed",
+      "text" : "\"閣下現在位於鮫人族大圖書館，確切來講這裡應該是下週才開放進入。\"她向我解釋道。",
+      "continue" : "explanation2a"
+    },
+    "explanation2a" : {
+      "background" : "bg_shrine",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "annoyed",
+      "text" : "\"在我做祈福儀式的時候，這裡是不該有人的！閣下是怎麼到這裡來的？\"",
+      "options" : [
+        ["我期待著一場美麗的邂逅！", "question_beauty1", null, ["romantic+1"]],
+        ["我是被時空穿越過來的！", "question_time1", null, ["intelligent+1"]]
+      ]
+    },
+    "explanation1b" : {
+      "background" : "bg_shrine",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "pleased",
+      "text" : "\"我叫小霞，是神社派往鮫人族大圖書館進行祈福儀式的巫女，應為這裡下週就要開放了呢。\"她向我解釋道。",
+      "continue" : "explanation2b"
+    },
+    "explanation2b" : {
+      "background" : "bg_shrine",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "annoyed",
+      "text" : "\"雖說在我做祈福儀式的時候不該有人...閣下是怎麼到這裡來的？\"",
+      "options" : [
+        ["我期待著一場美麗的邂逅！", "question_beauty1", null, ["romantic+1"]],
+        ["我是被時空穿越過來的！", "question_time1", null, ["intelligent+1"]]
+      ]
+    },
+
+    "question_beauty1" : {
+      "background" : "bg_shrine",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "shocked",
+      "text" : "因為我的驚天動地的回答，她倒抽了一口氣。啊，可能是我突如其來的話語驚嚇到了她，我開始方了，並且懷疑自己腦子是不是進水了，誰會對初次見面的女孩說這些事情啊！",
+      "continue" : "question_beauty2"
+    },
+    "question_beauty2" : {
+      "background" : "bg_shrine",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "default",
+      "text" : "她喃喃了半天才回答我，\"哎呀，那我覺得閣下你肯定來錯了地方呢，因為鮫人族大圖書館正式開放的時間還沒到呢。\"",
+      "continue" : "question_beauty3"
+    },
+    "question_beauty3" : {
+      "background" : "bg_shrine",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "default",
+      "text" : "我感覺她弄錯了我回答話語中的含義，但是我的確無法把目光停留在她那如同紅寶石一般美麗的三顆大眼睛上。",
+      "continue" : [["name>0", "question_beauty4a"], "question_beauty4b"]
+    },
+    "question_beauty4a" : {
+      "background" : "bg_shrine",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "default",
+      "text" : "\"哎呀哎呀，看看我這樣真沒禮貌\" 她突然說道，\"我都忘記了問問你的名字了。那麼閣下的名字是？\"",
+      "options" : [
+        ["告訴她你的名字", "question_beauty5a", null, ["intelligent+1"]],
+        ["給她一個假的但是很浪漫的名字", "question_beauty5b", null, ["romantic+1", "fakename+1"]]
+      ]
+    },
+    "question_beauty4b" : {
+      "background" : "bg_shrine",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "pleased",
+      "text" : "\"哎呀，看看我這樣子，真沒禮貌\"她突然說道，\"我的名字叫做小霞。閣下的名字呢 ？\"",
+      "options" : [
+        ["告訴她你的名字", "question_beauty5a", null, ["intelligent+1"]],
+        ["給她一個假的但是很浪漫的名字", "question_beauty5b", null, ["romantic+1", "fakename+1"]]
+      ]
+    },
+    "question_beauty5a" : {
+      "background" : "bg_shrine",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "annoyed",
+      "text" : "\"……並沒有冒犯之意，但是……\"她將信將疑的說到。\"這個名字真的很奇怪，你父母為什麼這麼叫你？\"",
+      "continue" : "question_beauty6a"
+    },
+    "question_beauty5b" : {
+      "background" : "bg_shrine",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "pleased",
+      "text" : "\"哎呀哎呀，非常高興見到您，沃根·聖·愛堡先生！\"她的回覆中帶著一抹陽光中的微笑\"那麼，又是這個沒開門的圖書館的什麼地方，引起了閣下的興趣呢？\"",
+      "continue" : "pagoda1"
+    },
+    "question_beauty6a" : {
+      "background" : "bg_shrine",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "annoyed",
+      "text" : "我很乾脆地避免了我名字那糟糕的由來。",
+      "continue" : "question_beauty6b"
+    },
+    "question_beauty6b" : {
+      "background" : "bg_shrine",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "default",
+      "text" : "\"那麼，\"她說到，\"為什麼閣下會對這個沒開門的圖書館產生興趣了呢？\"",
+      "continue" : "pagoda1"
+    },
+
+    "question_time1" : {
+      "background" : "bg_shrine",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "shocked",
+      "text" : "\"時空……旅行？\"她重複道我的話，滿臉疑惑。\"但是……有人這樣子時空旅行過嗎？\"",
+      "continue" : "question_time2"
+    },
+    "question_time2" : {
+      "background" : "bg_shrine",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "shocked",
+      "text" : "我嘗試詢問她的意思。",
+      "continue" : "question_time3"
+    },
+    "question_time3" : {
+      "background" : "bg_shrine",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "default",
+      "text" : "\"我麼們都在時空旅行啊，而且速率是一秒鐘每秒呢。\"她闡述了自己的想法。",
+      "continue" : "question_time4"
+    },
+    "question_time4" : {
+      "background" : "bg_shrine",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "default",
+      "text" : "……說真的，此時我無法說明這個女孩到底是個天才還是個笨蛋……",
+      "continue" : [["name>0", "question_beauty4a"], "question_beauty4b"]
+    },
+
+    "pagoda1" : {
+      "background" : "bg_black",
+      "text" : "圖書館……這不是鮫人族大圖書館嗎？！",
+      "continue" : "pagoda2"
+    },
+    "pagoda2" : {
+      "background" : "bg_black",
+      "text" : "當然我聽說過這個歷史性的景點，不過這個圖書館至今也沒開放！原來這才是我被送到過去的原因！",
+      "continue" : "pagoda3"
+    },
+    "pagoda3" : {
+      "background" : "bg_shrine",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "default",
+      "text" : "我以儘可能快的速度想小霞解釋道在我生活的時代，圖書館已經開放了。",
+      "continue" : [["fakename>0", "pagoda4a"], "pagoda4b"]
+    },
+    "pagoda4a" : {
+      "background" : "bg_shrine",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "shocked",
+      "text" : "\"……閣下的故事有些難以置信啊，愛堡先生嗎，\"她聽我說完話了後回答了我，\"但是你跟我說話的方式跟其他人的不一樣，這也許能證明你的故事是真實的。\"",
+      "continue" : "pagoda5"
+    },
+    "pagoda4b" : {
+      "background" : "bg_shrine",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "shocked",
+      "text" : "\"……閣下的故事……感覺很瘋狂啊，\"她聽我說完話了後回答了我，\"但是你跟我說話的方式跟其他人的不一樣，這也許能證明你的故事是真實的。\"",
+      "continue" : "pagoda5"
+    },
+    "pagoda5" : {
+      "background" : "bg_shrine",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "annoyed",
+      "text" : "\"如果閣下真的是透過跟正常的一秒鐘每秒的速率不同的時空被送達這裡的話過來的話，閣下認為又是什麼導致了您被送到了鮫人族大圖書館呢？\"",
+      "options" : [
+        ["應該是你的儀式", "ritual1", null, ["intelligent+1"]],
+        ["空氣曲棍球的力量！", "hockey1", null, ["hockey+1"]]
+      ]
+    },
+
+    "hockey1" : {
+      "background" : "bg_shrine",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "default",
+      "text" : "\"空氣曲棍球？那是什麼東西？\"",
+      "continue" : "hockey2"
+    },
+    "hockey2" : {
+      "background" : "bg_black",
+      "text" : "...",
+      "continue" : "hockey3"
+    },
+    "hockey3" : {
+      "background" : "bg_black",
+      "text" : "看起來她並不知道 空氣曲棍球 是個什麼東西。",
+      "continue" : "hockey4"
+    },
+    "hockey4" : {
+      "background" : "bg_black",
+      "text" : "也許是這個時代根本沒有空氣曲棍球的原因吧。",
+      "continue" : "hockey5"
+    },
+    "hockey5" : {
+      "background" : "bg_black",
+      "text" : "我突然感受到了背上的壓力山大，現在的空氣也感覺非常的緊張。",
+      "continue" : "hockey6"
+    },
+    "hockey6" : {
+      "background" : "bg_shrine",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "default",
+      "text" : "\"你所說的'空氣曲棍球'，是一個經常把人送回過去的東西嗎？\"",
+      "options" : [
+        ["不一定是", "hockey7"],
+        ["我很確定不是", "hockey7"]
+      ]
+    },
+    "hockey7" : {
+      "background" : "bg_shrine",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "annoyed",
+      "text" : "\"那也許是其他的東西？\"她一邊說一邊思考著……",
+      "options" : [
+        ["是你的儀式召喚了我", "ritual1"],
+        ["不，一定是空氣曲棍球！", "hockey8", ["hockey>1"], ["hockey+1"]]
+      ]
+    },
+    "hockey8" : {
+      "background" : "bg_shrine",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "annoyed",
+      "text" : "她徹底的無視了我的話語，在思考了一小會兒後她的臉色終於明朗了起來。",
+      "options" : [
+        ["會是什麼？", "ritual1", null, ["romantic-2"]]
+      ]
+    },
+
+    "ritual1" : {
+      "background" : "bg_shrine",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "shocked",
+      "text" : "\"是儀式！\"她驚歎到。\"但是這些儀式僅僅只是傳統，並不具備神力。並且儀式還沒有完成啊。\"",
+      "continue" : [["sneak>0", "ritual2a"], "ritual2b"]
+    },
+    "ritual2a" : {
+      "background" : "bg_shrine",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "shocked",
+      "text" : "我向她詢問為什麼儀式沒有完成。",
+      "continue" : "ritual3a"
+    },
+    "ritual3a" : {
+      "background" : "bg_shrine",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "annoyed",
+      "text" : "\"當然沒有啊，別忘了我可是被閣下鬼鬼祟祟的行動打斷了的哦\"她有點不滿的說到。",
+      "continue" : "ritual4"
+    },
+    "ritual2b" : {
+      "background" : "bg_shrine",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "shocked",
+      "text" : "我向她詢問為什麼儀式沒有完成。",
+      "continue" : "ritual3b"
+    },
+    "ritual3b" : {
+      "background" : "bg_shrine",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "annoyed",
+      "text" : "\"當然沒有啊，別忘了我可是被閣下的嗚咽和求救聲打斷了的哦\"她有點不滿的說到。",
+      "continue" : "ritual4"
+    },
+    "ritual4" : {
+      "background" : "bg_shrine",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "annoyed",
+      "text" : "\"但是也許……\"她一邊說一邊專心的看著她手中的那根法杖，\"也許……完成儀式可以幫你回到你的時代？\"",
+      "options" : [
+        ["那麼我該做什麼？", "ritual5"]
+      ]
+    },
+    "ritual5" : {
+      "background" : "bg_shrine",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "default",
+      "text" : "\"首先是'禱告的敬意' - 接著是'才能的進貢'，最後才是'歌曲的進貢'。\"",
+      "options" : [
+        ["才能的進貢？那是什麼？", "ritual6"]
+      ]
+    },
+    "ritual6" : {
+      "background" : "bg_shrine",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "pleased",
+      "text" : "她羞澀的笑了，\"我是一名畫家呢。我也是必須為儀式而展現我的才藝呢！\"",
+      "options" : [
+        ["繪畫？", "art1"]
+      ]
+    },
+
+    "art1" : {
+      "background" : "bg_shrine",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "pleased",
+      "text" : "\"說的對啊！\"她突然起身，\"在這裡等我完成後回來哦，你可以評論一下我的作品是不是有價值！\"",
+      "continue" : "art2"
+    },
+    "art2" : {
+      "background" : "bg_shrine",
+      "text" : "小霞離開了海灘，到了一個裝滿了書法和毛筆的箱子附近。我在大寶塔的門口尷尬的坐著，從一個很短的距離看著她完成她的作品。",
+      "continue" : "art3"
+    },
+    "art3" : {
+      "background" : "bg_shrine",
+      "text" : "這短短的片刻我用於收集自己當前的想法。",
+      "continue" : "art4"
+    },
+    "art4" : {
+      "background" : "bg_shrine",
+      "text" : "一想到她如此的美麗動人，還是一名有才藝的藝術家？我現在肯定是在做夢吧，或者是我短暫而又精美的白日夢",
+      "continue" : [["fakename>0", "art5a"], "art5b"]
+    },
+    "art5a" : {
+      "background" : "bg_shrine",
+      "text" : "她認為我的名字是沃根·聖·愛堡……如果我們真的是命中註定，她又會怎麼看待我的真名呢？",
+      "continue" : "art6"
+    },
+    "art5b" : {
+      "background" : "bg_shrine",
+      "text" : "很難想象她是否真正喜歡我？她能跟我一起來現代生活嗎，這不會造成時空連續的裂縫？",
+      "continue" : "art6"
+    },
+    "art6" : {
+      "background" : "bg_shrine",
+      "text" : "我一直苦惱著，但是小霞已經回來了，還帶著一個卷好的卷軸。",
+      "continue" : "art7"
+    },
+    "art7" : {
+      "background" : "bg_shrine",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "pleased",
+      "text" : "\"我完成啦！\"她在我面前宣佈著。夕陽下她的笑容如同燈籠魚在海底誘人的光球一般的吸引著我。",
+      "options" : [
+        ["我能看嗎？", "art8a"],
+        ["你畫了什麼呢？", "art8b"]
+      ]
+    },
+    "art8a" : {
+      "background" : "bg_shrine",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "pleased",
+      "text" : "\"嗯！準備，一，二！\"",
+      "continue" : "art9"
+    },
+    "art8b" : {
+      "background" : "bg_shrine",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "pleased",
+      "text" : "\"你馬上就可以看到了哦，就現在哦！\"",
+      "continue" : "art9"
+    },
+    "art9" : {
+      "background" : "bg_black",
+      "text" : "她以迅雷不及掩耳之勢對我展開了卷軸。",
+      "continue" : "art10"
+    },
+    "art10" : {
+      "background" : "bg_shrine",
+      "foreground" : "drawing",
+      "foregroundFrame" : "default",
+      "text" : "...",
+      "continue" : "art11"
+    },
+    "art11" : {
+      "background" : "bg_shrine",
+      "foreground" : "drawing",
+      "foregroundFrame" : "default",
+      "text" : "......",
+      "continue" : "art12"
+    },
+    "art12" : {
+      "background" : "bg_shrine",
+      "foreground" : "drawing",
+      "foregroundFrame" : "default",
+      "text" : "\"告訴我這是什麼呢~\"她急迫的問道。",
+      "options" : [
+        ["一種犬類生物？", "art13"],
+        ["一種異形？", "art13"]
+      ]
+    },
+    "art13" : {
+      "background" : "bg_shrine",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "pleased",
+      "text" : "她發出了銀鈴一般的笑聲，\"才不是呢，笨蛋，這是鴨子哦~\"",
+      "options" : [
+        ["...", "art14"]
+      ]
+    },
+    "art14" : {
+      "background" : "bg_shrine",
+      "foreground" : "drawing",
+      "foregroundFrame" : "default",
+      "text" : "......",
+      "continue" : "art15"
+    },
+    "art15" : {
+      "background" : "bg_shrine",
+      "foreground" : "drawing",
+      "foregroundFrame" : "default",
+      "text" : "我從理論上質疑小霞是否真真正正見過一隻活著的鴨子，或者她僅僅只是從別人的耳朵裡聽到的對鴨子的描述……",
+      "continue" : "art16"
+    },
+    "art16" : {
+      "background" : "bg_shrine",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "pleased",
+      "text" : "我轉過頭，看向滿臉期待的她。\"怎麼樣？\"她激動的說到。\"你覺得我畫的如何？\"",
+      "options" : [
+        ["你在開玩笑嘛？", "art17a"],
+        ["這真是太美了！", "art17b", null, ["romantic+1"]]
+      ]
+    },
+    "art17a" : {
+      "background" : "bg_shrine",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "annoyed",
+      "text" : "\"…嗚，我覺得對藝術的鑑賞也是分年代的吧…不是嗎？\"她聽了我的回答後對我斷然到。但是我認為這副畫並不是藝術鑑賞的問題，從根本角度來說，就是一個玩笑啊。",
+      "continue" : "art18"
+    },
+    "art18" : {
+      "background" : "bg_shrine",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "annoyed",
+      "text" : "我感覺到我直白的話語可能讓她有些沮喪，她也不想在這個折磨人的話題上停留太久。",
+      "options" : [
+        ["那……下一項是'歌曲的進貢'？", "song1"]
+      ]
+    },
+    "art17b" : {
+      "background" : "bg_shrine",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "pleased",
+      "text" : "\"哎呀哎呀，謝謝你哦~\"說完她的臉上露出了孩童般燦爛的笑容。",
+      "options" : [
+        ["那麼下一項是'歌曲的進貢'？", "song1"]
+      ]
+    },
+
+    "song1" : {
+      "background" : "bg_shrine",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "default",
+      "text" : "她稍稍點了點頭。\"我倒是能想出一些可以驅除不潔之地上的詛咒的歌謠。但是我需要一些點子……\"",
+      "options" : [
+        ["我能幫忙！", "song2"]
+      ]
+    },
+    "song2" : {
+      "background" : "bg_shrine",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "default",
+      "text" : "\"聽起來很棒哦！你覺得應該是什麼樣的歌曲呢？\"",
+      "options" : [
+        ["一首有趣的歌謠！", "song3a"],
+        ["一首浪漫的歌謠！", "song3b", null, ["romantic+1"]]
+      ]
+    },
+    "song3a" : {
+      "background" : "bg_shrine",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "default",
+      "text" : "\"一首有趣的歌謠？這聽起來...還行。你希望裡面有一個怎樣的角色呢？\"",
+      "options" : [
+        ["一隻會說話的魚！", "song4a"],
+        ["一隻很傷心的熊！", "song4b"]
+      ]
+    },
+    "song4a" : {
+      "background" : "bg_shrine",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "pleased",
+      "text" : "\"一條會說話的魚？這個聽起來還真有趣。那這條魚會做些什麼呢？\"",
+      "options" : [
+        ["它會淘金！", "song5a"],
+        ["它會尖叫！", "song5b"]
+      ]
+    },
+    "song5a" : {
+      "background" : "bg_black",
+      "text" : "\"好的，我覺得我想到了些什麼…\"她緩緩地唱出：",
+      "continue" : "song6a"
+    },
+    "song6a" : {
+      "background" : "bg_black",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "pleased",
+      "text" : "\"一條會說話的魚，快樂健康的活著；究竟是什麼，讓你踏上淘金之旅啊……\"",
+       "options" : [
+        ["結束了嗎？", "finale1"]
+      ]
+    },
+    "song5b" : {
+      "background" : "bg_black",
+      "text" : "\"會尖叫？那也行。正好我的腦袋裡也有些東西……\"她慢慢的唱出：",
+      "continue" : "song6b"
+    },
+    "song6b" : {
+      "background" : "bg_black",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "pleased",
+      "text" : "\"一條怪怪的說話魚，漸漸淡出我的夢境；我們要如何，如何才能讓你停止哭泣……\"",
+       "options" : [
+        ["只有這些了嗎？", "finale1"]
+      ]
+    },
+    "song4b" : {
+      "background" : "bg_shrine",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "annoyed",
+      "text" : "\"一隻傷心的熊？嗯……那這隻熊為什麼傷心呢？\"",
+      "options" : [
+        ["它的房屋被拿去抵債了！", "song5c"],
+        ["因為它不存在！", "song5d"]
+      ]
+    },
+    "song5c" : {
+      "background" : "bg_black",
+      "text" : "\"它失去了自己的家？嗯，這也太令人難過了！我倒是想出了歌謠，不過這並不是很有趣。\"她輕輕地吟唱到：",
+      "continue" : "song6c"
+    },
+    "song6c" : {
+      "background" : "bg_black",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "pleased",
+      "text" : "\"可憐的老熊，註定要漂流；萬惡的金庫，收走了它的熊洞……\"",
+       "options" : [
+        ["結束了？", "finale1"]
+      ]
+    },
+    "song5d" : {
+      "background" : "bg_black",
+      "text" : "\"它不存在？嗯，真可憐。我的確想到了歌謠的內容，但是這可能沒有你想象的有趣……\"她緩緩地吟唱到：",
+      "continue" : "song6d"
+    },
+    "song6d" : {
+      "background" : "bg_black",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "pleased",
+      "text" : "\"可憐的老熊，註定要大凶；當你想到它，它已化成風……\"",
+       "options" : [
+        ["沒有了？", "finale1"]
+      ]
+    },
+    "song3b" : {
+      "background" : "bg_shrine",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "pleased",
+      "text" : "\"一首情歌嗎？真美妙！那你希望講些什麼呢？\"",
+      "options" : [
+        ["海星們戀愛了！", "song4c"],
+        ["為情所困的章魚！", "song4d"]
+      ]
+    },
+    "song4c" : {
+      "background" : "bg_shrine",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "pleased",
+      "text" : "\"哎呀哎呀，那還真可愛呢~它們會在哪裡相遇呢？\"",
+      "options" : [
+        ["青少年俱樂部！", "song5e"],
+        ["鄉村的舞會上！", "song5f"]
+      ]
+    },
+    "song5e" : {
+      "background" : "bg_black",
+      "text" : "\"聽起來很棒哦！我覺得我的腦內已經有歌詞了哦。\"她哼著旋律，歌詞漸漸跟隨旋律出來：",
+      "continue" : "song6e"
+    },
+    "song6e" : {
+      "background" : "bg_black",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "pleased",
+      "text" : "\"相戀的海星，相互依偎的心；相聚於俱樂部，愉快的玩耍著……\"",
+       "options" : [
+        ["結束了？", "finale1"]
+      ]
+    },
+    "song5f" : {
+      "background" : "bg_black",
+      "text" : "\"那可真是美妙！我覺得我的腦內已經浮現出歌詞了哦。\"她輕哼歌謠的旋律，歌詞漸漸在旋律中浮現：",
+      "continue" : "song6f"
+    },
+    "song6f" : {
+      "background" : "bg_black",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "pleased",
+      "text" : "\"相戀的海星，甜甜的戀愛；要如何舞蹈，要用哪隻腳~\"",
+       "options" : [
+        ["還有嗎？", "finale1"]
+      ]
+    },
+    "song4d" : {
+      "background" : "bg_shrine",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "pleased",
+      "text" : "\"啊！我馬上就能想到哦！為什麼它會為情所困呢？\"",
+      "options" : [
+        ["它愛上了一個鮫人！", "song5g"],
+        ["它不敢約會！", "song5h"]
+      ]
+    },
+    "song5g" : {
+      "background" : "bg_black",
+      "text" : "\"聽起來很傷感啊！我腦中正好有跟這個有關的歌詞……\"她的唇齒之間漸漸哼唱出美妙的旋律和歌詞：",
+      "continue" : "song6g"
+    },
+    "song6g" : {
+      "background" : "bg_black",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "pleased",
+      "text" : "\"傷心的章魚，愛情的勞累；疲憊的愛情，它並不擅長……\"",
+       "options" : [
+        ["嗯哼？", "finale1"]
+      ]
+    },
+    "song5h" : {
+      "background" : "bg_black",
+      "text" : "\"哦，可憐的章魚！我覺得這首歌應該挺適合它的……\"她的唇齒之間緩緩地流出旋律和歌詞：",
+      "continue" : "song6h"
+    },
+    "song6h" : {
+      "background" : "bg_black",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "pleased",
+      "text" : "\"孤獨的章魚，等待不是一切；再勇敢一些，和她去約會……\"",
+       "options" : [
+        ["還有嗎？", "finale1"]
+      ]
+    },
+
+    "finale1" : {
+      "background" : "bg_shrine2",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "shocked",
+      "text" : "當動人的歌謠離開她的嘴唇時，一道飄渺的光突然籠罩了這片區域。我的胃部如同被丟入太陽的洗衣機一樣的攪動著。",
+       "options" : [
+        ["發生了什麼？！", "finale2"]
+      ]
+    },
+    "finale2" : {
+      "background" : "bg_shrine2",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "shocked",
+      "text" : "\"我也不知道啊！\"她幾乎哭出聲。我感覺有一雙無形的命運的大手，在拉扯這我，催促我離開這個區域。我意識到我能呆在這裡的時間非常有限了。",
+      "continue" : "finale3"
+    },
+    "finale3" : {
+      "background" : "bg_shrine2",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "shocked",
+      "text" : "此刻的每一秒對我來說都是珍貴的，也許我不能真正讓她落入愛河，但是我一定要完成這一次嘗試！這一次美麗的嘗試！",
+       "options" : [
+        ["請別忘記我！", "finale4a", null, ["romantic+1"]],
+        ["我喜歡你！", "finale4b"]
+      ]
+    },
+    "finale4a" : {
+      "background" : "bg_shrine2",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "shocked",
+      "text" : "我無法聽見她的迴應，時間和空間再度把我和我的意識扯向一片虛無之地……",
+      "continue" : [["romantic>3", "goodEnding"], "badEnding"]
+    },
+    "finale4b" : {
+      "background" : "bg_shrine2",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "annoyed",
+      "text" : "\"啊，這麼說可能有點奇怪啊，我們都沒有深入的瞭解對方啊！\"她回覆到。我已經沒有時間去反駁她了，我只能感覺到周圍的時間和空間都在消逝……",
+      "continue" : "badEnding"
+    },
+
+    "goodEnding" : {
+      "background" : "bg_black",
+      "text" : "小霞的歌謠在我的腦袋裡迴響著，慢慢的引導著我的意識離開了黑暗，如同在黑暗中的魚兒，被引導回光明。",
+      "continue" : "goodEnding1"
+    },
+    "goodEnding1" : {
+      "background" : "bg_black",
+      "text" : "宛如穿過了千年的愛戀，但是也許僅僅只是過了幾分鐘。我回到了我最初的地方。",
+      "continue" : "goodEnding2"
+    },
+    "goodEnding2" : {
+      "background" : "bg_school",
+      "foreground" : "hockey_table",
+      "text" : "眼前的空氣曲棍球桌……剛剛所發生的…………小霞！我深感我的命運捉弄了我，把她從我身邊搶走了。",
+      "continue" : "goodEnding3"
+    },
+    "goodEnding3" : {
+      "background" : "bg_school",
+      "foreground" : "hockey_table",
+      "text" : "我開始大哭大喊大鬧，淚水模糊的視線中我看見了曲棍球桌，但是比起愛情這什麼都不是！一股怒火，我將桌子掀翻，任其狠狠地砸在地上。",
+      "continue" : "goodEnding4"
+    },
+    "goodEnding4" : {
+      "background" : "bg_school",
+      "text" : "我一邊抽泣著，一邊看著被毀壞的桌子和地面……太真實了，一點都不像做夢 - 小霞不可能只是夢境！",
+      "continue" : "goodEnding5"
+    },
+    "goodEnding5" : {
+      "background" : "bg_school",
+      "foreground" : "letter",
+      "foregroundFrame" : "1",
+      "text" : "在地磚的瓦楞之間，我看見了一封信，這封信看起來非常非常的老舊，明顯不是這個年代的產物，難到它一直都在這裡？",
+       "options" : [
+        ["開啟信封", "goodEnding6"]
+      ]
+    },
+    "goodEnding6" : {
+      "background" : "bg_school",
+      "foreground" : "letter",
+      "foregroundFrame" : "1",
+      "text" : "跪在地上，我焦急的打開了火漆印章封住的信封，小心翼翼的避免自己撕到信紙。這難道是一封來自小霞的信？她是不是在裡面陳述了她的愛慕？！",
+      "continue" : "goodEnding7"
+    },
+    "goodEnding7" : {
+      "background" : "bg_school",
+      "foreground" : "letter",
+      "foregroundFrame" : "2",
+      "text" : "漸漸開啟信封，我能感受到心臟在加速跳動。是不是小霞找到了讓我回到過去的方法，並且希望我能夠回去跟她繼續我們史詩一般的戀情嗎？",
+      "continue" : "goodEnding8"
+    },
+    "goodEnding8" : {
+      "background" : "bg_black",
+      "foreground" : "letter",
+      "foregroundFrame" : "2",
+      "text" : "懷揣著焦急的心，沒有任何等待，我趕緊翻開了信件，信件上的內容一覽無餘：",
+      "continue" : "goodEnding9"
+    },
+    "goodEnding9" : {
+      "background" : "bg_end",
+      "foreground" : "letter",
+      "foregroundFrame" : "3",
+      "text" : " "
+    },
+
+    "badEnding" : {
+      "background" : "bg_black",
+      "text" : "小霞的歌謠在我的腦袋裡迴響著，慢慢的引導著我的意識離開了黑暗，如同在黑暗中的魚兒，被引導回光明。",
+      "continue" : "badEnding1"
+    },
+    "badEnding1" : {
+      "background" : "bg_black",
+      "text" : "宛如穿過了千年的愛戀，但是也許僅僅只是過了幾分鐘。我回到了我最初的地方。",
+      "continue" : "badEnding2"
+    },
+    "badEnding2" : {
+      "background" : "bg_school",
+      "foreground" : "hockey_table",
+      "text" : "眼前的空氣曲棍球桌……剛剛所發生的…………小霞！我深感我的命運捉弄了我，把她從我身邊搶走了。",
+      "continue" : "badEnding3"
+    },
+    "badEnding3" : {
+      "background" : "bg_school",
+      "foreground" : "hockey_table",
+      "text" : "我開始大哭大喊大鬧，淚水模糊的視線中我看見了曲棍球桌，但是比起愛情這什麼都不是！一股怒火，我試圖將桌子掀翻，但是我的手臂並沒有我所期待的力氣",
+      "continue" : "badEnding4"
+    },
+    "badEnding4" : {
+      "background" : "bg_school",
+      "foreground" : "hockey_table",
+      "text" : "我可能永遠無法摧毀這個曲棍球桌。和美麗的神社巫女一起的夢想也是竹籃打水一場空……",
+      "continue" : "badEnding5"
+    },
+    "badEnding5" : {
+      "background" : "bg_black",
+      "foreground" : "hockey_table",
+      "text" : "……但是，我至少還有空氣曲棍球啊。",
+      "continue" : "badEnding6"
+    },
+    "badEnding6" : {
+      "background" : "bg_end",
+      "foreground" : "hockey_table",
+      "text" : " "
+    }
+  }
+}

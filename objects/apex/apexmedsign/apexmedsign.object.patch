@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這個標誌標示著附近有和醫藥有關的東西。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "醫療處標誌"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "猿人有全宇宙最一流的醫療技術，但他們的預期壽命卻是全宇宙最低的。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "不是所有種族裡都有治療祭司的存在嗎？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "把將死的點心吃掉應該沒沒沒關係吧？"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。一個瞭解組織生理學的好機會。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "看起來像是醫院的標誌。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "或許邊上有可以治療的地方。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這裡存放著醫療裝置。"}]

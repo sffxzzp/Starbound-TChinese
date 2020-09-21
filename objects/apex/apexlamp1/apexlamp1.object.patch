@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一盞矮小的木質檯燈。燈罩用小圓點花紋裝飾。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "標配檯燈"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一盞標準的檯燈。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "有人喜歡圓點花紋嗎？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "垃垃垃圾斑點檯燈。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "愉悅。電子人喜歡光亮。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一個老臺燈。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這盞檯燈發出昏暗的光線。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一盞檯燈。沒什麼特別的。"}]

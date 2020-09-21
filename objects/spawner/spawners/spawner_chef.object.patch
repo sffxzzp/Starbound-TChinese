@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "召喚屬於你自己的廚師！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "廚師生成器"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這個廚師能成為我的奴隸嗎？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "召喚一個廚師是很棒的。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人找到人來烤肉肉肉啦！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "疑惑。廚師擁有真正的自由嗎？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這會比葉當勞更好！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我希望這個廚師能尊重我那敏感的味覺。"}]

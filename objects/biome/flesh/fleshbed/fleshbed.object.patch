@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "血肉床"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "血肉床"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "不低於科技發展部的恐怖。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "為什麼？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族睡睡睡的很安穩並用床單當早餐。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "反思。和用金屬做的床相比並不能讓電子人感覺更糟。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "什麼鬼？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我絕對沒可能在這張床上冥想一晚。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這床有自己的脈搏。"}]

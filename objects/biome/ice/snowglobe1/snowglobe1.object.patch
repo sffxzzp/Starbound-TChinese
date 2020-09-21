@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個裡面有個雪人的水晶球。節日快樂！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "雪人水晶球"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個裡面有雪人的玻璃球。很可愛。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個雪人埋葬在裡面，凝固的瞬間。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族想踢和砸砸砸碎水晶球。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "閱讀。據我的字典翻譯，底部印著中國製造的字樣。這是什麼意思呢？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "哦，是一個水晶球。令人禁不著要搖一下它！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這讓我想起了魚缸。即使是模型雪人也不應該被關著。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "噢，看看這小雪人在那裡。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一副偉大的猿人詩人的畫作，他…看起來很眼熟。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "猿族詩人肖像"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "多年前，猿人的詩被燒燬並定為非法。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個有著絨毛脖子的猿族？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "老猴子，愚愚愚蠢的服裝。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "逗樂。這個猿人似乎是按照現在的電子人時尚打扮的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這照片看起來很眼熟…"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一個有藝術氣息的猿族，毫無疑問。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一隻打扮奇怪的穿著襞襟的猿人。"}]

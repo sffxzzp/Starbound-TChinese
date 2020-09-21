@@ -1,0 +1,13 @@
+[{"op": "replace","path": "/0/1","value": [{"name": "葛利普","typeName": "gleap"},
+{"name": "石油鬼","typeName": "petricub"},
+{"name": "彩鳥","typeName": "scaveran"},
+{"name": "吐槽蛇","typeName": "snaunt"},
+{"name": "鯊狗","typeName": "lilodon"},
+{"name": "吐舌娃","typeName": "poptop"},
+{"name": "火狐","typeName": "fennix"},
+{"name": "月海天蠶蛾","typeName": "lumoth"},
+{"name": "脈衝蛹","typeName": "monopus"},
+{"name": "袋狐蝠","typeName": "pteropod"},
+{"name": "怪","typeName": "smallbiped","parameters": {"seed": "stable"}},
+{"name": "怪","typeName": "smallquadruped","parameters": {"seed": "stable"}},
+{"name": "鳥","typeName": "smallflying","parameters": {"seed": "stable"}}]}]

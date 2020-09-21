@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一臺電視機！我認為它並沒有被使用過很長時間。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "老舊的電視機"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一臺電視機。我一直希望能看到大猿人的臉。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一臺顯示器，可以看以前的電視節目。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "熱鬧的移動圖片片片。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "讚賞。電視機是人類出口的最有價值的東西。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "沒有比靠在沙發上看週六的早間動漫更愜意的事了。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "在這種技術給人留下深刻印象的同時，出現了很多缺乏藝術價值的電視節目。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一臺好用的老電視，我很喜歡看一些探險解謎的節目。"}]

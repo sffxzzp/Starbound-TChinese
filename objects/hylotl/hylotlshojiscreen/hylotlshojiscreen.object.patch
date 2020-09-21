@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個給家境充裕的人在換衣服時遮擋用的屏風。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "傳統屏風"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個屏風。猿人是絕不會被允許有這些東西的。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這個屏風看起來微風一撫就會倒下。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人能透過屏風上的兩個洞來看過去！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "評論。你事實上可以透過整個屏風看到對面。這毫無意義啊。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "你可別別藏在這後面。人們能從外面看到你的剪影的。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "質樸、完美、美麗。這屏風一樣都不缺！"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一扇薄紙屏風。實際上我能直接看到其彼側是什麼。"}]

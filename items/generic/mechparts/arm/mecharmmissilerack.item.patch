@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "發射一群微型制導導彈。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "導彈機架機甲臂"}]

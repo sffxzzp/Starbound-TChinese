@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "滿是玩偶和玩具的玻璃櫃。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "街機廳領獎櫃檯"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "哦，不知道我能不能得到一個獨角獸玩偶？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我不介意為我自己贏一個吐舌娃絨毛玩具。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "唔，葉族人想要一個烏龜玩偶。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "積極。我想贏幾個…"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我想要那個努米玩偶…想知道它要花多少。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "噢！我全都想要！"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "並不特別喜歡毛絨玩具，不過這些挺可愛的。"}]

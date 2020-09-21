@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個畫著“沙龍”的木製標誌。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "沙龍標誌"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這個老舊的標誌牌寫著“沙龍”。它自己是這樣解釋的。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個“沙龍”？聽上去不錯！"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人沒沒沒有時間讀這這這些玩意兒。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "細心。這個標誌很有吸引力－我想它是招攬顧客用的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一個沙龍，嗯？我是要去一場酒吧打鬥，亦或僅僅是一場撲克對決？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一個粗糙的標誌，用廉價易剝落的油漆裝飾過。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這就是我正在找的精品裝飾。"}]

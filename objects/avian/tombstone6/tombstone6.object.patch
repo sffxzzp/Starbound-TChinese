@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這個墓碑屬於一名在戰鬥中隕落的祭司。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "祭司墓碑"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個褪色的墓碑。很舊了。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個標準的翼族墓碑。它們都很舊並且數量眾多。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人種下花朵來標記死者的埋葬之地。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "觀察。這個墓碑已經開始崩塌了。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一個非常古老的墓碑。上面的字大部分都看不清了。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "死者應該得到比這更多的尊重。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這個舊墓碑表明這是某人的墓地。"}]

@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "精巧的機甲腿，提供最快的地面移動速度。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "愛馬仕機甲腿"}]

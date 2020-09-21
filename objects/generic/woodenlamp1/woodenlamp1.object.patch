@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個可愛的木燈。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "木製檯燈"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一盞木製小檯燈。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "電力驅動的木製小檯燈。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "甜甜甜蜜的檯燈發發發出溫暖的光。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "滿意。簡約的檯燈。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "漂亮的小檯燈。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "迷人的檯燈。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這檯燈真可愛。"}]

@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "只是一頓普通的燒烤晚宴。沒有什麼特別的，但仍是令人滿意的。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "燒烤晚宴"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個關於站在蚌裡的金髮女人的畫。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "美麗猿人畫"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "不知為何，我覺得這不是畫的原始版本。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "為什麼這猿族站在蚌上，這是什麼？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族對畫感到焦躁不安…"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "驚嚇。我不需要看到這個。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "哇，這真可怕。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這幾乎是美麗的，但因為太可怕而失敗。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "哇，我寧願沒見過這玩意。"}]

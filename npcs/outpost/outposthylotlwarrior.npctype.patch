@@ -1,0 +1,4 @@
+[{"op": "replace","path": "/scriptConfig/dialog/converse/default/default","value": ["我們鮫人沒有被廣泛地認可為偉大的戰士，但事實上我們的戰士幾乎是最好的戰士之一。"]},
+{"op": "replace","path": "/scriptConfig/dialog/converse/hylotl/default","value": ["我們鮫人沒有被廣泛地認可為偉大的戰士，但事實上我們的戰士幾乎是最好的戰士之一。"]},
+{"op": "replace","path": "/scriptConfig/dialog/converse/hylotl/floran","value": ["我們之中的很多人鄙視你的種群，但我認為葉族的韌勁值得稱讚。"]},
+{"op": "replace","path": "/scriptConfig/dialog/converse/hylotl/hylotl","value": ["您的光臨讓我大感榮幸。"]}]

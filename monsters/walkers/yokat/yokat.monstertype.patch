@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "怪化貓"},
+{ "op" : "replace", "path" : "/description", "value" : "天生的貪婪狡詐。如果你在它潛行的時候打擾到它便會被它那邪惡的眼睛盯著。"}]

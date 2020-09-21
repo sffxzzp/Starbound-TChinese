@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一幅畫著兩個相互指著的猿人的巨集大畫作。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "巨集偉的大猿人畫"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "大猿人，猿人的救世主嗎？別逗。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "如果是克魯西斯在裡面的話這畫就更好了。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "可以捕捉的猿人！有一個有有有個可以坐在裡面的浮空腦子！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "疑惑。對猿人繪畫來說這幅宗教意味太濃了。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "有什麼東西看起來超出了這畫…我忍不住把手指放上去。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "猿人有他們自己關於知識起源的故事。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "兩隻猿人在做什麼。我不明白。"}]

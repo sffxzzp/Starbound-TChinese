@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一種用於隱形和滲透的機體，以怪異的骷髏臉做裝飾。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "夜行者機體"}]

@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "在鳥喙果過季之後用光了所有剩下的果醬做成的。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "鳥喙果餡餅"}]

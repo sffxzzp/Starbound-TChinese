@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "鯨魚皮做的海盜大衣－起碼它聞起來有鯨魚的味道。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "海盜大衣"}]

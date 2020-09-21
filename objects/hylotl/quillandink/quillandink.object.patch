@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "羽毛筆和墨水。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "羽毛筆和墨水"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一套舊式寫作方法所用的羽毛筆和墨水。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這是一跟翼族的羽毛麼？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "棍棍棍子可以做更好的筆筆筆。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "高興。一套適合電子人國王的書寫工具。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "不論怎樣我會選擇帶一支圓珠筆而不是羽毛筆。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "鮫人從很小的時候就開始練習書法。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一根某種生物的羽毛。"}]

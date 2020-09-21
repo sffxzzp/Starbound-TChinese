@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一種經典的武器設計，用毀滅性的電荷使敵人超載。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "特斯拉流機甲臂"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "裝採礦物資的舊箱子 - 專為新人礦工打造！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "礦業物資箱"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "我覺得這些工具用起來太落後了。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "裡面有一種陳舊生鏽的氣息。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人想要要要藏在舊箱子裡！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。我想知道是什麼人做了這個東西。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "嘿――吼！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這些工具都是手工製作的，我讚賞這種高水平的品質。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這個箱子裡滿是挖掘用的工具。"}]

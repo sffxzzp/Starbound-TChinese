@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "火呱太"},
+{ "op" : "replace", "path" : "/description", "value" : "它的活動強度是由大氣中的溫度水平決定的。"}]

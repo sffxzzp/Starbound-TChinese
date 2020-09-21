@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "火山蝦"},
+{ "op" : "replace", "path" : "/description", "value" : "一種儘管身體虛弱但仍然掙扎求存避免滅絕的生物。"}]

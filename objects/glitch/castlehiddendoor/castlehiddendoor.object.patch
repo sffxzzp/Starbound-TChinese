@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "這些磚塊有些不對勁。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "隱藏磚門"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "貌似某些磚塊被放錯了地方。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這些磚塊看起來不太真實。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "這些些些磚塊別的磚磚磚塊散發出特別的氣息。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。有什麼東西藏在這裡。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這些磚塊有著不太自然的光澤。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這些磚塊堆砌方式有點古怪。"},
+{ "op" : "replace", "path" : "/nokavidDescription", "value" : "這些磚塊有古怪。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一隻刺穿在狩獵長矛上的小蟲子。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "死亡執行者釘樁"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這看起來像是一隻被刺穿在鋒利的矛上的昆蟲的骸骨。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這似乎是一具穿在矛上昆蟲骸骨。連昆蟲都有骨骼了嗎？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人想想想知道狩獵這這這隻小蟲有多難。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。這似乎是被穿在矛上的某種生物的遺骸。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "有人抓住了這個生物並把它拿出來給大家看。我想知道這東西有多久了？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這個被穿在矛上的生物遺骸似乎在以一種野蠻的方式展示狩獵實力。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "毫無疑問，這些木樁上的骨頭令我我毛骨悚然。"}]

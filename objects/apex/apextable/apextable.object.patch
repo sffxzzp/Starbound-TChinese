@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個大規模製造的簡單桌子。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "標配桌子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "每個猿人都在這樣的桌子上吃晚餐。好吧…至少每個遵守條規的猿人"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這桌子是用劣質木頭做成的。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "木頭聞聞聞起來噁心。不是真的木頭。."},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "沮喪。毫無樂趣的桌子。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一張令人沮喪的桌子。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這張桌子出自被壓迫者之手"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "只是一張木桌。"}]

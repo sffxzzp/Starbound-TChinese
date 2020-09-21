@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "骨鋸的大衣。兇邪而不乏優雅。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "骨鋸大衣"}]

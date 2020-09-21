@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "榛果果"},
+{ "op" : "replace", "path" : "/description", "value" : "它經常會和其它榛果果一起組團行動，數量帶來力量和安全感。"}]

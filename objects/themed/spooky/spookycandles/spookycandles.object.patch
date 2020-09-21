@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "帶有金屬架子的燭臺像手指一樣捲曲著。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "幽靈燭臺"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "燭臺，低下的科技，是歷史上每個文明都要經歷的主題。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "嗯，我想用金色代替黑色看起來會好看些。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人不想靠靠靠得太近…"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "滿意。傳統風格的燭臺。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一個黑色的燭臺，真古怪。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這個燭臺在海底可能不能用…"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "燭臺－你沒帶油燈時是個不錯的光源。"}]

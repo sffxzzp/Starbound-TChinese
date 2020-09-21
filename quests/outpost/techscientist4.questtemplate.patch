@@ -1,0 +1,6 @@
+[{"op": "replace","path": "/title","value": "^orange;一蹴而就"},
+{"op": "replace","path": "/text","value": "我的^orange;二段跳^white;需要在推廣之前做個徹底的測試。新的測試房間已經準備好了！^green;你準備好就來找我談談吧^white;。"},
+{"op": "replace","path": "/completionText","value": "^orange;二段跳^white;完美執行！拿著，你應得的。^green;你準備好接更多工作的話就繼續來找我吧^white;。"},
+{"op": "replace","path": "/scriptConfig/descriptions/enterInstance","value": "與^orange;埃利奧特^reset;對話，並進入^orange;障礙測試房^reset;"},
+{"op": "replace","path": "/scriptConfig/descriptions/findGoal","value": "完成^orange;二段跳的測試^reset;"},
+{"op": "replace","path": "/scriptConfig/descriptions/turnIn","value": "回到^orange;前哨站^reset;，並與^orange;埃利奧特^reset;對話"}]

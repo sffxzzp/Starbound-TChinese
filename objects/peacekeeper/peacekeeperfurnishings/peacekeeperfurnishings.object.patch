@@ -1,0 +1,11 @@
+[{ "op" : "replace", "path" : "/description", "value" : "精緻的傢俱，帶有一個和平衛士的綬帶。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "和平衛士傢俱"},
+{"op": "replace","path": "/interactData/paneLayoutOverride/windowtitle/title","value": "和平衛士傢俱"},
+{"op": "replace","path": "/interactData/paneLayoutOverride/windowtitle/subtitle","value": "像和平衛士一樣裝飾！"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這隻青蛙似乎在賣和平衛士傢俱。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我想我可以給自己買一些和平衛士傢俱！"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族不明白青蛙為什麼不說話。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "印象深刻。這個水陸兩用的紳士把他的頭盔擦亮了！"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我猜\"蛙蛙傢俱\"一定是個連鎖店？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這個奇怪的人似乎在賣傢俱。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這看起來是一個很好的裝飾機會！"}]

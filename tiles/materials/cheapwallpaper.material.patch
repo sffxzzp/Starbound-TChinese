@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/description", "value" : "便宜、俗氣的桌布。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "俗氣的桌布"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "不安。這種牆紙真是難以忍受的俗氣。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人非常喜歡漂亮的牆紙紙紙。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "為什麼會有人會想用這樣子的牆紙貼滿他們的牆壁？"}]

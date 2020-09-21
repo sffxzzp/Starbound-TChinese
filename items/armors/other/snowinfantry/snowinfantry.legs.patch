@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "保溫的內襯，可以讓你不會凍傷雙腳。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "雪步兵褲子"}]

@@ -1,0 +1,2 @@
+[{"op": "replace","path": "/scriptConfig/dialog/attack/default/default","value": ["進攻！"]},
+{"op": "replace","path": "/scriptConfig/dialog/attack/human/default","value": ["你從來沒有遇到過像我這樣的強盜！","你可能曾經和強盜戰鬥過，但你沒有和我打過！","你將渾身血洞地離開！","你要在這挑戰我？你知道我是什麼人嗎？！"]}]

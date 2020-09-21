@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個老舊的木雕地球儀。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "蒸汽朋克地球儀"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一個手工雕制的地球儀，我想知道它是否真實反應了該星球的情況？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這個手工雕制的地球儀上面顯示的內容是有價值的。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人想想想要把木頭星球滾下山，把敵人壓壓壓碎。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。我想知道這個地球儀的繪製是否精確？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我想知道這個圓滑的木製地球儀所描繪的是哪個星球？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這個地球儀的雕刻技法是真功夫。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "還真有人花時間雕這玩意兒。"}]

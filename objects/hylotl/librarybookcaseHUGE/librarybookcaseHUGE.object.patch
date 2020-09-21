@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個裝滿了書的巨型書架。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "巨大的奢華書櫃"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "它的擁有人肯定得是記錄了一切東西。。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "這些書可能是關於什麼的？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "適合攀爬的書架架架。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "驚歎。這書架上有25068本書。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我甚至看不到其中任意一個的標題。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "可猜不到人能在這些書卷中尋得什麼。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "富於書卷！"}]

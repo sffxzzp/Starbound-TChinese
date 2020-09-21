@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一張歷代大守護者的肖像畫。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "大守護者肖像畫"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這位以往的大守護者看起來慈眉善目。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一位前任的大守護者，有著和藹可親的面容。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人可以在戰鬥中戰勝這個老邁的大守護者…"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "歡迎。這位大守護者看起來很好相處。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這位大守護者看起來就像會為客人準備源源不斷的牛奶和餅乾。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "這位以往的大守護者看著無比的慈祥。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "這個高齡的大守護者不會傷害任何一個小生命。"}]

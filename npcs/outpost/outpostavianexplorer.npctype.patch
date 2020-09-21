@@ -1,0 +1,3 @@
+[{"op": "replace","path": "/scriptConfig/dialog/converse/default/default","value": ["我明白了生活中有比飛翔更加重要的東西。那就是有整片星空正等著我們去探索！"]},
+{"op": "replace","path": "/scriptConfig/dialog/converse/avian/default","value": ["我明白了生活中有比飛翔更加重要的東西。那就是有整片星空正等著我們去探索！"]},
+{"op": "replace","path": "/scriptConfig/dialog/converse/avian/avian","value": ["又一位翼族開拓者！生活在群星之間難道不令人激動嗎！"]}]

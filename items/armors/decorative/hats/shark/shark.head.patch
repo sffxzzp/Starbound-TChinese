@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "它在一個颳風的日子從空中墜落。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "鯊魚帽"}]

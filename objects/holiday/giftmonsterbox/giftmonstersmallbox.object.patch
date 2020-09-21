@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一個上面有蝴蝶結的節日粉紅色包裝盒。這東西有點奇怪。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "不尋常的小禮包"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這是一個小禮盒。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一個漂亮的紅色禮品盒。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "盒子！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。裡面有什麼？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "禮品盒。它一直在動！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "無可挑剔的包裝盒。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一個美麗的小禮物…這玩意在動。"}]

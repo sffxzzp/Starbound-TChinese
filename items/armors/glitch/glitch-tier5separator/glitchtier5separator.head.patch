@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "以騎士精神為尚，守護純淨心靈的頭盔。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "聖騎士頭盔"}]
