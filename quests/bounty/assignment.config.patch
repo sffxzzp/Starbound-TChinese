@@ -9,4 +9,4 @@
 {"op": "replace","path": "/tutorialAssignment/gang/name","value": "喧囂和平擾亂者"},
 {"op": "replace","path": "/bountyTypes/occasusCommander/questConfig/target/name","value": "阿斯拉·諾克斯"},
 {"op": "replace","path": "/bountyTypes/occasusCommander/questConfig/target/monster/parameters/shortdescription","value": "阿斯拉·諾克斯"},
-{"op": "replace","path": "/bountyTypes/tutorialCapstone/questConfig/target/name","value": "黑諾布林隊長"}]
+{"op": "replace","path": "/bountyTypes/tutorialCapstone/questConfig/target/name","value": "黑諾布爾隊長"}]

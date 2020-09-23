@@ -1,2 +1,2 @@
-[{ "op" : "replace", "path" : "/shortdescription", "value" : "岩漿盧敦"},
-{ "op" : "replace", "path" : "/description", "value" : "一種近乎傳奇的魚，據說岩漿為之帶來生命力。想要抓住它會是一次卓絕的挑戰"}]
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "巖漿盧敦"},
+{ "op" : "replace", "path" : "/description", "value" : "一種近乎傳奇的魚，據說巖漿為之帶來生命力。想要抓住它會是一次卓絕的挑戰"}]

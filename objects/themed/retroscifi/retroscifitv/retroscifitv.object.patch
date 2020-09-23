@@ -2,7 +2,7 @@
 { "op" : "replace", "path" : "/shortdescription", "value" : "復古電視"},
 { "op" : "replace", "path" : "/apexDescription", "value" : "這電視看起來很有未來感，不過當我還是小孩子時便有過一臺這樣的電視了。"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "我從沒真心想擁有一臺電視機，直到現在。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "嘈嘈嘈雜的影象裝在了一個花俏盒子裡。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "嘈嘈嘈雜的影像裝在了一個花俏盒子裡。"},
 { "op" : "replace", "path" : "/glitchDescription", "value" : "有趣。我喜歡這項科技的外觀。"},
 { "op" : "replace", "path" : "/humanDescription", "value" : "終於讓我找到了，一臺看上去和它的播放的內容同等過時的電視機。"},
 { "op" : "replace", "path" : "/hylotlDescription", "value" : "這個裝置全身都透露著滑稽可笑。遠遠不如一本好書來得有趣。"},

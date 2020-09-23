@@ -15,6 +15,6 @@
 {"op": "replace","path": "/scriptConfig/generatedText/completionText/next/default","value": ["<target>收下了賄賂？太棒了！這對我的計劃將大有裨益！","哇哦，賄賂好簡單。<target>欠我的情將來會有用的。"]},
 {"op": "replace","path": "/scriptConfig/generatedText/completionText/default/floran","value": ["你成功了！<target>現在欠了我們一個大大大大的人情！","成成成功啦！<target>現在欠欠欠了葉族人這個友善的鄰居一個大人情。葉族人肯定會好好好好地利用這個人情的！"]},
 {"op": "replace","path": "/scriptConfig/generatedText/completionText/default/glitch","value": ["振奮。<target>收下了<gift>？真是太棒了！現在需要幫忙的時候我就可以找欠我人情的人幫忙啦。真不敢相信你居然覺得這也叫賄賂！","釋懷。所以<target.pronoun.subject>就這樣把<gift>收下了？沒問什麼問題？我還以為拉攏<target>是件多難的事情呢。"]},
-{"op": "replace","path": "/scriptConfig/generatedText/completionText/default/default","value": ["我的計劃成功了！賄賂果然不難。現在無論何時我需要<target>幫忙時我都可以差遣<target.pronoun.object>了。謝謝你的幫助！","現在<target>欠了我一個人情！事情進展的比我想象的要容易。謝謝你幫我完成了我天才的計劃！"]},
+{"op": "replace","path": "/scriptConfig/generatedText/completionText/default/default","value": ["我的計劃成功了！賄賂果然不難。現在無論何時我需要<target>幫忙時我都可以差遣<target.pronoun.object>了。謝謝你的幫助！","現在<target>欠了我一個人情！事情進展的比我想像的要容易。謝謝你幫我完成了我天才的計劃！"]},
 {"op": "replace","path": "/scriptConfig/objectives/0/text","value": "將<gift>交給<target>"},
 {"op": "replace","path": "/scriptConfig/addToHouseObjective/text","value": "將<gift>放在<target>的家裡"}]

@@ -3,7 +3,7 @@
 { "op" : "replace", "path" : "/apexDescription", "value" : "一個適合用來研究的桌子。"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "這個桌子看起來幾乎沒被用過。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "無骨骨骨的桌子幫助葉族集中精神神神。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "乏味。沒人能想象城堡中有這樣一個桌子。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "乏味。沒人能想像城堡中有這樣一個桌子。"},
 { "op" : "replace", "path" : "/humanDescription", "value" : "我爺爺以前也有這樣一個桌子。"},
 { "op" : "replace", "path" : "/hylotlDescription", "value" : "觀賞性與實用性的良好平衡。"},
 { "op" : "replace", "path" : "/novakidDescription", "value" : "奇異的桌子。"}]

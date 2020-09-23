@@ -2,7 +2,7 @@
 { "op" : "replace", "path" : "/shortdescription", "value" : "眼球箱子"},
 { "op" : "replace", "path" : "/apexDescription", "value" : "這箱子讓我不敢看裡面是啥。"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "這眼睛可能是用來威脅竊賊用的。至少對我來說是這樣。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人踢踢踢箱子的眼，然後打開了。偷偷偷。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葉族人踢踢踢箱子的眼，然後開啟了。偷偷偷。"},
 { "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。這眼睛實際是一極度複雜的鎖。還好它是壞的。"},
 { "op" : "replace", "path" : "/humanDescription", "value" : "眼睛好像在看著我偷東西，對不起了兄弟。"},
 { "op" : "replace", "path" : "/hylotlDescription", "value" : "一個原始的阻嚇小偷的手段。那些迷信的人不會去看裡面有啥的。"},

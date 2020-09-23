@@ -5,5 +5,5 @@
 { "op" : "replace", "path" : "/floranDescription", "value" : "螢幕顯示示示鮮肉人人人。葉族想想想如果人人人被困在裡裡裡面會怎麼樣。"},
 { "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。這似乎是一個全身醫療掃描。我不知道他們有什麼問題？"},
 { "op" : "replace", "path" : "/humanDescription", "value" : "數字醫療掃描！這都是藍色的，因為藍色是科學技術的預設色。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "醫學掃描—根據影象判斷，它不是鮫人。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "醫學掃描—根據影像判斷，它不是鮫人。"},
 { "op" : "replace", "path" : "/novakidDescription", "value" : "我不知道這些資訊是用來幹什麼的？"}]

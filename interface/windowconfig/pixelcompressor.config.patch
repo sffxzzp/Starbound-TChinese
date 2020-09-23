@@ -1,5 +1,5 @@
 [{"op": "replace","path": "/paneLayout/windowtitle/title","value": "畫素壓縮機"},
-{"op": "replace","path": "/paneLayout/windowtitle/subtitle","value": "^#b9b5b2;壓縮並存儲你的畫素"},
+{"op": "replace","path": "/paneLayout/windowtitle/subtitle","value": "^#b9b5b2;壓縮並儲存你的畫素"},
 {"op": "replace","path": "/paneLayout/lblSchematics/value","value": "^#b9b5b2;藍圖"},
 {"op": "replace","path": "/paneLayout/lblProducttitle/value","value": "^#b9b5b2;生產"},
 {"op": "replace","path": "/paneLayout/btnCraft/caption","value": "製作"},

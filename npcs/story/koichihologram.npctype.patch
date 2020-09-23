@@ -4,5 +4,5 @@
 {"op": "replace","path": "/scriptConfig/dialog/koichihologram/3/default/default","value": ["我很抱歉你得在黑暗中蹣跚而行。這房間附近有一個斷電器…"]},
 {"op": "replace","path": "/scriptConfig/dialog/koichihologram/4/default/default","value": ["我知道這間圖書館已經失修了，但是這兒難道不奇妙嗎？這麼多的資源啊！","上千年以來的文獻，藝術和文章。","你知道這些文章是早在我們被葉族人部落差點滅族之前就存在的嗎？"]},
 {"op": "replace","path": "/scriptConfig/dialog/koichihologram/5/default/default","value": ["圖書館的動作感測器在你的下方捕捉到了運動訊號…","下去的時候請多加小心，這些人可都是些暴徒！"]},
-{"op": "replace","path": "/scriptConfig/dialog/koichihologram/6/default/default","value": ["前面的房間被淹沒了…我只能游過去——我想你也得做同樣的事。"]},
+{"op": "replace","path": "/scriptConfig/dialog/koichihologram/6/default/default","value": ["前面的房間被淹沒了…我只能遊過去——我想你也得做同樣的事。"]},
 {"op": "replace","path": "/scriptConfig/dialog/koichihologram/7/default/default","value": ["我恐怕這是最後一個全息顯示儀了。多加小心，希望能很快見到你！"]}]

@@ -4,6 +4,6 @@
 { "op" : "replace", "path" : "/avianDescription", "value" : "這壺不值錢又到處可見。我應該砸碎它。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "易碎的壺，很容容容易打打打碎。"},
 { "op" : "replace", "path" : "/glitchDescription", "value" : "暴力。砸碎它，讓它歸於塵土。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "這壺快碎了。我可能也會去加快這一程序。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "這壺快碎了。我可能也會去加快這一程式。"},
 { "op" : "replace", "path" : "/hylotlDescription", "value" : "這壺的裝飾很粗糙，而且快要碎了。"},
 { "op" : "replace", "path" : "/novakidDescription", "value" : "一個陳舊又無用的壺。我很確定如果我們砸碎它是不會有人為此傷心。"}]

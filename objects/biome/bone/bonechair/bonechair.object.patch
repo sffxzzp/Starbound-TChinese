@@ -1,6 +1,6 @@
 [{ "op" : "replace", "path" : "/description", "value" : "一張骨寶座。滿足所有王室骷髏的需要。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "骨椅"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "我想象一個暴虐的霸主坐在這裡。也許大猿人很喜歡。"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "我想像一個暴虐的霸主坐在這裡。也許大猿人很喜歡。"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "我希望在翼族聖廟裡看到這個。一個非常陰森的翼族聖廟。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "葉族人喜歡骨椅椅椅子。葉族坐坐坐下，想著美味的骨頭。"},
 { "op" : "replace", "path" : "/glitchDescription", "value" : "反思。這些骨頭來自已經死了很久的生物。什麼可能已經滅絕了。"},

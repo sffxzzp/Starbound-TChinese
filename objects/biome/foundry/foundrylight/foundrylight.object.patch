@@ -1,9 +1,9 @@
-[{ "op" : "replace", "path" : "/description", "value" : "這個釜內的岩漿熱得發出明亮的光。"},
+[{ "op" : "replace", "path" : "/description", "value" : "這個釜內的巖漿熱得發出明亮的光。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "鑄造燈"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "這些岩漿發出明亮的光，並且透過固定裝置迴圈。"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "這些巖漿發出明亮的光，並且透過固定裝置迴圈。"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "哦，我想這算是個自然光源。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "燃燒的岩漿發發發亮光。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "困惑。製造這個岩漿泉的目的是什麼？"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "能發出如此耀眼的光的岩漿肯定非常燙。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "岩漿是偉大的自然力量的一種形式。通常很難這麼近的觀察它。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "千萬當心，那些岩漿會燙爛我的靴子。"}]
+{ "op" : "replace", "path" : "/floranDescription", "value" : "燃燒的巖漿發發發亮光。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "困惑。製造這個巖漿泉的目的是什麼？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "能發出如此耀眼的光的巖漿肯定非常燙。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "巖漿是偉大的自然力量的一種形式。通常很難這麼近的觀察它。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "千萬當心，那些巖漿會燙爛我的靴子。"}]

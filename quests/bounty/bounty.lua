@@ -62,13 +62,13 @@ function init()
     default = {
       messageId = "bounty_message",
       unique = false,
-      senderName = "諾布林隊長",
+      senderName = "諾布爾隊長",
       portraitImage = "/interface/chatbubbles/captain.png:<frame>"
     },
     angry = {
       messageId = "bounty_message",
       unique = false,
-      senderName = "諾布林隊長",
+      senderName = "諾布爾隊長",
       portraitImage = "/interface/chatbubbles/captainrage.png:<frame>"
     }
   }

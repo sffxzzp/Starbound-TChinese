@@ -1,5 +1,5 @@
 [{"op": "replace","path": "/title","value": "內容頁"},
-{"op": "replace","path": "/description","value": "科技發展部重要文件中被撕裂的一頁。"},
+{"op": "replace","path": "/description","value": "科技發展部重要檔案中被撕裂的一頁。"},
 {"op": "replace","path": "/contentPages","value": [
 "預算分配提案
 

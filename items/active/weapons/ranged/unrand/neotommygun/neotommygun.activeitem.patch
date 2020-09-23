@@ -1,2 +1,2 @@
-[{ "op" : "replace", "path" : "/description", "value" : "舊式黑幫經典的現代想象復原版。"},
+[{ "op" : "replace", "path" : "/description", "value" : "舊式黑幫經典的現代想像復原版。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "NEO湯姆遜衝鋒槍"}]

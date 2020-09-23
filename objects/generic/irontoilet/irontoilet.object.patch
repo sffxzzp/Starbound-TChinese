@@ -1,7 +1,7 @@
 [{ "op" : "replace", "path" : "/description", "value" : "鑄劍而成的馬桶。真危險。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "刀鋒馬桶"},
 { "op" : "replace", "path" : "/apexDescription", "value" : "這還不是我見過的最吸引人的馬桶。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "我真是想象不到這樣的東西會變流行。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我真是想像不到這樣的東西會變流行。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "尖尖尖銳的大腦碗。葉族人竊取這樣的創意來做自己的大腦碗。"},
 { "op" : "replace", "path" : "/glitchDescription", "value" : "迷惑。這個馬桶只對電子人來說是安全的，但是我們又不需要它。"},
 { "op" : "replace", "path" : "/humanDescription", "value" : "鑄劍而成的馬桶。我會連著幾個星期做噩夢的。"},

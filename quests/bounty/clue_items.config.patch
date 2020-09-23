@@ -82,7 +82,7 @@
 {"op": "replace","path": "/audiodisc/decoy/5/message","value": "他為什麼要告訴我們他在哪兒？就為了炫耀？你應該返回先前的地點找出這個騙子，搭檔！"},
 {"op": "replace","path": "/audiodisc/decoy/6/parameters/radioMessages","value": ["嘿，和平衛士！這裡是<bounty.name>—你還記得你先前遇到的好心市民嗎？", "那就是我啊！那一直就是我啊，和平衛士！"]},
 {"op": "replace","path": "/audiodisc/decoy/6/message","value": "啊，這燈芯魚養的雜種！我想你應該趕快返回先前的地點！"},
-{"op": "replace","path": "/papernote/tutorial/0/parameters/noteText","value": "\n\n您好，和平衛士，\n\n很遺憾地通知你，我，^green;黑諾布林隊長^reset;，已經不在這裡的特定居所居住了。\n\n我在<next.coordinate.preposition> <next.coordinate.name>的另外某處搭建了營地。\n\n有能耐就來找我吧！"},
+{"op": "replace","path": "/papernote/tutorial/0/parameters/noteText","value": "\n\n您好，和平衛士，\n\n很遺憾地通知你，我，^green;黑諾布爾隊長^reset;，已經不在這裡的特定居所居住了。\n\n我在<next.coordinate.preposition> <next.coordinate.name>的另外某處搭建了營地。\n\n有能耐就來找我吧！"},
 {"op": "replace","path": "/papernote/diversion/0/parameters/noteText","value": "僕人，\n\n貨物現在位於<next.coordinate.preposition> <next.coordinate.name>。\n確保你別被人跟蹤了。\n\n此致，\n<bounty.name>"},
 {"op": "replace","path": "/papernote/diversion/0/message","value": "永遠跟著書面記錄尋找線索，搭檔！看起來這回你下一站要去<next.coordinate.name>。"},
 {"op": "replace","path": "/papernote/diversion/1/parameters/noteText","value": "<bounty.name>要做的事項清單\n\nª 買牛奶\n\nª 報稅\n\nª 搬到<next.coordinate.name>\n\nª 擦靴子"},

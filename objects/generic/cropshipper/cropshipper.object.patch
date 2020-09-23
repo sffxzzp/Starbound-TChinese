@@ -6,4 +6,4 @@
 { "op" : "replace", "path" : "/glitchDescription", "value" : "興奮。太空貨運系統！我可以把產品發射上太空送到泰拉市場！"},
 { "op" : "replace", "path" : "/humanDescription", "value" : "我可以用這個把貨物炸上太空！如果貨物合適，我還能得到報酬！"},
 { "op" : "replace", "path" : "/hylotlDescription", "value" : "這個設施可以將箱子發射上太空。這賣貨物的方法有點像小說裡寫的那樣…"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "煙花應該比不上這種能被髮射上太空的產品貨運箱。"}]
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "煙火應該比不上這種能被髮射上太空的產品貨運箱。"}]

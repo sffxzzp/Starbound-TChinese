@@ -5,5 +5,5 @@
 { "op" : "replace", "path" : "/floranDescription", "value" : "鳥人著著著火了。"},
 { "op" : "replace", "path" : "/glitchDescription", "value" : "驚訝。翼族人的信仰並不比電子人的信仰更可笑。"},
 { "op" : "replace", "path" : "/humanDescription", "value" : "太陽對於翼族人來說有特殊的意義嗎？"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "你能想象從來都見不到日出的景象嗎？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "你能想像從來都見不到日出的景象嗎？"},
 { "op" : "replace", "path" : "/novakidDescription", "value" : "一張長著翼族人的臉的太陽。它意味著什麼？"}]

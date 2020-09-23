@@ -1,6 +1,6 @@
 [{ "op" : "replace", "path" : "/description", "value" : "我唯一能辨認出的單詞就是“xOliver137”了。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "xOliver137的雕像"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "那裡有比市民雕像更多數量計程車兵雕像。"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "那裡有比市民雕像更多數量的士兵雕像。"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "一個固執的想法就像一根雕像裡的鐵棍，牢牢地釘死在裡面並支撐著一切。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "葉族人覺覺覺既然得他被刻成雕像那肯定是做了什麼很重要的事。"},
 { "op" : "replace", "path" : "/glitchDescription", "value" : "細心。這個銘牌褪色了。我只能辨認出“xOliver137”這個詞。"},

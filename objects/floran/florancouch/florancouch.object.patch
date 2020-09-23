@@ -5,5 +5,5 @@
 { "op" : "replace", "path" : "/floranDescription", "value" : "葉族人要捕殺大量獵物來製作骨頭沙發。其他葉族人坐坐坐在沙發上。讚美葉族人的殺戮。"},
 { "op" : "replace", "path" : "/glitchDescription", "value" : "厭惡。皮革上面還粘著血。"},
 { "op" : "replace", "path" : "/humanDescription", "value" : "這個沙發看上去應該屬於一個特別嗜血的葉族人。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "想象葉族人坐在活生生的生物骨頭上讓我感到十分噁心。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "我只是無法想象會有人可以在這麼尖銳的沙發上休息。"}]
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "想像葉族人坐在活生生的生物骨頭上讓我感到十分噁心。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我只是無法想像會有人可以在這麼尖銳的沙發上休息。"}]

@@ -1,7 +1,7 @@
 [{ "op" : "replace", "path" : "/description", "value" : "一張書桌，可能屬於葉族人部落中的綠手指們。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "原始書桌"},
 { "op" : "replace", "path" : "/apexDescription", "value" : "一張葉族人的書桌。葉族人幹什麼工作才會用到書桌？"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "我至今從來沒想象過葉族人會在書桌上工作。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我至今從來沒想像過葉族人會在書桌上工作。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "葉族人在書書書桌上計劃下一次的打獵。書桌裡沒有骨頭。葉族人不不不能分心。"},
 { "op" : "replace", "path" : "/glitchDescription", "value" : "冷漠。一張普通的木製書桌。"},
 { "op" : "replace", "path" : "/humanDescription", "value" : "這張書桌好像沒有用任何骨頭來製作，在葉族人的傢俱中真夠稀奇的。"},

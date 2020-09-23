@@ -1,4 +1,4 @@
-[{"op": "replace","path": "/paneLayout/title/value","value": "影象"},
+[{"op": "replace","path": "/paneLayout/title/value","value": "影像"},
 {"op": "replace","path": "/paneLayout/accept/caption","value": "應用"},
 {"op": "replace","path": "/paneLayout/cancel/caption","value": "返回"},
 {"op": "replace","path": "/paneLayout/fullscreenLabel/value","value": "全屏"},

@@ -1,2 +1,2 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一頓豐盛的、濃郁的瓦特果燉蔬菜。"},
+[{ "op" : "replace", "path" : "/description", "value" : "一頓豐盛的、濃鬱的瓦特果燉蔬菜。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "燉瓦特果"}]

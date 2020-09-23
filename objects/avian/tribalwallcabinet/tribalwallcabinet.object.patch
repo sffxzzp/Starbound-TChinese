@@ -2,7 +2,7 @@
 { "op" : "replace", "path" : "/shortdescription", "value" : "雕刻壁櫥"},
 { "op" : "replace", "path" : "/apexDescription", "value" : "一個裝在牆上的櫃子。節省空間！"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "很多折翼者的家都非常小。儲物櫃經常被裝在牆上。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "位於牆上的存存儲存裝置。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "位於牆上的存存存儲裝置。"},
 { "op" : "replace", "path" : "/glitchDescription", "value" : "客觀說明。一個節省空間的儲存單元。"},
 { "op" : "replace", "path" : "/humanDescription", "value" : "一個壁櫥。"},
 { "op" : "replace", "path" : "/hylotlDescription", "value" : "我想知道里面有什麼。"},

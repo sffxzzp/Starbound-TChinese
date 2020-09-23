@@ -2,7 +2,7 @@
 { "op" : "replace", "path" : "/shortdescription", "value" : "鮫人女性的研究"},
 { "op" : "replace", "path" : "/apexDescription", "value" : "見到不是大猿人的藝術作品真好。"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "這幅鮫人像如果畫的是翼族人就更好了。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "影象不能刺刺刺。葉族人覺得這這這真真真無聊。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "影像不能刺刺刺。葉族人覺得這這這真真真無聊。"},
 { "op" : "replace", "path" : "/glitchDescription", "value" : "賞析。這幅鮫人女性的畫像畫得非常細緻。"},
 { "op" : "replace", "path" : "/humanDescription", "value" : "我不確定看到這幅畫時我的感受到底是什麼…"},
 { "op" : "replace", "path" : "/hylotlDescription", "value" : "這是幅多麼美麗迷人的畫。它捕獲了多少感情。"},

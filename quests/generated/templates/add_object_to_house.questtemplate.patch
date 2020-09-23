@@ -8,5 +8,5 @@
 {"op": "replace","path": "/scriptConfig/generatedText/text/default/default","value": ["行，我覺得這個^orange;<object>^white;正是我家裡所需要的。^green;你能在我家找個地方把它擺上嗎？","我覺得這個^orange;<object>^white;可以滿足我的需求。剩下就是^green;找個好地方把它擺上了。"]},
 {"op": "replace","path": "/scriptConfig/generatedText/completionText/default/floran","value": ["葉族人非非非常開心！葉族人的新<object>看起來棒棒噠！","這個<object>讓葉族人的家高大上了幾倍！謝謝謝謝你的幫助！"]},
 {"op": "replace","path": "/scriptConfig/generatedText/completionText/default/glitch","value": ["大喜。那個<object>給我家增色不少，不是嗎？謝謝你的幫助！","愉快。我覺得添置一個<object>正是我家裡所需要的。謝謝你的幫助！"]},
-{"op": "replace","path": "/scriptConfig/generatedText/completionText/default/default","value": ["就是這樣！擺在那裡堪稱完美！謝謝你的幫助！","好多了！和我想象的完全一樣！感激不盡，不要見外，你隨時都可以路過停下來欣賞你的傑作！"]},
+{"op": "replace","path": "/scriptConfig/generatedText/completionText/default/default","value": ["就是這樣！擺在那裡堪稱完美！謝謝你的幫助！","好多了！和我想像的完全一樣！感激不盡，不要見外，你隨時都可以路過停下來欣賞你的傑作！"]},
 {"op": "replace","path": "/scriptConfig/objectives/0/text","value": "將<object>新增到<questGiver>的房子裡"}]

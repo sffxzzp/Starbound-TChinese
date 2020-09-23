@@ -1,6 +1,6 @@
 function noblePortrait()
     local drawables = root.npcPortrait("full", "novakid", "captainnoble", 1, 1, {})
-    local name = "諾布林隊長"
+    local name = "諾布爾隊長"
     return drawables, name
 end
 

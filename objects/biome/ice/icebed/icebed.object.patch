@@ -1,7 +1,7 @@
 [{ "op" : "replace", "path" : "/description", "value" : "一張用冰做成的床，在夏天的時候它會變成水床。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "寒冰床"},
 { "op" : "replace", "path" : "/apexDescription", "value" : "猿人睡覺的時候會發熱。對於這個床來說會有災難發生。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "我很難想象這張床會很舒適。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我很難想像這張床會很舒適。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "葉族舔床。床很冷。 葉族頭部受傷。"},
 { "op" : "replace", "path" : "/glitchDescription", "value" : "矛盾。這個硬床對於電子人很完美，但是如果他融化了呢？"},
 { "op" : "replace", "path" : "/humanDescription", "value" : "這張床看起來會給你冷淡的待遇。哈哈…哈…"},

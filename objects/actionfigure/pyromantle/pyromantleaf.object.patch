@@ -1,2 +1,2 @@
-[{ "op" : "replace", "path" : "/description", "value" : "標籤上寫著，\"它熾熱的核心能產生穩定的岩漿流。然後射出一記重擊。\""},
+[{ "op" : "replace", "path" : "/description", "value" : "標籤上寫著，\"它熾熱的核心能產生穩定的巖漿流。然後射出一記重擊。\""},
 { "op" : "replace", "path" : "/shortdescription", "value" : "火焰斗篷手辦"}]

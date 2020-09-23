@@ -5,5 +5,5 @@
 { "op" : "replace", "path" : "/floranDescription", "value" : "葉族人想想想靠著放鬆。"},
 { "op" : "replace", "path" : "/glitchDescription", "value" : "舒暢。這把椅子看起來能消融我的一切憂愁。"},
 { "op" : "replace", "path" : "/humanDescription", "value" : "這椅子看起來很適合仰靠著放鬆休息。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我能想象到這張椅子讓任何坐在上面的人都感到寧靜。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我能想像到這張椅子讓任何坐在上面的人都感到寧靜。"},
 { "op" : "replace", "path" : "/novakidDescription", "value" : "這椅子看起來很適合讓我翹著靴子唱歌。"}]

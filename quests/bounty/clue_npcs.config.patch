@@ -1,4 +1,4 @@
-[{"op": "replace","path": "/tutorial/clues/tutorial/dialog/interrogateStart/default/default","value": ["別以為你能逮捕^orange;黑諾布林隊長^reset;，搭…啊不，勁敵！"]},
+[{"op": "replace","path": "/tutorial/clues/tutorial/dialog/interrogateStart/default/default","value": ["別以為你能逮捕^orange;黑諾布爾隊長^reset;，搭…啊不，勁敵！"]},
 {"op": "replace","path": "/tutorial/clues/tutorial/dialog/interrogateEnd/default/default","value": ["噢喔，我最好開溜！想都別想追到^orange;real hideout^reset;來，和平衛士！"]},
 {"op": "replace","path": "/cultist1/clues/cultistClue1/dialog/interrogateStart/default/default","value": ["你不走運，和平衛士—我永遠不會洩露諾克斯的位置！"]},
 {"op": "replace","path": "/cultist1/clues/cultistClue1/dialog/interrogateEnd/default/default","value": ["好吧，我其實不知道^orange;諾克斯^reset;在哪兒…但我在<next.coordinate.preposition> <next.coordinate.name>的同事知道！"]},

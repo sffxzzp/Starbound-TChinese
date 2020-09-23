@@ -16,5 +16,5 @@
 {"op": "replace", "path": "/paneLayout/backButton/caption", "value": "返回"},
 {"op": "replace", "path": "/paneLayout/acceptButton/caption", "value": "接受"},
 {"op": "replace", "path": "/paneLayout/showKeybindings/caption", "value": "控制"},
-{"op": "replace", "path": "/paneLayout/showGraphics/caption", "value": "影象"},
+{"op": "replace", "path": "/paneLayout/showGraphics/caption", "value": "影像"},
 {"op": "replace", "path": "/paneLayout/musicSlider/position/1", "value": 126}]

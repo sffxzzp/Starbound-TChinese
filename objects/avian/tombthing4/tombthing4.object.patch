@@ -4,6 +4,6 @@
 { "op" : "replace", "path" : "/avianDescription", "value" : "一個為那些買得起木乃伊石棺、但選擇放棄被製成木乃伊儲存起來的人所準備的棺材。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "鳥人把棺材裝飾得像鳥人一樣。"},
 { "op" : "replace", "path" : "/glitchDescription", "value" : "觀察。這個棺材的雕刻手法很熟練。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "你能想象這個棺材蓋子從內側看是怎麼樣的嗎？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "你能想像這個棺材蓋子從內側看是怎麼樣的嗎？"},
 { "op" : "replace", "path" : "/hylotlDescription", "value" : "體面的遺體。"},
 { "op" : "replace", "path" : "/novakidDescription", "value" : "這是個奢華的安息之地。"}]

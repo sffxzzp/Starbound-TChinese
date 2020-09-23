@@ -1,2 +1,2 @@
 [{"op": "replace","path": "/scriptConfig/dialog/attack/default/default","value": ["進攻！"]},
-{"op": "replace","path": "/scriptConfig/dialog/attack/human/default","value": ["我已經幹了很多年了，你毫無機會！","別擋我道，否則你會後悔的！","我的本領遠遠超過你！","我的本領遠超你想象！你真不走運！","你想和我槍戰？如你所願！"]}]
+{"op": "replace","path": "/scriptConfig/dialog/attack/human/default","value": ["我已經幹了很多年了，你毫無機會！","別擋我道，否則你會後悔的！","我的本領遠遠超過你！","我的本領遠超你想像！你真不走運！","你想和我槍戰？如你所願！"]}]

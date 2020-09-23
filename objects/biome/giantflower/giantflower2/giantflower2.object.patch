@@ -4,6 +4,6 @@
 { "op" : "replace", "path" : "/avianDescription", "value" : "一朵巨大的花。漂亮。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "花好好好大，葉族可以在上面跳舞。"},
 { "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。這朵花的DNA在近年有所突變，所以才有如此大的樣子。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "想象一下一個人站在門後手裡拿著這朵花，多麼有趣！"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "想像一下一個人站在門後手裡拿著這朵花，多麼有趣！"},
 { "op" : "replace", "path" : "/hylotlDescription", "value" : "一朵巨大美麗的花。"},
 { "op" : "replace", "path" : "/novakidDescription", "value" : "這一定是我見過的花中最大的。"}]

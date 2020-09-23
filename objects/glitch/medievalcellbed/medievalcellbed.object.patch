@@ -3,7 +3,7 @@
 { "op" : "replace", "path" : "/apexDescription", "value" : "一張看起來很不舒服的床，上面除了用於保暖的乾草之外沒有別的東西。"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "像個鳥巢一樣雜亂不堪。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "床好硬，葉族人背背背疼。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "關注。我無法想象任何人能在這上面睡個好覺。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "一張乾草床。我無法想象夜復一夜睡在這張床上的日子。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "關注。我無法想像任何人能在這上面睡個好覺。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一張乾草床。我無法想像夜復一夜睡在這張床上的日子。"},
 { "op" : "replace", "path" : "/hylotlDescription", "value" : "一張用硬木頭與乾草拼湊成的不舒服的床。"},
 { "op" : "replace", "path" : "/novakidDescription", "value" : "睡在這張床上可以說是某種形式的懲罰了。"}]

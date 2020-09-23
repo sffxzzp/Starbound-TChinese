@@ -1,5 +1,5 @@
 [{"op": "replace","path": "/npcname","value": "圖南瓦克"},
-{"op": "replace","path": "/scriptConfig/dialog/tonauac/start/default/default","value": ["哦！…一位遊客！","歡迎光臨神殿！很高興你能來到這裡。我是^orange;圖南瓦克^white;，神殿的守護者。","你是到這裡來了解我們不可思議的神明克魯西斯的嗎？我很高興能幫上忙！我會帶你參觀的。","不過有一點，請不要觸碰任何東西。你看，我們曾經遇到過偷竊的問題。","我知道你從未想過拿走任何東西，但不是所有人都值得信任。這點很令人不安…"]},
+{"op": "replace","path": "/scriptConfig/dialog/tonauac/start/default/default","value": ["哦！…一位遊客！","歡迎光臨神殿！很高興你能來到這裡。我是^orange;圖南瓦克^white;，神殿的守護者。","你是到這裡來瞭解我們不可思議的神明克魯西斯的嗎？我很高興能幫上忙！我會帶你參觀的。","不過有一點，請不要觸碰任何東西。你看，我們曾經遇到過偷竊的問題。","我知道你從未想過拿走任何東西，但不是所有人都值得信任。這點很令人不安…"]},
 {"op": "replace","path": "/scriptConfig/dialog/tonauac/continue/default/default","value": ["請進！小心你的頭，還有你的腳，還有你…自己。這裡可能會有點危險。"]},
 {"op": "replace","path": "/scriptConfig/dialog/tonauac/maskDescription/default/default","value": ["這些儀式面具都非常古老，並灌注有克魯西斯的永珍之力。我們是這麼認為的。","它們如此古老以至於我們有些對它失去了線索…但是我們敢肯定克魯西斯是個儀式面具的大粉絲！"]},
 {"op": "replace","path": "/scriptConfig/dialog/tonauac/altarDescription/default/default","value": ["這是我們的祭祀神壇。它相當經典。這些貫其全長的凹槽引導著血液。","這座神殿是克魯西斯親自建造的其中一座。","天啊！他真是既無所不能又不可思議，不是嗎？"]},

@@ -6,4 +6,4 @@
 { "op" : "replace", "path" : "/glitchDescription", "value" : "細心。這裡至少有406塊碎玻璃。"},
 { "op" : "replace", "path" : "/humanDescription", "value" : "看起來某人得到了七年厄運，但幸好這個人不是我！"},
 { "op" : "replace", "path" : "/hylotlDescription", "value" : "只有在憤怒的驅使下才能造成這樣的破壞。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "我能在剩餘的碎片中看到自己扭曲的映象。"}]
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我能在剩餘的碎片中看到自己扭曲的鏡像。"}]

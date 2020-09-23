@@ -1,6 +1,6 @@
 [{ "op" : "replace", "path" : "/description", "value" : "簡單的長椅。除了一點，長椅的腿兒被緊緊地釘在地上。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "監獄長椅"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "長椅，比想象的要舒服的多。"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "長椅，比想像的要舒服的多。"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "比較舒適的金屬長凳。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "葉族人不介意坐坐坐在這兒一會兒。"},
 { "op" : "replace", "path" : "/glitchDescription", "value" : "細心。一張比較舒服的長凳。"},

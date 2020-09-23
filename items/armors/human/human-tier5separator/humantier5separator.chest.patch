@@ -1,2 +1,2 @@
-[{ "op" : "replace", "path" : "/description", "value" : "維奧合金讓這個胸甲難以想象地堅硬。"},
+[{ "op" : "replace", "path" : "/description", "value" : "維奧合金讓這個胸甲難以想像地堅硬。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "冒險者胸甲"}]

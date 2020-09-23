@@ -4,6 +4,6 @@
 { "op" : "replace", "path" : "/avianDescription", "value" : "不是一個誘人的睡處。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "一個生生生鏽的床。"},
 { "op" : "replace", "path" : "/glitchDescription", "value" : "厭惡。鐵鏽！"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "我無法想象這個床曾經看上去不錯。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我無法想像這個床曾經看上去不錯。"},
 { "op" : "replace", "path" : "/hylotlDescription", "value" : "這個床鏽得無法修復。時間會終結一切。"},
 { "op" : "replace", "path" : "/novakidDescription", "value" : "你得很累很累才能在這睡著。"}]

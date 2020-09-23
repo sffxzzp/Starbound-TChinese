@@ -4,6 +4,6 @@
 { "op" : "replace", "path" : "/avianDescription", "value" : "這個鑼的形狀意味著它的聲音不太對。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "葉族人砸砸砸鑼，但它響響響地不令人滿滿滿意。"},
 { "op" : "replace", "path" : "/glitchDescription", "value" : "沉思。雖然其形態損害了音色，但卻保證了美觀性。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "蓮葉狀的鑼，我能想象出它在禮品店裡的畫面。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "蓮葉狀的鑼，我能想像出它在禮品店裡的畫面。"},
 { "op" : "replace", "path" : "/hylotlDescription", "value" : "如此巧奪天工，只惜不可觸弄。"},
 { "op" : "replace", "path" : "/novakidDescription", "value" : "用於發出極大噪音的器具，我沒法告訴你這是為了啥…"}]
