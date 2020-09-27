@@ -1,10 +1,12 @@
 {
   "author" : "StarCore Localization Team",
-  "description" : "[b]To English users: This is a Simplified-Chinese mod, Almost all text in game would be changed.\nIt may possibly affect your save file, So think TWICE before you decide to subscribe.[/b]\n\n[h1]Supports only 1.4.4[/h1]\n\n[h1]About:[/h1]\nMade by StarCore Localization Team.\nNow almost all text has been translated.\nNeed to install a Chinese-Font mod first.\n\n[h1]Usage (Read [b]BEFORE[/b] Subscribe)：[/h1]\n1.Need to install a Chinese-Font mod first, click [url=https://cdn.jsdelivr.net/gh/sffxzzp/Starbound-Chinese@fonts/StarCore/StarCore.pak]here[/url] to download.\n    mirror link 1    http s://www.lan zous.com/b644634\n    [url=https://www.jianguoyun.com/p/DZcYbQgQoMcDGKLI6QE]mirror link 2[/url]\n    [url=https://1drv.ms/f/s!Aml90vgiMULbhjup0TdAGjho8ILl]mirror link 3[/url]\n    [url=https://github.com/sffxzzp/Starbound-Chinese/releases/download/StarCore-Font/StarCore.pak]mirror link 4[/url]\n2.Subscribe this mod.[h1](though i think you shouldn't since you are not a native chinese speaker.)[/h1]\n3.[b]Start Starbound game from Steam.[/b](Start the game directly will not load workshop mods)\n\n[h1]ChangeLog:[/h1]\nSee [url=http://steamcommunity.com/sharedfiles/filedetails/changelog/807695810]here.[/here]",
-  "friendlyName" : "[StarCore Localization Team] Traditional Chinese Mod (zh_TW)",
+  "description" : "[b]To English users: This is a Traditional-Chinese mod, Almost all text in game would be changed.\nIt may possibly affect your save file, So think TWICE before you decide to subscribe.[/b]\n\n繁體中文模組，使用 OpenCC 工具藉由簡體中文版轉換而來，使用方法與簡體版一致。\n由於使用工具轉換，可能仍存在有一些問題。\n遊戲內部分界面圖片由於暫時未有美工，所以當前仍然使用簡體版圖片。",
+  "friendlyName" : "[StarCore Localization Team] Traditional Chinese Mod (zh_Hant)",
+  "link" : "steam://url/CommunityFilePage/2240879531",
   "name" : "TChinese",
   "priority" : -9999,
   "requires" : ["base"],
+  "steamContentId" : "2240879531",
   "tags" : "User Interface",
-  "version" : "V108_190913_07"
+  "version" : "V108_200927_07"
 }
