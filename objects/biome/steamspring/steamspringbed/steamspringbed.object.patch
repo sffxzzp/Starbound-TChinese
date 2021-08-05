@@ -1,5 +1,5 @@
 [{ "op" : "replace", "path" : "/description", "value" : "一張用管道結構支撐的舒適的床。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "蒸汽春天床"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "蒸汽彈簧床"},
 { "op" : "replace", "path" : "/apexDescription", "value" : "這床使用了回收的黃銅管道作為骨架―一種節約資源的做法。"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "這張奇特的床上的銅管，在陽光下閃閃發亮。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "葉族人暈暈暈了。這床為什麼要用管管管子做出來呢？"},

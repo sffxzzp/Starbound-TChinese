@@ -1,5 +1,5 @@
 [{ "op" : "replace", "path" : "/description", "value" : "一張精心製作的桌子，裝飾有黃銅管。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "蒸汽春天桌"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "蒸汽彈簧桌"},
 { "op" : "replace", "path" : "/apexDescription", "value" : "桌上的黃銅管子一定讓它非常堅固。"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "黃銅管和木質桌面組合起來很協調。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "葉族人想想想知道如果打到了管管管子上會不會弄出很大的聲聲聲音來。"},
